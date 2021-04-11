@@ -1,0 +1,100 @@
+\documentclass[12pt,oneside]{memoir} 
+\usepackage[latinica]{matfmaster}
+\usepackage[latinica]{pangrami}
+
+% Datoteka sa literaturom u BibTex tj. BibLaTeX/Biber formatu
+\bib{Master_rad}
+
+\autor{Ljubica Peleksić}
+\naslov{Klasifikacija obolelih od Alchajmera}
+\godina{2021}
+
+\mentor{doc. dr Jelena Graovac, profesor\\ Univerzitet u Beogradu, Matematički fakultet}
+
+%TODO Dodati clanove komisije i datum odbrane
+\komisijaA{clan komisije}
+\komisijaB{clan komisije}
+\komisijaC{clan komisije}
+\datumodbrane{}
+
+% Apstrakt na srpskom jeziku (u odabranom pismu)
+\apstr{%
+% TODO Dodati apstrakt
+}
+
+
+% Ključne reči na srpskom jeziku (u odabranom pismu)
+\kljucnereci{klasifikacija, Alchajmer, NLP}
+
+\begin{document}
+
+% ==============================================================================
+% Uvodni deo teze
+\frontmatter
+% ==============================================================================
+% Naslovna strana
+\naslovna
+% Strana sa podacima o mentoru i članovima komisije
+\komisija
+% Strana sa posvetom (u odabranom pismu)
+% TODO Dodati posvetu
+\posveta{Tati}
+% Strana sa podacima o disertaciji na srpskom jeziku
+\apstrakt
+% Sadržaj teze
+\tableofcontents*
+
+% ==============================================================================
+% Glavni deo teze
+\mainmatter
+% ==============================================================================
+
+% ------------------------------------------------------------------------------
+\chapter{Uvod}
+
+Ovo je rečenica u kojoj se javlja citat \cite{PetrovicMikic2015}.
+Još jedan citat \cite{GuSh:243}.
+
+% ------------------------------------------------------------------------------
+% ------------------------------------------------------------------------------
+\chapter{Podaci}
+
+U svrhu poredjenja, pored podataka o osobama obolelim od demencije tipa Alchajmer, bili su potrebni i intervjui sa nedementnim starijim osobama. Intervjui sa osobama obolelim od Alchajmera su sakupljani u obliku video i audio zapisa koji su prikupljeni od osoba koje su koristile usluge dnevnog boravka za obolele od Alchajmera u Novom Sadu, jedine takve ustanove u Srbiji organizovane od strane Udruženja građana Alchajmer. Ovi intervjui su bili prikpljani tokom grupnih razgovora sa obolelim. Intervjui sa nedementnim starijim osobama su prikupljeni zahvaljujući višse od 20 volontera studenata Biološkog fakulteta u Beogradu, krajem 2017. godine i u toku 2018.
+Svaki intervju treba da bude zapisan na dva načina i to kao originalan u kome je svaka reč napisana tačno onako kako je izgovorena, uključujući ponavljanja, nedovršene reči, greške u izgovoru, i drugi u kome su ispravljene sve greške u izgovoru. Originalan zapis se koristi u metodama mašinskog učenja koje nisu predmet ovog rada. Drugi zapis, sa ispravljenim greškama, se koristi u leksičkim analizama, te predstavlja izvor podataka u ovom radu.
+
+Informacije su zapisivane po definisanom protokolu koji ubraja sledeće:
+
+\begin{enumerate}
+\item Intervju sa jednom osobom se nalazi u datoteci koja nosi ime te osobe
+\item Ime obolelog se označava vitičastim zagradama 
+\item Pitanje postavljeno od strane osobe koja vodi intervju se označava uglastim zagradama
+\item Koristi se UFT-8 kodna shema i latinica
+\item Koriste se slova sa dijakriticima (č, ć, š, đ,…)
+\item Pauze između izgovorenih reči se zapisuju odgovarajućim brojem crtica, gde svaka crtica predstavlja jedadan sekund pauze
+\item Brojevi se zapisuju sa crticom izmedju, ako su višecifreni brojev
+\end{enumerate}
+
+% ------------------------------------------------------------------------------
+
+% ------------------------------------------------------------------------------
+% 
+% ------------------------------------------------------------------------------
+\literatura
+
+% ==============================================================================
+% Završni deo teze i prilozi
+\backmatter
+% ==============================================================================
+
+
+% ------------------------------------------------------------------------------
+% Biografija kandidata
+\begin{biografija}
+  \textbf{Ljubica Peleksić} (\emph{Beograd,
+    18.  novembar 1993.}) 
+	Ljubicina biografija
+\end{biografija}
+% ------------------------------------------------------------------------------
+
+
+\end{document}
