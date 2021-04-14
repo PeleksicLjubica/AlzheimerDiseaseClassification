@@ -1,0 +1,482 @@
+﻿[Kako je Vaše ime?]
+{Nadežda}
+Staniš Nadežda.
+[Staniš Nadežda?]
+{Nadežda}
+Da.
+[Dobro, i koliko imate godina? Danas Vam je rođendan?]
+{Nadežda}
+__Danas mi je osamdeset-pet._Malo.
+[Malo? Jeste, malo je. Koje je mesto Vašeg rođenja?]
+{Nadežda}
+Moje mesto rođenja je, ovaj,_Zaječar. 
+[Zaječar?]
+Da. Nije baš Zaječar, ali pišite Zaječar, to je Miličev oko Zaječara. Da, Zaječar, svejedno.
+[Dobro, a da li ste još negde živeli, ili?]
+{Nadežda}
+Živela sam u Beogradu pedeset godina, pedeset u inostranstvu. Ne, u stvari bih onda imala sto godina. U inostranstvu sam pedeset, a ovo sve ostalo u Beogradu. 
+[A u kojim mestima u inostranstvu?]
+{Nadežda}
+_U inostranstvu to je, _ovaj, ako Vam je poznato, Bodensko jezero, ali od Bodenskog jezera ima još par kilometara, to je Dorbirn. Foralberk. Pišite Foralberk._____Dorbirn.___Austrija.__Tamo sam predeset godina_živela, al sad koje sam godine otišla, jel to treba?
+[Pa ne morate to, ne morate...]
+{Nadežda}
+Ne, ne mora.
+[A gde Vam je od svih tih mesta bilo najlepše za život?]
+{Nadežda}
+_Beograd.
+[Beograd?]
+{Nadežda}
+Pa nego.
+[I pored Austrije Beograd?]
+{Nadežda}
+Pa ja sam iz Beograda otišla za Austriju.
+[Pošto uglavnom kažu da je van bolje.]
+{Nadežda}
+Ko kaže? Bolje je možda, ne, ja sam za vreme Tita i odrasla u, ovaj, u Beogradu i, ovaj, u stvari rođena sam u Srbiji jedno vreme, ali sam odrasla u Beogradu i tamo mi je najbolje bilo! A u Austriji nije bilo loše, radila sam, i bilo je puno Jugoslovena, posle nije, tako, otišli su svi, ostarili, šta ja znam, ovaj, nije mi bilo loše u  Austriji. Imala sam lepo mesto kao_tekstilni_tehničar. A inače sam završila tehničku školu_arhitektonski odsek.__A, ovaj, a tamo sam radila kao_tekstilni tehničar_na, ovaj, katalozima, koje smo slali za, pravili kataloge sa raznim dezenima i slali za inostranstvo. To možete da napišete, ovaj...
+[Znači to Vam je struka, Vi ste tekstilni tehničar?]
+{Nadežda}
+_Da. Pa nisam ovde tehnički, ovde sam završila građevinsku tehniku, a tamo sam radila kao_tekstilni tehničar, pišite to. Pedeset godina, da.
+[Jel ste samo to radili ili ste još nešto radili?]
+{Nadežda}
+Ništa nisam radila, to sam radila.
+[Znači to?]
+{Nadežda}
+Da. A radila sam kao tekstilmalerin, to je isto u vezi tekstila, ovaj mal, ali sam, nas četiri, ja sam bila jedina Jugoslovenka, jer sam imala gimnaziju i šta ja znam, ovaj, mal, ali sam sa tušem, ovaj,_na jednom,_kao ovako valce neko, i tu smo malali mustre, pa se to preslikavalo na platno. Tekstilmalerin. E, to pišite.
+[Dobro...]
+{Nadežda}
+To se može tako.
+[Mhm, znači završili ste srednju gimnaziju i onda ste išli u...]
+{Nadežda}
+Potpunu realnu gimnaziju sam završila, i onda sam, dva razreda tehničke imam, i to sam napustila i udala se i_deset godina u braku i razvela se i otišla u inostranstvo.
+[Dobro...]
+{Nadežda}
+Sad, šta je najbolje da napišete?
+[Pa ništa, ja ću samo zabeležiti šta ste, u koju ste školu išli i šta ste radili, nije važno što niste...]
+{Nadežda}
+Pa, napišite tehnička škola.
+[Dobro, dobro.]
+{Nadežda}
+Ovaj, bio je arhitekonski odsek.
+[Mhm, dobro. A da li ste imali neko muzičko obrazovanje, da li ste pevali ili ste...]
+{Nadežda}
+Pevala sam, pevala sam, i imala sam folklorni, ovaj,_kulturno-umetničko društvo Abrašević,_to sam_učestvovala u tome.
+[Baš lepo, a instrument neki niste...]
+{Nadežda}
+I do dvanaest godina sam igrala balet ovako, u školi što su organizovali, i to. Instrumente ne, pevanje samo.
+[Doobro]
+Pevanje i...
+[Dobro, a kojom rukom pišete, levom ili desnom?]
+{Nadežda}
+Desnom.
+[Desnom.]
+{Nadežda}
+Ali služim se i levom, levom ne pišem, ali skoro sve radim levom, samo desnom pišem. 
+[Dobro, dobro. A jel govorite neki strani jezik?]
+{Nadežda}
+Govorim nemački i ruski. Ali ne ruski perfektno, znam ruski učila sam u školi, a nemački govorim prilično dobro. 
+[Da...]
+{Nadežda}
+Pošto sam pedeset godina tamo. 
+[Da, znači nije toliko težak da...]
+{Nadežda}
+Nemački? Ne. Za mene nije bio uopšte težak. Francuski mi je teži nego_nemački. Nemački sam puno naučila od televizije i radila sam, samo sam ja bila jedina, kao tamo tehnički taj_malerin koji smo pravili mustre, ja jedina Jugoslovenka. Jer on pita i onda šta imaš od škole ovo ono i onda te ubace tamo gde treba. 
+[Dobro, da li volite da čitate knjige?]
+{Nadežda}
+Jao. Nego šta. Ja kad sam ovde živela, ja sam samo čitala, i romane i,_ovaj kriminalne sam volela da čitam, a tamo sam čitala naše dnevne listove, nemački, ovaj, roman nisam mogla, samo dnevne listove nemačke i to sam sve mogla da pročitam. I da razumem i razumem nemački i sve,_ovaj,_ne književno, dijalekat tamo govore, ali više književno razumem, jer ja sam_svima rekla da književno razgovaraju sa mnom nemački, jer tako najviše razumem. A oni imaju dijalekte svoje tamo.
+[Da, da...]
+{Nadežda}
+Razne dijalekte,_da. 
+[Dobro, a pored knjiga, koja su još neka Vaša interesovanja?]
+{Nadežda}
+__Koje su knjige? 
+[Pored knjiga, da li imate još neka interesovanja, neki hobi?]
+{Nadežda}
+Imala sam štrikanje najviše, i gledanje u šolju. Ha ha, u crnu kafu! A štrikala sam, i čitam, i čitala sam puno naše ovaj, dnevne listove, znači, romane nisam, imala sam neke hrvatske romane, to sam čitala, ali čitala sam i nemački dosta. Nemačke dnevne listove.
+[I ovde kad ste završili, ili samo tamo?]
+{Nadežda}
+Ne, ovde ne čitam ništa nemački. Ovde ima jedna Švabica dole na_ovaj prvom spratu, Gizela, s njom govorim nemački. Ali otkad me bole kolena toliko, pre manje su bila, ovaj, ne silazim dole. I nemam kontakt stvarno, a s njom sam govorila nemački. Sa tom Gizelom. 
+[Da. Znači čitate knjige i štrikate, s njom ste pričali, jel imate još neki hobi, ovako ili?]
+{Nadežda}
+Oh, crtanje. Crtanje, priroda i, ovaj, prirodu sam najviše volela da crtam. 
+[Mhm, Vi ste baš umetnički.]
+{Nadežda}
+Da,_to sam crtala sa uspehom. I u školi i pisala sam, ovaj, slobodne sastave mnogo dobro. Ovaj, kad imamo slobodne sastave iz srpskog jezika, prepričavamo nešto, neki film ili neku knjigu ili nešto, to sam perfektno svojim jezikom prenela. 
+[Mhm, niste hteli nikad da se bavite tako nečim?]
+{Nadežda}
+Pa,__nisam imala_uslova za to. Otišla sam u Nemačku, u Austriju, i ovaj, tamo sam u tekstilnoj fabrici radila na, ovaj, mustrama, mi smo pravili kataloge za_Englesku, za, ovaj_Holandiju i šta ja znam, kataloge, i tu se_ovako mustre iseku na nekoj mašini, i tako da sam ja pravila te kataloge sa raznim tim dezenima. To sam pravila.
+[Dobro, to i jeste neka vrsta...]
+{Nadežda}
+To je, ovaj beruf, kako bih rekla, zanimanje. 
+[Da, Vi ste otišli...]
+{Nadežda}
+Napravi, pa možete da napišete tekstilni, ovaj_eh,_kako biste to napisali_sa dezenima...
+[Tekstilni dizajner ili?]
+{Nadežda}
+Pa tako, kao tekstilni dizajner, mustre sam sastavljala i, ovaj, lepila na kataloge pa smo slali za Nemačku i tako, raznovrsne mustre od ovoliko, to je tu oko dvanaest centimetara, pa, pa do šest. Opet centimetara onda katalog ima na kome ja te, ovaj, dezene lepim, to je ovako debelo i to se šalje za inostranstvo, a oni su kupovali kod nas tamo u toj fabrici gde sam ja radila, materijale. Izaberu šta hoće po tim katalozima. Znate šta je katalog, to...
+[Da da da, pa dobro to je i dalje...]
+{Nadežda}
+Da. Pa sad, kako ćete da napišete...
+[Umetnost, niste otišli u nauku... Jel Vas zanima nauka ili?]
+{Nadežda}
+_Pa ne znam koje vrste mislite nauka. Pa zanimao je me nemački, nemački sam naučila, ovaj, pošto sam ja ruski učila tu, a nemački sam tamo savladala preko televizije i nemački vrlo dobro govorim.
+[Mhm, a ovako biologija, hemija?]
+{Nadežda}
+Pa biologija me je zabavljala dok sam išla tu u gimnaziju, i srpski jezik najviše. Sastave i srpski jezik. Peticu sam uvek imala iz srpskog, biologija me zanimala, isto. I šta me je zanimalo_crtanje. Crtala sam jako lepo__pa crtala sam i likovna, a crtala sam i prirodu najviše. Prirodu, kuće, drveće, šume, lišće, ono za, jesen, proleće, cvetiće poo livadi i tako. 
+[A Vas puštaju ovde da imate neko malo dvorište, ne znam kako to zbog kolena, da li možete da izađete?]
+{Nadežda}
+Pa, uh, pa ovaj zimi ne i sad ne mogu da idem, ovaj, slabo u poslednje vreme, a sad za leto, čula sam da tu ima napolju dvorište neko, e sad valjda će me izvesti neko da malo prošetam i tako. Jer, teško se krećem i vidite kako su mi dali sobu sa ovim stepenikom, to ja, i rekla sam Božani, kaže mi ćemo to da sredimo, ali ima već_mesec dana od kako to,__kako teško ide, mislim, ovo je dobar dom, a i nije za mene. A i nije, znate, zato što, nemam ja uslove one, koji bi, ja bih se mogla isto sada da bavim crtanjem, da malo crtam da malo sastave pišem, jako sam dobro pisala sastave. Izmišljam iz glave. Jednostavno jednu pesmicu ja izmislim iz glave ili priču. I to se rimuje onako, sve je super, pesmica se rimuje, a priče, tako kako_ja sastavim to.
+[To biste mogli i ovde nekako da, ne znam...]
+{Nadežda}
+Pa nemam uslova. Treba da mi se donese i sveska i olovke, a mogu da crtam, volim da crtam i crtala sam jako puno, ovaj, ali kad, nemaš uslova. Crtala sam jako lepo prirodu, a i likove sam crtala. Kad sam bila u gimnaziji. Potpunu realnu sam završila. Dok je Tito bio. 
+[Pa šteta, mogli bi malo knjige da Vam donesu, ili neke papire, olovke, bojice...]
+{Nadežda}
+Pa ko će ovde, jao, verujte, sad neka ostane među nama, nema tu neke organizacije, ili da vas pitaju za nešto, ni šta hoćete, ja moj sin je rekao, pitala je Božana, ovaj, šta ona, njen hobi, on kaže crtanje i gledanje u šolju, u kafu, a crtanje me, likove sam crtala i prirodu jako lepo. I likove, tačno nacrtam, moju drugaricu kakva je bila, a prirodu sam crtala jako lepo. I bojice, sastave i sve. Što se tiče te umetnosti kako ću ovo da kažem, u to doba. U moje doba. 
+[A šteta onda što niste mogli da...]
+{Nadežda}
+Pa šteta, otišla sam za inostranstvo i ovaj, tamo sam se zaposlila_u fabrici tekstilnoj, gde sam radila kao tekstilmalerin. Ovaj donesu nam neko valce i tuš od,_ovaj__jednog milimetra do pet i onda, ovaj, na tom što peku oni te mustre, to je okruglo, zovu ga valce, rund, i to sam dopunjavala...
+[Kako ide?]
+[Okej je sve...]
+[Sigurno?]
+[Sigurno.]
+[E, dobro.]
+{Nadežda}
+I ovaj...
+[Nataša? Treba pomoć?]
+{Nadežda}
+Ne, nikako!
+[Nikako.]
+{Nadežda}
+Ovaj, i to sam dopunjavala, dodala cvet, dodala list, dodala, ovaj, celu mustru, na primer fali ovo parče ovako celo ili ovo iz sredine, onda ja imam, dobijem, ovaj, nacrt, tamo, koji gledam odande i onda dodajem na to i onda oni preslikavaju na platno, koje ide da se peče i_na platno koje posle izlazi platno za prodaju. Ovaj, drukovana, kako ću da se izrazim, ne znam više srpski mnogo dobro, ovaj, to je bio, drukeraj neki, gde smo mi dobijali, ovaj_crtež. Na tom crtežu, ovaj, samo skice. Tako da sam ga ja razradila, na primer ako je, ovaj, neka mustra za štof, ili ova cela mustra, onda dodaješ šta fali, ovo fali ili fali ovo i to tu dodajem. Po nacrtu koji sam dobila. I onda prenose na ovaj, to pečeno, ovaj, jedan krug, valce se zove, i onda prenose na platno. Prvo se to ispeče, pa onda se platno obavija i onda se, drukeraj se zvalo to.
+[Dobro, a što se tiče...]
+{Nadežda}
+Uf, jao.
+[Sad ko za inat ovo...]
+{Nadežda}
+Ovo svako jutro, popodne svako. Da ja ne mogu da se odmorim. Šta rade gore...
+[Nadam se da će da se čuje normalno.]
+{Nadežda}
+Da.
+[A što se tiče muzike, jel volite da slušate muziku?]
+{Nadežda}
+Bila sam u kulturno-umetničkom društvu Abrašević._Četiri godine, ili pet, to sam igrala, to me intresovalo, ovaj, ta_folklorna grupa.___I u horu sam pevala.
+[U toku škole ili ovako nešto?]
+{Nadežda}
+U toku škole u horu, a kulturno-umetničko društvo isto u,_igrali smo ovaj narodne igre, igre Srbije i davali, priredbe i tako.
+[A koju ste muziku voleli da slušate u mladosti?]
+{Nadežda}
+Najviše sam volela, ovaj,_kako se zove, šlagere. Šlagere sam volela i džez muziku. To sam volela. i šlagere najviše.
+[A sad, jel isto to ili se nešto promenilo?]
+{Nadežda}
+Pa gde da slušam ovde? Ovde nema ništa. Izvinite, neka ostane među nama, ali tamo ima grdnje. I to kad je novo, onda napadnu na mene dok su me malo upoznali, dok ovo... Malo,_valjda im se odvajam od ovih ostalih_dirigencija ili kako, neka sam ja, sad da se ja hvalim, razumete, ali to se odmah_oseti.
+[Da...]
+{Nadežda}
+Da_da.
+[Dobro...]
+{Nadežda}
+Ovaj, i sad me interesuje i sada čitam ovu, ovaj, dnevnu štampu, ovaj, naše listove, Bazar i_ne znam, sin mi je doneo__gde su te, da li ih, Vi sedite na njima ili tako, ja ne...
+[Nadam se da ne, nije, ovde nema ništa.]
+{Nadežda}
+Nema. Gde su?__Gde su, neko mi je uzeo.
+[Možda su u nekim fiokama ili nešto...]
+{Nadežda}
+Ne, ne ne, uzeo mi je neko.
+[Aha, imate ovde nešto.]
+{Nadežda}
+Jel ima?
+[Ovo?]
+{Nadežda}
+Pa da. Ima to, i ovo i Treće oko, i sad ovo, Arsen_a to sam čitala još kao, ovaj gimnazijalka, i, kao_ranije,_volela sam da čitam kriminalne romane, to mi je bilo u duši. I, ovaj, dnevnu štampu na primer, ovaj,  Ženski list...
+[Blic žena i...]
+{Nadežda}
+Da, ženski__Blic žena, onda ovo i ima još par listova, ženskih koje sam ja volela_da čitam dok sam bila ovde. A tamo sam kupovala jedno vreme je bilo, ovaj_šta_bilo, neki naš list je bio i posle više nisu_donosili iz Beograda._Nismo dobijali. U početku je bilo i romana i svega, sad je_ostao samo jedan roman, Tamo moja istina.__Hrvatski neki, ovaj_roman, to se u sveskama.__U nastavcima. Piše moja istina. Da_jedna_mlada žena, opisuje njene doživljaje, njen život i tako. I to sam čitala. Čitala sam, naše sportske, ovaj_listove za_ono,_kako se zove,_ono dok je bio rat, dok je bilo_pomozite mi reći__Borba, Borba je dolazila, i dolazio je još_jedan, ovaj__Svet, list se zove Svet. Ovo, to sam kupovala redovno, i_Borbu sam kupovala, i ovaj, još jedan list je bio, ovaj_Horoskop._To što je bilo naše, a na nemačkom jeziku,_ovaj, samo dnevnu štampu. Romane nisam čitala, jel treba prevesti to...
+[Da, to je malo komplikovanije...]
+{Nadežda}
+Sam dnevne listove, dnevnu štampu uvek uzimala.
+[Dobro, a ovde u domu kako Vam je, jel ste zadovoljni, malopre ste naveli neke...]
+{Nadežda}
+Da Vam kažem nisam zadovoljna. 
+[Niste...]
+{Nadežda}
+Ali to nemojte nikom da pričate. Nisam zadovoljna, zato što su_bezobrazne ove mlade sestre, drske su, donese lek, samo ovako baci, ne kaže ni izvolite ni hvala ni doviđenja niti ništa, kad je pitam kad me boli glava i treba mi, ovaj, kako se zove_jel Vi morate to da pišete?
+[Ne ne ne, neću...]
+{Nadežda}
+Ovaj, kako se_kad me boli_nešto treba mi aspirin a ovaj, ona dođe i kaže ovako: a šta ja treba sada da radim? Kažem ja sam Vas zvala da mi donesete_tabletu za_glavu, ili tablete za bol ovaj. Ona dođe bez toga, a samo kaže a šta sad ja treba da radim? Pa to je za mene drskost. To su ove mlade ovde. To je jedino, to je, Božana je prijatna i prijatna je...
+[To je ova sad što je bila?]
+{Nadežda}
+Da, i prijatna je, ova, ovaj_ova što_kuvarica je prijatna, i prijatna je ova_bila je tu sada, mlada jedna__ja je zovem Kanarinac, ona je prijatna. Ona_donese nekad ručak_nekad kuvarica donese, jao kako se zove ona, ovaj___snež... Ne znam kako...
+[Mi smo samo Božanu videli, nismo videli ostatak, pa ne znam. Pa dobro, mislim...]
+{Nadežda}
+_Da pitam ovu...
+[Pa ne morate, ne morate, mislim meni je...]
+{Nadežda}
+Ne, meni je važno da zapišete koja je, ovaj, vrlo, ovaj_pa_kako Vam, da_Vam kažem...
+[Koje su dobre, a koje ne, prijatne...]
+{Nadežda}
+Ponaša se prijatno.
+[Mhm, dobro...]
+{Nadežda}
+O, kako se zove_ovaj_____Pa ne znam, jel treba da zapišete ime?
+[Pa ne mora, znači Božana Vam se dopada i ta još jedna?]
+{Nadežda}
+Božana i, ovaj, ova što je bila sad_jel je bila tu?
+[Mi smo samo nju videli, Božanu.]
+{Nadežda}
+Božanu.
+[Dobro, dobro, to je okej, a jel imate ovde u domu neka druženja ovako?]
+{Nadežda}
+Znaš kako, momentalno zaboravim_Druženje? Teško. Idem kod ove Slovenke, ona je vrlo fina gospođa, s njom malo porazgovaram, ali ove_druge__nisu baš tako_sa mnom_ne vole da kontaktiraju, zato što nemaju šta da pričaju u mom_žanru_o_kako da Vam kažem, nego_pričaju tamo levo nešto, šta su sve uradile, kako su radile, ne znam ovo ono, mene to ne interesuje.
+[Da. A ovako...]
+Čekajte, ko je_ima neko, Božana. Hoćete da otvorite vrata, ne mogu da ustanem, ako je Božana da je pitam samo, kako se zove ova_e i ova mlada još jedna,_ovaj___pitaću ja nju, zna ona. Znate_momentalno tako kad_se zbunim, ja sam se sad malo zbunila sa tim pitanjem, onda zaboravim.
+[Pa dobro, dobro, nekad je generalno ljudima teško da zapamte imena, posebno kad ih ima više...]
+{Nadežda}
+Pa nije, znate šta ovde ih ima puno. 
+[Da...]
+{Nadežda}
+A pošto sam ja imala taj poremećaj,_pala sam tamo u Austriji, poremetila glavu, to se sad vratilo a mi... Ajde! Ja?
+[Završili?]
+[Nismo završile, ali...]
+{Nadežda}
+Kako se zove ova prijatna, što mi donese_, ne kuvarica, i kuvarica je prijatna, nego ova druga_ova što_ima prijatan glas, ja je zovem Kanarinac?
+[Ne znam. Do kog pitanja ste stigli?]
+[Pa tu smo pri kraju, ali mnogo je pohvalila Vas i sad pokušava da se seti još te jedne...]
+{Nadežda}
+E e ovaj, kuvarica je  predivna, i ovaj...
+[To je pitanje o zaposlenima?]
+_Tamara je dobra, Tamara je dobra i ovaj...
+[Dobro. Nataša jel se Vi tačno držite pitanja koja ste pitani?]
+{Nadežda}
+Tačno.
+[Pa da, idemo po tim pitanjima...]
+[Dobro, mislim odgovarate na to pitanje, ne idete u, od Kulina Bana?]
+{Nadežda}
+Ma ne.
+[Dobro, ajde sad, koje je sledeće pitanje?]
+[Pa pitala sam da li ima neka druženja koja se ovde organizuju, ovako na...]
+[Da. Nataša nam je ovde koliko već?]
+{Nadežda}
+__Pa ima mesec i više.
+[Mesec i više. Ovaj, tako da, sad imamo za Novu godinu, spremamo program, bili smo dugo u radovima nekim, ne znam koliko je Nataši topoznato, s obzirom da je novi korisnik, ovaj tako da nismo imali nešto preterano...]
+{Nadežda}
+A, čula sam_dole nešto...
+[...Ali množete dole kad se Vi dobro osećate da prošetate i slično. Jel tako?]
+{Nadežda}
+Samo ako me neko dole spusti, jer ja sama pre, nisam ni pre išla sama, a kamo li sama...
+[Dobro.]
+Ja uopšte ne silazim više dole.
+[Znam.]
+{Nadežda}
+A pre sam silazila. Posle, ovaj...
+[Samo u okviru sprata druženje.]
+{Nadežda}
+Da. A posle sam, pa, šta ima tu Vera i ova, ovaj gospođa mnogo fina, Jozefina_i Milica, ali sa Jozefinom sam najviše ovako_u kontaktu.
+[Da. Tako je. Dobro. Koje je sledeće pitanje?]
+[Pa, što se tiče članova Vaše porodice, da li imate decu, unučiće?]
+{Nadežda}
+Pa imam jednog jedinog sina predivnog, i jednog jedinog unuka predivnog. E. A sestru imam, ona je, nisam je videla trideset godina, bliznakinja, ona živi u Smederevu, nisam je videla trideset godina, ona već dvadeset godina nepomična leži u krevetu, sin organizuje_sestre da je paze i tako.
+[Ona je obolela od demencije, jel tako?]
+{Nadežda}
+Ja sam bliznakinja.
+[Nataša, jel ona obolela od demencije? Ili sam pomešala?]
+{Nadežda}
+Ne.
+[Ne?]
+{Nadežda}
+Ne. Ona nije, ovaj, ona samo_ne može da ustaje...
+[Samo je nepokretna?]
+{Nadežda}
+_Ne može da ustaje, i ovaj,__ne voli da priča puno koliko ja nju nisam videla, trideset godina...
+[Dobro.]
+{Nadežda}
+A sa sinom njenim sam se čula, mama kaže, ovaj samo voli da priča i, kad ja nazovem, kaže, ovaj, to je opterećenje neko, retko smo se i čuli sa njenim sinom više, ali ona leži u krevetu i dolazi sestra, da je okupa i da je pripremi...
+[E dobro, pričajte sad malo ukratko o sinu i o unuku.]
+{Nadežda}
+Sin mi je predivan čovek, divan, završio je ovaj,__kako se zove_
+[Kako se zove sin?]
+{Nadežda}
+_Babić Nebojša. Studirao je__kako se zove_jaoj_
+[Za šta je završio?]
+{Nadežda}
+Za__jao, vidi____
+[Koji fakultet?]
+{Nadežda}
+__Nije poljoprivredni, nego,_kako se zove...
+[Veterina?]
+[Prirodno-]
+{Nadežda}
+Matematički.
+[A unuk?]
+{Nadežda}
+A unuk je, ovaj, isto prirodno-matematički.
+[Informatiku?]
+{Nadežda}
+Informatiku. Unuk i radi i_imam divnog unuka i divnog sina i sve evo ja sam obolela šta da... Došla sam iz Austrije ovde, bolje da sam tamo ostala. I da sam umrla tamo._Pedeset godina živela i tako. Meni je sve ovde_još uvek_novo, još uvek nepoznato, još uvek_me nisu prihvatili kako treba, zato što_pitala sam ovu_Mariju, Marija se zove. Ona kaže pa Nataša, reko malo si bila gruba, Vi ste joj skrenuli pažnju...
+[Pa to mi je posao.]
+{Nadežda}
+I to, kaže pa dok smo, navikli na tebe. A ja kažem šta, pa sad smo navikli, sad, sad sve super.
+[Da. Izlizali ste se što bi rekli. Dobro. E, znači to je, od Vaše familije ste naveli sve članove.]
+{Nadežda}
+_Pa, članove, sestra, sa njom nisam je videla, pedeset godina je nisam videla maltene i ovaj_blizankinje smo. Inače,_Nebojša, sin moj, i unuk, oni su mi najbliža familija, a kao familija mi je Mirijana. 
+[To je kuma.]
+{Nadežda}
+Da. To mi je...
+[Mnogo su bliske.]
+{Nadežda}
+Danas se javila, i, bila je bolesna, prehlađena, pa će da me obiđe, i tako, sutra mi je, ovaj danas mi je rođedan, ali sutra će doći snaja...
+[Proslava.]
+{Nadežda}
+Doći će snaja...
+[Aa, lepo.]
+{Nadežda}
+Da. I doći će, i ovaj, Nebojša_će doći, i malo će biti tortice, jel ste Vi tu?
+[Tu sam.]
+{Nadežda}
+Da. Ovaj_rekla sam da ponesu one_kartonske, male, tako da počastim Vas i da počastim Jozefinu, i ovaj...
+[I moraćemo neku fotografiju da odradimo, ja ću morati da kažem...]
+{Nadežda}
+Pa kako ću ja...
+[...Da Vas srede.]
+{Nadežda}
+Pa čekajte ko će da me sredi?
+[Srediće Vas, samo bez plakanja. Srediće Vas sestra neka. Ja ću sutra da nađem koja je tu...]
+{Nadežda}
+Čekajte, ali...
+[Kad, u koliko sati oni dolaze?]
+{Nadežda}
+Pa_morate Nebojšu da pitate.
+[Nebojšu da pitam u koliko sati dolazi?]
+{Nadežda}
+Da.
+[Dogovoreno. Ajde da nastavite sa odgovorima. Izvinite sad...]
+{Nadežda}
+Dobro, hvala.
+[Malo sam vam upala.]
+{Nadežda}
+Ništa, meni ne smeta ako Vama ne smeta.
+[Ne, ne, to je, pa to je to, jedino što moram da Vas pitam, za nacionalnu pripadnost?]
+{Nadežda}
+Pa_Srpkinja, Jugoslovenka. Jel pišemo Jugoslovenka ili pišemo_kako pišemo sada? Jugoslovenka.
+[Dobro.]
+{Nadežda}
+Pa, Srpkinja. 
+[Dobro, možda smo mogli sad da...]
+{Nadežda}
+Ja sam Srpkinja po narodnosti, a Jugoslovenka.
+[Dobro. Možda bismo mogli sad da iskoristimo dok je Božana tu, ali nema veze, ovaj, malo su možda pitanja onako ličnija, ali...]
+{Nadežda}
+Pa pitajte sve! Ne, sve.
+[Dobro, pa da li imate neku hroničnu bolest, ovako, van, da li srce, pluća?]
+{Nadežda}
+Ne. Kad sam imala devet godna imala sam upalu pluća to me je prošlo to nema ništa, e ovaj,_hroničnu bolest nemam, nekad me bole_krsta, to je normalno, i ovaj, nekad glava, i to što sam pala pre jedno, dva meseca, e tako, možda i tri malo, mi je bio poremećaj u glavi, zaboravljala sam, sada više ne_sada mi je normalno, kolko ja osećam.
+[Znači sve ovako je okej, nemate ništa?]
+{Nadežda}
+Kolena me bole, imam artrozu. U kolenima i slabo idem. To možete da napišete. Artroza. Artroza znate Vi šta je to?
+[Da,da.]
+{Nadežda}
+To je srž u kolenima nema više i onda_ne mogu da hodam_teško hodam.
+[A jel pijete neku terapiju?]
+{Nadežda}
+Pa pijem, ja ne znam šta oni meni daju ovde. Pijem za malokrvnost, to znam. Za nesvesticu, to je to, valjda malokrvnost, i ovaj____to smo mogli da pitamo ovaj...
+[Pa dobro mogu ja nju da pitam...]
+{Nadežda}
+Ovu dole_da pitate.
+[A pijete za spavanje nešto ili?]
+{Nadežda}
+Pijem, tabletu uveče za spavanje i pijem ovaj_tabletu za malokrvnost.
+[Mhm. A pritisak ili tako nešto?]
+{Nadežda}
+Pa, lekar je bio danas, kaže_pritisak je dobar.
+[Dobro. Pa to je otprilike to, ne znam da li Vi imate još nešto dodatno da kažete?]
+{Nadežda}
+Pa imam tu nesvesticu, znate što, ovaj, to je malokrvnost. A on kao meni daje neke_ja sam u Austriji primala krv svakih šest meseci primaju krv i onda mi je super. Tamo su, zbilja, nema tu šta imaju sve. A ovde ko će meni krv da da? Ovde, čujem na televiziji stalno pričaju_da skupljaju krv za_druge operacije i to, a tamo sam ja dobijala svakih šest meseci krv, i dobila sam gvožđe. E sad ovde dobijam neke tablete, pa mi stolica nije u redu zbog tih tableta. Za gvožđe.
+[Da, da, znam da se to daje...]
+{Nadežda}
+Tamo mi ništa nije falilo. Baš mi je bilo dobro. I_dobijala sam redovno, krv. Primala ovaj, svakih_možda tri meseca ili šest meseci, tako, kako, po potrebi._Zato što sam anemična.
+[A što ste se Vi vratili iz Austrije? Jel zbog toga što ste glavu udarili ili?]
+{Nadežda}
+Ja se nikada ne bih vratila iz Austrije, nikad. Verujte mi. Nikad. Jer ovde,_zbilja koliko ja znam, ne znam za Vaše mlade_kako je to, ali_zemlja bez jednog_finog reda_tamo sam imala lekara koji se brinuo o meni, poslao me kad sam trebala krv da primim,_došla sam to kad sam pala i udarila glavu, i onda nisam mogla više sama da budem, onda su me dve_mlade žene ovaj,__preko preko mog lekara i socijalnog, šta ja znam kako poslali su me tu. Tu, da_prvo sam bila kod te kume, 10 dana i onda su me, ovaj, moj sin se interesovao za taj dom. Tako da sam sad u tom domu. E sada__da Vam kažem, nije med i mleko, normalno. Ali,_kao moj sin je izabrao najbolji dom. E sada u početku su se drale na mene, i vikale, i šta ja znam na šta sam im ja ličila, ja nemam rogove na glavi, ali sam, valjda, neku inteligenciju veću davala od svih ostalih, tako da su me gledale kao_rogove u vreći. Sad su se malo navikle na mene__to ostaje među nama, ne mora ovaj_nisam ja to rekla ovaj, Božani. Nikad. E sad, bila sam dole među onim babama, i ja sam baba, ali ono su totalne babe. I one su dementne, a ja nisam dementna. Onda sam, ovaj, bila u ovoj sobi ali sam silazila dole trebalo mi je malo ljudi da vidim i onda kad sam ja videla da tu nema pomoći, nemam ja s kim šta da razgovaram i to, to sve priča nešto_
+[Da.]
+{Nadežda}
+O vasioni...
+[Ne mislite da su vaš nivo, mislim nisu obrazovane i nisu...]
+{Nadežda}
+Ne ne ne, što obrazovanja, što se tiče, nego su dementne. Ne totalno, ima neko, neko može da se izabere s kim dve-tri reči možeš da progovoriš, ali odmah, okreće se na_nešto što nije povezano. Tako da sam ja_ovaj pobegla ovde, i sad imam tu Slovenku, ona je_jedna fina gospođa.
+[To je soba ovde pored?]
+{Nadežda}
+Da, ova__kako se zove?__Pravou_vidiš, zaboravljam_Jozefina. Jozefina,_i ta neka baka, isto_ovaj, sigurno mi je, ovaj,_moje godište, ali_ja za moje godine ne izgledam da imam osamdeset-pet. Danas mi je osamdeset-pet. Znate. Ali, osećam__opet da nije ono što je bilo._Što_zaboravljam, ali ne kao pre kad sam pala i udarila glavu, sad_ne zaboravljam tako i, znam šta radim, znam šta jedem, znam_šta čitam,_znam_da pozovem sestru, znam sve_što se tiče toga._Ali meni treba neka zanimacija, ja ne mogu da stalno čitam jedno isto, ovaj, ovaj_dnevni list neki ili nešto, sad ima taj roman, Arsen, to sam čitala još kao_u srednjoj školi i u osnovnoj školi, i to, al sad_ponavljam, nešto tako_nije mi toliko interesantno, ali eto tek da nešto pročitam.
+[Da.]
+{Nadežda}
+Ja, i ovaj, imam ovo mi sin donosi. E sad i treba novi list neki da_zaboravila sam da mu kažem da mi donese, to sam već pročitala dva puta_prelistala.
+[Jel Vas često posećuju ili?]
+{Nadežda}
+Molim?
+[Jel Vas često posećuju?]
+{Nadežda}
+Pa, sin, ovaj kad treba, bila sam kod zubara, onda je često dolazio, radi. On je, ovaj, završio tu, ovaj, Višu turističku, i radio je_mala plata i tako, onda je, položio za taksistu i sad, kao taksista radi. 
+[Zar niste rekli da je Prirodno-matematički završio? Ili je to samo gimnazija?]
+{Nadežda}
+_Ovaj_to je unuk.
+[Aha, unuk.]
+{Nadežda}
+Unuk. A, moj sin je završio_ovaj, gimnaziju i_
+[I Višu turističku.]
+{Nadežda}
+Da. 
+[Dobro. Pa dobro, to je generalno to...]
+{Nadežda}
+A on radi sada kao taksista. To mu je najunosnije. Moj sin. Teško mu je, i meni plaća taj_dom, a da ja imam neku penziju, iz Austrije, to nije tako puno,_ali ovde se plaća više. Imam nekih petsto eura, a to je malo. Ovde plaćamo, preko šezdeset hiljada. Ja mislim. Imaju i lekovi neki ako treba i, kad me je vodio kod zubara, sve je on to platio. Meni su izvađeni ovi napred zubi svi i,_ovaj dole, dva su ostala. Ovo napred sve to je proteza. I to je sve platio on.___Šta da radim kad_tako. A moja penzija nije dolazila na vreme___Šesto eura. Pa sad čujem da su poslali, a sad, kad će da podigne on to ja ne znam. Jedna ta moja prijateljica rekla je da je ona išla u banku i oni su rekli da su poslali. 
+[Dobro.]
+{Nadežda}
+I sad time on plaća ovaj dom. Nema on para da plati od njegovih para, jer on ovaj__dok je studirao unuk,_on je finansirao sad_ja mislim da tri godine_kako unuk radi kao informatičar. Sad malo tu_Ali moj sin radi puno. Unuk plaća_Imaju taj stan što je ostavio moj_pokojni muž. Bivši, _jer sam ja bila razvedena, i taj stan, ali komunalije se plaćaju, to je, kod Galenike, ovaj, naselje Crna udovica se zove to naselje, kod Galenike je. Lepo je naselje i to, i lep je stan i tako. To je, ovaj, rekli ste mom sinu._A on će valjda njegovom sinu da prepiše.
+[Pa dobro, mi smo znači uglavnom rekli sva pitanja koja bi trebalo ovako. Ne znam da li imate još nešto dodatno, da li biste se setili nekih lepših događaja...]
+{Nadežda}
+Pa ne znam u vezi čega?
+[U mladosti, da li ste voleli neke igranke...]
+{Nadežda}
+Pa igrala sam u folkloru, ja. Ja sam igrala, ovaj_četiri-pet godina u folkloru, išli po Srbiji i tako, to sam volela mnogo.
+[Jel ste putovali često ili?]
+{Nadežda}
+Pa, išli smo, ovaj, više u Beograd, više u Beograd, ovaj, onda_kako se zove, Kragujevac, Kragujevac,_Novi Sad,_i__u_ovaj,_kako se zove ova lepa banja?__Na glasu je ta banja.
+[Vrnjačka Banja?]
+{Nadežda}
+Vrnjačka Banja. Da. 
+[A ovako, van Srbije, sem Austrije?]
+{Nadežda}
+Pa bila sam u Švajcarskoj, bila sam, ovaj, jedan deo Austrije, te njihove republike i to.
+[A volite ovako, mislim jel ste voleli da putujete?]
+{Nadežda}
+Volim, mnogo sam volela da putujem. Volela sam da putujem. Mi, ušli smo u te horove, u kulturno-umetničko društvo Abrašević, davali priredbe... Ja? Evo.
+[To je to otprilike.]
+[Jel ste završili?]
+{Nadežda}
+Pa jesmo, skoro jel?
+[Pa da, mislim ja sam pitala da li postoji neka hronična bolest, sem anemije i antroze...]
+{Nadežda}
+Artroze, da.
+[...Nema ništa. Lekovi za anemiju, za spavanje...]
+[Malo je bila anksioznost, i prosto velika je promena, neko ko je živeo pedeset godina u Austriji, da je došao u Srbiju, posle toliko godina i da je došao u dom. Tako da to nije neka patologija, svako bi doživeo stres.]
+{Nadežda}
+Mnogo sam imala, ovaj, tegobe.
+[Da. Znam.]
+{Nadežda}
+I sad što imam to...
+[Tako da je ona i dalje u adaptaciji.]
+{Nadežda}
+Ovu artrozu imam, i to mi sve više i više u poslednje vreme, čak preskačem ove jedne, ne znam kako ćemo da napravimo...
+[To ćemo u sredu, svima sam rakla, ne brinite, možda ćete čak i menjati sobu, ali ne smem ja da Vam to obećam. Ako se ukaže jednokrevetna za Vas.]
+{Nadežda}
+A neću dva kreveta. Samo jedan.
+[Znam, samo jedan. Nemamo prosto trenutno...]
+{Nadežda}
+To bi mi smetalo za glavu, razumeš.
+[Razumem, savršeno.]
+{Nadežda}
+Možda bi...
+[Glava joj je u pitanju ipak.]
+{Nadežda}
+E sad ovo preskakanje ovog, to mi smeta.
+[Dobro]
+{Nadežda}
+Dobro.
+[Ima li još nekih pitanja na koja nije odgovorila?]
+[Nema, to je to.]
+[To je to, odlično.]
