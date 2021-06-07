@@ -1,5 +1,5 @@
 {Steva}
-A ko je to izračuno.
+A ko je to izračunao?
 
 {Steva}
 Ja sam bio kurir.
@@ -30,7 +30,6 @@ Nema to u Resavici.
 
 {Steva}
 Tu ne postoji grupa odvojena da su samo rudari.
-
 
 {Steva}
 Ne, kakvi do penzije daleko.
@@ -81,14 +80,13 @@ Ljudi.
 Svi ljudi.
 
 {Steva}
-Sutrašnji dan je l' da?
+Sutrašnji dan, je l' da?
 
 {Steva}
 A znate koji grad se još zove Novi Sad zvanično i svi to prihvataju?
 
 {Steva}
-Novi Sad se zove, isto i ovaj grad isto. Ja se čudim kako Novi Sad kada imamo
-već jedan Novi Sad? Kaže - ja živim u tom gradu.
+Novi Sad se zove, isto i ovaj grad isto. Ja se čudim kako Novi Sad kada imamo već jedan Novi Sad? Kaže - ja živim u tom gradu.
 
 {Steva}
 Gde u Šangaju?
@@ -121,10 +119,10 @@ I nije bitno koliko novca ima ili nešto slično, ako je usamljen.
 Nije mali.
 
 {Steva}
-Da u Bosni je najgori rat bio u Opštaju.
+Da, u Bosni je najgori rat bio u Opštaju.
 
 {Steva}
 Pa da.
 
 {Steva}
-Da šta pale oni.Jao.
+Da šta pale oni. Jao.

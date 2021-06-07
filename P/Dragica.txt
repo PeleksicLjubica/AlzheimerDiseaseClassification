@@ -1,5 +1,5 @@
 {Dragica}
-Šta da šta šta kažem?
+Å ta da Å¡ta Å¡ta kaÅ¾em?
 
 {Dragica}
 Kako se zove.
@@ -8,23 +8,22 @@ Kako se zove.
 Pa Dragica se zovem.
 
 {Dragica}
-i ?
+I?
 
 {Dragica}
 Ime i prezime, Bajic Dragica Bajic Mile i eto tako.
 
 {Dragica}
-__cerka___
+__Ä†erka___
 
 {Dragica}
 _nije.
 
+{Dragica}
+__Å ta?
 
 {Dragica}
-__Šta?
-
-{Dragica}
-Zašto dolazimo ovde?
+ZaÅ¡to dolazimo ovde?
 
 {Dragica}
 Pa dobro...

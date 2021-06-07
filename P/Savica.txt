@@ -1,38 +1,35 @@
 {Savica}
-Da
-{Savica}
-Savica Vasiljev
+Da.
 
 {Savica}
-Da
-
-{Savica}
-__I imam_
-
-{Savica}
-Cerku moju dragu.
+Savica Vasiljev.
 
 {Savica}
 Da.
 
 {Savica}
-Luce malo, malo_da.
+__I imam_.
+
+{Savica}
+Ćerku moju dragu.
+
+{Savica}
+Da.
+
+{Savica}
+Luče malo, malo_da.
 
 {Savica}
 Gordana...
 
 {Savica}
-Cerka da...
+Ćerka da...
 
 {Savica}
-_Ana
+_Ana.
 
 {Savica}
-Ana. Ana je stra�na.
-
-
-
-
+Ana. Ana je strašna.
 
 {Savica}
-isto tako.
+Isto tako.

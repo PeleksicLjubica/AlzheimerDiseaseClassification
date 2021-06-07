@@ -11,7 +11,7 @@ Da. I svoju boju popecao i onda otišao.
 Ma kakav glavni.
 
 {Tanasije}
-To se bolje pamtit.
+To je bolje pamtiti.
 
 {Tanasije}
 Šta će biti?
@@ -227,4 +227,4 @@ I tako je on primio Božji.
 Ali od gazdarice popio svo mleko, sva jaja pojeo.
 
 {Tanasije}
-Od gazdarice popio svo mleko, jaja sva pojeo, a ljuske ljuske gurnuo u bure.
+Od gazdarice popio svo mleko, jaja sva pojeo, a ljuske gurnuo u bure.

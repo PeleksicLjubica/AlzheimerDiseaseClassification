@@ -154,9 +154,11 @@ Kod?
 Da da.
 
 {Maca}
-I po kosi ti
+I po kosi ti.
+
 {Maca}
-Svi narandžasti
+Svi narandžasti.
+
 {Maca}
 Da.
 
@@ -206,8 +208,7 @@ Mornara?
 Da.
 
 {Maca}
-Fudbalom.
-Kažem ja da mi tu imamo fudbalski tim.
+Fudbalom. Kažem ja da mi tu imamo fudbalski tim.
 
 {Maca}
 Imali smo loptu, i to onu krpenu.

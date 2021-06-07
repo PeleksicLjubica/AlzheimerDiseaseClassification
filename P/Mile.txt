@@ -1,32 +1,48 @@
-{Mile }
+
+{mile}
 Sunce si pomračila. Zima.
-{Mile}
+
+{mile}
 Ja. Ja.
-{Mile}
+
+{mile}
 Ja.
-{Mile}
+
+{mile}
 Ima vremena.
-{Mile}
+
+{mile}
 Ima ih svakakvih...
-{Mile}
+
+{mile}
 A to bi bila velika tragedija.
-{Mile}
-Tragedija velika._Al neće do toga doći.
-{Mile}
+
+{mile}
+Tragedija velika._Ali neće do toga doći.
+
+{mile}
 Neće doći.
-{MILE}
+
+{Mile}
 Pa ko ima dobar podrum...
-{Mile}
+
+{mile}
 U potragu?
-{Mile}
+
+{mile}
 A u podrum.
-{Mile}
+
+{mile}
 Pa da.
-{Mile}
+
+{mile}
 Njegova ćerka?
-{Mile}
+
+{mile}
 Prvo, drugo i treće.
-{Mile}
+
+{mile}
 Pa da.
-{Mile}
+
+{mile}
 Ne zna.

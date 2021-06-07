@@ -35,7 +35,7 @@ Ne, sada pa ja...
 Dvadeset-prvo.
 
 {Tanasije}
-Ja sam stanovo u jednoj sobi, dnevnoj, i on je posle_spavao i video mene__i onako belocrkvanjski opalio mene, da me ne vidi, nećeš me videti više.
+Ja sam stanovo u jednoj sobi, dnevnoj. I on je posle_spavao i video mene__i onako belocrkvanjski opalio mene, da me ne vidi, nećeš me videti više.
 
 {Tanasije}
 Jutros.
@@ -44,7 +44,7 @@ Jutros.
 Molim?
 
 {Tanasije}
-Pa taj Belocrkvanin._Ja sam... Nije bio najbolji... tako da smo tu bili u... I sad on_Videću ja tebe.
+Pa taj Belocrkvanin._Ja sam... Nije bio najbolji... Tako da smo tu bili u... I sad on._Videću ja tebe.
 
 {Tanasije}
 Nisam.
@@ -62,9 +62,7 @@ ___Na gimnastici, na____
 Jesam.
 
 {Tanasije}
-Ja sam muško, moram.
-I evo sad operišu, u pedes-sedam godina operišu mi rak, ja odlazim na posao iz bolnice, i odlazim svaki dan na hemoterapiju i vraćam se na posao, i odlazim na zračenje, vraćam se na posao i na pijaci sretnem koleginicu, kaže znaš šta ima novo umro Vlajko jedan koji je radio, a nije bio bolestan. Mislim_to je priča.
-Treba se borite, to je priča.
+Ja sam muško, moram. I evo sad operišu. U pedeset-sedam godina operišu mi rak, ja odlazim na posao iz bolnice, i odlazim svaki dan na hemoterapiju i vraćam se na posao, i odlazim na zračenje, vraćam se na posao i na pijaci sretnem koleginicu. Kaže znaš šta ima novo umro Vlajko jedan koji je radio, a nije bio bolestan. Mislim_to je priča. Treba se boriti, to je priča.
 
 {Tanasije}
 ...Ja moram...
@@ -73,16 +71,16 @@ Treba se borite, to je priča.
 Da.
 
 {Tanasije}
-Pa, pa tako sam ja u mislima onako blesavim, da mislim_da moram da mu se osvetim, pa on je hteo da, noge da mi polomi.
+Pa tako se ja u mislima onako blesavim, da mislim_da moram da mu se osveti. Pa on je hteo noge da mi polomi.
 
 {Tanasije}
-Pa ja,_moj, pa ja sam išao__rukama, golman sam bio.
+Pa ja, _moj, pa ja sam išao__rukama, golman sam bio.
 
 {Tanasije}
 Ma on...
 
 {Tanasije}
-_Gurnem ja njega, a on jao... Ja se malo ošamutio, a onaj je ostao ležeći. Krvave noge, pravo u mene. Mokar sam išo.
+_Gurnem ja njega, a on jao... Ja se malo ošamutio, a onaj je ostao ležeći. Krvave noge, pravo u mene. Mokar sam išao.
 
 {Tanasije}
 Da.
@@ -94,7 +92,7 @@ Nema tu pošteno, tu je...
 Da, da.
 
 {Tanasije}
-Ne, ali je, ceo krug__protivnički, on će meni da dođe kraj, kraj glave. A on je izgubio nogu. Kolena isto, kolena.
+Ne, ali je, ceo krug__protivnički. On će meni da dođe kraj, kraj glave. A on je izgubio nogu. Kolena isto, kolena.
 
 {Tanasije}
 Da, da.
@@ -116,7 +114,7 @@ A on se meni podsmeva i maše, e nećes majku mu. To je ono najgore.
 Ja sam tako išao...
 
 {Tanasije}
-...Polomim mu desnu nogu, na kolenu, tako visi dole.
+Polomim mu desnu nogu, na kolenu, tako visi dole.
 
 {Tanasije}
 Pa to sam se...
@@ -140,7 +138,7 @@ Meni bilo žao. Polomljena cevanica, noga, i šta sad. Ja da se...
 Vratilo? To je vrhunac bio.
 
 {Tanasije}
-Deda se trgo jel da?
+Deda se trgao, jel da?
 
 {Tanasije}
 Da donesem vode.

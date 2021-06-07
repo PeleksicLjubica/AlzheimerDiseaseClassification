@@ -1,30 +1,44 @@
-{Mile}
+{mile}
 Da da.
-{Mile}
+
+{mile}
 A onda se i moja... Kako... Sve, slobodno.
-{Mile}
+
+{mile}
 Milana.
-{Mile}
+
+{mile}
 Ne. Nemam pojma, onda Mikica.
-{Mile}
+
+{mile}
 Da. Ali ne liči tako.
-{Mile}
+
+{mile}
 Deca?
-{Mile}
-Imam_ćerke.
-{Mile}
+
+{mile}
+Imam_ ćerke.
+
+{mile}
 Komadi, jedno.
-{Mile}
+
+{mile}
 Dobre, dobre su.
-{Mile}
+
+{mile}
 Jesu, neke.
-{Mile}
+
+{mile}
 Ne.
-{Mile}
+
+{mile}
 Šta?
-{Mile}
+
+{mile}
 Otkud ja znam.
-{Mile}
+
+{mile}
 Ako je unuka onda je...
-{Mile}
+
+{mile}
 Tako dođe.

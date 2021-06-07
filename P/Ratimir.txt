@@ -1,28 +1,29 @@
-﻿{Ratimir} Ratimir. Sedamdeset i osma godina.
+﻿{Ratimir} 
+Ratimir. Sedamdeset i osma godina.
 
 {Ratimir} Sadašnje?
 
 {Ratimir} Supruga Vesna i sin Filip.
 
-{Ratimir} Pa ja i što kaže, porodični način života i meni oni su izuzetno, izuzetna porodica, nemam šta.
+{Ratimir} Pa ja i što se kaže, porodični način života i meni oni su izuzetno, izuzetna porodica, nemam šta.
 
 {Ratimir} Pa, sin studira, Filip. Supruga je u penziji, domaćica, ne znam šta sve još.
 
 {Ratimir} Rođen sam u Ripnju.
 
-{Ratimir} desetog aprila, četrdeset-prve godine.
+{Ratimir} Desetog aprila, četrdeset-prve godine.
 
 {Ratimir} U Rakovici u Koloniji dvadeset-prvog maja, Stojana Jankovića šest a.
 
-{Ratimir} Ne razumem sad kako da odgovorim jebi ga...
+{Ratimir} Ne razumem sad kako da odgovorim, jebi ga...
 
-{Ratimir} Pa ih, jebi ga, što kaže i, i taj prvi brak i ne znam šta, da li to uopšte spominjati.
+{Ratimir} Pa ih, jebi ga, što kaže i, taj prvi brak i ne znam šta, da li to uopšte spominjati.
 
 {Ratimir} Ne znam bre i Rakovica. Rakovica, Miljakovac, Mirijevo, ponovo Rakovica, ne znam.
 
 {Ratimir} Rakovica.
 
-{Ratimir} Pa ja ne znam, ili dole u ili u Koloniji dvadeset-prvog maja ili u dole u Viševačkoj, jebi ga otkud znam.
+{Ratimir} Pa ja ne znam, ili dole u Koloniji dvadeset-prvog maja ili u dole u Viševačkoj, jebi ga otkud znam.
 
 {Ratimir} Mašinski tehničar.
 
@@ -30,9 +31,9 @@
 
 {Ratimir} Od početka.
 
-{Ratimir} Sve što je vezano za tehniku za mislim za domaćinstvo sve mogu, mislim to, tako sam što kaže nadaren da imam smisla za sve.
+{Ratimir} Sve što je vezano za tehniku, za mislim, za domaćinstvo sve mogu, mislim to, tako sam što kaže nadaren da imam smisla za sve.
 
-{Ratimir} Pa nema, samo taj posao uopšte što se tiče tehnike, mašinske obrade i šta ja znam.
+{Ratimir} Pa nema, samo taj posao uopšte, što se tiče tehnike, mašinske obrade i šta ja znam.
 
 {Ratimir} Vezano za šta?
 
@@ -60,6 +61,6 @@
 
 {Ratimir} Pa zato što se svodi priča na porodicu, na emotivnosti na događanja ovo šta se dešava u tako, o deci i to.
 
-{Ratimir} Pa nema šta dodatno, te interesuje porodična odrastao sam u porodici četvoro dece. Bio sam najstariji. Imao sam obaveze da pomažem majci, da s da čuvam decu i tako.
+{Ratimir} Pa nema šta, dodatno te interesuje porodična, odrastao sam u porodici četvoro dece. Bio sam najstariji. Imao sam obaveze da pomažem majci, da s da čuvam decu i tako.
 
 {Ratimir} Pa, majka nije radila, otac je jedino radio, što kaže, porodica sa šest članova. Otac je od jutra do mraka radio. Majka je oko nas, oko dece, brat i sestre bliznakinje i to je to.

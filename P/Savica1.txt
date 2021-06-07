@@ -1,12 +1,11 @@
 {Savica}
-Je l’ hoceš da me ženiš?
-Ne možeš ni ustati. Ajde hajde onda...ajde ajde ajde...da vidimo.
+Je l’ hoceš da me ženiš? Ne možeš ni ustati. Ajde hajde onda...Ajde ajde ajde...Da vidimo.
 
 {Savica}
-Ajde ovamo idemo ustat.
+Ajde ovamo idemo ustati.
 
 {Savica}
-Opa..opa...op op op..opa...pa šta vi mislite.
+Opa..opa...op op op..opa...Pa šta vi mislite?
 
 {Savica}
 E to ne ide tako, ne, ne. Hajde, hajde, opa ajde ajde ajde..
@@ -20,7 +19,6 @@ Ajde ne tako..ajde
 {Savica}
 Ma neka ga.
 
-
 {Savica}
 Opa...op opa.
 
@@ -30,16 +28,14 @@ To Miki..
 {Savica}
 Ajde
 
+{Savica}
+Hajde sada kažem hajde. Nema, nema ništa. Pu.. Da tražim drugoga. Hocemo tražiti drugoga?
 
 {Savica}
-Hajde sada kažem hajde. Nema, nema ništa.Pu..Da tražim drugoga. Hocemo tražiti drugoga?
+Ne.
 
 {Savica}
-ne.
-
-{Savica}
-Opa,nema veze.Opa,op ...nananana
-
+Opa,nema veze.Opa,op.
 
 
 {Savica}

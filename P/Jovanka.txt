@@ -5,7 +5,7 @@ ____Danas je sreda.
 Decembar decembar.
 
 {Jovanka}
-__Ja sam ti Bosanka
+__Ja sam ti Bosanka.
 
 {Jovanka}
 U Bosni.

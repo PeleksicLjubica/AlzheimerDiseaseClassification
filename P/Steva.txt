@@ -1,7 +1,9 @@
 {Steva}
 Da.
+
 {Steva}
 U Novom Selu.
+
 {Steva}
 Pa nije baš kod Kikinde...
 
@@ -16,24 +18,27 @@ I šta pita, šta kaže?
 
 {Steva}
 Iz?
+
 {Steva}
 Da.
+
 {Steva}
 A šta je?
 
 {Steva}
 A ja sam iz...
-{Steva}
-Firmi?
 
-Najviše__najveći radni staž mi je_Naftagas.
 {Steva}
-Pa radio sam u__Sarajevu malo_tu sam započeo.
+Firmi? Najviše,__najveći radni staž mi je_Naftagas.
+
+{Steva}
+Pa radio sam u__Sarajevu malo, _tu sam započeo.
 
 {Steva}
 _Kako da ne. Radio sam.
+
 {Steva}
-Moju struku radio sam.
+Moju struku sam radio.
 
 {Steva}
 Moja struka je geologija.
@@ -42,17 +47,20 @@ Moja struka je geologija.
 U Pančevu.
 
 {Steva}
-A to je sad teško...
+A to je sada teško...
 
 {Steva}
 Jesam.
 
 {Steva}
 To je to.
+
 {Steva}
 __Da da baš__dobro ste rekli, sitne duše.
+
 {Steva}
 Gde nije.
+
 {Steva}
 A nije masan.
 
@@ -63,7 +71,7 @@ ______E Milena...
 ...izbegao...
 
 {Steva}
-Pa niste Vi stari, šta oćete?
+Pa niste Vi stari, šta hoćete?
 
 {Steva}
 Još nemate belih na...
@@ -72,7 +80,8 @@ Još nemate belih na...
 Tehnička...
 
 {Steva}
-Onih dana je bilo kolko oćete.
+Onih dana je bilo kolko hoćete.
+
 {Steva}
 To je zločin.
 
@@ -98,7 +107,7 @@ __Budale budale.
 Pa ajde znaš.
 
 {Steva}
-Pa mi bismo-ja bi to organizovao_grupno._Napravio brigadu, recimo, ajde našao bih dvadeset mojih drugara, ajde idemo u akciju da se osvetimo tome i tome ili je on je kriv za to i to_život... poslušati... vrlo brzo.
+Pa mi bismo, ja bih to organizovao_grupno._Napravio brigadu, recimo, ajde našao bih dvadeset mojih drugara, ajde idemo u akciju da se osvetimo tome i tome ili je on je kriv za to i to._Život... Poslušati... Vrlo brzo.
 
 {Steva}
 A muško je jel?
@@ -113,7 +122,7 @@ Jesam.
 __Fudbal u...
 
 {Steva}
-A mogo sam da igram i ko__i odbojku i košarku.
+A mogao sam da igram i odbojku i košarku.
 
 {Steva}
 Al za fudbal sam_bio rođen.
@@ -129,6 +138,7 @@ Molim?
 
 {Steva}
 _____Šta ste rekli još?
+
 {Steva}
 A odbojku. A odbojku jeste.
 
@@ -143,6 +153,7 @@ Da ja moram da okrenem glavu_četrdeset-pet stepeni.
 
 {Steva}
 To je lep sport.
+
 {Steva}
 To je lep sport, odbojka.
 
@@ -157,18 +168,18 @@ Klinac?
 
 {Steva}
 Pa isto klavir.
+
 {Steva}
 Tata svira klavir.
 
 {Steva}
 I deca prihvatila.
+
 {Steva}
 Pa jeste. Pa ko će drugi, neće baba i deda.
 
 {Steva}
-Dobro, nemate dedu Vi, ima neko drugi.
-
-Ja sam samo_igrala odbojku.
+Dobro, nemate dedu Vi, ima neko drugi. Ja sam samo_igrala odbojku.
 
 {Steva}
 Dipli?
@@ -177,28 +188,38 @@ Dipli?
 Diple, diple.
 
 {Steva}
-Da izvolite.
+Da, izvolite.
+
 {Steva}
 O Svetom Nikoli?
+
 {Steva}
 Bogami, mogu da se obrukam.
+
 {Steva}
 Ne znam mnogo._Ne znam mnogo o svetom Nikoli.
+
 {Steva}
 Da.
+
 {Steva}
 Ne.
+
 {Steva}
 Moguće.
+
 {Steva}
 __Pa kad je rođen.
+
 {Steva}
 Ja...
+
 {Steva}
 Izvolite.
 
 {Steva}
 Od naroda, mislite od ostalih?
+
 {Steva}
 Ne, sem Srba nema. Kao narod...
 
@@ -209,7 +230,7 @@ Gde to, gde to?
 Pa da.
 
 {Steva}
-Svi koji su ovaj__bili_ma obični ljudi.
+Svi koji su ovaj__bili_, ma obični ljudi.
 
 {Steva}
 I verovali u...
@@ -217,9 +238,8 @@ I verovali u...
 {Steva}
 Ti ljudi koji su verovali u Boga i u svetinje Božije, oni su čuvali narod svoj. 
 
-
 {Steva}
 Zašto da ne?
 
 {Steva}
-I mi smo mogli s vama ženama, čini mi se, muškarci. i...
+I mi smo mogli s vama ženama, čini mi se, muškarci. 

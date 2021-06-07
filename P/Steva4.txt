@@ -11,7 +11,7 @@ Dece? Ja nemam nijedno. Moja žena imaa dvoje.
 Tako lepo.
 
 {Steva}
-Pa moraš nešto da...eskiviraš, nešto moraš.
+Pa moraš nešto da eskiviraš, nešto moraš.
 
 {Steva}
 Društvo bilo interesantno. Tako može i da ja... Žena ima, koliko sam reko da ima?
@@ -29,7 +29,7 @@ Ne.
 Nije niko kriv.
 
 {Steva}
-Ko je zaslužan e to već može, to sam zaslužan ja i moja žena zajedno.
+Ko je zaslužan, e to već može. To sam zaslužan ja i moja žena zajedno.
 
 {Steva}
 Ne.
