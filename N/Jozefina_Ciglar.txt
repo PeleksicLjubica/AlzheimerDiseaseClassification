@@ -1,65 +1,65 @@
 [E, pa da počnemo.Kako se zovete?]
-_Jozefina
+_Jozefina.
 
 [E,dobro.Koliko imate godina?]
- Osamdeset šest u iduće godine punim osamdeset sedam.
+Osamdeset šest i iduće godine punim osamdeset sedam.
 
 [Svaka čast.Gde ste rođeni?U kom mestu?]
- Gde sam rođena?
+Gde sam rođena?
 
 [Da,da.]
 U Sloveniji sam rođena.
 
 [U sloveniji? u kojem mestu?]
-Trbovi
+Trbovi.
 
 [Aha, nisam čuo.Mesto trenutnog prebivališta?]
- Prebivalište u domu.
+Prebivalište u domu.
 
 [A u domu ste.Gde ste živeli pre doma?]
-Pre doma sam živela sve__U Kostolcu,
+Pre doma sam živela sve__,u Kostolcu.
 
 [Aha]
- Pa sam živela u ___u Lazarevcu
+Pa sam živela ___u Lazarevcu.
 
 [Dobro.]
- Pa sam živela u Holandiji
+Pa sam živela u Holandiji.
 
 [U Holandiji, ozbilljno?]
- Da___i iz Holandije sam došla ovaj onda tu kod ćerke u_Aleksinac
+Da___, i iz Holandije sam došla , ovaj, onda tu kod ćerke u_Aleksinac.
 
 [Mhm ]
-tamo sam živela deset godina pošto sam bila već___kak kako da kažem kao i sada tako bespomoćno tako 
+Tamo sam živela deset godina pošto sam bila već___, kako da kažem, kao i sada tako bespomoćno tako. 
 
 [Da, da]
- takoreći nisam htela ja ovaj da mučim ćerku
+Takoreći nisam htela ja, ovaj da mučim ćerku. 
 
 [Aha,aha]
- i onda sam samostalno ovaj otišla u dom
+I onda sam samostalno ovaj otišla u dom.
 
 [A samostalno ste otišli?]
- da
+Da.
 
 [Dobro, to je lepo. Gde ste sve radili? Gde ste živeli. Gde ste sve]
-__ Mi smo živeli u Lazarevcu smo živeli dvadeset i nekoliko godina i onda smo otišli u Holandiju
+__ Mi smo živeli u Lazarevcu smo živeli dvadeset i nekoliko godina i onda smo otišli u Holandiju.
 
 [Aha]
- Bili smo deset godina ovaj u Kostolcu
+Bili smo deset godina, ovaj, u Kostolcu.
 
 [Aha, deset godina.]
- Tamo je moj otac bio premešten još posle rata odmah zato što nije tamo bilo radnika mislim stručnjaka i onda je ovaj_on pre premešten više mislim nije samo iz Bora iz više mesta
+Tamo je moj otac bio premešten još posle rata odmah zato što nije tamo bilo radnika, mislim stručnjaka i onda je , ovaj, _on pre premešten. Više mislim nije samo iz Bora, iz više mesta.
 
 [Mhm]
- premeštenih radnika,tako da sam ja došla u Kostolac
+Premeštenih radnika, tako da sam ja došla u Kostolac.
 
 [Pa dobro. Jeste tamo radili kao krojačica?]
- Ne, ne, ne ja sam tamo u školu išla
+Ne, ne, ne ja sam tamo u školu išla.
 
 [Aha, tamo ste išli u školu]
- a pošto nisam znala dobro srpski kad sam ovde došla to sam onda za krojačicu
+A pošto nisam znala dobro srpski kad sam ovde došla to sam onda za krojačicu.
 
 [Aha, aha]
- to mi je smetalo dosta za_htela sam da idem__mislim na kurs ili negde nešto da naučim srpski pošto nisam znala srpski
+To mi je smetalo dosta za_htela sam da idem__mislim na kurs ili negde nešto da naučim srpski pošto nisam znala srpski.
 
 [Da,da]
  i tako sam ja ono to završila

@@ -1,29 +1,44 @@
 [Recite mi Vaše ime I prezime.]
-Jovanka (_)Jovović]
+Jovanka _Jovović.
+
 [Koje ste godište Jovanka?]
-Četrdeset prvo godište(___)znači sedamdeset šest godina imam.
-Rođena sam(___)u Pirotu
+Četrdeset prvo godište___, znači sedamdeset šest godina imam. Rođena sam___u Pirotu.
+
 [I tamo ste živeli sve dok niste došli ovde?]
-Da(__)živela sam u Pirotu(__) u Beogradu sam završila osnovnu školu(__) udala sam se (__)I tu I ostala da živim sa mužem.
+Da,__živela sam u Pirotu__. U Beogradu sam završila osnovnu školu__, udala sam se __i tu i ostala da živim sa mužem.
+
 [Rekli ste da ste se udali, imate li dece?]
-Imam (___)dva sina, Iliju I Nenada(__)a oni obojica imaju po dva sina.
+Imam ___dva sina, Iliju I Nenada__, a oni obojica imaju po dva sina.
+
 [Kako Vam se zovu unuci?]
-(________)ne znam im imena svima.
-Sinovi Vam žive u Beogradu?]
-[___)da jedan da, ovaj( __)stariji, a drugi živi(___ )u inostranstvu sa svojom ženom(__)I decom, dolaze ovde u Srbiju(__) retko__,jednom u godinu dana.
+________Ne znam im imena svima.
+
+[Sinovi Vam žive u Beogradu?]
+___Da, jedan da, ovaj __stariji, a drugi živi___ u inostranstvu sa svojom ženom__i decom,. Dolaze ovde u Srbiju__retko__, jednom u godinu dana.
+
 [Da li govorite strane jezike?]
-(_______)ne, ali(___) moj sin zna(__)on govori na Engleskom(___) I( __)Francuskom.
-][Šta ste po struci?][______)po struci(___)ja sam domaćica___nisam nikad radila,(____)muž je dobro zarađivao,(__)a ja sam kod kuće ostajala sa decom(__)i vaspitavala ih.
+_______Ne, ali___ moj sin zna__, on govori na Engleskom___ I __Francuskom.
+
+[Šta ste po struci?]
+______Po struci___ja sam domaćica___, nisam nikad radila,____muž je dobro zarađivao,__a ja sam kod kuće ostajala sa decom__i vaspitavala ih.
+
 [Da li znate da pevate ili svirate neki instrument?
-[_________) Ne znam, nije me nešto to nikad zanimalo.
+_________ Ne znam, nije me nešto to nikad zanimalo.
+
 [A koju muziku ste ranije slušali I sad šta slušate? ]
-Pa(__)od muzike volim__da slušam  narodnu da narodnu  jedino, (___)I(____)slušam tako na muzičkim programima na televiziji što puštaju muziku slušam. Ali više gledam serije u slobodno vreme(__), ima jedna naročito koju volim(__) Porodično blago se zove, stalno je gledam, svako veče.]
+Pa__od muzike volim__da slušam narodnu. Da, narodnu jedino. ___I____slušam tako na muzičkim programima na televiziji što puštaju muziku slušam. Ali više gledam serije u slobodno vreme__. Ima jedna naročito koju volim__, Porodično blago se zove, stalno je gledam, svako veče.
+
 [Da li volite da čitate knjige?]
-(____)Ne čitam nešto baš(____) ne volim da čitam.
+____Ne čitam nešto baš____, ne volim da čitam.
+
 [Da li se družite u domu sa nekim?]
-(___)ne družim se ovde ni sa kim.]
+___Ne družim se ovde ni sa kim.
+
 [Da li ste levoruki?]
-Ne, (__) ja pišem desnom rukom.
-[Da li bolujete od nekih hroničnih oboljenja? ][____)Šećer imam jedino(_____)zato I ne smem jesti ništa slatko. A inače____volim da jedem ovako sve što mi daju, (____)samo to ne smem. 
-[Pijete neke lekove verovatno? ]
+Ne, __ ja pišem desnom rukom.
+
+[Da li bolujete od nekih hroničnih oboljenja? ]
+____Šećer imam jedino_____, zato I ne smem jesti ništa slatko. A inače____volim da jedem ovako sve što mi daju, ____samo to ne smem. 
+
+[Pijete neke lekove verovatno?]
 Da da da____pijem isto.
