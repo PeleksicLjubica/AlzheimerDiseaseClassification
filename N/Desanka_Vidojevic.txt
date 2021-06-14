@@ -1,117 +1,155 @@
 [Kako se zovete?]
 {desanka}
 Vidojević Desanka.
+
 [Koliko imate godina?]
 {desanka}
 Devedeset-četiri pune i devedeset-peta.
+
 [Super, super. Odakle ste?]
 {desanka}
 Odakle sam?
+
 [Da, da. Gde ste rođeni, mesto?]
 {desanka}
 U Ličkom Petrovom selu, Lika.
+
 [Lika?]
 {desanka}
 Da.
+
 [A jeste li tamo živeli ceo život ili?]
 {desanka}
 Ne, nisam, tu sam najmanje provela. Više sam provela u Bihaću,u Bosni. 
+
 [Znači, najviše ste proveli vremena u Bihaću? Je l’ Vas za to mesto vezuju najlepše uspomene neke ili za Liku?]
 {desanka}
 Pa ne znam kako da Vam kažem...
-Volonter:[Gde Vam je bilo lepše?]
+
+[Gde Vam je bilo lepše?]
 {desanka}
 Ipak ovde sam bila duže,u stvari, nisam ni tu bila duže. Udala sam se pa sam otišla i tako. Bila sam po više mjesta: u Sarajevu i Banja Luci i u Mostaru. Muž mi se preseljeavao i ja uz njega.
+
 [A znači imate muža?]
 {desanka}
 Molim?
-Volonter:[Udati ste?]
+
+[Udati ste?]
 {desanka}
 Da, bila pre nego što je on...
+
 [Da li imate decu možda?]
 {desanka}
 Imam jednog sina. On ima dva blizanca. 
+
 [Znate li možda kako se zovu?]
 {desanka}
 Ko?
+
 [Vaši unuci?]
 {desanka}
-Kako ne znam!  Aleksandar i Vladimir.
+Kako ne znam! Aleksandar i Vladimir.
+
 [A koliko oni imaju godina?] 
 {desanka}
-Pa imaju oni već  četrdesetu. Oženjeni su i imaju porodicu. 
+Pa imaju oni već četrdesetu. Oženjeni su i imaju porodicu. 
+
 [A šta ste Vi po zanimanju?]
 {desanka}
 Po zanimanju sam bila službenik dok sam bila mlađa. Posle kad sam se udala i rodila, napustila.
+
 [A koju ste školu završili?]
 {desanka}
 Završila sam nepunu srednju, zaposlila se. Tako je bilo vreme ono posle Drugog svetskog rata, znate, eto kako je to bilo. Nije se ni tražilo mnogo, tražilo se da radiš.
+
 [Bitno je da ste imali posao.]
 {desanka}
 Da.
-Volonter:[A koje jezike govorite? Govorite li samo srpski ili još neki?]
+
+[A koje jezike govorite? Govorite li samo srpski ili još neki?]
 {desanka}
 Samo srpski govorim.
+
 [Jeste li voleli da čitate knjige ranije?]
 {desanka}
 Molim?
+
 [Da li ste voleli da čitate knjige ranije?]
 {desanka}
 Jesam, dosta sam čitala, dosta.
+
 [A sada?]
 {desanka}
 Volela sam, a sada i ne vidim već.
-Volonter:[A šta ste voleli da čitate?]
+
+[A šta ste voleli da čitate?]
 {desanka}
-Znate, mladi vole ljubavne romane i tako, eto to. I volela sam da rešavam ukrštene , da se zabavljam i tako to. 
+Znate, mladi vole ljubavne romane i tako, eto to. I volela sam da rešavam ukrštene, da se zabavljam i tako to. 
+
 [Jeste li se umorili?]
 {desanka}
 Onako, jesam. Nisam dobro baš, nikako.
+
 [Je l’ bolujete od nečega?]
 {desanka}
 Molim?
+
 [Je l’ bolujete od nečega? Je l’ imate neku hroničnu bolest, poput visokog pritiska ili tako nešto? ]
 {desanka}
 Vidite,ne mogu da se maknem, mrdam. Ne znam ni ja koju imam. Imam nego šta. Bila sam i više puta i operisana.
+
 [Je l’ pijete možda neke lekove redovno, kao terapiju?]
 {desanka}
 Kao terapiju pijem  protiv pritiska. I još neke lekove, neke sam čak i odbila. Nemaju efekta.
+
 [Kakvu muziku ste voleli da slušate?]
 {desanka}
 Šta?
+
 [Kakvu muziku ste voleli da slušate? ]
 {desanka}
 Joj, koliko je sati sad?
+
 [Sati je deset sati i sedamnaest minuta.]
 {desanka}
 A dobro je. Treba mi baš od stresa slušam između jednaest i dvanaest. Volela sam muziku, više zabavne.
+
 [Je l’ se to sada promenilo? I dalje više volite zabavnu od narodne ili?]
 {desanka}
 Pa ne znam, volim više zabavnu. Nisam nešto za narodnu. Još ona ranije koja je bila. Još ovo sad, nešto ne. 
+
 [A da li ste pevali ikad ili?]
 {desanka}
 A volela sam,ako je za sebe, za kuću! *smeh* U društvu .Nisam se isticala.
+
 [Da li ste bili u nekom kulturno-umetničkom društvu? Poput folklora i slično?]
 {desanka}
 Pa nisam. Čekajte da se sjetim. Bila sam u onom horu školskom. Ono prije je bilo društvo „Soko“.
+
 [To dok ste bili u Bihaću ili?]
 {desanka}
 U Bihaću sam počela. Nisam se intezivno baš zabavljala tim.
-Volonter:[Kako Vam je ovde u domu? Je l’ se družite sa ostalima, organizujete neka okupljanja?]
+
+[Kako Vam je ovde u domu? Je l’ se družite sa ostalima, organizujete neka okupljanja?]
 {desanka}
 Ja?
+
 [Mislim, da li se okupljate, ne da Vi organizujete.]
 {desanka}
 Ma ne Ja iz kreveta ne idem uopšte. Nepokretna sam već pet meseci.
+
 [Pa dobro, popraviće se to, polako.]
 {desanka}
 Kakvi popraviti. Nema tu popravljanja.
+
 [Možda može da se popravi.]
 {desanka}
 Ne može to da se popravi, samo ide na gore.
-Volonter:[Hvala Vam, mi smo završili.]
+
+[Hvala Vam, mi smo završili.]
 {desanka}
 Molim.
+
 [Nadam se da Vam nisam oduzela puno vremena.]
 {desanka}
 Niste.

@@ -1,4 +1,4 @@
-﻿[ Kako se zovete? ]
+﻿﻿[ Kako se zovete? ]
 -Nikola Polovina.
 
 [ Koliko godina imate? ]
@@ -17,7 +17,7 @@
 - Zemun.
 
 [ Dakle i u Zemunu ste stanovali? ]
-- U Zemunu sam provo najlepših 10 godina , od šestaneste do dvadeset-šeste. Nakon toga sam se oženio i dobio decu.
+- U Zemunu sam proveo najlepših 10 godina , od šestaneste do dvadeset-šeste. Nakon toga sam se oženio i dobio decu.
 
 [ Koliko dece imate? ]
 - Sina, i  pokojnu ćerku, i pokojnu ženu. Stradale su u saobraćajnom udesu, ja sam dobio prelom kuka, ugradjena mi je veštačka proteza.
@@ -29,7 +29,7 @@
 -Učio sam tri strana jezika, ruski, nemački i engleski.
 
 [ Da li ste strane jezike upotrebljavali u komunikaciji ili je učenje bilo samo vezano za školu? ]
--Ruski sam znao, sličan je srpskom, a nemački sam skoro progovorio, engleski sam koristio kroz literaturu vezanu za sve o kompijuterima, pa sam učio tri kursa engleskog.
+-Ruski sam znao, sličan je srpskom, a nemački sam skoro progovorio, engleski sam koristio kroz literaturu vezanu za sve o kompjuterima, pa sam učio tri kursa engleskog.
 
 [ Čime ste se bavili , gde ste radili? ]
 - Ja sam završio zanat metalostrugara, pa su me poslali da budem pravnik, pa sam radio u Batajnici , pa sam radio u službenom glasniku, i u Bariču.
@@ -38,7 +38,7 @@
 -Ja sam završio ekonomski fakultet, radio sam u službi ekonomike.
 
 [Da li ste ikada svirali neki instrument? ]
-- Nisam, nisam ni pevao, žao mi je zbog toga. Ja sam bio u logru u Jasenovcu šest godina, pa su me vratili pošto je bio kraj rata četrdeset-četvrte godine, nisu nas smeli dirati, pa su nas poslai u Sisak u logog, tamo je poumiralo mnogo dece.
+- Nisam, nisam ni pevao, žao mi je zbog toga. Ja sam bio u logoru u Jasenovcu šest godina, pa su me vratili pošto je bio kraj rata četrdeset-četvrte godine, nisu nas smeli dirati, pa su nas poslali u Sisak u logor, tamo je poumiralo mnogo dece.
 
 [  Da li ste levoruki ii desnoruki? ]
 - Desnoruk.
@@ -62,16 +62,11 @@
 -Ne.
 
 [ Da li trenutno primate neku terapiju? ]
--Imao sam tumor na mozgu, pa sam onda dobio tumor na debelom crevu, pa sam šest puta operisao kuk tri puta na Banjici tri puta na VMA, a onda sam operisao bruh, i molio sam Boga kad god odem na anesteziju da se ne probudim ali sam se probudio nažalost.
+-Imao sam tumor na mozgu, pa sam onda dobio tumor na debelom crevu, pa sam šest puta operisao kuk, tri puta na Banjici, tri puta na VMA, a onda sam operisao bruh, i molio sam Boga kad god odem na anesteziju da se ne probudim ali sam se probudio nažalost.
 
 [ Zašto kažete nažalost? ]
 - Pre bi sve prošlo.
 
 [ Da li imate nešto da dodate o sebi? ]
 -Nemam ništa da dodam, hvala Vam što ste došli.
-
-
-
-
-
 

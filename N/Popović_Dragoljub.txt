@@ -1,69 +1,91 @@
 [Kako se zovete?]
-{dragoljub}
+{Dragoljub}
 Popović Dragoljub.
+
 [Koliko imate godina?]
-{dragoljub}
+{Dragoljub}
 Pa pedesete, sedamnaestog dvanaestog. Hiljadu-devetsto-pedesete.
+
 [Dobro, gde ste rođeni?]
-{dragoljub}
+{Dragoljub}
 Rođen u Šapcu, živim u Mrđenovcu.
+
 [Da li bolujete možda od neke hronične bolesti?]
-{dragoljub}
+{Dragoljub}
 Možda me je udario infarkt, malo šlog, to.
+
 [Infarkt i šlog ste imali?]
-{dragoljub}
+{Dragoljub}
 Pa da.
+
 [A visok pritisak ili nešto slično?]
-{dragoljub}
+{Dragoljub}
 Pa, dobro imam i visok pritisak i to.
+
 [Da li pijete neke lekove?]
-{dragoljub}
+{Dragoljub}
 Pijem lekove.
+
 [Pijete redovno lekove? Neku terapiju za pritisak?]
-{dragoljub}
+{Dragoljub}
 Redovno. Pa ja lekove pijem.
+
 [Mesto prebivališta sada?]
-{dragoljub}
+{Dragoljub}
 Pa Mrđenovac.
+
 [Da, Vi ste živeli tu ceo život.]
-{dragoljub}
+{Dragoljub}
 Celo vreme u Mrđenovcu. 
+
 [Pripadnost nacionalna?]
 {dragoljub}
 Pa Srbin.
+
 [Govorite li neki strani jezik?]
-{dragoljub}
+{Dragoljub}
 Ne govorim, ne govorim.
+
 [Da li ste desnoruki ili levoruki?]
-{dragoljub}
+{Dragoljub}
 Desnom rukom radim.
+
 [Po struci ste?]
-{dragoljub}
+{Dragoljub}
 Zemljoradnik.
+
 [Što se tiče muzičkog obrazovanja, jeste li nekad pevali, svirali nešto?]
-{dragoljub}
+{Dragoljub}
 Ništa nisam! Ništa nisam!
+
 [Da li ste možda neke čitali knjige ili nešto slično?]
-{dragoljub}
+{Dragoljub}
 Slabo. Nekad sam malo novine uveče. Sednem pa pročitam nešto. Sad i ne vidim i onda ne čitam.
- [A članovi Vaše porodice? Sa kim sve živite?]
-{dragoljub}
+ 
+[A članovi Vaše porodice? Sa kim sve živite?]
+{Dragoljub}
 Pa šestoro nas u kući je. 
+
 [Šestoro. Znate li možda njihova imena, da ih nabrojite?]
-{dragoljub}
+{Dragoljub}
 Goran, Jagoda, Miroslav, Suzana, Đurđa i ja, Draga.
+
 [Znači koliko imate dece?]
-{dragoljub}
+{Dragoljub}
 Pa troje.
+
 [Troje dece. A unuka?]
-{dragoljub}
+{Dragoljub}
 Petoro unučadi.
+
 [Ako imate neko slobodno vreme, šta tada radite?]
-{dragoljub}
+{Dragoljub}
 Kad imam malo slobodnog vremena, sednem pa se odmorim! 
+
 [Da li ste slušali istu muziku u mladosti kao i sada?]
-{dragoljub}
+{Dragoljub}
 Pa uvek sam malo puštao radio i to slušao! 
+
 [Hvala Vam!]
 
 
