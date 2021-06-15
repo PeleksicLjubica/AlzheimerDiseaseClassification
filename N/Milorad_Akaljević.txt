@@ -1,46 +1,70 @@
 [Kako se zovete?]
 __Milorad, Akaljević.
+
 [Koliko imate godina?]
 Osamdeset-šest.
+
 [Koje Vam je mesto rođenja?]
-__To je jedno selo kod Arilja.__užički kraj.
+__To je jedno selo kod Arilja.__Užički kraj.
+
 [A mesto prebivališta, gde ste do sada živeli?]
-__zadnje prebivalište ovde u Borči.
+__Zadnje prebivalište ovde u Borči.
+
 [Gde Vam je bilo najlepše od svih mesta gde ste živeli?]
-Najlepše__mlađi dok sam bio u Jabučkom Ritu, znaš. Tamo mi je žena radila, a ja sam radio kao građevinski radnik. I ovaj_, i onda sam dolazio_ tu_ i deca su tu podignuta, školu_učili u Padinskoj Skeli.
+Najlepše,__mlađi dok sam bio, u Jabučkom Ritu, znaš. Tamo mi je žena radila, a ja sam radio kao građevinski radnik. I ovaj_, i onda sam dolazio_ tu_ i deca su tu podignuta, školu_učili u Padinskoj Skeli.
+
 [Koja Vam je nacionalna pripadnost?]
-_srbin.
+_Srbin.
+
 [Da li govorite neki strani jezik?]
 Jok vala, ne.
+
 [Gde ste sve radili, na kojim pozicijama?]
 Pa eto, ja sam radio u građevini,__ ovaj, na zidanju,__ sve što se tiče malterisanja, krovove, pokrivanje zgrada.
+
 [Znači po struci ste?]
 Građevinac.
+
 [Kakvo Vam je muzičko obrazovanje, da li ste pevali, svirali neki instrument?]
 To ništa.
+
 [Da li ste levoruki?]
 Ne.
+
 [Da li volite da čitate knjige?]
 Pa ja čitam novine i volim knjige_ te, interesante koje su. Ne volim svake.
+
 [Koje žanrove?]
 Pa ove na primer__, kako da kažem__, od ovih vojskovođa starih koji su_bili i tako.
+
 [Ko su članovi Vaše porodice, da li imate decu, unučiće?]
 Imam i decu i unučiće. Imam sina i ćerku,__onda imam od njih,__ ćerka mi ima sina i ćerku i ima dvoje unučadi. Eto to ja imam.To su mi praunuci moji.
+
 [Kako se zovu oni?]
 Jedan se zove Andrija, a ona mala,___ ima neko ime..
+
 [Možete li da mi kažete nešto o njima?]
-Šta?__Ova mala devojčica, ona ide u školu, u drugi razred,___ a ovaj muškarac on ide u obdanište. Iduće godine verovatno kreće__ u prvi razred. A od sina imam isto_ dve unuke: jedna je udata__ u Bosnu, a jedna_ je učila školu pa_ je nešto na kraju sa tim polaganjima ispita, samo za jedan predmet je,_ da prostiš dijete,_ zezaju. Ne daju joj da prođe. To je nešto oko hemije, sad ona radi u, ovaj,____ tamo na autoputu u nekom magacinu, _____ovoga đavola kako se zove, pomozi  mi reći.
+Šta?__Ova mala devojčica, ona ide u školu, u drugi razred,___ a ovaj muškarac on ide u obdanište. Iduće godine verovatno kreće__ u prvi razred. A od sina imam isto_ dve unuke, jedna je udata__ u Bosnu, a jedna_ je učila školu pa_ je nešto na kraju sa tim polaganjima ispita, samo za jedan predmet je,_ da prostiš dijete,_ zezaju. Ne daju joj da prođe. To je nešto oko hemije, sad ona radi u, ovaj,____ tamo na autoputu u nekom magacinu, _____ovoga đavola kako se zove, pomozi  mi reći.
+
 [Da li u domu organizujete neka druženja?]
 Ne. To jedino__ kad smo bili mlađi, kad su slave__ i deci rođendani.
+
 [Šta volite da radite u slobodno vreme, da li imate neki hobi?]
 Imao sam hobi, bio sam pčelar. Dok sam bio još na Jabučkom Ritu imao sam__ 20 društava pčela. Do 200 kila meda godišnje.___ Ali kad je naišla ona katastrofa iz Černobila, ona je pokosila.__ Prepolovila društva. Teško je._ Sad su se oporavili i tako.
+
 [Koja su Vam još interesovanja?]
-___ja kad sam otišao u penziju sam otišao u selo, i tamo sam,___ovaj, posadio neko voće. Posadio maline,__očistio tamo gde je bilo zaparloženo, nataloženo,___napravio livade. Kupio ovce. ___i žena bila u penziji i ja. I ovaj, imali smo kravu, koze, svinje i tako, kokoške.___sve za domaćicu. I pravio sam kuću. Kuću, štalu, kokošinjce, svinjce. ____zagrađivao___ torove.][Koju vrstu muzike ste voleli u mladosti, a koju volite sada? ][Uglavnom narodnu, narodnu sam voleo, volim i sad. Onda smo išli na neke igranke.
+___Ja kad sam otišao u penziju sam otišao u selo, i tamo sam,___ovaj, posadio neko voće. Posadio maline,__očistio tamo gde je bilo zaparloženo, nataloženo,___napravio livade. Kupio ovce. ___I žena bila u penziji i ja. I ovaj, imali smo kravu, koze, svinje i tako, kokoške.___Sve za domaćicu. I pravio sam kuću. Kuću, štalu, kokošinjce, svinjce. ____Zagrađivao___ torove.
+
+[Koju vrstu muzike ste voleli u mladosti, a koju volite sada? ]
+Uglavnom narodnu, narodnu sam voleo, volim i sad. Onda smo išli na neke igranke.
+
 [Šta biste nam dodatno ispričali o sebi?]
-Pored svega_ što sam se mučio i radio i stvorio za život, desilo mi se da___ dobijem zapalenje noge, obadve, i onda mi jednu ovu odseku
+Pored svega_ što sam se mučio i radio i stvorio za život, desilo mi se da,___ dobijem zapalenje noge, obadve, i onda mi jednu ovu odseku
+
 [Da li bolujete od neke hronične bolesti?]
-___Imao sam ovajproblem sa srcem.
+___Imao sam ovaj problem sa srcem.
+
 [Pijete neke lekove za to?]
-Pa pijem. Ovaj, imao sam trostruki bajpas,__operaciju srca.]
+Pa pijem. Ovaj, imao sam trostruki bajpas,__operaciju srca.
 Jeste li imali još neka oboljenja?]
 Pa eto,_kud ćeš gore od ovo dvoje. I oko sam izgubio, kad sam bio mali. Otišao sam u njivu, da pomažemo ocu da kopamo kukuruz, znaš. Ja sam imao neku motičicu za kopanje,___i udarim u kamen, sa onog kamena sevne neka varnica i pogodi me u ovo oko. Pravo u zenicu. Al’ tada nije bilo__, to je bilo 1944-te godine. Tada nije bilo ni lekara,__ ni medicine. Nisi imao gde da se javiš,____ drugo vreme bilo. I to su lečile babe sa nekim travama. Al’ eto mene, __prema sadašnjem, da je bilo,__ da je imao magnet da izvuče taj piljak,___ jer tačno me udarilo u zenicu. Ali eto,_ sticajem okolnosti. Tako se to odigralo.
