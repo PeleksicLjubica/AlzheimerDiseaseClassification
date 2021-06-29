@@ -1,0 +1,17 @@
+Bojana
+number of nouns: 16
+number of verbs: 35
+number of adjectives: 6
+number of adverbs: 23
+number of punct: 153
+number of aux: 16
+number of det: 14
+number of part: 8
+number of cconj: 10
+number of sconj: 11
+number of propn: 61
+number of pronn: 21
+number of x: 2
+number of adp: 7
+number of num: 0
+number of intj: 1

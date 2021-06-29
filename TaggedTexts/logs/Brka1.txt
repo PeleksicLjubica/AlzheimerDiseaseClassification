@@ -1,0 +1,17 @@
+Brka1
+number of nouns: 3
+number of verbs: 4
+number of adjectives: 3
+number of adverbs: 2
+number of punct: 17
+number of aux: 7
+number of det: 3
+number of part: 0
+number of cconj: 1
+number of sconj: 3
+number of propn: 10
+number of pronn: 1
+number of x: 0
+number of adp: 2
+number of num: 0
+number of intj: 0

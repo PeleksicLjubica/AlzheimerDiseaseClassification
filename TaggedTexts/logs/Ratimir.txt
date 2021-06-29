@@ -1,0 +1,17 @@
+Ratimir
+number of nouns: 66
+number of verbs: 63
+number of adjectives: 18
+number of adverbs: 33
+number of punct: 166
+number of aux: 21
+number of det: 20
+number of part: 18
+number of cconj: 21
+number of sconj: 20
+number of propn: 59
+number of pronn: 22
+number of x: 13
+number of adp: 34
+number of num: 8
+number of intj: 2

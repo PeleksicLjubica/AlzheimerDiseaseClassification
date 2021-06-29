@@ -1,0 +1,17 @@
+Branko
+number of nouns: 6
+number of verbs: 12
+number of adjectives: 2
+number of adverbs: 11
+number of punct: 38
+number of aux: 8
+number of det: 6
+number of part: 4
+number of cconj: 1
+number of sconj: 4
+number of propn: 12
+number of pronn: 4
+number of x: 2
+number of adp: 6
+number of num: 0
+number of intj: 1

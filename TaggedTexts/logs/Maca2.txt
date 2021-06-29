@@ -1,0 +1,17 @@
+Maca2
+number of nouns: 3
+number of verbs: 2
+number of adjectives: 1
+number of adverbs: 1
+number of punct: 12
+number of aux: 2
+number of det: 0
+number of part: 0
+number of cconj: 0
+number of sconj: 1
+number of propn: 5
+number of pronn: 0
+number of x: 0
+number of adp: 0
+number of num: 0
+number of intj: 0

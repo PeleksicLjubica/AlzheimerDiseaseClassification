@@ -1,0 +1,17 @@
+Dara
+number of nouns: 27
+number of verbs: 29
+number of adjectives: 11
+number of adverbs: 18
+number of punct: 72
+number of aux: 10
+number of det: 7
+number of part: 8
+number of cconj: 9
+number of sconj: 8
+number of propn: 24
+number of pronn: 8
+number of x: 2
+number of adp: 10
+number of num: 6
+number of intj: 0

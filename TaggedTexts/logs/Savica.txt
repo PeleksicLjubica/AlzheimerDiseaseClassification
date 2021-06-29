@@ -1,0 +1,17 @@
+Savica
+number of nouns: 1
+number of verbs: 1
+number of adjectives: 1
+number of adverbs: 8
+number of punct: 47
+number of aux: 1
+number of det: 1
+number of part: 0
+number of cconj: 0
+number of sconj: 2
+number of propn: 21
+number of pronn: 0
+number of x: 0
+number of adp: 0
+number of num: 0
+number of intj: 0

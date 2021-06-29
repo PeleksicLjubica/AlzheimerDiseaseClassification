@@ -1,0 +1,17 @@
+Ksenija
+number of nouns: 40
+number of verbs: 72
+number of adjectives: 122
+number of adverbs: 47
+number of punct: 368
+number of aux: 40
+number of det: 28
+number of part: 31
+number of cconj: 28
+number of sconj: 17
+number of propn: 48
+number of pronn: 37
+number of x: 19
+number of adp: 11
+number of num: 10
+number of intj: 0

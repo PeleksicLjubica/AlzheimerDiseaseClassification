@@ -1,0 +1,17 @@
+Maca
+number of nouns: 20
+number of verbs: 69
+number of adjectives: 11
+number of adverbs: 27
+number of punct: 198
+number of aux: 13
+number of det: 8
+number of part: 5
+number of cconj: 8
+number of sconj: 2
+number of propn: 44
+number of pronn: 11
+number of x: 7
+number of adp: 5
+number of num: 3
+number of intj: 1

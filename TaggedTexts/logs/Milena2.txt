@@ -1,0 +1,17 @@
+Milena2
+number of nouns: 29
+number of verbs: 12
+number of adjectives: 5
+number of adverbs: 3
+number of punct: 50
+number of aux: 3
+number of det: 0
+number of part: 1
+number of cconj: 2
+number of sconj: 2
+number of propn: 10
+number of pronn: 2
+number of x: 4
+number of adp: 2
+number of num: 3
+number of intj: 1

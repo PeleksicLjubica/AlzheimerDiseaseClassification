@@ -1,0 +1,17 @@
+Mile
+number of nouns: 7
+number of verbs: 12
+number of adjectives: 17
+number of adverbs: 3
+number of punct: 57
+number of aux: 4
+number of det: 3
+number of part: 0
+number of cconj: 1
+number of sconj: 2
+number of propn: 6
+number of pronn: 3
+number of x: 5
+number of adp: 2
+number of num: 0
+number of intj: 0

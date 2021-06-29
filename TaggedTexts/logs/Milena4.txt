@@ -1,0 +1,17 @@
+Milena4
+number of nouns: 530
+number of verbs: 590
+number of adjectives: 186
+number of adverbs: 321
+number of punct: 1283
+number of aux: 384
+number of det: 234
+number of part: 132
+number of cconj: 184
+number of sconj: 194
+number of propn: 364
+number of pronn: 265
+number of x: 53
+number of adp: 209
+number of num: 70
+number of intj: 11
