@@ -3,6 +3,8 @@
 import pathlib
 import re
 import os
+import sys
+import math  # needed for logarithm
 from utilities import *
 
 
@@ -20,6 +22,7 @@ def read_tagged_files():
             print(tail.split(".")[0])
             patient_log_file = open(PATH_FOR_LOG_FILE + '/' + patient_name + '.txt', mode="w", encoding="utf8")
             patient_log_file.write(patient_name + "\n")
+            patient_log_file.write("------------------------------------------------\n")
 
             print("------------------------------------------------")
             print(path)
@@ -28,7 +31,14 @@ def read_tagged_files():
             log_file.write(str(path) + "\n")
 
             lines = file.readlines()
+
+            '''
+            Variables containing  all information about one patient
+            '''
+            # Variable containing number of lines in the file
             count = 0
+
+            # Variables containing all POS word counts
             number_of_nouns = 0
             number_of_verbs = 0
             number_of_adjectives = 0
@@ -46,15 +56,41 @@ def read_tagged_files():
             number_of_num = 0
             number_of_intj = 0
 
+            # Variable containing number of words that appear in the transcript
+            number_of_words = 0
+
+            # Variable containing all different words that appear in the transcript - used to count vocabulary
+            vocabulary_list = {}
+            # Variable containing number of different words spoken
+            vocabulary = 0
+            # Variable containing number of words spoken only once
+            vocabulary_spoken_once = 0
+
+            words_length = 0
+
+            # Variables containing other mertics
+            TTR = 0  # Type token ration
+            W = 0  # Brunets Index
+            R = 0  # Honores Statistic
+
+            # Explore every line
             for line in lines:
                 count += 1
 
-                #print("Line{}: {}".format(count, line.strip()))
-                #log_file.write("\n")
-                #log_file.write("Line{}: {}".format(count, line.strip()) + "\n")
-
+                # Match regex against the line
                 match_obj = re.match(REGEX, line, re.M | re.I)
                 if match_obj:
+
+                    words_length += len(str(match_obj.group(3)))
+
+                    # If type of object is not PUNCT - punctuation marks, word should be included in vocabulary
+                    if str(match_obj.group(2)) != "PUNCT":
+                        word = str(match_obj.group(3)).lower()
+                        if word not in vocabulary_list:
+                            vocabulary_list[word] = 1
+                        else:
+                            previous_value = vocabulary_list[word] = 1
+                            vocabulary_list[word] = previous_value + 1
 
                     if str(match_obj.group(2)) == "NOUN":
                         number_of_nouns += 1
@@ -81,6 +117,8 @@ def read_tagged_files():
                     elif str(match_obj.group(2)) == "PRON":
                         number_of_pron += 1
                     elif str(match_obj.group(2)) == "X":
+                        # print("Line{}: {}".format(count, line.strip()))
+                        log_file.write("No match!!")
                         number_of_x += 1
                     elif str(match_obj.group(2)) == "ADP":
                         number_of_adp += 1
@@ -89,7 +127,7 @@ def read_tagged_files():
                     elif str(match_obj.group(2)) == "INTJ":
                         number_of_intj += 1
                     else:
-                        print("Line{}: {}".format(count, line.strip()))
+                        # print("Line{}: {}".format(count, line.strip()))
                         print(str(match_obj.group(2)))
                         log_file.write("\n")
                         log_file.write("Line{}: {}".format(count, line.strip()) + "\n")
@@ -99,8 +137,37 @@ def read_tagged_files():
                     log_file.write("match_obj.group(3) : " + str(match_obj.group(3)) + "\n")
                 else:
                     print("No match!!")
-                    print("Line{}: {}".format(count, line.strip()))
-                    log_file.write("No match!!")
+
+            number_of_words = number_of_adverbs + number_of_det + number_of_pron + number_of_adp + \
+                              number_of_propn + number_of_sconj + number_of_punct + number_of_cconj + number_of_part + \
+                              number_of_aux + number_of_adjectives + number_of_nouns + number_of_verbs + number_of_intj + \
+                              number_of_x
+            vocabulary = len(vocabulary_list)
+
+            average_words_length = words_length / number_of_words
+
+            # calculate vocabulary spoken once
+            for item in vocabulary_list:
+                if vocabulary_list[item] == 1:
+                    vocabulary_spoken_once += 1
+
+            TTR = (vocabulary * 1.0) / (number_of_words * 1.0)
+            W = number_of_words ** (vocabulary ** (-0.165))
+            value = 1 - vocabulary_spoken_once / vocabulary
+            if value == 0:
+                value = 0.000000001
+            R = (100 * math.log(number_of_words)) / value
+
+            patient_log_file.write("number_of_words: " + str(number_of_words) + "\n")
+            patient_log_file.write("average_words_length: " + str(average_words_length) + "\n")
+            patient_log_file.write("vocabulary: " + str(vocabulary) + "\n")
+            patient_log_file.write("vocabulary spoken once: " + str(vocabulary_spoken_once) + "\n")
+            patient_log_file.write("------------------------------------------------\n")
+
+            patient_log_file.write("Type token ratio: " + str(TTR) + "\n")
+            patient_log_file.write("Brunet's Index: " + str(W) + "\n")
+            patient_log_file.write("Honore's Statistic: " + str(R) + "\n")
+            patient_log_file.write("------------------------------------------------\n")
 
             patient_log_file.write("number of nouns: " + str(number_of_nouns) + "\n")
             patient_log_file.write("number of verbs: " + str(number_of_verbs) + "\n")
@@ -118,6 +185,30 @@ def read_tagged_files():
             patient_log_file.write("number of adp: " + str(number_of_adp) + "\n")
             patient_log_file.write("number of num: " + str(number_of_num) + "\n")
             patient_log_file.write("number of intj: " + str(number_of_intj) + "\n")
+
+            patient_log_file.write("Normalized ------------------------------------------------\n")
+            patient_log_file.write("number of nouns normalized: " + str(number_of_nouns / number_of_words) + "\n")
+            patient_log_file.write("number of verbs normalized:: " + str(number_of_verbs / number_of_words) + "\n")
+            patient_log_file.write(
+                "number of adjectives normalized:: " + str(number_of_adjectives / number_of_words) + "\n")
+            patient_log_file.write("number of adverbs normalized:: " + str(number_of_adverbs / number_of_words) + "\n")
+            patient_log_file.write("number of aux normalized:: " + str(number_of_aux / number_of_words) + "\n")
+            patient_log_file.write("number of det normalized:: " + str(number_of_det / number_of_words) + "\n")
+            patient_log_file.write("number of part normalized:: " + str(number_of_part / number_of_words) + "\n")
+            patient_log_file.write("number of cconj normalized:: " + str(number_of_cconj / number_of_words) + "\n")
+            patient_log_file.write("number of sconj normalized:: " + str(number_of_sconj / number_of_words) + "\n")
+            patient_log_file.write("number of propn normalized:: " + str(number_of_propn / number_of_words) + "\n")
+            patient_log_file.write("number of pronn normalized:: " + str(number_of_pron / number_of_words) + "\n")
+            patient_log_file.write("number of adp normalized:: " + str(number_of_adp / number_of_words) + "\n")
+            patient_log_file.write("number of num normalized:: " + str(number_of_num / number_of_words) + "\n")
+            patient_log_file.write("number of intj normalized:: " + str(number_of_intj / number_of_words) + "\n")
+
+            patient_log_file.write("Ratios ------------------------------------------------\n")
+            if number_of_verbs != 0:
+                patient_log_file.write("ratio noun to verb: " + str(number_of_nouns / number_of_verbs) + "\n")
+                patient_log_file.write("ratio pronoun to verb: " + str(number_of_pron / number_of_verbs) + "\n")
+            if number_of_nouns != 0:
+                patient_log_file.write("ratio pronoun to noun: " + str(number_of_pron / number_of_nouns) + "\n")
 
             file.close()
     log_file.close()

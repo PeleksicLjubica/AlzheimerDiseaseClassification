@@ -1,4 +1,14 @@
 Branko
+------------------------------------------------
+number_of_words: 117
+average_words_length: 3.094017094017094
+vocabulary: 46
+vocabulary spoken once: 34
+------------------------------------------------
+Type token ratio: 0.39316239316239315
+Brunet's Index: 12.577649038508456
+Honore's Statistic: 1825.5000083391396
+------------------------------------------------
 number of nouns: 6
 number of verbs: 12
 number of adjectives: 2
@@ -15,3 +25,22 @@ number of x: 2
 number of adp: 6
 number of num: 0
 number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.05128205128205128
+number of verbs normalized:: 0.10256410256410256
+number of adjectives normalized:: 0.017094017094017096
+number of adverbs normalized:: 0.09401709401709402
+number of aux normalized:: 0.06837606837606838
+number of det normalized:: 0.05128205128205128
+number of part normalized:: 0.03418803418803419
+number of cconj normalized:: 0.008547008547008548
+number of sconj normalized:: 0.03418803418803419
+number of propn normalized:: 0.10256410256410256
+number of pronn normalized:: 0.03418803418803419
+number of adp normalized:: 0.05128205128205128
+number of num normalized:: 0.0
+number of intj normalized:: 0.008547008547008548
+Ratios ------------------------------------------------
+ratio noun to verb: 0.5
+ratio pronoun to verb: 0.3333333333333333
+ratio pronoun to noun: 0.6666666666666666

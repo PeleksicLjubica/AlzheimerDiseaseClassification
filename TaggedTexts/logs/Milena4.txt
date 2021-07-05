@@ -1,4 +1,14 @@
 Milena4
+------------------------------------------------
+number_of_words: 4940
+average_words_length: 3.538663967611336
+vocabulary: 975
+vocabulary spoken once: 582
+------------------------------------------------
+Type token ratio: 0.19736842105263158
+Brunet's Index: 15.36493856163587
+Honore's Statistic: 2110.0490063428547
+------------------------------------------------
 number of nouns: 530
 number of verbs: 590
 number of adjectives: 186
@@ -15,3 +25,22 @@ number of x: 53
 number of adp: 209
 number of num: 70
 number of intj: 11
+Normalized ------------------------------------------------
+number of nouns normalized: 0.10728744939271255
+number of verbs normalized:: 0.1194331983805668
+number of adjectives normalized:: 0.03765182186234818
+number of adverbs normalized:: 0.06497975708502024
+number of aux normalized:: 0.07773279352226721
+number of det normalized:: 0.04736842105263158
+number of part normalized:: 0.026720647773279354
+number of cconj normalized:: 0.03724696356275304
+number of sconj normalized:: 0.039271255060728746
+number of propn normalized:: 0.07368421052631578
+number of pronn normalized:: 0.053643724696356275
+number of adp normalized:: 0.04230769230769231
+number of num normalized:: 0.01417004048582996
+number of intj normalized:: 0.002226720647773279
+Ratios ------------------------------------------------
+ratio noun to verb: 0.8983050847457628
+ratio pronoun to verb: 0.4491525423728814
+ratio pronoun to noun: 0.5
