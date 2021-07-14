@@ -1,0 +1,46 @@
+Milorad_Milicevic
+------------------------------------------------
+number_of_words: 2186
+average_words_length: 3.6061299176578223
+vocabulary: 553
+vocabulary spoken once: 362
+------------------------------------------------
+Type token ratio: 0.2529734675205855
+Brunet's Index: 15.06663882654729
+Honore's Statistic: 2226.426834456165
+------------------------------------------------
+number of nouns: 380
+number of verbs: 264
+number of adjectives: 90
+number of adverbs: 139
+number of punct: 605
+number of aux: 164
+number of det: 102
+number of part: 83
+number of cconj: 81
+number of sconj: 129
+number of propn: 61
+number of pronn: 73
+number of x: 13
+number of adp: 124
+number of num: 18
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 319.0279048490393
+number of verbs normalized:: 0.12076852698993595
+number of adjectives normalized:: 0.04117108874656908
+number of adverbs normalized:: 0.06358645928636779
+number of aux normalized:: 0.07502287282708142
+number of det normalized:: 0.04666056724611162
+number of part normalized:: 0.03796889295516926
+number of cconj normalized:: 0.03705397987191217
+number of sconj normalized:: 0.05901189387008234
+number of propn normalized:: 0.027904849039341262
+number of pronn normalized:: 0.03339432753888381
+number of adp normalized:: 0.056724611161939616
+number of num normalized:: 0.008234217749313814
+number of intj normalized:: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 1.2083333333333333
+ratio pronoun to verb: 0.2765151515151515
+ratio pronoun to noun: 0.22884012539184953

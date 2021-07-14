@@ -1,0 +1,46 @@
+Nade┼╛da_Sto┼íi─ç
+------------------------------------------------
+number_of_words: 1363
+average_words_length: 3.9765223771093177
+vocabulary: 392
+vocabulary spoken once: 232
+------------------------------------------------
+Type token ratio: 0.2876008804108584
+Brunet's Index: 14.799311440969042
+Honore's Statistic: 1768.2736407656507
+------------------------------------------------
+number of nouns: 314
+number of verbs: 138
+number of adjectives: 91
+number of adverbs: 103
+number of punct: 261
+number of aux: 141
+number of det: 67
+number of part: 51
+number of cconj: 67
+number of sconj: 52
+number of propn: 67
+number of pronn: 48
+number of x: 4
+number of adp: 92
+number of num: 38
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 247.04915627292738
+number of verbs normalized:: 0.1012472487160675
+number of adjectives normalized:: 0.06676449009537784
+number of adverbs normalized:: 0.07556859867938372
+number of aux normalized:: 0.10344827586206896
+number of det normalized:: 0.0491562729273661
+number of part normalized:: 0.03741746148202495
+number of cconj normalized:: 0.0491562729273661
+number of sconj normalized:: 0.03815113719735877
+number of propn normalized:: 0.0491562729273661
+number of pronn normalized:: 0.03521643433602348
+number of adp normalized:: 0.06749816581071166
+number of num normalized:: 0.027879677182685254
+number of intj normalized:: 0.0007336757153338225
+Ratios ------------------------------------------------
+ratio noun to verb: 1.789855072463768
+ratio pronoun to verb: 0.34782608695652173
+ratio pronoun to noun: 0.19433198380566802

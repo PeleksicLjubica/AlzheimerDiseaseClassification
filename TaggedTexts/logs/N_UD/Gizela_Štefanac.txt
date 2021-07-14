@@ -1,0 +1,46 @@
+Gizela_Štefanac
+------------------------------------------------
+number_of_words: 3606
+average_words_length: 3.6037160288408208
+vocabulary: 650
+vocabulary spoken once: 338
+------------------------------------------------
+Type token ratio: 0.18025513033832502
+Brunet's Index: 16.660066501965368
+Honore's Statistic: 1706.3238341173462
+------------------------------------------------
+number of nouns: 714
+number of verbs: 365
+number of adjectives: 163
+number of adverbs: 392
+number of punct: 909
+number of aux: 291
+number of det: 189
+number of part: 111
+number of cconj: 204
+number of sconj: 116
+number of propn: 178
+number of pronn: 111
+number of x: 15
+number of adp: 197
+number of num: 35
+number of intj: 7
+Normalized ------------------------------------------------
+number of nouns normalized: 536.0493621741542
+number of verbs normalized:: 0.10122018857459789
+number of adjectives normalized:: 0.0452024403771492
+number of adverbs normalized:: 0.10870770937326678
+number of aux normalized:: 0.08069883527454243
+number of det normalized:: 0.0524126455906822
+number of part normalized:: 0.030782029950083195
+number of cconj normalized:: 0.056572379367720464
+number of sconj normalized:: 0.03216860787576262
+number of propn normalized:: 0.04936217415418746
+number of pronn normalized:: 0.030782029950083195
+number of adp normalized:: 0.054631170271769273
+number of num normalized:: 0.009706045479755962
+number of intj normalized:: 0.0019412090959511925
+Ratios ------------------------------------------------
+ratio noun to verb: 1.4684931506849315
+ratio pronoun to verb: 0.3041095890410959
+ratio pronoun to noun: 0.20708955223880596

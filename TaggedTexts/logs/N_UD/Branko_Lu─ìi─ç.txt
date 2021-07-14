@@ -1,0 +1,46 @@
+Branko_Lu─ìi─ç
+------------------------------------------------
+number_of_words: 1178
+average_words_length: 3.5415959252971136
+vocabulary: 311
+vocabulary spoken once: 187
+------------------------------------------------
+Type token ratio: 0.2640067911714771
+Brunet's Index: 15.532022638174888
+Honore's Statistic: 1773.596222798215
+------------------------------------------------
+number of nouns: 220
+number of verbs: 122
+number of adjectives: 49
+number of adverbs: 110
+number of punct: 348
+number of aux: 89
+number of det: 55
+number of part: 30
+number of cconj: 42
+number of sconj: 45
+number of propn: 47
+number of pronn: 46
+number of x: 17
+number of adp: 51
+number of num: 18
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 173.03989813242785
+number of verbs normalized:: 0.1035653650254669
+number of adjectives normalized:: 0.04159592529711375
+number of adverbs normalized:: 0.0933786078098472
+number of aux normalized:: 0.07555178268251274
+number of det normalized:: 0.0466893039049236
+number of part normalized:: 0.025466893039049237
+number of cconj normalized:: 0.035653650254668934
+number of sconj normalized:: 0.038200339558573854
+number of propn normalized:: 0.039898132427843805
+number of pronn normalized:: 0.03904923599320883
+number of adp normalized:: 0.0432937181663837
+number of num normalized:: 0.015280135823429542
+number of intj normalized:: 0.0008488964346349745
+Ratios ------------------------------------------------
+ratio noun to verb: 1.4180327868852458
+ratio pronoun to verb: 0.3770491803278688
+ratio pronoun to noun: 0.2658959537572254

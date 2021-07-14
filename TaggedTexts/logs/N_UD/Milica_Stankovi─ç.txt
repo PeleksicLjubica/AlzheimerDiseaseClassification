@@ -1,0 +1,46 @@
+Milica_Stankovi─ç
+------------------------------------------------
+number_of_words: 714
+average_words_length: 3.018207282913165
+vocabulary: 170
+vocabulary spoken once: 95
+------------------------------------------------
+Type token ratio: 0.23809523809523808
+Brunet's Index: 16.70630334144989
+Honore's Statistic: 1489.4001381303058
+------------------------------------------------
+number of nouns: 104
+number of verbs: 102
+number of adjectives: 18
+number of adverbs: 61
+number of punct: 271
+number of aux: 32
+number of det: 28
+number of part: 40
+number of cconj: 4
+number of sconj: 38
+number of propn: 33
+number of pronn: 25
+number of x: 7
+number of adp: 17
+number of num: 9
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 71.04621848739495
+number of verbs normalized:: 0.14285714285714285
+number of adjectives normalized:: 0.025210084033613446
+number of adverbs normalized:: 0.08543417366946779
+number of aux normalized:: 0.04481792717086835
+number of det normalized:: 0.0392156862745098
+number of part normalized:: 0.056022408963585436
+number of cconj normalized:: 0.0056022408963585435
+number of sconj normalized:: 0.05322128851540616
+number of propn normalized:: 0.046218487394957986
+number of pronn normalized:: 0.0350140056022409
+number of adp normalized:: 0.023809523809523808
+number of num normalized:: 0.012605042016806723
+number of intj normalized:: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 0.696078431372549
+ratio pronoun to verb: 0.24509803921568626
+ratio pronoun to noun: 0.352112676056338

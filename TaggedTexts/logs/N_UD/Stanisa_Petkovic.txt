@@ -1,0 +1,46 @@
+Stanisa_Petkovic
+------------------------------------------------
+number_of_words: 3720
+average_words_length: 3.589784946236559
+vocabulary: 673
+vocabulary spoken once: 382
+------------------------------------------------
+Type token ratio: 0.18091397849462365
+Brunet's Index: 16.569269876002245
+Honore's Statistic: 1901.393584711622
+------------------------------------------------
+number of nouns: 527
+number of verbs: 451
+number of adjectives: 158
+number of adverbs: 307
+number of punct: 847
+number of aux: 403
+number of det: 228
+number of part: 178
+number of cconj: 149
+number of sconj: 172
+number of propn: 72
+number of pronn: 173
+number of x: 40
+number of adp: 142
+number of num: 26
+number of intj: 17
+Normalized ------------------------------------------------
+number of nouns normalized: 455.01935483870966
+number of verbs normalized:: 0.12123655913978494
+number of adjectives normalized:: 0.04247311827956989
+number of adverbs normalized:: 0.0825268817204301
+number of aux normalized:: 0.10833333333333334
+number of det normalized:: 0.06129032258064516
+number of part normalized:: 0.0478494623655914
+number of cconj normalized:: 0.040053763440860216
+number of sconj normalized:: 0.046236559139784944
+number of propn normalized:: 0.01935483870967742
+number of pronn normalized:: 0.046505376344086025
+number of adp normalized:: 0.038172043010752686
+number of num normalized:: 0.006989247311827957
+number of intj normalized:: 0.00456989247311828
+Ratios ------------------------------------------------
+ratio noun to verb: 1.0088691796008868
+ratio pronoun to verb: 0.3835920177383592
+ratio pronoun to noun: 0.3802197802197802

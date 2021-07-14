@@ -1,0 +1,46 @@
+Popovic_Dragoljub
+------------------------------------------------
+number_of_words: 431
+average_words_length: 3.496519721577726
+vocabulary: 140
+vocabulary spoken once: 99
+------------------------------------------------
+Type token ratio: 0.3248259860788863
+Brunet's Index: 14.645044499713471
+Honore's Statistic: 2071.3539819866455
+------------------------------------------------
+number of nouns: 135
+number of verbs: 35
+number of adjectives: 23
+number of adverbs: 31
+number of punct: 165
+number of aux: 14
+number of det: 11
+number of part: 18
+number of cconj: 15
+number of sconj: 4
+number of propn: 49
+number of pronn: 9
+number of x: 11
+number of adp: 9
+number of num: 4
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 86.11368909512761
+number of verbs normalized:: 0.08120649651972157
+number of adjectives normalized:: 0.05336426914153132
+number of adverbs normalized:: 0.07192575406032482
+number of aux normalized:: 0.03248259860788863
+number of det normalized:: 0.025522041763341066
+number of part normalized:: 0.04176334106728538
+number of cconj normalized:: 0.03480278422273782
+number of sconj normalized:: 0.009280742459396751
+number of propn normalized:: 0.1136890951276102
+number of pronn normalized:: 0.02088167053364269
+number of adp normalized:: 0.02088167053364269
+number of num normalized:: 0.009280742459396751
+number of intj normalized:: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 2.4571428571428573
+ratio pronoun to verb: 0.2571428571428571
+ratio pronoun to noun: 0.10465116279069768

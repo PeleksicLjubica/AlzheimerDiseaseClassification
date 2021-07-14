@@ -1,0 +1,46 @@
+Mi┼ía
+------------------------------------------------
+number_of_words: 3542
+average_words_length: 3.26171654432524
+vocabulary: 653
+vocabulary spoken once: 391
+------------------------------------------------
+Type token ratio: 0.18435911914172784
+Brunet's Index: 16.522653505554214
+Honore's Statistic: 2036.873195564059
+------------------------------------------------
+number of nouns: 493
+number of verbs: 455
+number of adjectives: 99
+number of adverbs: 220
+number of punct: 1094
+number of aux: 277
+number of det: 129
+number of part: 112
+number of cconj: 161
+number of sconj: 194
+number of propn: 58
+number of pronn: 189
+number of x: 33
+number of adp: 141
+number of num: 35
+number of intj: 3
+Normalized ------------------------------------------------
+number of nouns normalized: 435.0163749294184
+number of verbs normalized:: 0.12845849802371542
+number of adjectives normalized:: 0.027950310559006212
+number of adverbs normalized:: 0.062111801242236024
+number of aux normalized:: 0.07820440429136082
+number of det normalized:: 0.036420101637492944
+number of part normalized:: 0.03162055335968379
+number of cconj normalized:: 0.045454545454545456
+number of sconj normalized:: 0.054771315640880856
+number of propn normalized:: 0.01637492941840768
+number of pronn normalized:: 0.0533596837944664
+number of adp normalized:: 0.03980801806888763
+number of num normalized:: 0.009881422924901186
+number of intj normalized:: 0.0008469791078486731
+Ratios ------------------------------------------------
+ratio noun to verb: 0.9560439560439561
+ratio pronoun to verb: 0.4153846153846154
+ratio pronoun to noun: 0.43448275862068964

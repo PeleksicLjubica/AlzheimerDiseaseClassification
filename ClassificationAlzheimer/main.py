@@ -3,24 +3,94 @@
 import pathlib
 import re
 import os
-import sys
 import math  # needed for logarithm
 from utilities import *
+import matplotlib.pyplot as plt
+from cosine_distance_module import *
+
+GLOBAL_NUMBER_OF_WORDS_P = []
+GLOBAL_NUMBER_OF_WORDS_N = []
+
+GLOBAL_AVERAGE_WORDS_LEN_P = []
+GLOBAL_AVERAGE_WORDS_LEN_N = []
+
+GLOBAL_VOCABULARY_P = []
+GLOBAL_VOCABULARY_N = []
+
+GLOBAL_VOCABULARY_SO_P = []
+GLOBAL_VOCABULARY_SO_N = []
+
+GLOBAL_TTR_P = []
+GLOBAL_TTR_N = []
+
+GLOBAL_W_P = []
+GLOBAL_W_N = []
+
+GLOBAL_R_P = []
+GLOBAL_R_N = []
+
+GLOBAL_NUMBER_OF_NOUNS_P = []
+GLOBAL_NUMBER_OF_NOUNS_N = []
+GLOBAL_NUMBER_OF_NOUNS_NOR_P = []
+GLOBAL_NUMBER_OF_NOUNS_NOR_N = []
+
+GLOBAL_NUMBER_OF_VERBS_P = []
+GLOBAL_NUMBER_OF_VERBS_N = []
+GLOBAL_NUMBER_OF_VERBS_NOR_P = []
+GLOBAL_NUMBER_OF_VERBS_NOR_N = []
+
+GLOBAL_NUMBER_OF_ADJECTIVES_P = []
+GLOBAL_NUMBER_OF_ADJECTIVES_N = []
+GLOBAL_NUMBER_OF_ADJECTIVES_NOR_P = []
+GLOBAL_NUMBER_OF_ADJECTIVES_NOR_N = []
+
+GLOBAL_NUMBER_OF_ADVERBS_P = []
+GLOBAL_NUMBER_OF_ADVERBS_N = []
+GLOBAL_NUMBER_OF_ADVERBS_NOR_P = []
+GLOBAL_NUMBER_OF_ADVERBS_NOR_N = []
+
+GLOBAL_NUMBER_OF_CCONJ_P = []
+GLOBAL_NUMBER_OF_CCONJ_N = []
+GLOBAL_NUMBER_OF_CCONJ_NOR_P = []
+GLOBAL_NUMBER_OF_CCONJ_NOR_N = []
+
+GLOBAL_NUMBER_OF_PART_P = []
+GLOBAL_NUMBER_OF_PART_N = []
+GLOBAL_NUMBER_OF_PART_NOR_P = []
+GLOBAL_NUMBER_OF_PART_NOR_N = []
+
+GLOBAL_NUMBER_OF_SCONJ_P = []
+GLOBAL_NUMBER_OF_SCONJ_N = []
+GLOBAL_NUMBER_OF_SCONJ_NOR_P = []
+GLOBAL_NUMBER_OF_SCONJ_NOR_N = []
+
+GLOBAL_NUMBER_OF_PRONN_P = []
+GLOBAL_NUMBER_OF_PRONN_N = []
+GLOBAL_NUMBER_OF_PRONN_NOR_P = []
+GLOBAL_NUMBER_OF_PRONN_NOR_N = []
+
+GLOBAL_NOUN_VERB_P = []
+GLOBAL_PRONOUN_VERB_P = []
+GLOBAL_PRONOUN_NOUN_P = []
+GLOBAL_NOUN_VERB_N = []
+GLOBAL_PRONOUN_VERB_N = []
+GLOBAL_PRONOUN_NOUN_N = []
 
 
-def read_tagged_files():
-    log_file = open(PATH_FOR_LOG_FILE + '/log_P_UD.txt', mode="w", encoding="utf8")
+def read_tagged_files(patient_class, path_log_file, path_to_tagged):
+    log_file = open(path_log_file, mode="w+", encoding="utf8")
 
-    for path in pathlib.Path(PATH_TO_TAGGED_FILES + '/P_UD').iterdir():
+    for path in pathlib.Path(PATH_TO_TAGGED_FILES + "/" + path_to_tagged).iterdir():
         if path.is_file():
             # Open next file in the folder
-            file = open(path, mode="r", encoding="utf8")
+            file = open(path, mode="r+", encoding="utf8")
 
             # Find patient name to make log file with data for that patient
             head, tail = os.path.split(path)
             patient_name = tail.split(".")[0]
             print(tail.split(".")[0])
-            patient_log_file = open(PATH_FOR_LOG_FILE + '/' + patient_name + '.txt', mode="w", encoding="utf8")
+            patient_log_file = open(PATH_FOR_LOG_FILE + '/' + path_to_tagged + "/" + patient_name + '.txt', mode="w",
+                                    encoding="utf8")
             patient_log_file.write(patient_name + "\n")
             patient_log_file.write("------------------------------------------------\n")
 
@@ -58,20 +128,13 @@ def read_tagged_files():
 
             # Variable containing number of words that appear in the transcript
             number_of_words = 0
-
             # Variable containing all different words that appear in the transcript - used to count vocabulary
             vocabulary_list = {}
             # Variable containing number of different words spoken
             vocabulary = 0
             # Variable containing number of words spoken only once
             vocabulary_spoken_once = 0
-
             words_length = 0
-
-            # Variables containing other mertics
-            TTR = 0  # Type token ration
-            W = 0  # Brunets Index
-            R = 0  # Honores Statistic
 
             # Explore every line
             for line in lines:
@@ -128,22 +191,22 @@ def read_tagged_files():
                         number_of_intj += 1
                     else:
                         # print("Line{}: {}".format(count, line.strip()))
-                        print(str(match_obj.group(2)))
+                        #print(str(match_obj.group(2)))
                         log_file.write("\n")
                         log_file.write("Line{}: {}".format(count, line.strip()) + "\n")
 
                     log_file.write("match_obj.group(1) : " + str(match_obj.group(1)) + "\n")
                     log_file.write("match_obj.group(2) : " + str(match_obj.group(2)) + "\n")
                     log_file.write("match_obj.group(3) : " + str(match_obj.group(3)) + "\n")
-                else:
-                    print("No match!!")
+                #else:
+                    #print("No match!! " + line)
 
             number_of_words = number_of_adverbs + number_of_det + number_of_pron + number_of_adp + \
                               number_of_propn + number_of_sconj + number_of_punct + number_of_cconj + number_of_part + \
                               number_of_aux + number_of_adjectives + number_of_nouns + number_of_verbs + number_of_intj + \
                               number_of_x
-            vocabulary = len(vocabulary_list)
 
+            vocabulary = len(vocabulary_list)
             average_words_length = words_length / number_of_words
 
             # calculate vocabulary spoken once
@@ -153,6 +216,7 @@ def read_tagged_files():
 
             TTR = (vocabulary * 1.0) / (number_of_words * 1.0)
             W = number_of_words ** (vocabulary ** (-0.165))
+
             value = 1 - vocabulary_spoken_once / vocabulary
             if value == 0:
                 value = 0.000000001
@@ -169,7 +233,8 @@ def read_tagged_files():
             patient_log_file.write("Honore's Statistic: " + str(R) + "\n")
             patient_log_file.write("------------------------------------------------\n")
 
-            patient_log_file.write("number of nouns: " + str(number_of_nouns) + "\n")
+            number_of_nouns += number_of_propn
+            patient_log_file.write("number of nouns: " + str(number_of_nouns+number_of_propn) + "\n")
             patient_log_file.write("number of verbs: " + str(number_of_verbs) + "\n")
             patient_log_file.write("number of adjectives: " + str(number_of_adjectives) + "\n")
             patient_log_file.write("number of adverbs: " + str(number_of_adverbs) + "\n")
@@ -187,7 +252,7 @@ def read_tagged_files():
             patient_log_file.write("number of intj: " + str(number_of_intj) + "\n")
 
             patient_log_file.write("Normalized ------------------------------------------------\n")
-            patient_log_file.write("number of nouns normalized: " + str(number_of_nouns / number_of_words) + "\n")
+            patient_log_file.write("number of nouns normalized: " + str(number_of_nouns+number_of_propn / number_of_words) + "\n")
             patient_log_file.write("number of verbs normalized:: " + str(number_of_verbs / number_of_words) + "\n")
             patient_log_file.write(
                 "number of adjectives normalized:: " + str(number_of_adjectives / number_of_words) + "\n")
@@ -210,15 +275,244 @@ def read_tagged_files():
             if number_of_nouns != 0:
                 patient_log_file.write("ratio pronoun to noun: " + str(number_of_pron / number_of_nouns) + "\n")
 
+
             file.close()
     log_file.close()
 
+
+def plot_lexical_analysis_results_two_plots(fp_result_p, fp_range, fp_result_n, fp_desc, sp_result_p, sp_range, sp_result_n,
+                                  sp_desc):
+    plt.figure(1)
+    plt.subplot(211)
+    tmp_list1 = [1] * len(fp_result_p)
+    plt.plot(fp_result_p, tmp_list1, "ro")
+    tmp_list2 = [2] * len(fp_result_n)
+    plt.plot(fp_result_n, tmp_list2, 'bo')
+    plt.xlabel(fp_desc)
+    plt.axis([0, fp_range, 0, 3])
+    plt.yticks([])
+
+    plt.subplot(212)
+    tmp_list = [1] * len(sp_result_p)
+    plt.plot(sp_result_p, tmp_list, "ro")
+    tmp_list = [2] * len(sp_result_n)
+    plt.plot(sp_result_n, tmp_list, 'bo')
+    plt.xlabel(sp_desc)
+    plt.axis([0, sp_range, 0, 3])
+    plt.yticks([])
+
+    plt.show()
+
+
+def plot_lexical_analysis_results_one_plot(fp_result_p, fp_range, fp_result_n, fp_desc):
+
+    tmp_list1 = [1] * len(fp_result_p)
+    plt.plot(fp_result_p, tmp_list1, "ro")
+    tmp_list2 = [2] * len(fp_result_n)
+    plt.plot(fp_result_n, tmp_list2, 'bo')
+    plt.xlabel(fp_desc)
+    plt.axis([0, fp_range, 0, 3])
+    plt.yticks([])
+    plt.show()
+
+
+def read_results(patient_class, path_log_file, path_to_tagged):
+    for path in pathlib.Path(PATH_TO_TAGGED_FILES + "/logs/" + path_to_tagged).iterdir():
+        if path.is_file():
+            # Open next file in the folder
+            print(path)
+            file = open(path, mode="r", encoding="utf8")
+            lines = file.readlines()
+            count = 0
+            # Explore every line
+            for line in lines:
+
+                # Match regex against the line
+                match_obj = re.match(REGEX_READ_FILE, line, re.M | re.I)
+                if match_obj:
+                    if patient_class == "P":
+                        if count == 2:
+                            GLOBAL_NUMBER_OF_WORDS_P.append(int(match_obj.group(1)))
+                        elif count == 3:
+                            GLOBAL_AVERAGE_WORDS_LEN_P.append(float(match_obj.group(1)))
+                        elif count == 4:
+                            GLOBAL_VOCABULARY_P.append(int(match_obj.group(1)))
+                        elif count == 5:
+                            GLOBAL_VOCABULARY_SO_P.append(int(match_obj.group(1)))
+                        elif count == 7:
+                            GLOBAL_TTR_P.append(float(match_obj.group(1)))
+                        elif count == 8:
+                            GLOBAL_W_P.append(float(match_obj.group(1)))
+                        elif count == 9:
+                            GLOBAL_R_P.append(float(match_obj.group(1)))
+                        elif count == 11:
+                            GLOBAL_NUMBER_OF_NOUNS_P.append(int(match_obj.group(1)))
+                        elif count == 12:
+                            GLOBAL_NUMBER_OF_VERBS_P.append(int(match_obj.group(1)))
+                        elif count == 13:
+                            GLOBAL_NUMBER_OF_ADJECTIVES_P.append(int(match_obj.group(1)))
+                        elif count == 14:
+                            GLOBAL_NUMBER_OF_ADVERBS_P.append(int(match_obj.group(1)))
+                        elif count == 18:
+                            GLOBAL_NUMBER_OF_PART_P.append(int(match_obj.group(1)))
+                        elif count == 19:
+                            GLOBAL_NUMBER_OF_CCONJ_P.append(int(match_obj.group(1)))
+                        elif count == 20:
+                            GLOBAL_NUMBER_OF_SCONJ_P.append(int(match_obj.group(1)))
+                        elif count == 22:
+                            GLOBAL_NUMBER_OF_PRONN_P.append(int(match_obj.group(1)))
+                        elif count == 28:
+                            GLOBAL_NUMBER_OF_NOUNS_NOR_P.append(float(match_obj.group(1)))
+                        elif count == 29:
+                            GLOBAL_NUMBER_OF_VERBS_NOR_P.append(float(match_obj.group(1)))
+                        elif count == 30:
+                            GLOBAL_NUMBER_OF_ADJECTIVES_NOR_P.append(float(match_obj.group(1)))
+                        elif count == 31:
+                            GLOBAL_NUMBER_OF_ADVERBS_NOR_P.append(float(match_obj.group(1)))
+                        elif count == 34:
+                            GLOBAL_NUMBER_OF_PART_NOR_P.append(float(match_obj.group(1)))
+                        elif count == 35:
+                            GLOBAL_NUMBER_OF_CCONJ_NOR_P.append(float(match_obj.group(1)))
+                        elif count == 36:
+                            GLOBAL_NUMBER_OF_SCONJ_NOR_P.append(float(match_obj.group(1)))
+                        elif count == 38:
+                            GLOBAL_NUMBER_OF_PRONN_NOR_P.append(float(match_obj.group(1)))
+                        elif count == 43:
+                            GLOBAL_NOUN_VERB_P.append(float(match_obj.group(1)))
+                        elif count == 44:
+                            GLOBAL_PRONOUN_VERB_P.append(float(match_obj.group(1)))
+                        elif count == 45:
+                            GLOBAL_PRONOUN_NOUN_P.append(float(match_obj.group(1)))
+
+                    elif patient_class == "N":
+                        if count == 2:
+                            GLOBAL_NUMBER_OF_WORDS_N.append(int(match_obj.group(1)))
+                        elif count == 3:
+                            GLOBAL_AVERAGE_WORDS_LEN_N.append(float(match_obj.group(1)))
+                        elif count == 4:
+                            GLOBAL_VOCABULARY_N.append(int(match_obj.group(1)))
+                        elif count == 5:
+                            GLOBAL_VOCABULARY_SO_N.append(int(match_obj.group(1)))
+                        elif count == 7:
+                            GLOBAL_TTR_N.append(float(match_obj.group(1)))
+                        elif count == 8:
+                            GLOBAL_W_N.append(float(match_obj.group(1)))
+                        elif count == 9:
+                            GLOBAL_R_N.append(float(match_obj.group(1)))
+                        elif count == 11:
+                            GLOBAL_NUMBER_OF_NOUNS_N.append(int(match_obj.group(1)))
+                        elif count == 12:
+                            GLOBAL_NUMBER_OF_VERBS_N.append(int(match_obj.group(1)))
+                        elif count == 13:
+                            GLOBAL_NUMBER_OF_ADJECTIVES_N.append(int(match_obj.group(1)))
+                        elif count == 14:
+                            GLOBAL_NUMBER_OF_ADVERBS_N.append(int(match_obj.group(1)))
+                        elif count == 18:
+                            GLOBAL_NUMBER_OF_PART_N.append(int(match_obj.group(1)))
+                        elif count == 19:
+                            GLOBAL_NUMBER_OF_CCONJ_N.append(int(match_obj.group(1)))
+                        elif count == 20:
+                            GLOBAL_NUMBER_OF_SCONJ_N.append(int(match_obj.group(1)))
+                        elif count == 22:
+                            GLOBAL_NUMBER_OF_PRONN_N.append(int(match_obj.group(1)))
+                        elif count == 28:
+                            GLOBAL_NUMBER_OF_NOUNS_NOR_N.append(float(match_obj.group(1)))
+                        elif count == 29:
+                            GLOBAL_NUMBER_OF_VERBS_NOR_N.append(float(match_obj.group(1)))
+                        elif count == 30:
+                            GLOBAL_NUMBER_OF_ADJECTIVES_NOR_N.append(float(match_obj.group(1)))
+                        elif count == 31:
+                            GLOBAL_NUMBER_OF_ADVERBS_NOR_N.append(float(match_obj.group(1)))
+                        elif count == 34:
+                            GLOBAL_NUMBER_OF_PART_NOR_N.append(float(match_obj.group(1)))
+                        elif count == 35:
+                            GLOBAL_NUMBER_OF_CCONJ_NOR_N.append(float(match_obj.group(1)))
+                        elif count == 36:
+                            GLOBAL_NUMBER_OF_SCONJ_NOR_N.append(float(match_obj.group(1)))
+                        elif count == 38:
+                            GLOBAL_NUMBER_OF_PRONN_NOR_N.append(float(match_obj.group(1)))
+                        elif count == 43:
+                            GLOBAL_NOUN_VERB_N.append(float(match_obj.group(1)))
+                        elif count == 44:
+                            GLOBAL_PRONOUN_VERB_N.append(float(match_obj.group(1)))
+                        elif count == 45:
+                            GLOBAL_PRONOUN_NOUN_N.append(float(match_obj.group(1)))
+                count += 1
+
+def draw_graphs_for_lexical_statistics():
+    # Draw grapsh
+    plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_NOUNS_P, 2000, GLOBAL_NUMBER_OF_NOUNS_N, "Number of nouns",
+                                            GLOBAL_NUMBER_OF_NOUNS_NOR_P, 1, GLOBAL_NUMBER_OF_NOUNS_NOR_N,
+                                            "Number of nouns normalized by number of words")
+
+    plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_ADJECTIVES_P, 300, GLOBAL_NUMBER_OF_ADJECTIVES_N,
+                                            "Number of adjectives",
+                                            GLOBAL_NUMBER_OF_ADJECTIVES_NOR_P, 1, GLOBAL_NUMBER_OF_ADJECTIVES_NOR_N,
+                                            "Number of adjectives normalized by number of words")
+
+    plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_ADVERBS_P, 600, GLOBAL_NUMBER_OF_ADVERBS_N,
+                                            "Number of adverbs",
+                                            GLOBAL_NUMBER_OF_ADVERBS_NOR_P, 1, GLOBAL_NUMBER_OF_ADVERBS_NOR_N,
+                                            "Number of adverbs normalized by number of words")
+
+    plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_CCONJ_P, 400, GLOBAL_NUMBER_OF_CCONJ_N,
+                                            "Number of cconj",
+                                            GLOBAL_NUMBER_OF_CCONJ_NOR_P, 1, GLOBAL_NUMBER_OF_CCONJ_NOR_N,
+                                            "Number of cconj normalized by number of words")
+
+    plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_PART_P, 400, GLOBAL_NUMBER_OF_PART_N,
+                                            "Number of part",
+                                            GLOBAL_NUMBER_OF_PART_NOR_P, 1, GLOBAL_NUMBER_OF_PART_NOR_N,
+                                            "Number of part normalized by number of words")
+
+    plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_PRONN_P, 100, GLOBAL_NUMBER_OF_PRONN_N,
+                                            "Number of pronn",
+                                            GLOBAL_NUMBER_OF_PRONN_NOR_P, 1, GLOBAL_NUMBER_OF_PRONN_NOR_N,
+                                            "Number of pronn normalized by number of words")
+
+    plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_SCONJ_P, 650, GLOBAL_NUMBER_OF_SCONJ_N,
+                                            "Number of sconj",
+                                            GLOBAL_NUMBER_OF_SCONJ_NOR_P, 1, GLOBAL_NUMBER_OF_SCONJ_NOR_N,
+                                            "Number of sconj normalized by number of words")
+
+    plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_VERBS_P, 1500, GLOBAL_NUMBER_OF_VERBS_N,
+                                            "Number of verbs",
+                                            GLOBAL_NUMBER_OF_VERBS_NOR_P, 1, GLOBAL_NUMBER_OF_VERBS_NOR_N,
+                                            "Number of verbs normalized by number of words")
+
+    plot_lexical_analysis_results_one_plot(GLOBAL_NUMBER_OF_WORDS_P, 8000, GLOBAL_NUMBER_OF_WORDS_N,
+                                           "Number of words")
+
+    plot_lexical_analysis_results_one_plot(GLOBAL_AVERAGE_WORDS_LEN_P, 6, GLOBAL_AVERAGE_WORDS_LEN_N,
+                                           "Average words length")
+
+    plot_lexical_analysis_results_one_plot(GLOBAL_NOUN_VERB_P, 1, GLOBAL_NOUN_VERB_N, "Noun/Verb ratio")
+    plot_lexical_analysis_results_one_plot(GLOBAL_PRONOUN_NOUN_P, 1, GLOBAL_PRONOUN_NOUN_N, "Pronoun/Noun ratio")
 
 def start_lexical_analysis():
     print("*******************************************")
     print(" Starting Lexical Analysis ")
 
-    read_tagged_files()
+    read_tagged_files("P", PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
+
+    print(" Finished reading P files ")
+
+    read_tagged_files("N", PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
+
+    print(" Finished reading N files ")
+
+    read_results("P", PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
+
+    print(" Finished reading P results ")
+
+    read_results("N", PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
+
+    print(" Finished reading N results")
+
+    draw_graphs_for_lexical_statistics()
+    print("Draw graphs finished")
+
+
 
     print("*******************************************")
     print(" Ending Lexical Analysis ")

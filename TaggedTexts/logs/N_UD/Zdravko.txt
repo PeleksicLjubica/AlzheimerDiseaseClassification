@@ -1,0 +1,46 @@
+Zdravko
+------------------------------------------------
+number_of_words: 1725
+average_words_length: 3.7159420289855074
+vocabulary: 464
+vocabulary spoken once: 294
+------------------------------------------------
+Type token ratio: 0.2689855072463768
+Brunet's Index: 14.971781453843226
+Honore's Statistic: 2034.2257652188077
+------------------------------------------------
+number of nouns: 320
+number of verbs: 226
+number of adjectives: 75
+number of adverbs: 165
+number of punct: 392
+number of aux: 158
+number of det: 67
+number of part: 89
+number of cconj: 88
+number of sconj: 57
+number of propn: 71
+number of pronn: 59
+number of x: 20
+number of adp: 79
+number of num: 12
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 249.04115942028986
+number of verbs normalized:: 0.1310144927536232
+number of adjectives normalized:: 0.043478260869565216
+number of adverbs normalized:: 0.09565217391304348
+number of aux normalized:: 0.09159420289855072
+number of det normalized:: 0.03884057971014493
+number of part normalized:: 0.051594202898550726
+number of cconj normalized:: 0.051014492753623186
+number of sconj normalized:: 0.03304347826086956
+number of propn normalized:: 0.04115942028985507
+number of pronn normalized:: 0.034202898550724635
+number of adp normalized:: 0.04579710144927536
+number of num normalized:: 0.006956521739130435
+number of intj normalized:: 0.0005797101449275362
+Ratios ------------------------------------------------
+ratio noun to verb: 1.1017699115044248
+ratio pronoun to verb: 0.2610619469026549
+ratio pronoun to noun: 0.23694779116465864

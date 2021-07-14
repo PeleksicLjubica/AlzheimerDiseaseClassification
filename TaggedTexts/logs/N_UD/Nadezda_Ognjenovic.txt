@@ -1,0 +1,46 @@
+Nadezda_Ognjenovic
+------------------------------------------------
+number_of_words: 2441
+average_words_length: 3.4367062679229825
+vocabulary: 508
+vocabulary spoken once: 287
+------------------------------------------------
+Type token ratio: 0.20811142974190905
+Brunet's Index: 16.28436371657547
+Honore's Statistic: 1792.9786605247168
+------------------------------------------------
+number of nouns: 426
+number of verbs: 380
+number of adjectives: 64
+number of adverbs: 187
+number of punct: 579
+number of aux: 230
+number of det: 75
+number of part: 93
+number of cconj: 93
+number of sconj: 122
+number of propn: 108
+number of pronn: 167
+number of x: 36
+number of adp: 92
+number of num: 25
+number of intj: 5
+Normalized ------------------------------------------------
+number of nouns normalized: 318.0442441622286
+number of verbs normalized:: 0.1556739041376485
+number of adjectives normalized:: 0.026218762802130275
+number of adverbs normalized:: 0.0766079475624744
+number of aux normalized:: 0.09422367882015567
+number of det normalized:: 0.030725112658746414
+number of part normalized:: 0.03809913969684556
+number of cconj normalized:: 0.03809913969684556
+number of sconj normalized:: 0.04997951659156084
+number of propn normalized:: 0.04424416222859484
+number of pronn normalized:: 0.06841458418680868
+number of adp normalized:: 0.03768947152806227
+number of num normalized:: 0.010241704219582138
+number of intj normalized:: 0.0020483408439164277
+Ratios ------------------------------------------------
+ratio noun to verb: 0.8368421052631579
+ratio pronoun to verb: 0.4394736842105263
+ratio pronoun to noun: 0.5251572327044025

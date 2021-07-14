@@ -1,0 +1,46 @@
+Dušanka_Kovačević
+------------------------------------------------
+number_of_words: 7230
+average_words_length: 3.2791147994467496
+vocabulary: 1032
+vocabulary spoken once: 583
+------------------------------------------------
+Type token ratio: 0.14273858921161825
+Brunet's Index: 16.908242801966146
+Honore's Statistic: 2042.3933481598442
+------------------------------------------------
+number of nouns: 914
+number of verbs: 919
+number of adjectives: 227
+number of adverbs: 549
+number of punct: 2132
+number of aux: 464
+number of det: 349
+number of part: 302
+number of cconj: 370
+number of sconj: 354
+number of propn: 147
+number of pronn: 487
+number of x: 20
+number of adp: 283
+number of num: 102
+number of intj: 7
+Normalized ------------------------------------------------
+number of nouns normalized: 767.0203319502075
+number of verbs normalized:: 0.12710926694329183
+number of adjectives normalized:: 0.0313969571230982
+number of adverbs normalized:: 0.07593360995850622
+number of aux normalized:: 0.06417704011065006
+number of det normalized:: 0.04827109266943292
+number of part normalized:: 0.04177040110650069
+number of cconj normalized:: 0.051175656984785614
+number of sconj normalized:: 0.04896265560165975
+number of propn normalized:: 0.02033195020746888
+number of pronn normalized:: 0.0673582295988935
+number of adp normalized:: 0.03914246196403873
+number of num normalized:: 0.014107883817427386
+number of intj normalized:: 0.0009681881051175657
+Ratios ------------------------------------------------
+ratio noun to verb: 0.8346028291621328
+ratio pronoun to verb: 0.529923830250272
+ratio pronoun to noun: 0.6349413298565841

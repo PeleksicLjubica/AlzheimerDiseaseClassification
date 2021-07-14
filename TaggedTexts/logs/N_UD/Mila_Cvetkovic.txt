@@ -1,0 +1,46 @@
+Mila_Cvetkovic
+------------------------------------------------
+number_of_words: 2308
+average_words_length: 3.4467071057192373
+vocabulary: 481
+vocabulary spoken once: 284
+------------------------------------------------
+Type token ratio: 0.2084055459272097
+Brunet's Index: 16.36655272082643
+Honore's Statistic: 1890.8272679639917
+------------------------------------------------
+number of nouns: 377
+number of verbs: 270
+number of adjectives: 83
+number of adverbs: 178
+number of punct: 644
+number of aux: 218
+number of det: 108
+number of part: 72
+number of cconj: 91
+number of sconj: 82
+number of propn: 81
+number of pronn: 145
+number of x: 12
+number of adp: 104
+number of num: 60
+number of intj: 5
+Normalized ------------------------------------------------
+number of nouns normalized: 296.0350953206239
+number of verbs normalized:: 0.1169844020797227
+number of adjectives normalized:: 0.03596187175043328
+number of adverbs normalized:: 0.07712305025996534
+number of aux normalized:: 0.09445407279029462
+number of det normalized:: 0.04679376083188908
+number of part normalized:: 0.03119584055459272
+number of cconj normalized:: 0.039428076256499134
+number of sconj normalized:: 0.03552859618717504
+number of propn normalized:: 0.03509532062391681
+number of pronn normalized:: 0.06282495667244367
+number of adp normalized:: 0.045060658578856154
+number of num normalized:: 0.025996533795493933
+number of intj normalized:: 0.002166377816291161
+Ratios ------------------------------------------------
+ratio noun to verb: 1.0962962962962963
+ratio pronoun to verb: 0.5370370370370371
+ratio pronoun to noun: 0.48986486486486486

@@ -1,0 +1,46 @@
+Ognjenka_Ivanovi─ç
+------------------------------------------------
+number_of_words: 6714
+average_words_length: 3.4730414060172774
+vocabulary: 1043
+vocabulary spoken once: 603
+------------------------------------------------
+Type token ratio: 0.15534703604408698
+Brunet's Index: 16.433740981655212
+Honore's Statistic: 2088.8327352668634
+------------------------------------------------
+number of nouns: 1181
+number of verbs: 800
+number of adjectives: 260
+number of adverbs: 503
+number of punct: 1843
+number of aux: 518
+number of det: 325
+number of part: 257
+number of cconj: 247
+number of sconj: 324
+number of propn: 282
+number of pronn: 412
+number of x: 64
+number of adp: 246
+number of num: 87
+number of intj: 16
+Normalized ------------------------------------------------
+number of nouns normalized: 899.0420017873101
+number of verbs normalized:: 0.11915400655347036
+number of adjectives normalized:: 0.03872505212987787
+number of adverbs normalized:: 0.07491808162049449
+number of aux normalized:: 0.07715221924337205
+number of det normalized:: 0.048406315162347335
+number of part normalized:: 0.038278224605302356
+number of cconj normalized:: 0.03678879952338397
+number of sconj normalized:: 0.04825737265415549
+number of propn normalized:: 0.0420017873100983
+number of pronn normalized:: 0.061364313375037234
+number of adp normalized:: 0.03663985701519214
+number of num normalized:: 0.012957998212689902
+number of intj normalized:: 0.002383080131069407
+Ratios ------------------------------------------------
+ratio noun to verb: 1.12375
+ratio pronoun to verb: 0.515
+ratio pronoun to noun: 0.4582869855394883

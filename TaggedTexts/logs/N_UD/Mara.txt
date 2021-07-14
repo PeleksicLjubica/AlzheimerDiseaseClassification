@@ -1,0 +1,46 @@
+Mara
+------------------------------------------------
+number_of_words: 2750
+average_words_length: 3.436
+vocabulary: 547
+vocabulary spoken once: 309
+------------------------------------------------
+Type token ratio: 0.1989090909090909
+Brunet's Index: 16.41964455040129
+Honore's Statistic: 1820.1209396182173
+------------------------------------------------
+number of nouns: 417
+number of verbs: 337
+number of adjectives: 101
+number of adverbs: 276
+number of punct: 692
+number of aux: 227
+number of det: 96
+number of part: 123
+number of cconj: 140
+number of sconj: 120
+number of propn: 84
+number of pronn: 147
+number of x: 42
+number of adp: 113
+number of num: 31
+number of intj: 3
+Normalized ------------------------------------------------
+number of nouns normalized: 333.03054545454546
+number of verbs normalized:: 0.12254545454545454
+number of adjectives normalized:: 0.036727272727272726
+number of adverbs normalized:: 0.10036363636363636
+number of aux normalized:: 0.08254545454545455
+number of det normalized:: 0.03490909090909091
+number of part normalized:: 0.04472727272727273
+number of cconj normalized:: 0.05090909090909091
+number of sconj normalized:: 0.04363636363636364
+number of propn normalized:: 0.030545454545454546
+number of pronn normalized:: 0.053454545454545456
+number of adp normalized:: 0.04109090909090909
+number of num normalized:: 0.011272727272727273
+number of intj normalized:: 0.001090909090909091
+Ratios ------------------------------------------------
+ratio noun to verb: 0.9881305637982196
+ratio pronoun to verb: 0.4362017804154303
+ratio pronoun to noun: 0.44144144144144143

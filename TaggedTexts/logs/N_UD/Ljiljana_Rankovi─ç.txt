@@ -1,0 +1,46 @@
+Ljiljana_Rankovi─ç
+------------------------------------------------
+number_of_words: 4384
+average_words_length: 3.6304744525547443
+vocabulary: 765
+vocabulary spoken once: 425
+------------------------------------------------
+Type token ratio: 0.17449817518248176
+Brunet's Index: 16.50608572348973
+Honore's Statistic: 1886.7862864412666
+------------------------------------------------
+number of nouns: 622
+number of verbs: 515
+number of adjectives: 162
+number of adverbs: 436
+number of punct: 1035
+number of aux: 409
+number of det: 240
+number of part: 156
+number of cconj: 224
+number of sconj: 241
+number of propn: 111
+number of pronn: 230
+number of x: 14
+number of adp: 207
+number of num: 64
+number of intj: 4
+Normalized ------------------------------------------------
+number of nouns normalized: 511.0253193430657
+number of verbs normalized:: 0.11747262773722628
+number of adjectives normalized:: 0.03695255474452555
+number of adverbs normalized:: 0.09945255474452555
+number of aux normalized:: 0.09329379562043795
+number of det normalized:: 0.05474452554744526
+number of part normalized:: 0.035583941605839414
+number of cconj normalized:: 0.051094890510948905
+number of sconj normalized:: 0.054972627737226276
+number of propn normalized:: 0.02531934306569343
+number of pronn normalized:: 0.052463503649635035
+number of adp normalized:: 0.047217153284671534
+number of num normalized:: 0.014598540145985401
+number of intj normalized:: 0.0009124087591240876
+Ratios ------------------------------------------------
+ratio noun to verb: 0.9922330097087378
+ratio pronoun to verb: 0.44660194174757284
+ratio pronoun to noun: 0.4500978473581213

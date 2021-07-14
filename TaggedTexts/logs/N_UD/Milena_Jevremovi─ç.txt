@@ -1,0 +1,46 @@
+Milena_Jevremovi─ç
+------------------------------------------------
+number_of_words: 1438
+average_words_length: 3.3866481223922116
+vocabulary: 334
+vocabulary spoken once: 196
+------------------------------------------------
+Type token ratio: 0.23226703755215578
+Brunet's Index: 16.236367219475614
+Honore's Statistic: 1759.7948201346749
+------------------------------------------------
+number of nouns: 346
+number of verbs: 137
+number of adjectives: 64
+number of adverbs: 132
+number of punct: 420
+number of aux: 89
+number of det: 49
+number of part: 48
+number of cconj: 57
+number of sconj: 56
+number of propn: 108
+number of pronn: 58
+number of x: 31
+number of adp: 58
+number of num: 7
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 238.0751043115438
+number of verbs normalized:: 0.0952712100139082
+number of adjectives normalized:: 0.04450625869262865
+number of adverbs normalized:: 0.0917941585535466
+number of aux normalized:: 0.061891515994436715
+number of det normalized:: 0.034075104311543813
+number of part normalized:: 0.03337969401947149
+number of cconj normalized:: 0.039638386648122394
+number of sconj normalized:: 0.03894297635605007
+number of propn normalized:: 0.07510431154381085
+number of pronn normalized:: 0.04033379694019471
+number of adp normalized:: 0.04033379694019471
+number of num normalized:: 0.004867872044506259
+number of intj normalized:: 0.0006954102920723226
+Ratios ------------------------------------------------
+ratio noun to verb: 1.7372262773722629
+ratio pronoun to verb: 0.4233576642335766
+ratio pronoun to noun: 0.24369747899159663

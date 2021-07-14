@@ -1,0 +1,46 @@
+Milica_Milosavljevic
+------------------------------------------------
+number_of_words: 4634
+average_words_length: 3.58372895986189
+vocabulary: 721
+vocabulary spoken once: 363
+------------------------------------------------
+Type token ratio: 0.1555891238670695
+Brunet's Index: 17.28764134807129
+Honore's Statistic: 1700.0244925417499
+------------------------------------------------
+number of nouns: 801
+number of verbs: 648
+number of adjectives: 142
+number of adverbs: 402
+number of punct: 969
+number of aux: 444
+number of det: 181
+number of part: 182
+number of cconj: 182
+number of sconj: 256
+number of propn: 154
+number of pronn: 298
+number of x: 40
+number of adp: 241
+number of num: 49
+number of intj: 2
+Normalized ------------------------------------------------
+number of nouns normalized: 647.0332326283988
+number of verbs normalized:: 0.13983599482088907
+number of adjectives normalized:: 0.030643072939145446
+number of adverbs normalized:: 0.08675010789814415
+number of aux normalized:: 0.09581355200690549
+number of det normalized:: 0.03905912818299525
+number of part normalized:: 0.03927492447129909
+number of cconj normalized:: 0.03927492447129909
+number of sconj normalized:: 0.05524384980578334
+number of propn normalized:: 0.03323262839879154
+number of pronn normalized:: 0.06430729391454466
+number of adp normalized:: 0.052006905481225725
+number of num normalized:: 0.010574018126888218
+number of intj normalized:: 0.00043159257660768235
+Ratios ------------------------------------------------
+ratio noun to verb: 0.9984567901234568
+ratio pronoun to verb: 0.45987654320987653
+ratio pronoun to noun: 0.4605873261205564

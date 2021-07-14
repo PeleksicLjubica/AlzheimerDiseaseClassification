@@ -1,0 +1,46 @@
+Milanovi─ç_Vera
+------------------------------------------------
+number_of_words: 2050
+average_words_length: 3.270243902439024
+vocabulary: 398
+vocabulary spoken once: 204
+------------------------------------------------
+Type token ratio: 0.19414634146341464
+Brunet's Index: 17.112933355138594
+Honore's Statistic: 1564.4262055199567
+------------------------------------------------
+number of nouns: 417
+number of verbs: 236
+number of adjectives: 65
+number of adverbs: 191
+number of punct: 595
+number of aux: 174
+number of det: 62
+number of part: 86
+number of cconj: 67
+number of sconj: 71
+number of propn: 127
+number of pronn: 83
+number of x: 40
+number of adp: 89
+number of num: 34
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 290.0619512195122
+number of verbs normalized:: 0.1151219512195122
+number of adjectives normalized:: 0.03170731707317073
+number of adverbs normalized:: 0.09317073170731707
+number of aux normalized:: 0.08487804878048781
+number of det normalized:: 0.03024390243902439
+number of part normalized:: 0.041951219512195125
+number of cconj normalized:: 0.032682926829268294
+number of sconj normalized:: 0.03463414634146342
+number of propn normalized:: 0.06195121951219512
+number of pronn normalized:: 0.04048780487804878
+number of adp normalized:: 0.04341463414634146
+number of num normalized:: 0.016585365853658537
+number of intj normalized:: 0.0004878048780487805
+Ratios ------------------------------------------------
+ratio noun to verb: 1.228813559322034
+ratio pronoun to verb: 0.3516949152542373
+ratio pronoun to noun: 0.28620689655172415

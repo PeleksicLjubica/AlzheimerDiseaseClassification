@@ -1,0 +1,46 @@
+Nikola_Polovina
+------------------------------------------------
+number_of_words: 631
+average_words_length: 3.786053882725832
+vocabulary: 240
+vocabulary spoken once: 174
+------------------------------------------------
+Type token ratio: 0.3803486529318542
+Brunet's Index: 13.599288807987701
+Honore's Statistic: 2344.474859105895
+------------------------------------------------
+number of nouns: 138
+number of verbs: 75
+number of adjectives: 42
+number of adverbs: 47
+number of punct: 170
+number of aux: 58
+number of det: 19
+number of part: 27
+number of cconj: 23
+number of sconj: 12
+number of propn: 29
+number of pronn: 12
+number of x: 0
+number of adp: 37
+number of num: 14
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 109.0459587955626
+number of verbs normalized:: 0.11885895404120443
+number of adjectives normalized:: 0.06656101426307448
+number of adverbs normalized:: 0.07448494453248812
+number of aux normalized:: 0.0919175911251981
+number of det normalized:: 0.030110935023771792
+number of part normalized:: 0.042789223454833596
+number of cconj normalized:: 0.03645007923930269
+number of sconj normalized:: 0.01901743264659271
+number of propn normalized:: 0.04595879556259905
+number of pronn normalized:: 0.01901743264659271
+number of adp normalized:: 0.058637083993660855
+number of num normalized:: 0.022187004754358162
+number of intj normalized:: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 1.4533333333333334
+ratio pronoun to verb: 0.16
+ratio pronoun to noun: 0.11009174311926606
