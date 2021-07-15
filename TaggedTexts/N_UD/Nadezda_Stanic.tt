@@ -1,12 +1,4 @@
-﻿	PUNCT	﻿
-[	PUNCT	[
-Kako	ADV	kako
-je	AUX	jesam
-Vaše	ADJ	Vaše
-ime	NOUN	ime
-?	PUNCT	?
-]	PUNCT	]
-{	PUNCT	{
+﻿{	PUNCT	{
 Nadežda	PROPN	Nadežda
 }	PUNCT	}
 Staniš	PROPN	Staniš
@@ -6407,7 +6399,7 @@ kod	ADP	kod
 te	DET	taj
 kume	NOUN	kum
 ,	PUNCT	,
-10	NUM	@card@
+10	NUM	10
 dana	NOUN	dan
 i	CCONJ	i
 onda	SCONJ	onda

@@ -1,13 +1,13 @@
 Ifeta
 ------------------------------------------------
-number_of_words: 1762
-average_words_length: 3.369466515323496
+number_of_words: 1269
+average_words_length: 4.498029944838455
 vocabulary: 389
 vocabulary spoken once: 209
 ------------------------------------------------
-Type token ratio: 0.22077185017026107
-Brunet's Index: 16.345949157623817
-Honore's Statistic: 1615.2587054038845
+Type token ratio: 0.3065405831363278
+Brunet's Index: 14.458550550182387
+Honore's Statistic: 1544.326643300498
 ------------------------------------------------
 number of nouns: 318
 number of verbs: 227
@@ -26,21 +26,21 @@ number of adp: 111
 number of num: 15
 number of intj: 4
 Normalized ------------------------------------------------
-number of nouns normalized: 252.03745743473326
-number of verbs normalized:: 0.12883087400681045
-number of adjectives normalized:: 0.0340522133938706
-number of adverbs normalized:: 0.04880817253121453
-number of aux normalized:: 0.0891032917139614
-number of det normalized:: 0.03348467650397276
-number of part normalized:: 0.03575482406356413
-number of cconj normalized:: 0.034619750283768444
-number of sconj normalized:: 0.04426787741203178
-number of propn normalized:: 0.03745743473325766
-number of pronn normalized:: 0.05448354143019296
-number of adp normalized:: 0.06299659477866061
-number of num normalized:: 0.00851305334846765
-number of intj normalized:: 0.0022701475595913734
+number of nouns normalized: 0.25059101654846333
+number of verbs normalized:: 0.30260047281323876
+number of adjectives normalized: 0.04728132387706856
+number of adverbs normalized: 0.0677698975571316
+number of aux normalized: 0.12371946414499606
+number of det normalized: 0.046493301812450746
+number of part normalized: 0.04964539007092199
+number of cconj normalized: 0.04806934594168637
+number of sconj normalized: 0.061465721040189124
+number of propn normalized: 0.05200945626477541
+number of pronn normalized: 0.07565011820330969
+number of adp normalized: 0.08747044917257683
+number of num normalized: 0.01182033096926714
+number of intj normalized: 0.0031520882584712374
 Ratios ------------------------------------------------
-ratio noun to verb: 1.1101321585903083
-ratio pronoun to verb: 0.42290748898678415
-ratio pronoun to noun: 0.38095238095238093
+ratio noun to verb: 0.828125
+ratio pronoun to verb: 0.25
+ratio pronoun to noun: 0.3018867924528302

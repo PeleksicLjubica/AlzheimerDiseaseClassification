@@ -19448,7 +19448,7 @@ match_obj.group(1) : }
 match_obj.group(2) : PUNCT
 match_obj.group(3) : }
 match_obj.group(1) : Ja
-match_obj.group(2) : VERB
+match_obj.group(2) : ADV
 match_obj.group(3) : Ja
 match_obj.group(1) : sam
 match_obj.group(2) : AUX

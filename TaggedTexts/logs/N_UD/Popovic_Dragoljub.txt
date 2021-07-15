@@ -1,13 +1,13 @@
 Popovic_Dragoljub
 ------------------------------------------------
-number_of_words: 431
-average_words_length: 3.496519721577726
+number_of_words: 259
+average_words_length: 5.814671814671815
 vocabulary: 140
 vocabulary spoken once: 99
 ------------------------------------------------
-Type token ratio: 0.3248259860788863
-Brunet's Index: 14.645044499713471
-Honore's Statistic: 2071.3539819866455
+Type token ratio: 0.5405405405405406
+Brunet's Index: 11.690286316400705
+Honore's Statistic: 1897.4534844827692
 ------------------------------------------------
 number of nouns: 135
 number of verbs: 35
@@ -26,21 +26,21 @@ number of adp: 9
 number of num: 4
 number of intj: 0
 Normalized ------------------------------------------------
-number of nouns normalized: 86.11368909512761
-number of verbs normalized:: 0.08120649651972157
-number of adjectives normalized:: 0.05336426914153132
-number of adverbs normalized:: 0.07192575406032482
-number of aux normalized:: 0.03248259860788863
-number of det normalized:: 0.025522041763341066
-number of part normalized:: 0.04176334106728538
-number of cconj normalized:: 0.03480278422273782
-number of sconj normalized:: 0.009280742459396751
-number of propn normalized:: 0.1136890951276102
-number of pronn normalized:: 0.02088167053364269
-number of adp normalized:: 0.02088167053364269
-number of num normalized:: 0.009280742459396751
-number of intj normalized:: 0.0
+number of nouns normalized: 0.5212355212355212
+number of verbs normalized:: 0.1891891891891892
+number of adjectives normalized: 0.0888030888030888
+number of adverbs normalized: 0.11969111969111969
+number of aux normalized: 0.05405405405405406
+number of det normalized: 0.04247104247104247
+number of part normalized: 0.0694980694980695
+number of cconj normalized: 0.05791505791505792
+number of sconj normalized: 0.015444015444015444
+number of propn normalized: 0.1891891891891892
+number of pronn normalized: 0.03474903474903475
+number of adp normalized: 0.03474903474903475
+number of num normalized: 0.015444015444015444
+number of intj normalized: 0.0
 Ratios ------------------------------------------------
-ratio noun to verb: 2.4571428571428573
-ratio pronoun to verb: 0.2571428571428571
-ratio pronoun to noun: 0.10465116279069768
+ratio noun to verb: 2.7551020408163267
+ratio pronoun to verb: 0.1836734693877551
+ratio pronoun to noun: 0.06666666666666667

@@ -1,149 +1,108 @@
-{maca}
 Šta sam radila?
 
-{maca}
 Zima, kakva zima. Kad smo mi ma ovaj...
 
-{maca}
 Ja ja ja...
 
-{maca}
 A ja sam ništa, ništa, a vidi koju on...
 
-{maca}
 Pogledaj koju on...
 
-{maca}
-A video te je jel?_Mile pile. Maalo, malo, malo.
+A video te je jel? Mile pile. Maalo, malo, malo.
 
-{maca}
 Nećemo.
 
-{maca}
 Tragedija velika.
 
-{maca}
 Ništa, jao gospode.
 
-{maca}
 Ijao bože.
 
-{maca}
 Ijao... I tako je i bilo.
 
-{maca}
 Ijaoo.
 
-{maca}
 Ijaao.
 
-{maca}
 Ijaao Bože.
 
-{maca}
 Ijao bože. Šta smo sve prebrodili
 
-{maca}
 Ijao Bože
 
-{maca}
 Strašno.
 
-{maca}
 Šta?
 
-{maca}
 Ja imam... Kolko imam dece?
 
-{maca}
 Dece? Jedno dete.
 
-{maca}
 Natašu moju.
 
-{maca}
-Nataša ima_dvoje dece.
+Nataša ima dvoje dece.
 
-{maca}
 Da. Milicu i Lazara.
 
-{maca}
 Bave se sa...
 
-{maca}
 I jezike i sport i... Ma sve.
 
-{maca}
 Pa, Milica ima ovaj sad šesnaest...
 
-{maca}
 A lepa je ko lutka. Visoka, a...
 
-{maca}
 A Lazar je malo manji a ja više i volim Lazara on je tako mali.
 
-{maca}
 Niži je došta od Milice. Milica je visoka...
 
-{maca}
 I ovaj eto to.
 
-{maca}
 Jesmo.
 
-{maca}
 Jaoj Bože.
 
-{maca}
 Biće biće.
 
-{maca}
 Lepo ime.
 
-{maca}
 Ilija.
 
-{maca}
 Ovaj...
 
-{maca}
 Pa, tu negde.
 
-{maca}
 Ja sam iz Sivca. Sivac Nov. Ima Sivac Novi i Sivac Stari.
 
-{maca}
 Aa tako.
 
-{maca}
 Ju ju.
 
-{maca}
 Jao.
 
-{maca}
 Ju ne daj Bože.
 
-{maca}
 Ajao.
 
-{maca}
 Dva muškarca.
 
-{maca}
 Milan i Bratislav.
 
-{maca}
 Mara.
 
-{maca}
 Beba.
 
-{maca}
 Maja, da.
 
-{maca}
 I žive s Vama, žive kod Vas?
 
-{maca}
 Pa fino.
+
+Jao slatki.
+
+Jel devojčicu?
+
+Ako je unuka onda je devojčica.
+
+Da.
+

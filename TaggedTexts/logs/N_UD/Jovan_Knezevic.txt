@@ -1,19 +1,19 @@
 Jovan_Knezevic
 ------------------------------------------------
-number_of_words: 1088
-average_words_length: 4.447610294117647
-vocabulary: 432
-vocabulary spoken once: 298
+number_of_words: 972
+average_words_length: 4.825102880658436
+vocabulary: 434
+vocabulary spoken once: 300
 ------------------------------------------------
-Type token ratio: 0.39705882352941174
-Brunet's Index: 13.051876213671795
-Honore's Statistic: 2254.1684004803456
+Type token ratio: 0.44650205761316875
+Brunet's Index: 12.498202911642297
+Honore's Statistic: 2228.089865026739
 ------------------------------------------------
 number of nouns: 318
 number of verbs: 117
 number of adjectives: 90
 number of adverbs: 67
-number of punct: 151
+number of punct: 154
 number of aux: 102
 number of det: 66
 number of part: 26
@@ -23,24 +23,24 @@ number of propn: 60
 number of pronn: 36
 number of x: 0
 number of adp: 71
-number of num: 33
+number of num: 35
 number of intj: 0
 Normalized ------------------------------------------------
-number of nouns normalized: 258.05514705882354
-number of verbs normalized:: 0.10753676470588236
-number of adjectives normalized:: 0.08272058823529412
-number of adverbs normalized:: 0.06158088235294118
-number of aux normalized:: 0.09375
-number of det normalized:: 0.06066176470588235
-number of part normalized:: 0.02389705882352941
-number of cconj normalized:: 0.050551470588235295
-number of sconj normalized:: 0.04503676470588235
-number of propn normalized:: 0.05514705882352941
-number of pronn normalized:: 0.03308823529411765
-number of adp normalized:: 0.06525735294117647
-number of num normalized:: 0.030330882352941176
-number of intj normalized:: 0.0
+number of nouns normalized: 0.3271604938271605
+number of verbs normalized:: 0.22530864197530864
+number of adjectives normalized: 0.09259259259259259
+number of adverbs normalized: 0.06893004115226338
+number of aux normalized: 0.10493827160493827
+number of det normalized: 0.06790123456790123
+number of part normalized: 0.026748971193415638
+number of cconj normalized: 0.056584362139917695
+number of sconj normalized: 0.050411522633744855
+number of propn normalized: 0.06172839506172839
+number of pronn normalized: 0.037037037037037035
+number of adp normalized: 0.07304526748971193
+number of num normalized: 0.0360082304526749
+number of intj normalized: 0.0
 Ratios ------------------------------------------------
-ratio noun to verb: 2.2051282051282053
-ratio pronoun to verb: 0.3076923076923077
-ratio pronoun to noun: 0.13953488372093023
+ratio noun to verb: 1.452054794520548
+ratio pronoun to verb: 0.1643835616438356
+ratio pronoun to noun: 0.11320754716981132

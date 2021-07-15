@@ -1,13 +1,13 @@
 Milorad_Ignjatovic
 ------------------------------------------------
-number_of_words: 2143
-average_words_length: 2.916472235184321
-vocabulary: 408
-vocabulary spoken once: 230
+number_of_words: 1329
+average_words_length: 4.469525959367946
+vocabulary: 410
+vocabulary spoken once: 232
 ------------------------------------------------
-Type token ratio: 0.19038730751283248
-Brunet's Index: 17.196152563424736
-Honore's Statistic: 1758.0587045804605
+Type token ratio: 0.308502633559067
+Brunet's Index: 14.372722482995231
+Honore's Statistic: 1656.6262045350734
 ------------------------------------------------
 number of nouns: 325
 number of verbs: 217
@@ -23,24 +23,24 @@ number of propn: 72
 number of pronn: 91
 number of x: 25
 number of adp: 79
-number of num: 23
+number of num: 25
 number of intj: 3
 Normalized ------------------------------------------------
-number of nouns normalized: 253.03359776014932
-number of verbs normalized:: 0.10125991600559962
-number of adjectives normalized:: 0.02333177788147457
-number of adverbs normalized:: 0.07932804479701354
-number of aux normalized:: 0.06439570695286981
-number of det normalized:: 0.03173121791880541
-number of part normalized:: 0.03593093793747083
-number of cconj normalized:: 0.042463835744283716
-number of sconj normalized:: 0.03126458236117592
-number of propn normalized:: 0.03359776014932338
-number of pronn normalized:: 0.042463835744283716
-number of adp normalized:: 0.036864209052729816
-number of num normalized:: 0.010732617825478302
-number of intj normalized:: 0.0013999066728884741
+number of nouns normalized: 0.24454477050413845
+number of verbs normalized:: 0.2671181339352897
+number of adjectives normalized: 0.03762227238525207
+number of adverbs normalized: 0.12791572610985705
+number of aux normalized: 0.1038374717832957
+number of det normalized: 0.051166290443942816
+number of part normalized: 0.057938299473288185
+number of cconj normalized: 0.06847253574115876
+number of sconj normalized: 0.05041384499623777
+number of propn normalized: 0.05417607223476298
+number of pronn normalized: 0.06847253574115876
+number of adp normalized: 0.059443190368698266
+number of num normalized: 0.018811136192626036
+number of intj normalized: 0.002257336343115124
 Ratios ------------------------------------------------
-ratio noun to verb: 1.1658986175115207
-ratio pronoun to verb: 0.41935483870967744
-ratio pronoun to noun: 0.35968379446640314
+ratio noun to verb: 0.9154929577464789
+ratio pronoun to verb: 0.2563380281690141
+ratio pronoun to noun: 0.28

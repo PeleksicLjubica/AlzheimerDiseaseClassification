@@ -1,13 +1,13 @@
 Rada
 ------------------------------------------------
-number_of_words: 4204
-average_words_length: 3.2695052331113224
+number_of_words: 3134
+average_words_length: 4.0890236119974475
 vocabulary: 517
 vocabulary spoken once: 248
 ------------------------------------------------
-Type token ratio: 0.12297811607992389
-Brunet's Index: 19.60983927923116
-Honore's Statistic: 1603.6209388261589
+Type token ratio: 0.16496490108487555
+Brunet's Index: 17.65936570701658
+Honore's Statistic: 1547.168707675671
 ------------------------------------------------
 number of nouns: 444
 number of verbs: 487
@@ -26,21 +26,21 @@ number of adp: 114
 number of num: 23
 number of intj: 4
 Normalized ------------------------------------------------
-number of nouns normalized: 377.01593720266413
-number of verbs normalized:: 0.11584205518553758
-number of adjectives normalized:: 0.026165556612749764
-number of adverbs normalized:: 0.11465271170313987
-number of aux normalized:: 0.10799238820171266
-number of det normalized:: 0.06470028544243578
-number of part normalized:: 0.043292102759276876
-number of cconj normalized:: 0.04971455756422455
-number of sconj normalized:: 0.0356803044719315
-number of propn normalized:: 0.015937202664129402
-number of pronn normalized:: 0.06422454804947669
-number of adp normalized:: 0.027117031398667935
-number of num normalized:: 0.005470980019029496
-number of intj normalized:: 0.0009514747859181732
+number of nouns normalized: 0.14167198468410977
+number of verbs normalized:: 0.30025526483726867
+number of adjectives normalized: 0.03509891512444161
+number of adverbs normalized: 0.1537970644543714
+number of aux normalized: 0.14486279514996808
+number of det normalized: 0.08679004467134652
+number of part normalized: 0.05807275047862157
+number of cconj normalized: 0.06668793873643905
+number of sconj normalized: 0.047862156987874924
+number of propn normalized: 0.021378430121250798
+number of pronn normalized: 0.08615188257817485
+number of adp normalized: 0.036375239310784936
+number of num normalized: 0.007338864071474154
+number of intj normalized: 0.0012763241863433313
 Ratios ------------------------------------------------
-ratio noun to verb: 0.7741273100616016
-ratio pronoun to verb: 0.5544147843942505
-ratio pronoun to noun: 0.7161803713527851
+ratio noun to verb: 0.4718384697130712
+ratio pronoun to verb: 0.2869287991498406
+ratio pronoun to noun: 0.6081081081081081

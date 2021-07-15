@@ -1,13 +1,13 @@
 Mirjana_Obican
 ------------------------------------------------
-number_of_words: 12511
-average_words_length: 3.737510990328511
+number_of_words: 9999
+average_words_length: 4.4408440844084405
 vocabulary: 1636
 vocabulary spoken once: 872
 ------------------------------------------------
-Type token ratio: 0.13076492686435937
-Brunet's Index: 16.15969914465671
-Honore's Statistic: 2020.2380556826267
+Type token ratio: 0.1636163616361636
+Brunet's Index: 15.12605500054856
+Honore's Statistic: 1972.2451885304306
 ------------------------------------------------
 number of nouns: 2332
 number of verbs: 1316
@@ -26,21 +26,21 @@ number of adp: 791
 number of num: 162
 number of intj: 17
 Normalized ------------------------------------------------
-number of nouns normalized: 1895.0349292622493
-number of verbs normalized:: 0.10518743505714971
-number of adjectives normalized:: 0.03980497162497003
-number of adverbs normalized:: 0.07409479657901047
-number of aux normalized:: 0.10103109263847813
-number of det normalized:: 0.07057789145551914
-number of part normalized:: 0.029653904563983695
-number of cconj normalized:: 0.05107505395252178
-number of sconj normalized:: 0.051954280233394615
-number of propn normalized:: 0.03492926224922069
-number of pronn normalized:: 0.04683878187195268
-number of adp normalized:: 0.06322436256094636
-number of num normalized:: 0.012948605227399887
-number of intj normalized:: 0.001358804252258013
+number of nouns normalized: 0.23322332233223322
+number of verbs normalized:: 0.25802580258025803
+number of adjectives normalized: 0.04980498049804981
+number of adverbs normalized: 0.0927092709270927
+number of aux normalized: 0.1264126412641264
+number of det normalized: 0.08830883088308832
+number of part normalized: 0.0371037103710371
+number of cconj normalized: 0.0639063906390639
+number of sconj normalized: 0.06500650065006501
+number of propn normalized: 0.043704370437043706
+number of pronn normalized: 0.05860586058605861
+number of adp normalized: 0.07910791079107911
+number of num normalized: 0.016201620162016202
+number of intj normalized: 0.0017001700170017002
 Ratios ------------------------------------------------
-ratio noun to verb: 1.4399696048632218
-ratio pronoun to verb: 0.4452887537993921
-ratio pronoun to noun: 0.3092348284960422
+ratio noun to verb: 0.9038759689922481
+ratio pronoun to verb: 0.22713178294573644
+ratio pronoun to noun: 0.25128644939965694

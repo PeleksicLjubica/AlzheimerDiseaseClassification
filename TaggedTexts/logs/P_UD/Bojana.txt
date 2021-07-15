@@ -1,18 +1,18 @@
 Bojana
 ------------------------------------------------
-number_of_words: 384
-average_words_length: 2.8046875
+number_of_words: 229
+average_words_length: 4.545851528384279
 vocabulary: 98
 vocabulary spoken once: 68
 ------------------------------------------------
-Type token ratio: 0.2552083333333333
-Brunet's Index: 16.32370230265636
-Honore's Statistic: 1943.8765671786575
+Type token ratio: 0.4279475982532751
+Brunet's Index: 12.80747471550924
+Honore's Statistic: 1775.015854494385
 ------------------------------------------------
 number of nouns: 138
-number of verbs: 35
+number of verbs: 34
 number of adjectives: 6
-number of adverbs: 23
+number of adverbs: 24
 number of punct: 153
 number of aux: 16
 number of det: 14
@@ -26,21 +26,21 @@ number of adp: 7
 number of num: 0
 number of intj: 1
 Normalized ------------------------------------------------
-number of nouns normalized: 77.15885416666667
-number of verbs normalized:: 0.09114583333333333
-number of adjectives normalized:: 0.015625
-number of adverbs normalized:: 0.059895833333333336
-number of aux normalized:: 0.041666666666666664
-number of det normalized:: 0.036458333333333336
-number of part normalized:: 0.020833333333333332
-number of cconj normalized:: 0.026041666666666668
-number of sconj normalized:: 0.028645833333333332
-number of propn normalized:: 0.15885416666666666
-number of pronn normalized:: 0.0546875
-number of adp normalized:: 0.018229166666666668
-number of num normalized:: 0.0
-number of intj normalized:: 0.0026041666666666665
+number of nouns normalized: 0.6026200873362445
+number of verbs normalized:: 0.2183406113537118
+number of adjectives normalized: 0.026200873362445413
+number of adverbs normalized: 0.10480349344978165
+number of aux normalized: 0.06986899563318777
+number of det normalized: 0.0611353711790393
+number of part normalized: 0.034934497816593885
+number of cconj normalized: 0.043668122270742356
+number of sconj normalized: 0.048034934497816595
+number of propn normalized: 0.2663755458515284
+number of pronn normalized: 0.09170305676855896
+number of adp normalized: 0.03056768558951965
+number of num normalized: 0.0
+number of intj normalized: 0.004366812227074236
 Ratios ------------------------------------------------
-ratio noun to verb: 2.2
-ratio pronoun to verb: 0.6
-ratio pronoun to noun: 0.2727272727272727
+ratio noun to verb: 2.76
+ratio pronoun to verb: 0.42
+ratio pronoun to noun: 0.15217391304347827

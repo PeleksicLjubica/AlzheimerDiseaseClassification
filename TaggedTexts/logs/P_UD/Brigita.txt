@@ -1,13 +1,13 @@
 Brigita
 ------------------------------------------------
-number_of_words: 18
-average_words_length: 3.0
+number_of_words: 11
+average_words_length: 5.0
 vocabulary: 10
 vocabulary spoken once: 9
 ------------------------------------------------
-Type token ratio: 0.5555555555555556
-Brunet's Index: 7.219306604959188
-Honore's Statistic: 2890.3717578961655
+Type token ratio: 0.9090909090909091
+Brunet's Index: 5.154904058914256
+Honore's Statistic: 2397.8952727983715
 ------------------------------------------------
 number of nouns: 8
 number of verbs: 0
@@ -26,19 +26,19 @@ number of adp: 1
 number of num: 0
 number of intj: 0
 Normalized ------------------------------------------------
-number of nouns normalized: 5.166666666666667
-number of verbs normalized:: 0.0
-number of adjectives normalized:: 0.05555555555555555
-number of adverbs normalized:: 0.05555555555555555
-number of aux normalized:: 0.05555555555555555
-number of det normalized:: 0.0
-number of part normalized:: 0.05555555555555555
-number of cconj normalized:: 0.05555555555555555
-number of sconj normalized:: 0.0
-number of propn normalized:: 0.16666666666666666
-number of pronn normalized:: 0.0
-number of adp normalized:: 0.05555555555555555
-number of num normalized:: 0.0
-number of intj normalized:: 0.0
+number of nouns normalized: 0.7272727272727273
+number of verbs normalized:: 0.09090909090909091
+number of adjectives normalized: 0.09090909090909091
+number of adverbs normalized: 0.09090909090909091
+number of aux normalized: 0.09090909090909091
+number of det normalized: 0.0
+number of part normalized: 0.09090909090909091
+number of cconj normalized: 0.09090909090909091
+number of sconj normalized: 0.0
+number of propn normalized: 0.2727272727272727
+number of pronn normalized: 0.0
+number of adp normalized: 0.09090909090909091
+number of num normalized: 0.0
+number of intj normalized: 0.0
 Ratios ------------------------------------------------
 ratio pronoun to noun: 0.0

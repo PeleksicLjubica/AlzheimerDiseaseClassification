@@ -1,13 +1,13 @@
 Milena_Jevremovic
 ------------------------------------------------
-number_of_words: 1438
-average_words_length: 3.3866481223922116
+number_of_words: 994
+average_words_length: 4.7645875251509056
 vocabulary: 334
 vocabulary spoken once: 196
 ------------------------------------------------
-Type token ratio: 0.23226703755215578
-Brunet's Index: 16.236367219475614
-Honore's Statistic: 1759.7948201346749
+Type token ratio: 0.33601609657947684
+Brunet's Index: 14.093277287197948
+Honore's Statistic: 1670.420454364707
 ------------------------------------------------
 number of nouns: 346
 number of verbs: 137
@@ -26,21 +26,21 @@ number of adp: 58
 number of num: 7
 number of intj: 1
 Normalized ------------------------------------------------
-number of nouns normalized: 238.0751043115438
-number of verbs normalized:: 0.0952712100139082
-number of adjectives normalized:: 0.04450625869262865
-number of adverbs normalized:: 0.0917941585535466
-number of aux normalized:: 0.061891515994436715
-number of det normalized:: 0.034075104311543813
-number of part normalized:: 0.03337969401947149
-number of cconj normalized:: 0.039638386648122394
-number of sconj normalized:: 0.03894297635605007
-number of propn normalized:: 0.07510431154381085
-number of pronn normalized:: 0.04033379694019471
-number of adp normalized:: 0.04033379694019471
-number of num normalized:: 0.004867872044506259
-number of intj normalized:: 0.0006954102920723226
+number of nouns normalized: 0.34808853118712274
+number of verbs normalized:: 0.22736418511066397
+number of adjectives normalized: 0.06438631790744467
+number of adverbs normalized: 0.13279678068410464
+number of aux normalized: 0.08953722334004025
+number of det normalized: 0.04929577464788732
+number of part normalized: 0.0482897384305835
+number of cconj normalized: 0.05734406438631791
+number of sconj normalized: 0.056338028169014086
+number of propn normalized: 0.10865191146881288
+number of pronn normalized: 0.05835010060362173
+number of adp normalized: 0.05835010060362173
+number of num normalized: 0.007042253521126761
+number of intj normalized: 0.001006036217303823
 Ratios ------------------------------------------------
-ratio noun to verb: 1.7372262773722629
-ratio pronoun to verb: 0.4233576642335766
-ratio pronoun to noun: 0.24369747899159663
+ratio noun to verb: 1.5309734513274336
+ratio pronoun to verb: 0.25663716814159293
+ratio pronoun to noun: 0.1676300578034682

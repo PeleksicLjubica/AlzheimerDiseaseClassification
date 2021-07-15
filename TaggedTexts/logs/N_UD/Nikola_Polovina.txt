@@ -1,13 +1,13 @@
 Nikola_Polovina
 ------------------------------------------------
-number_of_words: 631
-average_words_length: 3.786053882725832
-vocabulary: 240
-vocabulary spoken once: 174
+number_of_words: 476
+average_words_length: 4.861344537815126
+vocabulary: 241
+vocabulary spoken once: 175
 ------------------------------------------------
-Type token ratio: 0.3803486529318542
-Brunet's Index: 13.599288807987701
-Honore's Statistic: 2344.474859105895
+Type token ratio: 0.5063025210084033
+Brunet's Index: 12.111930718794708
+Honore's Statistic: 2251.3116710148065
 ------------------------------------------------
 number of nouns: 138
 number of verbs: 75
@@ -23,24 +23,24 @@ number of propn: 29
 number of pronn: 12
 number of x: 0
 number of adp: 37
-number of num: 14
+number of num: 15
 number of intj: 0
 Normalized ------------------------------------------------
-number of nouns normalized: 109.0459587955626
-number of verbs normalized:: 0.11885895404120443
-number of adjectives normalized:: 0.06656101426307448
-number of adverbs normalized:: 0.07448494453248812
-number of aux normalized:: 0.0919175911251981
-number of det normalized:: 0.030110935023771792
-number of part normalized:: 0.042789223454833596
-number of cconj normalized:: 0.03645007923930269
-number of sconj normalized:: 0.01901743264659271
-number of propn normalized:: 0.04595879556259905
-number of pronn normalized:: 0.01901743264659271
-number of adp normalized:: 0.058637083993660855
-number of num normalized:: 0.022187004754358162
-number of intj normalized:: 0.0
+number of nouns normalized: 0.28991596638655465
+number of verbs normalized:: 0.27941176470588236
+number of adjectives normalized: 0.08823529411764706
+number of adverbs normalized: 0.09873949579831932
+number of aux normalized: 0.12184873949579832
+number of det normalized: 0.03991596638655462
+number of part normalized: 0.05672268907563025
+number of cconj normalized: 0.04831932773109244
+number of sconj normalized: 0.025210084033613446
+number of propn normalized: 0.06092436974789916
+number of pronn normalized: 0.025210084033613446
+number of adp normalized: 0.07773109243697479
+number of num normalized: 0.031512605042016806
+number of intj normalized: 0.0
 Ratios ------------------------------------------------
-ratio noun to verb: 1.4533333333333334
-ratio pronoun to verb: 0.16
-ratio pronoun to noun: 0.11009174311926606
+ratio noun to verb: 1.037593984962406
+ratio pronoun to verb: 0.09022556390977443
+ratio pronoun to noun: 0.08695652173913043

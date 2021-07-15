@@ -1,13 +1,13 @@
 Mile2
 ------------------------------------------------
-number_of_words: 118
-average_words_length: 2.406779661016949
+number_of_words: 57
+average_words_length: 4.894736842105263
 vocabulary: 36
 vocabulary spoken once: 29
 ------------------------------------------------
-Type token ratio: 0.3050847457627119
-Brunet's Index: 14.029134218835418
-Honore's Statistic: 2453.4949497251996
+Type token ratio: 0.631578947368421
+Brunet's Index: 9.377426506105914
+Honore's Statistic: 2079.283509172055
 ------------------------------------------------
 number of nouns: 17
 number of verbs: 13
@@ -26,21 +26,21 @@ number of adp: 0
 number of num: 1
 number of intj: 0
 Normalized ------------------------------------------------
-number of nouns normalized: 10.059322033898304
-number of verbs normalized:: 0.11016949152542373
-number of adjectives normalized:: 0.1016949152542373
-number of adverbs normalized:: 0.06779661016949153
-number of aux normalized:: 0.025423728813559324
-number of det normalized:: 0.01694915254237288
-number of part normalized:: 0.01694915254237288
-number of cconj normalized:: 0.01694915254237288
-number of sconj normalized:: 0.025423728813559324
-number of propn normalized:: 0.059322033898305086
-number of pronn normalized:: 0.00847457627118644
-number of adp normalized:: 0.0
-number of num normalized:: 0.00847457627118644
-number of intj normalized:: 0.0
+number of nouns normalized: 0.2982456140350877
+number of verbs normalized:: 0.2807017543859649
+number of adjectives normalized: 0.21052631578947367
+number of adverbs normalized: 0.14035087719298245
+number of aux normalized: 0.05263157894736842
+number of det normalized: 0.03508771929824561
+number of part normalized: 0.03508771929824561
+number of cconj normalized: 0.03508771929824561
+number of sconj normalized: 0.05263157894736842
+number of propn normalized: 0.12280701754385964
+number of pronn normalized: 0.017543859649122806
+number of adp normalized: 0.0
+number of num normalized: 0.017543859649122806
+number of intj normalized: 0.0
 Ratios ------------------------------------------------
-ratio noun to verb: 0.7692307692307693
-ratio pronoun to verb: 0.07692307692307693
-ratio pronoun to noun: 0.1
+ratio noun to verb: 1.0625
+ratio pronoun to verb: 0.0625
+ratio pronoun to noun: 0.058823529411764705

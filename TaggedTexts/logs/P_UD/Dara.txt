@@ -1,13 +1,13 @@
 Dara
 ------------------------------------------------
-number_of_words: 243
-average_words_length: 3.3004115226337447
+number_of_words: 175
+average_words_length: 4.48
 vocabulary: 102
 vocabulary spoken once: 75
 ------------------------------------------------
-Type token ratio: 0.41975308641975306
-Brunet's Index: 12.947679209973726
-Honore's Statistic: 2075.1565452619852
+Type token ratio: 0.5828571428571429
+Brunet's Index: 11.110287378207165
+Honore's Statistic: 1951.1413679266616
 ------------------------------------------------
 number of nouns: 75
 number of verbs: 29
@@ -26,21 +26,21 @@ number of adp: 10
 number of num: 6
 number of intj: 0
 Normalized ------------------------------------------------
-number of nouns normalized: 51.098765432098766
-number of verbs normalized:: 0.11934156378600823
-number of adjectives normalized:: 0.04526748971193416
-number of adverbs normalized:: 0.07407407407407407
-number of aux normalized:: 0.0411522633744856
-number of det normalized:: 0.02880658436213992
-number of part normalized:: 0.03292181069958848
-number of cconj normalized:: 0.037037037037037035
-number of sconj normalized:: 0.03292181069958848
-number of propn normalized:: 0.09876543209876543
-number of pronn normalized:: 0.03292181069958848
-number of adp normalized:: 0.0411522633744856
-number of num normalized:: 0.024691358024691357
-number of intj normalized:: 0.0
+number of nouns normalized: 0.42857142857142855
+number of verbs normalized:: 0.22285714285714286
+number of adjectives normalized: 0.06285714285714286
+number of adverbs normalized: 0.10285714285714286
+number of aux normalized: 0.05714285714285714
+number of det normalized: 0.04
+number of part normalized: 0.045714285714285714
+number of cconj normalized: 0.05142857142857143
+number of sconj normalized: 0.045714285714285714
+number of propn normalized: 0.13714285714285715
+number of pronn normalized: 0.045714285714285714
+number of adp normalized: 0.05714285714285714
+number of num normalized: 0.03428571428571429
+number of intj normalized: 0.0
 Ratios ------------------------------------------------
-ratio noun to verb: 1.7586206896551724
-ratio pronoun to verb: 0.27586206896551724
-ratio pronoun to noun: 0.1568627450980392
+ratio noun to verb: 1.9230769230769231
+ratio pronoun to verb: 0.20512820512820512
+ratio pronoun to noun: 0.10666666666666667

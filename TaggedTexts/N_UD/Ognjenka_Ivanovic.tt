@@ -1,14 +1,4 @@
-﻿	PUNCT	﻿
-[	PUNCT	[
-Znači	PROPN	Znači
-rekli	VERB	reći
-smo	AUX	jesam
-kako	SCONJ	kako
-se	PART	se
-zovete	VERB	zvati
-.	PUNCT	.
-]	PUNCT	]
-{	PUNCT	{
+﻿{	PUNCT	{
 Ognjenka	PROPN	Ognjenka
 }	PUNCT	}
 Dobro	PROPN	Dobra
@@ -3019,7 +3009,7 @@ Ovaj	DET	ovaj
 Rakovička	ADJ	Rakovička
 ulica	NOUN	ulica
 _	PUNCT	_
-11	NUM	@card@
+11	NUM	11
 je	AUX	jesam
 moj	DET	moj
 sin	NOUN	sin
@@ -3028,7 +3018,7 @@ a	ADV	a
 ja	PRON	ja
 sam	AUX	jesam
 bila	AUX	biti
-9	NUM	@card@
+9	NUM	9
 .	PUNCT	.
 [	PUNCT	[
 A	X	A

@@ -1,13 +1,13 @@
 Milena
 ------------------------------------------------
-number_of_words: 787
-average_words_length: 3.4498094027954256
+number_of_words: 552
+average_words_length: 4.7481884057971016
 vocabulary: 246
 vocabulary spoken once: 163
 ------------------------------------------------
-Type token ratio: 0.312579415501906
-Brunet's Index: 14.709241983870488
-Honore's Statistic: 1976.366444711664
+Type token ratio: 0.44565217391304346
+Brunet's Index: 12.749309540813256
+Honore's Statistic: 1871.2443607038138
 ------------------------------------------------
 number of nouns: 196
 number of verbs: 89
@@ -26,21 +26,21 @@ number of adp: 31
 number of num: 3
 number of intj: 1
 Normalized ------------------------------------------------
-number of nouns normalized: 165.03939008894537
-number of verbs normalized:: 0.11308767471410419
-number of adjectives normalized:: 0.04701397712833545
-number of adverbs normalized:: 0.054637865311308764
-number of aux normalized:: 0.062261753494282084
-number of det normalized:: 0.03303684879288437
-number of part normalized:: 0.02795425667090216
-number of cconj normalized:: 0.03303684879288437
-number of sconj normalized:: 0.03939008894536213
-number of propn normalized:: 0.03939008894536213
-number of pronn normalized:: 0.036848792884371026
-number of adp normalized:: 0.03939008894536213
-number of num normalized:: 0.0038119440914866584
-number of intj normalized:: 0.0012706480304955528
+number of nouns normalized: 0.35507246376811596
+number of verbs normalized:: 0.25
+number of adjectives normalized: 0.06702898550724638
+number of adverbs normalized: 0.07789855072463768
+number of aux normalized: 0.08876811594202899
+number of det normalized: 0.04710144927536232
+number of part normalized: 0.03985507246376811
+number of cconj normalized: 0.04710144927536232
+number of sconj normalized: 0.05615942028985507
+number of propn normalized: 0.05615942028985507
+number of pronn normalized: 0.05253623188405797
+number of adp normalized: 0.05615942028985507
+number of num normalized: 0.005434782608695652
+number of intj normalized: 0.0018115942028985507
 Ratios ------------------------------------------------
-ratio noun to verb: 1.853932584269663
-ratio pronoun to verb: 0.3258426966292135
-ratio pronoun to noun: 0.17575757575757575
+ratio noun to verb: 1.4202898550724639
+ratio pronoun to verb: 0.21014492753623187
+ratio pronoun to noun: 0.14795918367346939

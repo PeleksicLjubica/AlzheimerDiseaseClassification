@@ -1,183 +1,122 @@
-[Kako se zovete?]
 Miroslava Starčev.
  
-[Koliko imate godina?]
 Šezdeset-sedam. Izvini sine.
  
-[Koje godine ste rođeni?]
 Dvadeset-sedmi šesti hiljadu-devetsto-pedesete.
  
-[Gde ste rođeni?]
-Markovac__Velika Plana.
+Markovac Velika Plana.
  
-[Gde ste sve živeli?]
-_Markovac, Svilajnac,__Sarajevo,___ponovo Markovac, pa ponovo_Svilajnac i sad Svilajnac. 
-[Gde vam je bilo najlepše i da li možete da mi opišete malo duže neko mesto gde ste živeli?]
-E Sarajevo mi je bilo najlepše.____Sarajevo zato što nam je tamo bilo baš lepo i lepo smo se uklopili i sve samo što je kratko trajalo.
+ Markovac, Svilajnac, Sarajevo, ponovo Markovac, pa ponovo Svilajnac i sad Svilajnac. 
+E Sarajevo mi je bilo najlepše. Sarajevo zato što nam je tamo bilo baš lepo i lepo smo se uklopili i sve samo što je kratko trajalo.
  
-[Koliko ste dugo živeli tamo?]
 Četiri godine.
  
-[Aha od koje do koje godine?]
-Od osamdeset-osme do_devedeset-prve godine.__Do rata.
+Od osamdeset-osme do devedeset-prve godine. Do rata.
  
-[Šta ste po nacionalnoj pripadnosti?]
 Srbin.
  
-[A koje jezike govorite?]
-__Srpski normalno i francuski pomalo__mogu da se sporazumevam.
+ Srpski normalno i francuski pomalo mogu da se sporazumevam.
  
-[Gde ste sve radili tokom vašeg života?]
-Radila sam u jednoj zadruzi._
+Radila sam u jednoj zadruzi. 
 
-[Koje je tu bilo zanimanje?]
-Poljoprivredni tehničar.______Hoćeš im može i mesto  i ovo?
+Poljoprivredni tehničar. Hoćeš im može i mesto  i ovo?
  
-[da da]
-Može, selo Žirovnica kod Kragujevca.______Iz Žirovnice poljoprivredna apoteka Svilajnac._____Tamo sam sedam godina radila u toj Žirovnici. Ako treba da to sedam godina u Žirovnici,_e onda jedanest godina u poljoprivredoj apoteci u Svilajncu___i četri godine u Sarajevu kooperativa_Novi Sad,_ali u Sarajevu je to.
+Može, selo Žirovnica kod Kragujevca. Iz Žirovnice poljoprivredna apoteka Svilajnac. Tamo sam sedam godina radila u toj Žirovnici. Ako treba da to sedam godina u Žirovnici, e onda jedanest godina u poljoprivredoj apoteci u Svilajncu i četri godine u Sarajevu kooperativa Novi Sad, ali u Sarajevu je to.
  
-[A šta imate od škole?]
 Od škole Srednju poljoprivrednu školu.
  
-[Kojom rukom pišete?]
-_Desnom.
+ Desnom.
  
-[A kakvo je vaše muzičko obrazovanje. Da li ste nekad pevali ili bili uključeni u?]
-Nisam, jedino sam igrala u folkloru._To dok sam bila mlada i dok se nisam udala_i dok nisam počela. 
+Nisam, jedino sam igrala u folkloru. To dok sam bila mlada i dok se nisam udala i dok nisam počela. 
 
-[A da li ste svirali neki instrument?]
-Nisam sine, ne._
+Nisam sine, ne. 
 
-[A koju vrstu muzike volite, koju u mladosti, a koju sad ?]
 Pa skoro sve volim čak i operu da slušam. Onako to mi je merak da slušam.
  
-[Zbog čega, da li možete da navedete?]
-Pa ne znam valjda mi tako godi kad__slušam ovo, a slušam inače sve mogu da slušam. Znaš jedino ovo ne mogu da podnosim sad što se peva i što skaču i ripaju.
+Pa ne znam valjda mi tako godi kad slušam ovo, a slušam inače sve mogu da slušam. Znaš jedino ovo ne mogu da podnosim sad što se peva i što skaču i ripaju.
  
-[Da li volite da čitate knjige?]
-Pa kad imam vremena_volim.
+Pa kad imam vremena volim.
  
-[Na primer da li možete neku da navedete ili?]
-_Pa uglavnom ovu beletristiku, ono Mir Jam šta ja znam i tako. Al čitala sam ranije iii i ovaj Anu Karenjinu i Tolstoja iii sve živo što što mi je pri ruci padalo.
+ Pa uglavnom ovu beletristiku, ono Mir Jam šta ja znam i tako. Al čitala sam ranije iii i ovaj Anu Karenjinu i Tolstoja iii sve živo što što mi je pri ruci padalo.
  
-[Ko su članovi vaše porodice?]
-Pa ja sam trenutno sama, ali imam dve kćeri udate.__A ostala sam__bez muža pre sedamnaest godina.___Od dve-hiljade-prve sam sama.
+Pa ja sam trenutno sama, ali imam dve kćeri udate. A ostala sam bez muža pre sedamnaest godina. Od dve-hiljade-prve sam sama.
  
-[A kada ste se udali?]
-___U dvadeset i četvrtoj godini,_hiljadu-devetsto-sedamdeset-pete.
+ U dvadeset i četvrtoj godini, hiljadu-devetsto-sedamdeset-pete.
  
-[Da li možete nešto da mi kažete o vašoj deci?]
-___Šta Vas interesuje?
+ Šta Vas interesuje?
  
-[Njihova imena zanimanja]
- A da,_ovaj,__ćerka Starčev. Je l' treba i ime pre?
+ A da, ovaj, ćerka Starčev. Je l' treba i ime pre?
  
-[Da, da može]
-Može i_Starčev Branka. To je starija ćerka____koja je završila srednju__hemijsko- tehnološku,_ srednju hemijsku, ali odsek je za laboratoriju kako se to zove već__.
+Može i Starčev Branka. To je starija ćerka koja je završila srednju hemijsko- tehnološku,  srednju hemijsku, ali odsek je za laboratoriju kako se to zove već .
 
-[Dobro]
-___Za laboranta.
+ Za laboranta.
  
-[Dobro. A čime se ona sada bavi?]
-Sada je domaćica, čuva decu i__.
+Sada je domaćica, čuva decu i .
 
-[Dobro]
 Kad nije htela fakultet da završi. Dogurala do pete godine Medicinskog fakulteta i stala, rodila jedno i drugo dete i onda.
  
-[A da li možete nešto da kažete o starijoj ćerki?]
 To je starija.
  
-[Aha izvinite]
-To je Branka,_a Anka__to je mlađa ćerka. Ona je završila Građevinski fakultet. Sad je trenutno doktor, docent na Fakultetu tehničkih nauka u Novom Sadu_i tako lepo radi.
+To je Branka, a Anka to je mlađa ćerka. Ona je završila Građevinski fakultet. Sad je trenutno doktor, docent na Fakultetu tehničkih nauka u Novom Sadu i tako lepo radi.
  
-[Da li imate unučiće i da li možete reći nešto o njima?]
-Imam tri unučeta._Muški od mlađe ćerke_Nikola koji je rođen dvadeset i petog_drugog___dve-hiljade-osme_ne dve-hiljade-pete. Izvini jer mešam sa ovim_, a ona ima samo jedno to dete, a ova starija ćerka ima dve devojčice jedna je dve-hiljade-osme dvadeset-petog dvanaestog_i ova mladja ćerka Nina_dve-hiljade-jedanaeste_u__ sedmog novembra_dve-hiljade-jedanaeste. 
+Imam tri unučeta. Muški od mlađe ćerke Nikola koji je rođen dvadeset i petog drugog dve-hiljade-osme ne dve-hiljade-pete. Izvini jer mešam sa ovim , a ona ima samo jedno to dete, a ova starija ćerka ima dve devojčice jedna je dve-hiljade-osme dvadeset-petog dvanaestog i ova mladja ćerka Nina dve-hiljade-jedanaeste u  sedmog novembra dve-hiljade-jedanaeste. 
 
 
-[Dobro. A da li volite da budete sa njima i šta vam je posebno interesantno?]
-Volim jako volim da budem sa njima i budem ako ne ovako cele godine, preko zime obavezno_i tako pa sve i svašta mi je_interesantno kod njih._Kod dece uvek ima šta da bude interesantno. 
-[A da li volite da nekad organizujete neka druženja ovde u Svilajncu]
+Volim jako volim da budem sa njima i budem ako ne ovako cele godine, preko zime obavezno i tako pa sve i svašta mi je interesantno kod njih. Kod dece uvek ima šta da bude interesantno. 
 Pa ne.
  
-[Sa kim volite da se družite najviše?]
-Pa najviše sad pošto sam već i u tim godinama i tako sa komšilukom. Ne neko druženje, ovako van__i tako.
+Pa najviše sad pošto sam već i u tim godinama i tako sa komšilukom. Ne neko druženje, ovako van i tako.
  
-[Da li možete da mi navedete imena nekih vaših komšija sa kojim ste posebno bliski ili?]
-Imam jednu Nevenka Đinović, onda___ imam komšinicu Veru, komšinicu Milenu__i tako. Imam ih dosta u komšiluku.
+Imam jednu Nevenka Đinović, onda  imam komšinicu Veru, komšinicu Milenu i tako. Imam ih dosta u komšiluku.
  
-[Imate li neki hobi?]
-___Pa hobi nešto posebno_ne__.
+ Pa hobi nešto posebno ne .
 
-[Na primer, da li ste nekad heklali ili pleli?]
-A da, to je bilo nekad, a sad trenutno ne mogu i ne vidim. I_goblene sam radila i heklala i sve i svašta sam radila. 
+A da, to je bilo nekad, a sad trenutno ne mogu i ne vidim. I goblene sam radila i heklala i sve i svašta sam radila. 
 
-[Pa eto možete nešto o tome da mi kažete]
-Štrikala, štrikala i tako pa štrikala sam deci šalove, džemperiće tako neke_stvarčice koje su bile kao_da ih baba obraduje. Onda heklala stolnjake, čak i zavese.__I tako goblene radila baš ove Vilerove goblene._E sad nisam u stanju to da radim jer_ne vidim kako treba.
+Štrikala, štrikala i tako pa štrikala sam deci šalove, džemperiće tako neke stvarčice koje su bile kao da ih baba obraduje. Onda heklala stolnjake, čak i zavese. I tako goblene radila baš ove Vilerove goblene. E sad nisam u stanju to da radim jer ne vidim kako treba.
  
-[Da li bolujete od neke hronične bolesti? Dakle duži niz godina]
-Pa ne bolujem od ni od čega imala sam jedino u mladosti jednu operaciju,_ali to je sve prošlo lepo. To je bilo pre udaje i posle toga sam rodila i decu i__tako da ne sad trenutno normalno, kao i sve stare osobe imam pritisak visok.
+Pa ne bolujem od ni od čega imala sam jedino u mladosti jednu operaciju, ali to je sve prošlo lepo. To je bilo pre udaje i posle toga sam rodila i decu i tako da ne sad trenutno normalno, kao i sve stare osobe imam pritisak visok.
  
-[Znači jeste pod nekom terapijom?]
-Ali to je od pre dve, tri godine, taj_pritisak_tri godina ima kako.
+Ali to je od pre dve, tri godine, taj pritisak tri godina ima kako.
  
-[Da li možete da mi kažete koje lekove koristite?]
-__Pijem.
+ Pijem.
  
-[I zbog čega ih pijete i od kada?]
-Pa pre tri godine što sam dobila te lekove za pritisak._____E sad kako se zove.
+Pa pre tri godine što sam dobila te lekove za pritisak. E sad kako se zove.
  
-[Nije bitno ako ne možete da se setite naziva, ali je protiv pritiska u svakom slučaju]
 Da, za pritisak, aha.
  
-[I još nešto]
 Ne mogu zato što mnogo je ovaj.
  
-[Komplikovan naziv]
-D,a ovo ne mogu ___.
+D,a ovo ne mogu  .
  
-[Dobro]
 A i ne volim da ih pijem, pa onda uopšte ne gledam ni šta piše na kutiji.
 
-[Znači to je jedini lek koji pijete?]
-Pa to je jedini, ovako neki put,_na primer eferalgan te za temperaturu ako dobijem temperaturu. 
-[Da, da, ali nešto što pijete stalno?]
+Pa to je jedini, ovako neki put, na primer eferalgan te za temperaturu ako dobijem temperaturu. 
 Ne ovo je stalno samo za pritisak.
  
-[Samo za pritisak?]
 Ništa više.
  
-[To je bitno. Koja su vaša interesovanja generalno bila u životu ili sada? Šta vas je najviše zanimalo?]
-___Pa sine, sve, ne znam ni ja šta da ti kažem, sve što je bilo u tom vremenu_.
+ Pa sine, sve, ne znam ni ja šta da ti kažem, sve što je bilo u tom vremenu .
 
-[Interesantno]
-Interesantno da,_družili smo se na primer,__ne znam_šta da ti kažem,_tu je bilo svega i svačega. Eto tu je taj folklor. Za tim patim što nisam mogla kasnije jer nisam imala gde._I tako inače.
+Interesantno da, družili smo se na primer, ne znam šta da ti kažem, tu je bilo svega i svačega. Eto tu je taj folklor. Za tim patim što nisam mogla kasnije jer nisam imala gde. I tako inače.
  
-[A to kad ste bili baš mladi?]
-Kad sam bila mlada, pa boga mi i do tridesete godine._Ali to je u_selu.__Imali smo organizovano i tako išli smo malo i na takmičenje,_bilo je lepo. 
+Kad sam bila mlada, pa boga mi i do tridesete godine. Ali to je u selu. Imali smo organizovano i tako išli smo malo i na takmičenje, bilo je lepo. 
 
-[A da li se sećate nekih mlađih dana, recimo iz osnovne, srednje škole? Da li viđate neke svoje?]
-Viđam_puno kad odem u selo. Baš se ispričamo puno,__jedno dva puta smo se i sastajali svi__negde ovako da malo pričamo i tako.__Ima dosta i umrlih ,__koji nisu više sa nama.
+Viđam puno kad odem u selo. Baš se ispričamo puno, jedno dva puta smo se i sastajali svi negde ovako da malo pričamo i tako. Ima dosta i umrlih , koji nisu više sa nama.
  
-[Da li možda možete da izdvojite nekoga ko vam je bio posebno blizak ili možda ste i sad bliski sa nekim?]
-__Pa bila sam bliska sa jednim Tomom_i sa jednim Hrančetom koji je,_tako on je poginuo, u stvari upucali ga na benzinskoj pumpi to mi je bio baš dobar školski drug_. _Iz srednje škole_imam ih dosta ovde po Svilajncu sa kojima se srećem. Ima jedna Vesna sa kojom izlazim često. Kad bude preko leta,_izadjem tu u baštu malo_na sok, malo_popričamo i onda se tu skupi i ostalo društvo kako ko naiđe i tako uglavnom družimo se, ali nije to neko druženje svakodnevno ili misim to toliko često da.__Jer sad svako ima svoje obaveze sine, svako ima decu, unučiće i ne može da___iskoristi toliko vreme. 
+ Pa bila sam bliska sa jednim Tomom i sa jednim Hrančetom koji je, tako on je poginuo, u stvari upucali ga na benzinskoj pumpi to mi je bio baš dobar školski drug .  Iz srednje škole imam ih dosta ovde po Svilajncu sa kojima se srećem. Ima jedna Vesna sa kojom izlazim često. Kad bude preko leta, izadjem tu u baštu malo na sok, malo popričamo i onda se tu skupi i ostalo društvo kako ko naiđe i tako uglavnom družimo se, ali nije to neko druženje svakodnevno ili misim to toliko često da. Jer sad svako ima svoje obaveze sine, svako ima decu, unučiće i ne može da iskoristi toliko vreme. 
 
 
-[A koliko često viđate svoju decu i koliko ona imaju godina?]
-_Pa često viđam decu_preko zime sam kod njih, preko leta oni ili dođu kod mene.
+ Pa često viđam decu preko zime sam kod njih, preko leta oni ili dođu kod mene.
  
-[A gde oni žive?]
-Ili ja odem po neki put, a žive u Novom Sadu,_a______sad_šta te interesuje.
+Ili ja odem po neki put, a žive u Novom Sadu, a sad šta te interesuje.
  
-[Rekli ste mi čime se oni bave. Da li možete da mi kažete možda pošto imate ćerke nešto o njihovim muževima?]
-Pa uglavnom su dobri momci, nemam nekih problema sa njima i prema meni su dobri i prema_njima dvema su._Žive jedan skroman život.
+Pa uglavnom su dobri momci, nemam nekih problema sa njima i prema meni su dobri i prema njima dvema su. Žive jedan skroman život.
  
-[I vi ste time zadovoljni?]
-Da. Pa zadovoljni su._Znaš danas skoro niko nije nešto posebno_previše zadovoljan, ali uglavnom mogu da opstanu kako treba da žive.
+Da. Pa zadovoljni su. Znaš danas skoro niko nije nešto posebno previše zadovoljan, ali uglavnom mogu da opstanu kako treba da žive.
  
-[Šta biste nam dodatno ispričali o sebi? Da li imate nešto što vas posebno izdvaja ili nešto po čemu ste interesantni ostalima?]
-Pa volim šale, volim ovako da pričam sa ljudima, volim_da brbljam svašta i__tako. 
+Pa volim šale, volim ovako da pričam sa ljudima, volim da brbljam svašta i tako. 
 
-[Pa hvala Vam na razgovoru to bi bilo sve]
 Dobro sine.
 
 

@@ -1,92 +1,47 @@
-[Kako se zovete?]
-{Dragoljub}
 Popović Dragoljub.
 
-[Koliko imate godina?]
-{Dragoljub}
 Pa pedesete, sedamnaestog dvanaestog. Hiljadu-devetsto-pedesete.
 
-[Dobro, gde ste rođeni?]
-{Dragoljub}
 Rođen u Šapcu, živim u Mrđenovcu.
 
-[Da li bolujete možda od neke hronične bolesti?]
-{Dragoljub}
 Možda me je udario infarkt, malo šlog, to.
 
-[Infarkt i šlog ste imali?]
-{Dragoljub}
 Pa da.
 
-[A visok pritisak ili nešto slično?]
-{Dragoljub}
 Pa, dobro imam i visok pritisak i to.
 
-[Da li pijete neke lekove?]
-{Dragoljub}
 Pijem lekove.
 
-[Pijete redovno lekove? Neku terapiju za pritisak?]
-{Dragoljub}
 Redovno. Pa ja lekove pijem.
 
-[Mesto prebivališta sada?]
-{Dragoljub}
 Pa Mrđenovac.
 
-[Da, Vi ste živeli tu ceo život.]
-{Dragoljub}
 Celo vreme u Mrđenovcu. 
 
-[Pripadnost nacionalna?]
-{dragoljub}
 Pa Srbin.
 
-[Govorite li neki strani jezik?]
-{Dragoljub}
 Ne govorim, ne govorim.
 
-[Da li ste desnoruki ili levoruki?]
-{Dragoljub}
 Desnom rukom radim.
 
-[Po struci ste?]
-{Dragoljub}
 Zemljoradnik.
 
-[Što se tiče muzičkog obrazovanja, jeste li nekad pevali, svirali nešto?]
-{Dragoljub}
 Ništa nisam! Ništa nisam!
 
-[Da li ste možda neke čitali knjige ili nešto slično?]
-{Dragoljub}
 Slabo. Nekad sam malo novine uveče. Sednem pa pročitam nešto. Sad i ne vidim i onda ne čitam.
  
-[A članovi Vaše porodice? Sa kim sve živite?]
-{Dragoljub}
 Pa šestoro nas u kući je. 
 
-[Šestoro. Znate li možda njihova imena, da ih nabrojite?]
-{Dragoljub}
 Goran, Jagoda, Miroslav, Suzana, Đurđa i ja, Draga.
 
-[Znači koliko imate dece?]
-{Dragoljub}
 Pa troje.
 
-[Troje dece. A unuka?]
-{Dragoljub}
 Petoro unučadi.
 
-[Ako imate neko slobodno vreme, šta tada radite?]
-{Dragoljub}
 Kad imam malo slobodnog vremena, sednem pa se odmorim! 
 
-[Da li ste slušali istu muziku u mladosti kao i sada?]
-{Dragoljub}
 Pa uvek sam malo puštao radio i to slušao! 
 
-[Hvala Vam!]
 
 
 

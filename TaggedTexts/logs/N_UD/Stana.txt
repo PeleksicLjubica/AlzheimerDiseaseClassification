@@ -1,46 +1,46 @@
 Stana
 ------------------------------------------------
-number_of_words: 5029
-average_words_length: 2.5718830781467488
-vocabulary: 374
-vocabulary spoken once: 44
+number_of_words: 1185
+average_words_length: 4.934177215189873
+vocabulary: 336
+vocabulary spoken once: 194
 ------------------------------------------------
-Type token ratio: 0.07436866176178167
-Brunet's Index: 24.699117132761693
-Honore's Statistic: 965.9373294328226
+Type token ratio: 0.28354430379746837
+Brunet's Index: 15.035324945913148
+Honore's Statistic: 1674.675595774128
 ------------------------------------------------
-number of nouns: 554
-number of verbs: 483
-number of adjectives: 137
-number of adverbs: 233
-number of punct: 2541
-number of aux: 345
-number of det: 127
-number of part: 103
-number of cconj: 89
-number of sconj: 122
-number of propn: 114
-number of pronn: 212
-number of x: 81
-number of adp: 111
-number of num: 37
-number of intj: 5
+number of nouns: 272
+number of verbs: 241
+number of adjectives: 67
+number of adverbs: 114
+number of punct: 1140
+number of aux: 169
+number of det: 56
+number of part: 46
+number of cconj: 44
+number of sconj: 59
+number of propn: 57
+number of pronn: 104
+number of x: 36
+number of adp: 51
+number of num: 17
+number of intj: 2
 Normalized ------------------------------------------------
-number of nouns normalized: 440.0226685225691
-number of verbs normalized:: 0.09604295088486776
-number of adjectives normalized:: 0.027241996420759595
-number of adverbs normalized:: 0.04633127858421157
-number of aux normalized:: 0.06860210777490555
-number of det normalized:: 0.025253529528733346
-number of part normalized:: 0.020481208987870352
-number of cconj normalized:: 0.017697355339033605
-number of sconj normalized:: 0.024259296082720223
-number of propn normalized:: 0.022668522569099226
-number of pronn normalized:: 0.04215549811095645
-number of adp normalized:: 0.02207198250149135
-number of num normalized:: 0.007357327500497117
-number of intj normalized:: 0.000994233446013124
+number of nouns normalized: 0.22953586497890296
+number of verbs normalized:: 0.3459915611814346
+number of adjectives normalized: 0.056540084388185655
+number of adverbs normalized: 0.09620253164556962
+number of aux normalized: 0.14261603375527426
+number of det normalized: 0.04725738396624472
+number of part normalized: 0.038818565400843885
+number of cconj normalized: 0.03713080168776371
+number of sconj normalized: 0.049789029535864976
+number of propn normalized: 0.04810126582278481
+number of pronn normalized: 0.08776371308016878
+number of adp normalized: 0.043037974683544304
+number of num normalized: 0.014345991561181435
+number of intj normalized: 0.0016877637130801688
 Ratios ------------------------------------------------
-ratio noun to verb: 0.9109730848861284
-ratio pronoun to verb: 0.4389233954451346
-ratio pronoun to noun: 0.4818181818181818
+ratio noun to verb: 0.6634146341463415
+ratio pronoun to verb: 0.25365853658536586
+ratio pronoun to noun: 0.38235294117647056

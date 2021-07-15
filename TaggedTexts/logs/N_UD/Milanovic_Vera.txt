@@ -1,13 +1,13 @@
 Milanovic_Vera
 ------------------------------------------------
-number_of_words: 2050
-average_words_length: 3.270243902439024
+number_of_words: 1449
+average_words_length: 4.437543133195307
 vocabulary: 398
 vocabulary spoken once: 204
 ------------------------------------------------
-Type token ratio: 0.19414634146341464
-Brunet's Index: 17.112933355138594
-Honore's Statistic: 1564.4262055199567
+Type token ratio: 0.274672187715666
+Brunet's Index: 15.03861858736606
+Honore's Statistic: 1493.2444943523874
 ------------------------------------------------
 number of nouns: 417
 number of verbs: 236
@@ -26,21 +26,21 @@ number of adp: 89
 number of num: 34
 number of intj: 1
 Normalized ------------------------------------------------
-number of nouns normalized: 290.0619512195122
-number of verbs normalized:: 0.1151219512195122
-number of adjectives normalized:: 0.03170731707317073
-number of adverbs normalized:: 0.09317073170731707
-number of aux normalized:: 0.08487804878048781
-number of det normalized:: 0.03024390243902439
-number of part normalized:: 0.041951219512195125
-number of cconj normalized:: 0.032682926829268294
-number of sconj normalized:: 0.03463414634146342
-number of propn normalized:: 0.06195121951219512
-number of pronn normalized:: 0.04048780487804878
-number of adp normalized:: 0.04341463414634146
-number of num normalized:: 0.016585365853658537
-number of intj normalized:: 0.0004878048780487805
+number of nouns normalized: 0.28778467908902694
+number of verbs normalized:: 0.2829537612146308
+number of adjectives normalized: 0.04485852311939269
+number of adverbs normalized: 0.1318150448585231
+number of aux normalized: 0.12008281573498965
+number of det normalized: 0.04278812974465148
+number of part normalized: 0.05935127674258109
+number of cconj normalized: 0.04623878536922015
+number of sconj normalized: 0.04899930986887509
+number of propn normalized: 0.08764665286404417
+number of pronn normalized: 0.05728088336783989
+number of adp normalized: 0.06142167011732229
+number of num normalized: 0.023464458247066944
+number of intj normalized: 0.0006901311249137336
 Ratios ------------------------------------------------
-ratio noun to verb: 1.228813559322034
-ratio pronoun to verb: 0.3516949152542373
-ratio pronoun to noun: 0.28620689655172415
+ratio noun to verb: 1.0170731707317073
+ratio pronoun to verb: 0.20243902439024392
+ratio pronoun to noun: 0.19904076738609114

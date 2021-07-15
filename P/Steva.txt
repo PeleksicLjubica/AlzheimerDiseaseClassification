@@ -1,245 +1,165 @@
-{Steva}
 Da.
 
-{Steva}
 U Novom Selu.
 
-{Steva}
 Pa nije baš kod Kikinde...
 
-{Steva}
 ...Blizu je.
 
-{Steva}
 Lala lala.
 
-{Steva}
 I šta pita, šta kaže?
 
-{Steva}
 Iz?
 
-{Steva}
 Da.
 
-{Steva}
 A šta je?
 
-{Steva}
 A ja sam iz...
 
-{Steva}
-Firmi? Najviše,__najveći radni staž mi je_Naftagas.
+Firmi? Najviše, najveći radni staž mi je Naftagas.
 
-{Steva}
-Pa radio sam u__Sarajevu malo, _tu sam započeo.
+Pa radio sam u Sarajevu malo,  tu sam započeo.
 
-{Steva}
-_Kako da ne. Radio sam.
+ Kako da ne. Radio sam.
 
-{Steva}
 Moju struku sam radio.
 
-{Steva}
 Moja struka je geologija.
 
-{Steva}
 U Pančevu.
 
-{Steva}
 A to je sada teško...
 
-{Steva}
 Jesam.
 
-{Steva}
 To je to.
 
-{Steva}
-__Da da baš__dobro ste rekli, sitne duše.
+ Da da baš dobro ste rekli, sitne duše.
 
-{Steva}
 Gde nije.
 
-{Steva}
 A nije masan.
 
-{Steva}
-______E Milena...
+ E Milena...
 
-{Steva}
 ...izbegao...
 
-{Steva}
 Pa niste Vi stari, šta hoćete?
 
-{Steva}
 Još nemate belih na...
 
-{Steva}
 Tehnička...
 
-{Steva}
 Onih dana je bilo kolko hoćete.
 
-{Steva}
 To je zločin.
 
-{Steva}
 Šta kaže?
 
-{Steva}
 Kao hrane?
 
-{Steva}
 Rtanj.
 
-{Steva}
 Siska. Da da.
 
-{Steva}
 Ma ima svašta.
 
-{Steva}
-__Budale budale.
+ Budale budale.
 
-{Steva}
 Pa ajde znaš.
 
-{Steva}
-Pa mi bismo, ja bih to organizovao_grupno._Napravio brigadu, recimo, ajde našao bih dvadeset mojih drugara, ajde idemo u akciju da se osvetimo tome i tome ili je on je kriv za to i to._Život... Poslušati... Vrlo brzo.
+Pa mi bismo, ja bih to organizovao grupno. Napravio brigadu, recimo, ajde našao bih dvadeset mojih drugara, ajde idemo u akciju da se osvetimo tome i tome ili je on je kriv za to i to. Život... Poslušati... Vrlo brzo.
 
-{Steva}
 A muško je jel?
 
-{Steva}
 Njih više? Njih više?
 
-{Steva}
 Jesam.
 
-{Steva}
-__Fudbal u...
+ Fudbal u...
 
-{Steva}
 A mogao sam da igram i odbojku i košarku.
 
-{Steva}
-Al za fudbal sam_bio rođen.
+Al za fudbal sam bio rođen.
 
-{Steva}
 Molim?
 
-{Steva}
 Ja sam bio uvek u navali. Vidi se da ne volim kad ovo...
 
-{Steva}
 Molim?
 
-{Steva}
-_____Šta ste rekli još?
+ Šta ste rekli još?
 
-{Steva}
 A odbojku. A odbojku jeste.
 
-{Steva}
-Ne, to je sama škola, mi smo u samoj školi srednjoj__tehničkoj u kojoj smo mi, ja...
+Ne, to je sama škola, mi smo u samoj školi srednjoj tehničkoj u kojoj smo mi, ja...
 
-{Steva}
-__Ili ovaj...
+ Ili ovaj...
 
-{Steva}
-Da ja moram da okrenem glavu_četrdeset-pet stepeni.
+Da ja moram da okrenem glavu četrdeset-pet stepeni.
 
-{Steva}
 To je lep sport.
 
-{Steva}
 To je lep sport, odbojka.
 
-{Steva}
 U odnosu na fudbal i u odnosu na, na šta još. Bilo je još ovaj...
 
-{Steva}
 Milena?
 
-{Steva}
 Klinac?
 
-{Steva}
 Pa isto klavir.
 
-{Steva}
 Tata svira klavir.
 
-{Steva}
 I deca prihvatila.
 
-{Steva}
 Pa jeste. Pa ko će drugi, neće baba i deda.
 
-{Steva}
-Dobro, nemate dedu Vi, ima neko drugi. Ja sam samo_igrala odbojku.
+Dobro, nemate dedu Vi, ima neko drugi. Ja sam samo igrala odbojku.
 
-{Steva}
 Dipli?
 
-{Steva}
 Diple, diple.
 
-{Steva}
 Da, izvolite.
 
-{Steva}
 O Svetom Nikoli?
 
-{Steva}
 Bogami, mogu da se obrukam.
 
-{Steva}
-Ne znam mnogo._Ne znam mnogo o svetom Nikoli.
+Ne znam mnogo. Ne znam mnogo o svetom Nikoli.
 
-{Steva}
 Da.
 
-{Steva}
 Ne.
 
-{Steva}
 Moguće.
 
-{Steva}
-__Pa kad je rođen.
+ Pa kad je rođen.
 
-{Steva}
 Ja...
 
-{Steva}
 Izvolite.
 
-{Steva}
 Od naroda, mislite od ostalih?
 
-{Steva}
 Ne, sem Srba nema. Kao narod...
 
-{Steva}
 Gde to, gde to?
 
-{Steva}
 Pa da.
 
-{Steva}
-Svi koji su ovaj__bili_, ma obični ljudi.
+Svi koji su ovaj bili , ma obični ljudi.
 
-{Steva}
 I verovali u...
 
-{Steva}
 Ti ljudi koji su verovali u Boga i u svetinje Božije, oni su čuvali narod svoj. 
 
-{Steva}
 Zašto da ne?
 
-{Steva}
-I mi smo mogli s vama ženama, čini mi se, muškarci. 
+I mi smo mogli s vama ženama, čini mi se, muškarci.
+
+Mila.

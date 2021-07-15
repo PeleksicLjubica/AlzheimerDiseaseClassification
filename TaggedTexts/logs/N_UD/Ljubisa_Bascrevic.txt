@@ -1,19 +1,19 @@
 Ljubisa_Bascrevic
 ------------------------------------------------
-number_of_words: 2406
-average_words_length: 4.0802161263507895
+number_of_words: 2080
+average_words_length: 4.524038461538462
 vocabulary: 601
 vocabulary spoken once: 352
 ------------------------------------------------
-Type token ratio: 0.24979218620116375
-Brunet's Index: 15.011963025442675
-Honore's Statistic: 1879.2041200069516
+Type token ratio: 0.28894230769230766
+Brunet's Index: 14.270440804609938
+Honore's Statistic: 1844.0618581485598
 ------------------------------------------------
 number of nouns: 499
 number of verbs: 227
 number of adjectives: 163
 number of adverbs: 164
-number of punct: 361
+number of punct: 363
 number of aux: 288
 number of det: 143
 number of part: 72
@@ -26,21 +26,21 @@ number of adp: 199
 number of num: 46
 number of intj: 1
 Normalized ------------------------------------------------
-number of nouns normalized: 426.0303408146301
-number of verbs normalized:: 0.0943474646716542
-number of adjectives normalized:: 0.06774729842061512
-number of adverbs normalized:: 0.06816292601828762
-number of aux normalized:: 0.11970074812967581
-number of det normalized:: 0.05943474646716542
-number of part normalized:: 0.029925187032418952
-number of cconj normalized:: 0.06359102244389027
-number of sconj normalized:: 0.04530340814630091
-number of propn normalized:: 0.030340814630091438
-number of pronn normalized:: 0.0369908561928512
-number of adp normalized:: 0.08270989193682461
-number of num normalized:: 0.019118869492934332
-number of intj normalized:: 0.00041562759767248546
+number of nouns normalized: 0.23990384615384616
+number of verbs normalized:: 0.24759615384615385
+number of adjectives normalized: 0.07836538461538461
+number of adverbs normalized: 0.07884615384615384
+number of aux normalized: 0.13846153846153847
+number of det normalized: 0.06875
+number of part normalized: 0.03461538461538462
+number of cconj normalized: 0.07355769230769231
+number of sconj normalized: 0.052403846153846155
+number of propn normalized: 0.035096153846153846
+number of pronn normalized: 0.04278846153846154
+number of adp normalized: 0.09567307692307692
+number of num normalized: 0.022115384615384617
+number of intj normalized: 0.0004807692307692308
 Ratios ------------------------------------------------
-ratio noun to verb: 1.8766519823788546
-ratio pronoun to verb: 0.3920704845814978
-ratio pronoun to noun: 0.20892018779342722
+ratio noun to verb: 0.9689320388349515
+ratio pronoun to verb: 0.17281553398058253
+ratio pronoun to noun: 0.17835671342685372

@@ -1,13 +1,13 @@
 Brka1
 ------------------------------------------------
-number_of_words: 56
-average_words_length: 3.4464285714285716
+number_of_words: 39
+average_words_length: 4.589743589743589
 vocabulary: 27
 vocabulary spoken once: 21
 ------------------------------------------------
-Type token ratio: 0.48214285714285715
-Brunet's Index: 10.348474234001397
-Honore's Statistic: 1811.4082608308174
+Type token ratio: 0.6923076923076923
+Brunet's Index: 8.38805748883306
+Honore's Statistic: 1648.6027407583408
 ------------------------------------------------
 number of nouns: 23
 number of verbs: 4
@@ -26,21 +26,21 @@ number of adp: 2
 number of num: 0
 number of intj: 0
 Normalized ------------------------------------------------
-number of nouns normalized: 13.178571428571429
-number of verbs normalized:: 0.07142857142857142
-number of adjectives normalized:: 0.05357142857142857
-number of adverbs normalized:: 0.03571428571428571
-number of aux normalized:: 0.125
-number of det normalized:: 0.05357142857142857
-number of part normalized:: 0.0
-number of cconj normalized:: 0.017857142857142856
-number of sconj normalized:: 0.05357142857142857
-number of propn normalized:: 0.17857142857142858
-number of pronn normalized:: 0.017857142857142856
-number of adp normalized:: 0.03571428571428571
-number of num normalized:: 0.0
-number of intj normalized:: 0.0
+number of nouns normalized: 0.5897435897435898
+number of verbs normalized:: 0.28205128205128205
+number of adjectives normalized: 0.07692307692307693
+number of adverbs normalized: 0.05128205128205128
+number of aux normalized: 0.1794871794871795
+number of det normalized: 0.07692307692307693
+number of part normalized: 0.0
+number of cconj normalized: 0.02564102564102564
+number of sconj normalized: 0.07692307692307693
+number of propn normalized: 0.2564102564102564
+number of pronn normalized: 0.02564102564102564
+number of adp normalized: 0.05128205128205128
+number of num normalized: 0.0
+number of intj normalized: 0.0
 Ratios ------------------------------------------------
-ratio noun to verb: 3.25
-ratio pronoun to verb: 0.25
-ratio pronoun to noun: 0.07692307692307693
+ratio noun to verb: 2.090909090909091
+ratio pronoun to verb: 0.09090909090909091
+ratio pronoun to noun: 0.043478260869565216

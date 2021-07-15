@@ -53,7 +53,7 @@ devedeset	NUM	devedeset
 -	PUNCT	-
 prve	ADJ	prvi
 [	PUNCT	[
-95	NUM	@card@
+95	NUM	95
 te	PRON	ti
 sam	AUX	jesam
 rođena	VERB	roditi

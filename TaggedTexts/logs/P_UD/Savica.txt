@@ -1,13 +1,13 @@
 Savica
 ------------------------------------------------
-number_of_words: 83
-average_words_length: 2.5783132530120483
+number_of_words: 36
+average_words_length: 5.888888888888889
 vocabulary: 17
 vocabulary spoken once: 13
 ------------------------------------------------
-Type token ratio: 0.20481927710843373
-Brunet's Index: 15.938751099694922
-Honore's Statistic: 1878.0072583135538
+Type token ratio: 0.4722222222222222
+Brunet's Index: 9.44379764567232
+Honore's Statistic: 1522.9955488438466
 ------------------------------------------------
 number of nouns: 43
 number of verbs: 1
@@ -26,21 +26,21 @@ number of adp: 0
 number of num: 0
 number of intj: 0
 Normalized ------------------------------------------------
-number of nouns normalized: 22.253012048192772
-number of verbs normalized:: 0.012048192771084338
-number of adjectives normalized:: 0.012048192771084338
-number of adverbs normalized:: 0.0963855421686747
-number of aux normalized:: 0.012048192771084338
-number of det normalized:: 0.012048192771084338
-number of part normalized:: 0.0
-number of cconj normalized:: 0.0
-number of sconj normalized:: 0.024096385542168676
-number of propn normalized:: 0.25301204819277107
-number of pronn normalized:: 0.0
-number of adp normalized:: 0.0
-number of num normalized:: 0.0
-number of intj normalized:: 0.0
+number of nouns normalized: 1.1944444444444444
+number of verbs normalized:: 0.05555555555555555
+number of adjectives normalized: 0.027777777777777776
+number of adverbs normalized: 0.2222222222222222
+number of aux normalized: 0.027777777777777776
+number of det normalized: 0.027777777777777776
+number of part normalized: 0.0
+number of cconj normalized: 0.0
+number of sconj normalized: 0.05555555555555555
+number of propn normalized: 0.5833333333333334
+number of pronn normalized: 0.0
+number of adp normalized: 0.0
+number of num normalized: 0.0
+number of intj normalized: 0.0
 Ratios ------------------------------------------------
-ratio noun to verb: 22.0
+ratio noun to verb: 21.5
 ratio pronoun to verb: 0.0
 ratio pronoun to noun: 0.0

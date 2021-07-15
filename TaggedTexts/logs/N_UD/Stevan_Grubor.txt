@@ -1,13 +1,13 @@
 Stevan_Grubor
 ------------------------------------------------
-number_of_words: 3120
-average_words_length: 3.9826923076923078
-vocabulary: 742
-vocabulary spoken once: 426
+number_of_words: 2663
+average_words_length: 4.385279759669546
+vocabulary: 743
+vocabulary spoken once: 427
 ------------------------------------------------
-Type token ratio: 0.2378205128205128
-Brunet's Index: 14.933276523511278
-Honore's Statistic: 1889.185602644373
+Type token ratio: 0.2790086368757041
+Brunet's Index: 14.150955689019472
+Honore's Statistic: 1854.4923984999211
 ------------------------------------------------
 number of nouns: 564
 number of verbs: 423
@@ -23,24 +23,24 @@ number of propn: 81
 number of pronn: 216
 number of x: 7
 number of adp: 153
-number of num: 44
+number of num: 45
 number of intj: 13
 Normalized ------------------------------------------------
-number of nouns normalized: 483.02596153846156
-number of verbs normalized:: 0.13557692307692307
-number of adjectives normalized:: 0.047115384615384615
-number of adverbs normalized:: 0.0858974358974359
-number of aux normalized:: 0.09038461538461538
-number of det normalized:: 0.06570512820512821
-number of part normalized:: 0.04455128205128205
-number of cconj normalized:: 0.0375
-number of sconj normalized:: 0.05512820512820513
-number of propn normalized:: 0.025961538461538463
-number of pronn normalized:: 0.06923076923076923
-number of adp normalized:: 0.04903846153846154
-number of num normalized:: 0.014102564102564103
-number of intj normalized:: 0.004166666666666667
+number of nouns normalized: 0.21179121291776193
+number of verbs normalized:: 0.2647390161472024
+number of adjectives normalized: 0.0552009012392039
+number of adverbs normalized: 0.10063837776943298
+number of aux normalized: 0.10589560645888096
+number of det normalized: 0.07698084866691701
+number of part normalized: 0.05219677055951934
+number of cconj normalized: 0.04393541119038678
+number of sconj normalized: 0.06458880961321818
+number of propn normalized: 0.030416823131806235
+number of pronn normalized: 0.08111152835148329
+number of adp normalized: 0.05745399924896733
+number of num normalized: 0.016898235073225687
+number of intj normalized: 0.00488171235448742
 Ratios ------------------------------------------------
-ratio noun to verb: 1.1418439716312057
-ratio pronoun to verb: 0.5106382978723404
-ratio pronoun to noun: 0.4472049689440994
+ratio noun to verb: 0.8
+ratio pronoun to verb: 0.30638297872340425
+ratio pronoun to noun: 0.3829787234042553

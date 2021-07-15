@@ -223,10 +223,10 @@ zna	VERB	znati
 .	PUNCT	.
 (	PUNCT	(
 unuka	NOUN	unuka
-16	NUM	@card@
+16	NUM	16
 ,	PUNCT	,
 unuk	NOUN	unuk
-17	NUM	@card@
+17	NUM	17
 )	PUNCT	)
 To	PROPN	To
 ona	PRON	ona

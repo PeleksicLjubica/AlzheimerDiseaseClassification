@@ -1,29 +1,35 @@
-{Dragica}
 Šta da šta šta kažem?
 
-{Dragica}
 Kako se zove.
 
-{Dragica}
 Pa Dragica se zovem.
 
-{Dragica}
 I?
 
-{Dragica}
 Ime i prezime, Bajic Dragica Bajic Mile i eto tako.
 
-{Dragica}
-__Ćerka___
+ Ćerka 
 
-{Dragica}
-_nije.
+ Nije.
 
-{Dragica}
-__Šta?
+ Šta?
 
-{Dragica}
 Zašto dolazimo ovde?
 
-{Dragica}
 Pa dobro...
+
+Gde ste bili?
+
+Šta kažete?
+
+Volim da igram, više nego išta drugo.
+
+Važi, pevacemo.
+
+stajete?
+
+Eto lepo.
+
+Ovaj te..
+
+Ne piše ime ni prezime ovde, Maja i Dragica drugo nema ništa.

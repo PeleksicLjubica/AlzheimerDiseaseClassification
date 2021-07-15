@@ -1,13 +1,13 @@
 Maca5
 ------------------------------------------------
-number_of_words: 8
-average_words_length: 2.75
+number_of_words: 5
+average_words_length: 4.2
 vocabulary: 5
 vocabulary spoken once: 5
 ------------------------------------------------
-Type token ratio: 0.625
-Brunet's Index: 4.9257234039584405
-Honore's Statistic: 207944154167.98358
+Type token ratio: 1.0
+Brunet's Index: 3.435225088898748
+Honore's Statistic: 160943791243.41003
 ------------------------------------------------
 number of nouns: 2
 number of verbs: 1
@@ -26,21 +26,21 @@ number of adp: 0
 number of num: 0
 number of intj: 0
 Normalized ------------------------------------------------
-number of nouns normalized: 1.125
-number of verbs normalized:: 0.125
-number of adjectives normalized:: 0.125
-number of adverbs normalized:: 0.125
-number of aux normalized:: 0.0
-number of det normalized:: 0.0
-number of part normalized:: 0.0
-number of cconj normalized:: 0.125
-number of sconj normalized:: 0.0
-number of propn normalized:: 0.125
-number of pronn normalized:: 0.0
-number of adp normalized:: 0.0
-number of num normalized:: 0.0
-number of intj normalized:: 0.0
+number of nouns normalized: 0.4
+number of verbs normalized:: 0.2
+number of adjectives normalized: 0.2
+number of adverbs normalized: 0.2
+number of aux normalized: 0.0
+number of det normalized: 0.0
+number of part normalized: 0.0
+number of cconj normalized: 0.2
+number of sconj normalized: 0.0
+number of propn normalized: 0.2
+number of pronn normalized: 0.0
+number of adp normalized: 0.0
+number of num normalized: 0.0
+number of intj normalized: 0.0
 Ratios ------------------------------------------------
-ratio noun to verb: 1.0
+ratio noun to verb: 2.0
 ratio pronoun to verb: 0.0
 ratio pronoun to noun: 0.0

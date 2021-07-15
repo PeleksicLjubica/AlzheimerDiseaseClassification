@@ -1,19 +1,19 @@
 Mara
 ------------------------------------------------
-number_of_words: 2750
-average_words_length: 3.436
+number_of_words: 2047
+average_words_length: 4.3849535906204204
 vocabulary: 547
 vocabulary spoken once: 309
 ------------------------------------------------
-Type token ratio: 0.1989090909090909
-Brunet's Index: 16.41964455040129
-Honore's Statistic: 1820.1209396182173
+Type token ratio: 0.26722032242305815
+Brunet's Index: 14.792998645671208
+Honore's Statistic: 1752.2686682171113
 ------------------------------------------------
 number of nouns: 417
 number of verbs: 337
 number of adjectives: 101
 number of adverbs: 276
-number of punct: 692
+number of punct: 693
 number of aux: 227
 number of det: 96
 number of part: 123
@@ -26,21 +26,21 @@ number of adp: 113
 number of num: 31
 number of intj: 3
 Normalized ------------------------------------------------
-number of nouns normalized: 333.03054545454546
-number of verbs normalized:: 0.12254545454545454
-number of adjectives normalized:: 0.036727272727272726
-number of adverbs normalized:: 0.10036363636363636
-number of aux normalized:: 0.08254545454545455
-number of det normalized:: 0.03490909090909091
-number of part normalized:: 0.04472727272727273
-number of cconj normalized:: 0.05090909090909091
-number of sconj normalized:: 0.04363636363636364
-number of propn normalized:: 0.030545454545454546
-number of pronn normalized:: 0.053454545454545456
-number of adp normalized:: 0.04109090909090909
-number of num normalized:: 0.011272727272727273
-number of intj normalized:: 0.001090909090909091
+number of nouns normalized: 0.20371275036638983
+number of verbs normalized:: 0.27552515876893013
+number of adjectives normalized: 0.04934049829018075
+number of adverbs normalized: 0.1348314606741573
+number of aux normalized: 0.11089399120664387
+number of det normalized: 0.04689789936492428
+number of part normalized: 0.06008793356130923
+number of cconj normalized: 0.06839276990718124
+number of sconj normalized: 0.05862237420615535
+number of propn normalized: 0.04103566194430874
+number of pronn normalized: 0.0718124084025403
+number of adp normalized: 0.055202735710796286
+number of num normalized: 0.015144113336590131
+number of intj normalized: 0.0014655593551538837
 Ratios ------------------------------------------------
-ratio noun to verb: 0.9881305637982196
-ratio pronoun to verb: 0.4362017804154303
-ratio pronoun to noun: 0.44144144144144143
+ratio noun to verb: 0.7393617021276596
+ratio pronoun to verb: 0.26063829787234044
+ratio pronoun to noun: 0.35251798561151076

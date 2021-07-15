@@ -1,339 +1,170 @@
-﻿﻿[Znači rekli smo kako se zovete.]
-{Ognjenka}
-Dobro.
+﻿﻿Dobro.
 
-[Koliko Vi imate godina?]
-{Ognjenka}
-Sedamdeset-sedam, dve sedmice još jednu pa_loto.
+Sedamdeset-sedam, dve sedmice još jednu pa loto.
 
-[Dobro, koje je mesto Vašeg rođenja, gde ste se rodili?]
-_Valjevo, selo Beloševac.
+ Valjevo, selo Beloševac.
 
-[Mhm.]
-{Ognjenka}
-_Valjevska podvala.
+ Valjevska podvala.
 
-[Dobro. Kažite mi, da Vas odmah pitam, da li Vi bolujete od nekih hroničnih bolesti ovako?]
-{Ognjenka}
-Pa maco znaš šta, ja sam se pravila_da ne bolujem ni od čega i nisam ni od čega, ali imam problema sa srcem. Imam anginu pektoris, ako hoćeš da ti naređam brate sve imam,_aneurizma aorte, anginu pektoris_i ovaj,_slabost srčanog mišića. Eto to.
+Pa maco znaš šta, ja sam se pravila da ne bolujem ni od čega i nisam ni od čega, ali imam problema sa srcem. Imam anginu pektoris, ako hoćeš da ti naređam brate sve imam, aneurizma aorte, anginu pektoris i ovaj, slabost srčanog mišića. Eto to.
 
-[Slabost srčanog... Znači Vama sve za srce?]
-{Ognjenka}
 Sve za srce.
 
-[Ovako pluća i ostalo je okej?]
-{Ognjenka}
-Pluća, bilo malo vode u plućima, pa sam bila na urgentnom_I sad pijem stalno lek za izbacivanje_tečnosti, ovaj_to ti se zove krpljenje, znaš. Ali dobro je, dobro je, šalim se.
+Pluća, bilo malo vode u plućima, pa sam bila na urgentnom I sad pijem stalno lek za izbacivanje tečnosti, ovaj to ti se zove krpljenje, znaš. Ali dobro je, dobro je, šalim se.
 
-[Dobro. Znači onda Vi pijete lekove...]
-{Ognjenka}
-Lekove redovno. Trebalo je, ili da se radi nešto_na srcu, ovaj ozbiljnija operacija šta ja znam, ili da se pokuša lekovima i onda je bio konzilijum od četiri lekara i oni su se složili_da nisam u takvom stanju, kao što vidiš, ovaj, da se radi ta srčana manipulacija, nego da probamo lekovima. E, eto tako.
+Lekove redovno. Trebalo je, ili da se radi nešto na srcu, ovaj ozbiljnija operacija šta ja znam, ili da se pokuša lekovima i onda je bio konzilijum od četiri lekara i oni su se složili da nisam u takvom stanju, kao što vidiš, ovaj, da se radi ta srčana manipulacija, nego da probamo lekovima. E, eto tako.
 
-[Ovako za spavanje, za smirenje nešto?]
-{Ognjenka}
 A ma pijem ja tu svašta, punu šaku ali nemam pojma, pravim se luda.
 
-[Dobro.]
-{Ognjenka}
-Nego ja sam po prirodi mnogo vesela i optimista i ne može mi niko ništa, ni bolest ni_To je meni osnovna deviza. Kad je moj sin zdrav,_ja sam ovde džabe došla, mislim ja mogu sve da,_i da hodam._Ne smem uzbrdo da hodam. Ja imam predivan stan na Kanarevom brdu. Međutim,_sin i snaja, pa ne, ja neću sad._Meni moji roditelji nisu upropastili život, neću ni ja mojoj deci. Šta sad treba on u pola noći da se trže, da li treba meni hitna pomoć ili šta ja znam. Neka živi svako svoj život, tako ga ja najviše volim. A ne, ono_što ima roditelja pa misle sad, detetu, ovaj_ne znam ni ja kako da mu vrate. Pa, ovaj, ne znam šta treba da rade, da ga drže na krilu ma šta. Tako da je to je moj jedan zdrav pogled na, ako hoćeš, dobar odnos_sa detetom. Jel hoćeš da budeš voljen?_Ako sam bolesna, Jelena se sama prijavila. Ovde mi je sestra umrla pre sedam dana. Ona nije imala dece, živela je sama i moja bratanica ju je smestila._Šta će meni, ja sam, ja mnogo lep stan sam, ovaj, rekla sam sinu. Da prodaš pod hitno, imaš kuću, ali prodaj onaj moj stan, i ti i snaja da idete na jedno putovanje. Ako ništa idite na putovanje, potrošite. Nikad nećete imati više od četrdeset-šest godina...
+Nego ja sam po prirodi mnogo vesela i optimista i ne može mi niko ništa, ni bolest ni To je meni osnovna deviza. Kad je moj sin zdrav, ja sam ovde džabe došla, mislim ja mogu sve da, i da hodam. Ne smem uzbrdo da hodam. Ja imam predivan stan na Kanarevom brdu. Međutim, sin i snaja, pa ne, ja neću sad. Meni moji roditelji nisu upropastili život, neću ni ja mojoj deci. Šta sad treba on u pola noći da se trže, da li treba meni hitna pomoć ili šta ja znam. Neka živi svako svoj život, tako ga ja najviše volim. A ne, ono što ima roditelja pa misle sad, detetu, ovaj ne znam ni ja kako da mu vrate. Pa, ovaj, ne znam šta treba da rade, da ga drže na krilu ma šta. Tako da je to je moj jedan zdrav pogled na, ako hoćeš, dobar odnos sa detetom. Jel hoćeš da budeš voljen? Ako sam bolesna, Jelena se sama prijavila. Ovde mi je sestra umrla pre sedam dana. Ona nije imala dece, živela je sama i moja bratanica ju je smestila. Šta će meni, ja sam, ja mnogo lep stan sam, ovaj, rekla sam sinu. Da prodaš pod hitno, imaš kuću, ali prodaj onaj moj stan, i ti i snaja da idete na jedno putovanje. Ako ništa idite na putovanje, potrošite. Nikad nećete imati više od četrdeset-šest godina...
 
-[Da se javite?]
-{Ognjenka}
-Aha. Molim? Znaš što se smejem? Sad upravo radim jednu anketu, ovaj, došla Božana znaš. Kaže neki, ovaj, studenti, pa uzimaju anketu, znaš, i onda ovde, retko ko znaš, ima da je pri sebi. Ali čućemo se kasnije sine. Aj, aj pozdravljam te. Ajde dok uvidim koliko sam pametna. Ajde ćao. Ja volim zdrave odnose__Al verujte, nema boljeg Makarenka, ako si čula, to je čuveni pedijatar, ovaj, dečji_psiholog_od seljaka. Moj otac je bio seljak i rekao ovako:” Ako učiš, od sebe učiš.” Niti nas je šibao, niti nas je tukao, niti nas je maltretirao, i rekao:” Ili ćeš da budeš ovde u selu, da se udaš i budeš seljanka, ili ćeš da budeš neko.” I ja sam...
+Aha. Molim? Znaš što se smejem? Sad upravo radim jednu anketu, ovaj, došla Božana znaš. Kaže neki, ovaj, studenti, pa uzimaju anketu, znaš, i onda ovde, retko ko znaš, ima da je pri sebi. Ali čućemo se kasnije sine. Aj, aj pozdravljam te. Ajde dok uvidim koliko sam pametna. Ajde ćao. Ja volim zdrave odnose Al verujte, nema boljeg Makarenka, ako si čula, to je čuveni pedijatar, ovaj, dečji psiholog od seljaka. Moj otac je bio seljak i rekao ovako:” Ako učiš, od sebe učiš.” Niti nas je šibao, niti nas je tukao, niti nas je maltretirao, i rekao:” Ili ćeš da budeš ovde u selu, da se udaš i budeš seljanka, ili ćeš da budeš neko.” I ja sam...
 
-[Izvinite, samo, pošto ne mogu da se zatvore vrata, a Vi malo tiše pričate, ne znam da l će se sve čuti, pošto ja to posle treba da šaljem...]
-{Ognjenka}
 A da se približim...
 
-[Ako možete da se približite ili malo glasnije, ne bih da...]
-{Ognjenka}
-Mogu, mogu da. I onda sam ja odabrala da se školujem, i on, nije uopšte,_niti je išao na roditeljski, niti je njega, on kaže ako učiš od sebe učiš i tačno je. I ja sam sve, ovaj,_razmišljala. Šta, završila sam srednju,_u Valjevu sam završila osmogodišnju, pa dva gimnazije i srednju medicinsku tri godine, tada je tek otvorena srednja medicinska. Pa sam onda došla za Beograd, kao fizioterapeut da radim, prešla sam na kurs za fizioterapeute, pa se otvorila viša škola._I da ti kažem iskreno._To je bilo doba brige o omladini, o deci. Šta sam ja jedno seljače, šta bi ja postigla da sam ja sad u ovom kapitalizmu?_Meni je sve država omogućila. Dobila sam stan, proputovala ceo svet, imala veliku platu, vozila auto, i, meni ne treba ništa. Sad, i da mi daju ne znam šta, ne mogu, bole me noge i riknulo mi srce. Ali ne treba mi ništa. I lično mislim, da sadašnje generacije su_uskraćene za jedno,_ne kažem ja ne, da sad ne žive deca dobro, nije sad._Mobilni telefoni tada nisu bili. Ali znanja nikad nije dosta. Meni moje znanje, u životu time se najviše ponosim, i to mi je ostalo u sećanju putovanje i znanje. Sve drugo, da ti da dvorac, ja sam imala stan boli glava, uopšte mi ne znači ništa. Ušla sam, kad je trebalo da se proda, kao da nikad nisam tu bila. Ne vezujem se za stvari._Ja sam više zapadnjački tip. Oni sad rade ovde, sad onde, a mi kad se ukopamo na ovo jedno mesto...
+Mogu, mogu da. I onda sam ja odabrala da se školujem, i on, nije uopšte, niti je išao na roditeljski, niti je njega, on kaže ako učiš od sebe učiš i tačno je. I ja sam sve, ovaj, razmišljala. Šta, završila sam srednju, u Valjevu sam završila osmogodišnju, pa dva gimnazije i srednju medicinsku tri godine, tada je tek otvorena srednja medicinska. Pa sam onda došla za Beograd, kao fizioterapeut da radim, prešla sam na kurs za fizioterapeute, pa se otvorila viša škola. I da ti kažem iskreno. To je bilo doba brige o omladini, o deci. Šta sam ja jedno seljače, šta bi ja postigla da sam ja sad u ovom kapitalizmu? Meni je sve država omogućila. Dobila sam stan, proputovala ceo svet, imala veliku platu, vozila auto, i, meni ne treba ništa. Sad, i da mi daju ne znam šta, ne mogu, bole me noge i riknulo mi srce. Ali ne treba mi ništa. I lično mislim, da sadašnje generacije su uskraćene za jedno, ne kažem ja ne, da sad ne žive deca dobro, nije sad. Mobilni telefoni tada nisu bili. Ali znanja nikad nije dosta. Meni moje znanje, u životu time se najviše ponosim, i to mi je ostalo u sećanju putovanje i znanje. Sve drugo, da ti da dvorac, ja sam imala stan boli glava, uopšte mi ne znači ništa. Ušla sam, kad je trebalo da se proda, kao da nikad nisam tu bila. Ne vezujem se za stvari. Ja sam više zapadnjački tip. Oni sad rade ovde, sad onde, a mi kad se ukopamo na ovo jedno mesto...
 
-[Da.]
-{Ognjenka}
 Tako da hoću da kažem, najviše, najveće bogatstvo je zdravlje, i znanje. I nemaš nigde brige. 
 
-[Jeste]
-{Ognjenka}
 To je moje lično mišljenje, ne znam da l se, da li deliš...
 
-[Delim, delim.]
-{Ognjenka}
-...Ali poslušaj me, makar jedan deo i u životu nikad se nećeš pokajati. Jer ja nema oblasti, pazi ja sam ovaj, medicinu, ja nema oblasti s kojom mogu da, da diskutujem_zato što me sve interesuje. Nema veze, tehnika,_kosmički_ovaj, procesi, sve. Ja ovaj, ja sam_željna znanja._A ovo drugo sve možeš nabaviti. Ili može sutra tu kuću da mi sruši zemljotres, ili da rat upropasti._Od kako su nam razbili državu,_od tada ja_ništa ne fermam to, ni ko sam, ni odakle sam ni, ja sam volela moju zemlju najviše na svetu. I kad idem odnekle, kad se vraćamo s puta,_kad vidim onaj,Surčinski aerodrom, meni ovoliko srce, mislim ono, Juga. Gde god dođeš, izvolite, crveni pasoš, poštovanje smo izgubili. Federer može gde god da se pojavi na Zemljinoj kugli, za Švajcarsku, koja je ko Vojvodina, oni svi znaju odakle je on. A mi smo doživeli_da ljudi kriju, kažu Crnogorci, Makedonci, nešto kroz zube, ne smeju da kažu._Eto šta smo sebi uradili. E to, ostala sam kivna_i kasno je da menjam i državljanstvo i naciju i sve. Jer je nekolicina ljudi uspela da sve upropasti._Nekad smo bili ponosni kad kažeš iz Jugoslavije. To ti je čoveče, mislim, to hoću da kažem, sve zavisi od ljudi. Ja samo ne znam zašto mladi ne dižu glas, mi smo bili buntovna_omladina posle Drugog svetskog rata. Mi smo, nije to moglo tako, u školi, bilo gde. Mi se bunimo. Sad svi ćute. Da li je dobro svakom, nemam pojma, uglavnom, da te ne davim._Ja sam se izborila za svog sina sama__i neka, a to što on nema dece, on ne želi, ja nemam pravo da se mešam. Niti sam ja nekad pitala_za moju snaju. Šta je, u čemu, u čemu je_pogreška. To je njihov život. Ja sam moje odužila,_tako da mislim, hoću da ti kažem, znanje je moć, ne kaže se džabe.
+...Ali poslušaj me, makar jedan deo i u životu nikad se nećeš pokajati. Jer ja nema oblasti, pazi ja sam ovaj, medicinu, ja nema oblasti s kojom mogu da, da diskutujem zato što me sve interesuje. Nema veze, tehnika, kosmički ovaj, procesi, sve. Ja ovaj, ja sam željna znanja. A ovo drugo sve možeš nabaviti. Ili može sutra tu kuću da mi sruši zemljotres, ili da rat upropasti. Od kako su nam razbili državu, od tada ja ništa ne fermam to, ni ko sam, ni odakle sam ni, ja sam volela moju zemlju najviše na svetu. I kad idem odnekle, kad se vraćamo s puta, kad vidim onaj,Surčinski aerodrom, meni ovoliko srce, mislim ono, Juga. Gde god dođeš, izvolite, crveni pasoš, poštovanje smo izgubili. Federer može gde god da se pojavi na Zemljinoj kugli, za Švajcarsku, koja je ko Vojvodina, oni svi znaju odakle je on. A mi smo doživeli da ljudi kriju, kažu Crnogorci, Makedonci, nešto kroz zube, ne smeju da kažu. Eto šta smo sebi uradili. E to, ostala sam kivna i kasno je da menjam i državljanstvo i naciju i sve. Jer je nekolicina ljudi uspela da sve upropasti. Nekad smo bili ponosni kad kažeš iz Jugoslavije. To ti je čoveče, mislim, to hoću da kažem, sve zavisi od ljudi. Ja samo ne znam zašto mladi ne dižu glas, mi smo bili buntovna omladina posle Drugog svetskog rata. Mi smo, nije to moglo tako, u školi, bilo gde. Mi se bunimo. Sad svi ćute. Da li je dobro svakom, nemam pojma, uglavnom, da te ne davim. Ja sam se izborila za svog sina sama i neka, a to što on nema dece, on ne želi, ja nemam pravo da se mešam. Niti sam ja nekad pitala za moju snaju. Šta je, u čemu, u čemu je pogreška. To je njihov život. Ja sam moje odužila, tako da mislim, hoću da ti kažem, znanje je moć, ne kaže se džabe.
 
-[Da.]
-{Ognjenka}
-Jer mene, ja sam čitala sve što stignem, misim. Jezik je, kao, za mene je neko ko govori jezike bio_ovaj, pa i ja, nemački, engleski, mislim, pa neko je voleo da zida kuće, ne znam šta da radi...
+Jer mene, ja sam čitala sve što stignem, misim. Jezik je, kao, za mene je neko ko govori jezike bio ovaj, pa i ja, nemački, engleski, mislim, pa neko je voleo da zida kuće, ne znam šta da radi...
 
-[Mhm. A kad smo kod jezika, koje strane jezike govorite?]
-{Ognjenka}
-Nemački, engleski_i francuski sam u školi učila dve godne. Čak i tu se snalazim iako posle toliko godina...
+Nemački, engleski i francuski sam u školi učila dve godne. Čak i tu se snalazim iako posle toliko godina...
 
-[Mhm. Znači nemački, engleski i čak francuski?]
-{Ognjenka}
 Da.
 
-[Dobro.]
-{Ognjenka}
-Francuski me spasio jer smo bili_u Španiji, pa, to je onaj, između Španije i Francuske,_ovaj, jedna mala državica, i sad, to je samo uzbrdo i jedna ulica gore._I ja volim da cunjam, gledam izloge, oni, otišli, nekim liftom se silazilo._Ja kad se popnem gore vidim naš autobus, kad siđem dole nema ga._I ja odem u policiju. I kažem, pošto se tamo govorio francuski,_i kažem izvinte, ja ne mogu da se snađem,_moj autobus iz Beograda je parkiran tu negde_I oni mene u kola, i samo smo prošli, ovako dvesta metara, i tu se, tu je bio parking. Eto, nadam se, zahvaljujući tom francuskom kog sam ja samo dve godine učila._Znači, pomogao mi_i ja sam se ozbiljno bila uplašila. Kako je moguće kad se popnem gore, vidim autobus, kad siđem dole, ne mogu da ga nađem, ono već sedam sati uveče. Mislim...
+Francuski me spasio jer smo bili u Španiji, pa, to je onaj, između Španije i Francuske, ovaj, jedna mala državica, i sad, to je samo uzbrdo i jedna ulica gore. I ja volim da cunjam, gledam izloge, oni, otišli, nekim liftom se silazilo. Ja kad se popnem gore vidim naš autobus, kad siđem dole nema ga. I ja odem u policiju. I kažem, pošto se tamo govorio francuski, i kažem izvinte, ja ne mogu da se snađem, moj autobus iz Beograda je parkiran tu negde I oni mene u kola, i samo smo prošli, ovako dvesta metara, i tu se, tu je bio parking. Eto, nadam se, zahvaljujući tom francuskom kog sam ja samo dve godine učila. Znači, pomogao mi i ja sam se ozbiljno bila uplašila. Kako je moguće kad se popnem gore, vidim autobus, kad siđem dole, ne mogu da ga nađem, ono već sedam sati uveče. Mislim...
 
-[Da.]
-{Ognjenka}
-Tako da, hoću da kažem_jezike kad znaš...
+Tako da, hoću da kažem jezike kad znaš...
 
-[Pa i dobro je, pošto oni uglavnom sada, ne znam da li znate, neće da pričaju engleski.]
-{Ognjenka}
 A, Francuzi drže do svog izgleda. 
 
-[Da. Tako da ja, i kad sam bila jednom, nisu uopšte hteli da...]
-{Ognjenka}
-Da, ne, kao moj onaj engleski, ne, oni tako po službenoj dužnosti i tako po, inače ovako, ne daju oni svoj jezik. Francuzi su vrlo, ovaj, sujetna nacija, mislim to je poznato. Ja znam kad smo mi bili u Monte Karlu ono, Azurna obala, Nica, pa kad smo došli skroz do Barselone, tako,_ovaj, i onda_francuski i engleski, njemu možeš uđeš u kafić, sve samo na francuskom tražiš. 
+Da, ne, kao moj onaj engleski, ne, oni tako po službenoj dužnosti i tako po, inače ovako, ne daju oni svoj jezik. Francuzi su vrlo, ovaj, sujetna nacija, mislim to je poznato. Ja znam kad smo mi bili u Monte Karlu ono, Azurna obala, Nica, pa kad smo došli skroz do Barselone, tako, ovaj, i onda francuski i engleski, njemu možeš uđeš u kafić, sve samo na francuskom tražiš. 
 
-[Mhm.]
-{Ognjenka}
-Radije ti on, pročita mimikom ako mu kažeš ovako, pantomimom, nego da mu kažeš recimo, ruski ni da čuju. A ja isto ne volim ruski. Ne znam, ne volim ruski, apsolutno. To je neverovatno, trebalo je da budem u jednom odeljenju gde se učio ruski, ja sam_jedva uspela da pređem u odeljenje, ovaj, gde je francuski i nemački. 
+Radije ti on, pročita mimikom ako mu kažeš ovako, pantomimom, nego da mu kažeš recimo, ruski ni da čuju. A ja isto ne volim ruski. Ne znam, ne volim ruski, apsolutno. To je neverovatno, trebalo je da budem u jednom odeljenju gde se učio ruski, ja sam jedva uspela da pređem u odeljenje, ovaj, gde je francuski i nemački. 
 
-[Mhm, pa i možda ste bolje...]
-{Ognjenka}
-Ne znam, nešto mi se, taj ruski ne leži_Ne znam._Ne volim ni Ruse ni ruski. Ništa. Pa ne, šta ja znam, ne vole ni oni mene. Njih baš, bitno, mislim_Nego,_šta te interesuje još?
+Ne znam, nešto mi se, taj ruski ne leži Ne znam. Ne volim ni Ruse ni ruski. Ništa. Pa ne, šta ja znam, ne vole ni oni mene. Njih baš, bitno, mislim Nego, šta te interesuje još?
 
-[Pa, gde ste, koje je sad Vaše mesto prebivališta? Mislim ovde sad konkretno, ali...]
-{Ognjenka}
-Pa, konkretno eto, ovo mesto ovde, da. A na proleće će, ima sad jedna kombinacija. Moj sin,_prodao je moj stan, prodao je i svoju kuću, koja je božanstvena. On hoće da se preseli u Španiju u jedno mesto predivno,_tamo gde je Nadal otvorio onu svoju, pa tu u toj okolini, gde je otvorio školu tenisa._Hoće da kupe kuću tamo. A on se bavi, moja snaja je inženjer, ona je za energetsku ovaj efikasnost_stručnjak. A sin mi pravi ortopedska pomagala za invalide. I već, već on tri radna mesta ima tamo, preko ovih, đavola, mislim._Nije bio i sad idu tek četvrtog. Ja kažem idite, provedite se, pet godina ste izidali ovu kućerinu, ovaj,_provedite se i vidite kako izgleda, lično kad vidiš drugačije je. Kaže sin, ma kaže normalno mama, ostavljam jedan posto_da može da se desi da se nešto ne svidi. Inače_I on je ogorčen, on radi, on je toliko dobro zarađivao, to je struka koje nema kadra. A njemu socijalno neće da plati. Prošla Nova godina, oni, treba svaka tri meseca. A on, oni neće da mu plate uopšte. To što ima nalog. A to ide, on dobije pacijent nalog, pa onda on ide, napravi pomagalo, o svom trošku kupuje stopalo od ... koji se plaća devizama, i onda da nalog u socijalno i onda oni treba njemu da plate cenu. Prvo su cenu svukli,_smešno, mislim strašno. A drugo, ne plaćaju mu uopšte. I on kaže, on je tolko razočaran, on kaže ja neću više kročiti_ovde. Ako uspem da odem. 
+Pa, konkretno eto, ovo mesto ovde, da. A na proleće će, ima sad jedna kombinacija. Moj sin, prodao je moj stan, prodao je i svoju kuću, koja je božanstvena. On hoće da se preseli u Španiju u jedno mesto predivno, tamo gde je Nadal otvorio onu svoju, pa tu u toj okolini, gde je otvorio školu tenisa. Hoće da kupe kuću tamo. A on se bavi, moja snaja je inženjer, ona je za energetsku ovaj efikasnost stručnjak. A sin mi pravi ortopedska pomagala za invalide. I već, već on tri radna mesta ima tamo, preko ovih, đavola, mislim. Nije bio i sad idu tek četvrtog. Ja kažem idite, provedite se, pet godina ste izidali ovu kućerinu, ovaj, provedite se i vidite kako izgleda, lično kad vidiš drugačije je. Kaže sin, ma kaže normalno mama, ostavljam jedan posto da može da se desi da se nešto ne svidi. Inače I on je ogorčen, on radi, on je toliko dobro zarađivao, to je struka koje nema kadra. A njemu socijalno neće da plati. Prošla Nova godina, oni, treba svaka tri meseca. A on, oni neće da mu plate uopšte. To što ima nalog. A to ide, on dobije pacijent nalog, pa onda on ide, napravi pomagalo, o svom trošku kupuje stopalo od ... koji se plaća devizama, i onda da nalog u socijalno i onda oni treba njemu da plate cenu. Prvo su cenu svukli, smešno, mislim strašno. A drugo, ne plaćaju mu uopšte. I on kaže, on je tolko razočaran, on kaže ja neću više kročiti ovde. Ako uspem da odem. 
 
-[Znači Vi imate jednog sina?]
-{Ognjenka}
 Da.
 
-[Jednog sina, a on je oženjen, nema dece.]
-{Ognjenka}
-Nema dece. Ali, hoću da kažem, ima pravo bar drugi deo pola života da,_drugu polovinu života provede kako oni hoće. 
+Nema dece. Ali, hoću da kažem, ima pravo bar drugi deo pola života da, drugu polovinu života provede kako oni hoće. 
 
-[Mhm. A kako se zove sin?]
-{Ognjenka}
 Dejan.
 
-[Dejan?]
-{Ognjenka}
 Dejan Jovanović. 
 
-[Aha. A snaja?]
-{Ognjenka}
 Biljana.
 
-[Biljana. Znači Dejan i Biljana.]
-{Ognjenka}
 Da?
 
-[Dobro, pričali ste znači o njima, on pravi ortopedska pomagala...]
-{Ognjenka}
 Da, pa kažem, on koliko puta o svom trošku napravi nekom siromašnom invalidu, kome ovi neće da overe nalog, a njemu žao čovek nema na čemu da hoda, nema nogu.
 
-[A čime se žena bavi?]
-{Ognjenka}
-_Ona, ne bih znala, to je mnogo stručno za mene, ja ne znam šta to znači, ta energetska efikasnost.
+ Ona, ne bih znala, to je mnogo stručno za mene, ja ne znam šta to znači, ta energetska efikasnost.
 
-[Aha.]
-{Ognjenka}
 Ali radi privatno kod nekog privremeno.
 
-[Dobro. A konkretno za mesto prebivališta, jeste on prodao sve to, ali znači u Beogradu ste...]
-{Ognjenka}
-Ne, sad je u, na Kanarevom Brdu, ovaj__
+Ne, sad je u, na Kanarevom Brdu, ovaj 
 
-[Vi ste s njim živeli?]
-{Ognjenka}
 Ne. Sama. Do njih, dve kuće od njih je bio moj stan božanstven.
 
-[Isto na Kanarevom Brdu?]
-{Ognjenka}
-Koji je sad tek._U stvari tek sad u prodaji. Ja. Ovaj, Rakovička ulica_11 je moj sin, a ja sam bila 9.
+Koji je sad tek. U stvari tek sad u prodaji. Ja. Ovaj, Rakovička ulica 11 je moj sin, a ja sam bila 9.
 
-[A jel ste samo tu živeli do sada ili ste još negde?]
-Ma menjala sam ja ovaj na Vračaru i_prvo na Petlovom Brdu sam od firme dobila dvosoban stan, pa posle kad je ono bila, ono kad su nas usrećili devedesetih, kad su lepo zaratili te barabe da opljačkaju državu, mi smo ostali bez ičega, na tri marke platu. Onda sam ja taj stan menjala za manji, pa da bismo_imali_da preživimo, ja i sin_mislim, od razlike u novcu. Ja recimo sam imala šezdeset kvadrata, pa sam prodala, pa sam dobila razliku, pa sledeći, i tako dok nismo došli. Ja sam kupila garsonjeru na Crvenom krstu, a njemu sam platila, on je već imao trideset godina na Banjici da_jednom počne sam da stanuje. Ja kažem bre, nemoj, ako čuje neka devojka da živiš s mamom bre, neće te niko._Krajnje vreme je da se odvojiš, znaš, ono kad, jao živi s mamom, znaš, sad to ti je, pa jeste stvarno, ne bez obzira kakav je ko. Ali nije to komotan život. Nije to to. Mislim_dok se nismo nekako izvukli, dok on nije počeo, osnovao svoju firmu i pita on mene šta da radim, ja kažem samo ako osnuješ ovu firmu. Zato što znam da je retka, što znam da kadra nema. Ukinuli su tu granu_protetike, znači i to su uspeli da ukinu. Fizioterapiju ne znam da li još ima, ovaj_ta_škola za fizioterapeute viša...
+Ma menjala sam ja ovaj na Vračaru i prvo na Petlovom Brdu sam od firme dobila dvosoban stan, pa posle kad je ono bila, ono kad su nas usrećili devedesetih, kad su lepo zaratili te barabe da opljačkaju državu, mi smo ostali bez ičega, na tri marke platu. Onda sam ja taj stan menjala za manji, pa da bismo imali da preživimo, ja i sin mislim, od razlike u novcu. Ja recimo sam imala šezdeset kvadrata, pa sam prodala, pa sam dobila razliku, pa sledeći, i tako dok nismo došli. Ja sam kupila garsonjeru na Crvenom krstu, a njemu sam platila, on je već imao trideset godina na Banjici da jednom počne sam da stanuje. Ja kažem bre, nemoj, ako čuje neka devojka da živiš s mamom bre, neće te niko. Krajnje vreme je da se odvojiš, znaš, ono kad, jao živi s mamom, znaš, sad to ti je, pa jeste stvarno, ne bez obzira kakav je ko. Ali nije to komotan život. Nije to to. Mislim dok se nismo nekako izvukli, dok on nije počeo, osnovao svoju firmu i pita on mene šta da radim, ja kažem samo ako osnuješ ovu firmu. Zato što znam da je retka, što znam da kadra nema. Ukinuli su tu granu protetike, znači i to su uspeli da ukinu. Fizioterapiju ne znam da li još ima, ovaj ta škola za fizioterapeute viša...
 
-[Ima, ima.]
-{Ognjenka}
-A ovo su ukinuli tako da sad nema kadra._Nema ko da radi, niti oni plaćaju, a invalida su se postarali da ima koliko hoćeš.
+A ovo su ukinuli tako da sad nema kadra. Nema ko da radi, niti oni plaćaju, a invalida su se postarali da ima koliko hoćeš.
 
-[Da.]
-{Ognjenka}
-Jeste on sve do dve hiljade-dvanaeste vrlo lepo prolazio. Onda su i kuću zidali,_ovaj, i plaćali mu na vreme. Od dve hiljade-dvanaeste_to je katastrofa.
+Jeste on sve do dve hiljade-dvanaeste vrlo lepo prolazio. Onda su i kuću zidali, ovaj, i plaćali mu na vreme. Od dve hiljade-dvanaeste to je katastrofa.
 
-[Da.]
-{Ognjenka}
 Znači to je ovo doba od ovih usrećitelja. E, to su ti...
 
-[A gde Vam je bilo najlepše od svih tih prebivališta?]
-{Ognjenka}
-___Pa na Vračaru da ti iskreno kažem.
+ Pa na Vračaru da ti iskreno kažem.
 
-[Na Vračaru, dobro.]
-{Ognjenka}
 Tačno. Bez obzira što je bila garsonjera, ali meni bilo dovoljno.
 
-[Dobro, a što se tiče Vaše nacionalne pripadnosti?]
-{Ognjenka}
 Srpkinja.
 
-[Srpkinja? Dobro. A gde ste sve radili, na kojim pozicijama?]
-{Ognjenka}
-__Pa radila sam, kad sam završila srednju medicinsku, radila sam odmah u Valjevskoj bolnici jer je upravnik Valjevske bolnice_najpoznatiji_hirurg predratni, pre onog rata, ovaj, bio je upravnik naše škole. I nije to bilo. ja sam, sreli smo se, i ja sam čekala dokument, diplomu da dobijem pa da._I on me sreo i kaže:” Je li mala, što ti ne dolaziš na poso?” Ja kažem:” Pa čekam diplomu.”” Kakvu diplomu ti si meni diploma, dođi sutra da radiš.” Tako je to bilo. Mislim mogla sam da menjam svaki mesec radno mesto. Tako da ja, radila sam u Mataruškoj Banji, posle kad je raspisala za fizioterapeute traži nekoliko sestara, traži deset sestara, koje će da pošalje u institut Miroslav Zotović na prekvalifikaciju za fizioterapeute. Šest meseci. A posle, u međuvremenu se, ja polazim za Beograd,_i, ovaj, otvara se Viša škola za fizioterapiju, znači upisujemo fakultet i ovaj,_opet sve ustanova snosi troškove, nemam ja ništa s tim. Sve što je trebalo...
+ Pa radila sam, kad sam završila srednju medicinsku, radila sam odmah u Valjevskoj bolnici jer je upravnik Valjevske bolnice najpoznatiji hirurg predratni, pre onog rata, ovaj, bio je upravnik naše škole. I nije to bilo. ja sam, sreli smo se, i ja sam čekala dokument, diplomu da dobijem pa da. I on me sreo i kaže:” Je li mala, što ti ne dolaziš na poso?” Ja kažem:” Pa čekam diplomu.”” Kakvu diplomu ti si meni diploma, dođi sutra da radiš.” Tako je to bilo. Mislim mogla sam da menjam svaki mesec radno mesto. Tako da ja, radila sam u Mataruškoj Banji, posle kad je raspisala za fizioterapeute traži nekoliko sestara, traži deset sestara, koje će da pošalje u institut Miroslav Zotović na prekvalifikaciju za fizioterapeute. Šest meseci. A posle, u međuvremenu se, ja polazim za Beograd, i, ovaj, otvara se Viša škola za fizioterapiju, znači upisujemo fakultet i ovaj, opet sve ustanova snosi troškove, nemam ja ništa s tim. Sve što je trebalo...
 
-[Da.]
-{Ognjenka}
-I završim_tu višu za fizioterapeuta, i radila sam u Zavodu za protetiku, Rudo to zna, to Rudo, ali nije Rudo, to je u jednom dvorištu sve, za te invalide._I imali smo fenomenalne plate stvarno_je to bilo, mislim Nemci su dolazili, i zvali moga muža da pređe u Duderštadt, to je u_Austriji_firma za pomagala. Dvanaest hiljada maraka, u ono vreme su oni njemu nudili. On nije hteo.
+I završim tu višu za fizioterapeuta, i radila sam u Zavodu za protetiku, Rudo to zna, to Rudo, ali nije Rudo, to je u jednom dvorištu sve, za te invalide. I imali smo fenomenalne plate stvarno je to bilo, mislim Nemci su dolazili, i zvali moga muža da pređe u Duderštadt, to je u Austriji firma za pomagala. Dvanaest hiljada maraka, u ono vreme su oni njemu nudili. On nije hteo.
 
-[Nije hteo da ide?]
-{Ognjenka}
-Nije hteo. Pa nama je bilo divno, šta ćeš. Imaš dobru platu, pa nismo, nisam sad ja htela imamo jedno dete, nisam htela da zidamo kule i gradove. Živeli smo predivno, dva godišnja odmora i zimi i leti, malo malo neki višak dobiješ u visini plate, pomagala bila realna cena, kao što je sad na zapadu. Nije bilo, to petsto, petsto evra, a nego je bilo po pet hiljada evra. Mogao si da kupiš Fiću za jednu potkolenu protezu. Eto sad, možda, ovaj,_dobiješ sliku. Znači, Fića je tad tek izašao model,__ovaj, počela ova industrija znači, da se proizvodi u Kragujevcu. Tačno je pa mogao da se kupi jedan Fića za jednu potkolenu protezu koju napravi moj sin, moj muž, tada ili sin sada. A sad, ni petsto, sad petsto evra, ne može da mu ostane_pošto on mora da kupi, da plati, jer uvoz je osamsto, stopala ortobloka je dvesta evra, znači njemu ni trista eura ne ostaje sad. Katastrofa, mislim šta. I ja kažem ako možete, ako Bog da, ako preživim, ćao Bambino, više nemam ni ..., ničeg. Žao mi je države, nestala je država koju sam volela, sve je nestalo što nam je bilo lepo. Šta bih ja ovde tražila. Vi ste tamo, moji najdraži, ima da povučemo celu familiju, mlade, koloniju da napravimo, a ovde neka žive ovi koji_misle da su, da svet od njih počinje, nekakvi Četnici, nekakvi nemam pojma, mi smo se nismo uopšte bavili politikom. Mene je jednom pitao samo_domar hoću li da budem član Saveza Komunista, a kaže ti si, ovaj lotica, sa svima si divna, mnogo te volimo, hoćeš li da_samo potpišeš, da budeš član Saveza Komunista? Onu pristupnicu, molbu, ja kažem još da vas molim da me primite, ma beži. Vidim ja, idem posle posla se doteram i idem uveče da ovaj, da se nađem s mojim momkom, šta me se tiče šta vi radite. Niko meni nije uzeo za zlo, da kaže a imaš manju platu ili da_Nećeš, nećeš, nema._Troje je bilo u celom Zavodu, od sto pedeset ljudi, troje je bilo članovi Saveza Komunista, i kukali ko kukavci, odbijali im od plate, jedan dobar kredit_Tako da ovaj, nije tačno, niko te nije terao.
+Nije hteo. Pa nama je bilo divno, šta ćeš. Imaš dobru platu, pa nismo, nisam sad ja htela imamo jedno dete, nisam htela da zidamo kule i gradove. Živeli smo predivno, dva godišnja odmora i zimi i leti, malo malo neki višak dobiješ u visini plate, pomagala bila realna cena, kao što je sad na zapadu. Nije bilo, to petsto, petsto evra, a nego je bilo po pet hiljada evra. Mogao si da kupiš Fiću za jednu potkolenu protezu. Eto sad, možda, ovaj, dobiješ sliku. Znači, Fića je tad tek izašao model, ovaj, počela ova industrija znači, da se proizvodi u Kragujevcu. Tačno je pa mogao da se kupi jedan Fića za jednu potkolenu protezu koju napravi moj sin, moj muž, tada ili sin sada. A sad, ni petsto, sad petsto evra, ne može da mu ostane pošto on mora da kupi, da plati, jer uvoz je osamsto, stopala ortobloka je dvesta evra, znači njemu ni trista eura ne ostaje sad. Katastrofa, mislim šta. I ja kažem ako možete, ako Bog da, ako preživim, ćao Bambino, više nemam ni ..., ničeg. Žao mi je države, nestala je država koju sam volela, sve je nestalo što nam je bilo lepo. Šta bih ja ovde tražila. Vi ste tamo, moji najdraži, ima da povučemo celu familiju, mlade, koloniju da napravimo, a ovde neka žive ovi koji misle da su, da svet od njih počinje, nekakvi Četnici, nekakvi nemam pojma, mi smo se nismo uopšte bavili politikom. Mene je jednom pitao samo domar hoću li da budem član Saveza Komunista, a kaže ti si, ovaj lotica, sa svima si divna, mnogo te volimo, hoćeš li da samo potpišeš, da budeš član Saveza Komunista? Onu pristupnicu, molbu, ja kažem još da vas molim da me primite, ma beži. Vidim ja, idem posle posla se doteram i idem uveče da ovaj, da se nađem s mojim momkom, šta me se tiče šta vi radite. Niko meni nije uzeo za zlo, da kaže a imaš manju platu ili da Nećeš, nećeš, nema. Troje je bilo u celom Zavodu, od sto pedeset ljudi, troje je bilo članovi Saveza Komunista, i kukali ko kukavci, odbijali im od plate, jedan dobar kredit Tako da ovaj, nije tačno, niko te nije terao.
 
-[Jel ste pri kraju?]
 
-[Pa jasmo, to su... Znači Vi ste bili medicinska sestra i onda ste se prekvalifikovali gore za fizioterapeuta?]
-{Ognjenka}
 Za fizioterapeuta, da.
 
-[Znači Vi ste sad fizioterapeut?]
-{Ognjenka}
 Ja sam sad penzioner.
 
-[Da, dobro, to da.]
 
-[Izvinjavam se, mora da krene za petnaestak minuta. Tako da, hoćete uskoro?]
 
-[Da, da da.]
-{Ognjenka}
 Završile smo, jesmo se lepo ispričale, devojčica je slatka ko med.
 
-[Dobro, da li Vi pišete levom ili desnom rukom?]
-{Ognjenka}
 Desnom.
 
-[Desnom.]
-{Ognjenka}
 Sin moj piše levom, ne znam otkud mu to, ali ja sam desnom.
 
-[Jel imate neko muzičko obrazovanje, da li ste pevali ili ste svirali neki instrument?]
-{Ognjenka}
 Pevam, lepo pevam, ali ovi, se uvek smejemo, Miki Jevremović, ako si ikad čula za njega?
 
-[Nisam.]
-{Ognjenka}
-Umro je skoro, on je bio_zabavni, ma ja narodnjake nikad nisam slušala. Ne, ni Lepu Lukić ni ne znam ove one, ovaj. Miki Jevremović je bio u mom odeljenju koji je jako lepo pevao, i on je poznat_u Jugoslaviji bio. Na takmičenjima, svim tim. E, i ja sam. Bilo je takmičenje u Valjevu, neka zvala se,_ovaj, Žuta majica. A u stvari se dobijao neki,_otkud znam kako se to zvalo._I ja sad došla mu ovaj, kući, dobijem ja drugu nagradu._I kažem, da se pohvalim mome ocu,_i zamislite Vi tog seljaka filozofa, on mene nije grdio, nije, a znam da mu se koža ježi, tada su pevačice bile ono, fuj, znaš ono._Nego, i ja kažem dobila sam nagradu, Miki je prvi, to se čulo preko radia, prvi Jevremović, a, a išli smo u isto odeljenje. Išli, ovaj._To je bilo takmičenje unutar gimnazije,_protiv gimnazije Šabačke i šta ja znam, razne._A on meni samo ovako kaže:”_Šta si rekla?__Pevačica da budeš?” Ništa mi drugo nije rekao. On je meni toliko zgadio to,_da meni nije na pamet palo. Ja znam da pevam, ali pevam u svom društvu. Mogu i sad da pevam ako mi se peva, nego_mi smešno pesma. Hoću da kažem, mogla sam_da budem bolje, bolje_da pevam od_ne znam ni ja, desetina ovih, renomiranih. A ja volim da pevam, ali ne volim masu, ono_da me gledaju. Ja ne znam, uvek mi_se kosa digne kad kaže ono, jao što volim publiku. A ja, ne bih nikad bila pevačica zbog toga. Ja volim u intimnom društvu, da.
+Umro je skoro, on je bio zabavni, ma ja narodnjake nikad nisam slušala. Ne, ni Lepu Lukić ni ne znam ove one, ovaj. Miki Jevremović je bio u mom odeljenju koji je jako lepo pevao, i on je poznat u Jugoslaviji bio. Na takmičenjima, svim tim. E, i ja sam. Bilo je takmičenje u Valjevu, neka zvala se, ovaj, Žuta majica. A u stvari se dobijao neki, otkud znam kako se to zvalo. I ja sad došla mu ovaj, kući, dobijem ja drugu nagradu. I kažem, da se pohvalim mome ocu, i zamislite Vi tog seljaka filozofa, on mene nije grdio, nije, a znam da mu se koža ježi, tada su pevačice bile ono, fuj, znaš ono. Nego, i ja kažem dobila sam nagradu, Miki je prvi, to se čulo preko radia, prvi Jevremović, a, a išli smo u isto odeljenje. Išli, ovaj. To je bilo takmičenje unutar gimnazije, protiv gimnazije Šabačke i šta ja znam, razne. A on meni samo ovako kaže:” Šta si rekla? Pevačica da budeš?” Ništa mi drugo nije rekao. On je meni toliko zgadio to, da meni nije na pamet palo. Ja znam da pevam, ali pevam u svom društvu. Mogu i sad da pevam ako mi se peva, nego mi smešno pesma. Hoću da kažem, mogla sam da budem bolje, bolje da pevam od ne znam ni ja, desetina ovih, renomiranih. A ja volim da pevam, ali ne volim masu, ono da me gledaju. Ja ne znam, uvek mi se kosa digne kad kaže ono, jao što volim publiku. A ja, ne bih nikad bila pevačica zbog toga. Ja volim u intimnom društvu, da.
 
-[Pa dobro, i to je okej.]
-{Ognjenka}
 Pa da, a da imam glasne žice, imam.
 
-[A jel ste neki instrument svirali?]
-{Ognjenka}
-Ne, moj tata je svirao_neku violinu. Ali ja ne.
+Ne, moj tata je svirao neku violinu. Ali ja ne.
 
-[Dobro, a kad smo pričali o članovima Vaše porodice, znači rekli ste da imate sina i snaju, a jel imate još nekog, ne?]
-{Ognjenka}
-Pa braća su mi, sestra mi je umrla pre_petnaest dana ovde. Brat jedan se udavio_od, on je bio direktor Minela, iz, ovaj, jedna firma koja je prokopavala_kod Gadafija, u Libiji prokopavala, kroz pesak vodu, šta ja znam navodnjavanje to. I on ode na plažu i udavi se tamo, u četrdeset-šest godina. Drugi, ali on ima dve ćerke, to su mi dve bratanice, to su kao da su moje, mislim to je...
+Pa braća su mi, sestra mi je umrla pre petnaest dana ovde. Brat jedan se udavio od, on je bio direktor Minela, iz, ovaj, jedna firma koja je prokopavala kod Gadafija, u Libiji prokopavala, kroz pesak vodu, šta ja znam navodnjavanje to. I on ode na plažu i udavi se tamo, u četrdeset-šest godina. Drugi, ali on ima dve ćerke, to su mi dve bratanice, to su kao da su moje, mislim to je...
 
-[Da.]
-{Ognjenka}
-I onda da vidimo, drugi brat, koji je tri godine stariji od mene, a ja sam najmlađa, on je ovaj, sestra nije imala dece, a ovaj drugi brat ima dvoje, sina i ćerku. On je u šezdeset godina_potpuno, uz zdrave lekove i_umro od srca._Samo nije, nisu mogli da otvore ujutru vrata, i odvalili su i našli ga, a on je, držao nitroglicerin u ruci i nije stigao čak ni da stavi. Ali on je takav, bio nemaran Ne, nije meni ništa, te neću kod lekara i to_on je umro u šezdeset godina, eto.
+I onda da vidimo, drugi brat, koji je tri godine stariji od mene, a ja sam najmlađa, on je ovaj, sestra nije imala dece, a ovaj drugi brat ima dvoje, sina i ćerku. On je u šezdeset godina potpuno, uz zdrave lekove i umro od srca. Samo nije, nisu mogli da otvore ujutru vrata, i odvalili su i našli ga, a on je, držao nitroglicerin u ruci i nije stigao čak ni da stavi. Ali on je takav, bio nemaran Ne, nije meni ništa, te neću kod lekara i to on je umro u šezdeset godina, eto.
 
-[Dobro.]
-{Ognjenka}
 Nas četvoro je bilo, ostala sam samo ja još...
 
-[Da.]
-{Ognjenka}
-Pelcer. A dobro, život teče dalje, nek su deca, imaju_divnu decu svi stvarno, tako da...
+Pelcer. A dobro, život teče dalje, nek su deca, imaju divnu decu svi stvarno, tako da...
 
-[Dobro.]
-{Ognjenka}
-Eto to je jedan_stori, jedna_priča, kojih je bilo._Ali u suštini,_meni je bilo mnogo lepo,___kako da kažem, bilo je pravednije, mnogo je za više značio čovek, mnogo je značilo_pomoći jedno drugom._Nije bilo zlobe, kad kažeš školski drug, to ti je ko rođeni brat, sretneš školskog druga.__Tako da, kako odmiču godine, ničega mi nije žao, mislim.__I mislim da se nikad to doba neće više ponoviti. A žao mi je zbog mladih, što vi ne znate_šta je. Nije život lep samo da imaš dosta para, gomilu mislim. Išli smo i u Trst mi po, po šuškavce. I ovaj, ima to sve svojih čari. Nismo nikad bili gladni, ali je bilo posla za svakog. Možeš da promeniš posao za dva dana. Ako ti se tu ne sviđa, odmah sutra. E tu je, tu je kvaka. Ne znam, što je Jugoslavija bila tako jedna,_bila među najvećim_silama evropskim, industrijskim.__Pa znaš kad se Đerdap pravio, pa to je takav poduhvat bio, mislim, ogroman_projekat, što bi rekli ovi sad. Da. Razvijala se zemlja koliko smo imali mi fabrika tih ogromnih._To je sve propalo kako je rat._Sve srušio, sve je nestalo, jer je bilo povezano. Recimo, fabrika u Splitu je pravila sedišta za Zastavina vozila. To je bilo, povezana privreda bila. I kad je krenuo rat, kad svi protiv svih, onda je nestalo sve. Onda znaš ko kad otvoriš dno. E, tad. I ovo ja računam trideset godina ovih, da su nam pojeli skakavci.
+Eto to je jedan stori, jedna priča, kojih je bilo. Ali u suštini, meni je bilo mnogo lepo, kako da kažem, bilo je pravednije, mnogo je za više značio čovek, mnogo je značilo pomoći jedno drugom. Nije bilo zlobe, kad kažeš školski drug, to ti je ko rođeni brat, sretneš školskog druga. Tako da, kako odmiču godine, ničega mi nije žao, mislim. I mislim da se nikad to doba neće više ponoviti. A žao mi je zbog mladih, što vi ne znate šta je. Nije život lep samo da imaš dosta para, gomilu mislim. Išli smo i u Trst mi po, po šuškavce. I ovaj, ima to sve svojih čari. Nismo nikad bili gladni, ali je bilo posla za svakog. Možeš da promeniš posao za dva dana. Ako ti se tu ne sviđa, odmah sutra. E tu je, tu je kvaka. Ne znam, što je Jugoslavija bila tako jedna, bila među najvećim silama evropskim, industrijskim. Pa znaš kad se Đerdap pravio, pa to je takav poduhvat bio, mislim, ogroman projekat, što bi rekli ovi sad. Da. Razvijala se zemlja koliko smo imali mi fabrika tih ogromnih. To je sve propalo kako je rat. Sve srušio, sve je nestalo, jer je bilo povezano. Recimo, fabrika u Splitu je pravila sedišta za Zastavina vozila. To je bilo, povezana privreda bila. I kad je krenuo rat, kad svi protiv svih, onda je nestalo sve. Onda znaš ko kad otvoriš dno. E, tad. I ovo ja računam trideset godina ovih, da su nam pojeli skakavci.
 
-[Da. Dobro, pošto će me verovatno opet požurivati, ovaj, da li organizujete neka druženja u domu i da li volite...]
-{Ognjenka}
 Pa ne, ja sam skoro došla i ovde, pravo da ti kažem, slabo ima, uglavnom su dementne osobe. Tako da, one ništa ne znaju ni gde su ni šta su, ništa.
 
-[Da. A jel imate nekog s kim se ovako družite ili?]
-{Ognjenka}
 Pa, uglavnom sa osobljem. I tu ima jedna, dve gospođe koje su, što kažu pri sebi.
 
-[Da da.]
-{Ognjenka}
-Ali ništa mi ne smeta, veruj. Ja u stanu, ovaj,__ne mogu ja sad da vezujem sina i snaju._Oni dođu s posla, idu rade različito ceo dan, da oni meni prave društvo. A kad si, menjaš stanove, onda ne možeš živeti to mesto._A i ne smeta mi, znate šta, znaš šta sine, možeš ti biti_u punoj kući i biti_usamljen više nego, nego sam u svojoj kući. Treba znati i biti sa sobom sam. 
+Ali ništa mi ne smeta, veruj. Ja u stanu, ovaj, ne mogu ja sad da vezujem sina i snaju. Oni dođu s posla, idu rade različito ceo dan, da oni meni prave društvo. A kad si, menjaš stanove, onda ne možeš živeti to mesto. A i ne smeta mi, znate šta, znaš šta sine, možeš ti biti u punoj kući i biti usamljen više nego, nego sam u svojoj kući. Treba znati i biti sa sobom sam. 
 
-[Naravno.]
-{Ognjenka}
-To nije, ovaj, veština. Biti sam sa sobom. Naravno biti društven, recimo meni nije svaki put, ja sam imala komšinicu, koja svaki minut dođe, i to ti nije prijatno, mislim. Znaš, to je lepo da se družiš kad, kad si raspoložen ili ta druga strana je li, familije šta ja znam ugovorene neke._Mi smo imali sastanke kod ovoga kod onoga, ali nije mi smetalo.
+To nije, ovaj, veština. Biti sam sa sobom. Naravno biti društven, recimo meni nije svaki put, ja sam imala komšinicu, koja svaki minut dođe, i to ti nije prijatno, mislim. Znaš, to je lepo da se družiš kad, kad si raspoložen ili ta druga strana je li, familije šta ja znam ugovorene neke. Mi smo imali sastanke kod ovoga kod onoga, ali nije mi smetalo.
 
-[Dobro. A koju vrstu muzike ste voleli u mladosti, a koju sada volite da?]
-{Ognjenka}
 Zabavnu muziku.
 
-[Zabavnu. I tad i sad?]
-{Ognjenka}
-Od Arsena Dedića do_čak i taj, iako su ga zvali Ustaša, to je nenadmašan, Zdenka Vučković, naši pevači ovaj, Đorđe Marjanović._Ja Lepu Lukić i ni sad ne mogu da slušam. Nekom je možda lepa, al ono od njena ovaj dva putića vode na dve strane, mene to ne uzbuđuje, uopšte te, kaže stare pesme, stare korene, ja ne volim ni stari nameštaj, ja ne volim ništa staro. Ovaj, pa ne znam, a pogotovu one__sa juga one_kosovske one, kad počnu naricaljke one, mislim...
+Od Arsena Dedića do čak i taj, iako su ga zvali Ustaša, to je nenadmašan, Zdenka Vučković, naši pevači ovaj, Đorđe Marjanović. Ja Lepu Lukić i ni sad ne mogu da slušam. Nekom je možda lepa, al ono od njena ovaj dva putića vode na dve strane, mene to ne uzbuđuje, uopšte te, kaže stare pesme, stare korene, ja ne volim ni stari nameštaj, ja ne volim ništa staro. Ovaj, pa ne znam, a pogotovu one sa juga one kosovske one, kad počnu naricaljke one, mislim...
 
-[Da.]
-{Ognjenka}
-Mi smo imali, mi smo svi kopirali, ovaj, sa zapada, tu zabavnu muziku. Pa onda imaš matine u Domu Armije ili Domu Omladine, muzika za igru, pa, mislim, pevanje i zna se sve poznati pevači pevaju. Mislim nije_to je bilo ono pravo, provod. I nismo mi izlazili u jedanaest, nego smo se u jedanaest, pola dvanaest vraćali kući. To mi je razlika, jedina.
+Mi smo imali, mi smo svi kopirali, ovaj, sa zapada, tu zabavnu muziku. Pa onda imaš matine u Domu Armije ili Domu Omladine, muzika za igru, pa, mislim, pevanje i zna se sve poznati pevači pevaju. Mislim nije to je bilo ono pravo, provod. I nismo mi izlazili u jedanaest, nego smo se u jedanaest, pola dvanaest vraćali kući. To mi je razlika, jedina.
 
-[Pa ništa, to je to, jedino samo još za knjige ovaj, volite li da čitate?]
-{Ognjenka}
-Da. Pa ja sam toliko pročitala knjiga, pa ja ne znam._Recimo kad sam bila još devojčica, pa smo imali dve krave. I ja idem da čuvam krave posle škole, i onda uzmem skoro celu knjigu pročitam.
+Da. Pa ja sam toliko pročitala knjiga, pa ja ne znam. Recimo kad sam bila još devojčica, pa smo imali dve krave. I ja idem da čuvam krave posle škole, i onda uzmem skoro celu knjigu pročitam.
 
-[Mhm. A koju ste najviše voleli?]
-{Ognjenka}
-Sve, od francuskih pisaca, naših, mislim, a uopšte, imali smo čak i u školi literaturu. A_sad ne mogu da se setim tih knjiga, znam sećam se samo Onore de Balzak , Ljiljan u dolu da mi je to ostao, taj roman, i_ali pitaj boga kolko je to prošlo...
+Sve, od francuskih pisaca, naših, mislim, a uopšte, imali smo čak i u školi literaturu. A sad ne mogu da se setim tih knjiga, znam sećam se samo Onore de Balzak , Ljiljan u dolu da mi je to ostao, taj roman, i ali pitaj boga kolko je to prošlo...
 
-[Dobro, a jel volite, jel imate neki hobi ovako, u slobodno vreme šta radite?]
-{Ognjenka}
 Pa ja sam skoro i došla, ja ne...
 
-[Aha. A ovako generalno jel ste crtali, štrikali?]
-{Ognjenka}
 Ne. Tu sam stvarno slaba. 
 
-[Dobro. A ovako neka interesovanja ili nešto?]
-{Ognjenka}
-Pa šta znam._Prilično sam ovaj...
+Pa šta znam. Prilično sam ovaj...
 
-[Jel ste voleli neki sport ili?]
-{Ognjenka}
-Ne vredi, meni je toliko srce, ovaj u kritičnom stanju da ja_moram sve laganice.
+Ne vredi, meni je toliko srce, ovaj u kritičnom stanju da ja moram sve laganice.
 
-[Da.]
-{Ognjenka}
 Tako da...
 
-[A jel volite neke filmove, serije?]
-{Ognjenka}
-Volim da slušam ovaj, najviše sad gledam televiziju, kao i sve babe jel. A onda tih, što se tiče radova, ručnih_ne volim ni da kuvam, zato sam i došla ovde, jer bih morala da idem u prodavnicu. Evo sad kad bih išla, ja bih dobila napad angine pektoris. Toliko bi mi se stisli, srčani krvni sudovi, tako da ja više nisam zdrava. Ja sad samo ovako sam, za po kući.
+Volim da slušam ovaj, najviše sad gledam televiziju, kao i sve babe jel. A onda tih, što se tiče radova, ručnih ne volim ni da kuvam, zato sam i došla ovde, jer bih morala da idem u prodavnicu. Evo sad kad bih išla, ja bih dobila napad angine pektoris. Toliko bi mi se stisli, srčani krvni sudovi, tako da ja više nisam zdrava. Ja sad samo ovako sam, za po kući.
 
-[Dobro. I jel biste imali još nešto dodatno da kažete ili je to to? Vi ste voleli putovanja i...]
-{Ognjenka}
-Samo, meni su putovanja broj jedan. I ja ako budem se ikada oporavila,_recimo sledeću zimu ću da dočekam na Kipru, ili u Španiji kod sina, tu. Ako preživim. Što kaže, ovaj ona__... ako dočekam sutra.
+Samo, meni su putovanja broj jedan. I ja ako budem se ikada oporavila, recimo sledeću zimu ću da dočekam na Kipru, ili u Španiji kod sina, tu. Ako preživim. Što kaže, ovaj ona ... ako dočekam sutra.
 
-[Hoćete. Dobro. Ništa, to bi bilo to.]
-{Ognjenka}
 Dosta, ma dosta, nema šta.
 
-[Evo ja bih htela da imamo malo i više vremena, ali kad mora da ide Božana...]
-{Ognjenka}
 Pa kažem ti, onda je od mene dosta za... 
 
-[Da. Dobro, hvala Vam.]
-{Ognjenka}
-Meni je ovaj, imala sam recimo, želju jednu da pišem knjigu, jer je toliko, bilo tako divnih_momenata, detalja interesantnih, ovaj, gde mi je trebalo zapisati, ali... sam dobila napad srčani i onda ja sad moram da se pazim, da živim samo ovako._Ipak je to sedamdeset-sedam godina, to je mnogo.
+Meni je ovaj, imala sam recimo, želju jednu da pišem knjigu, jer je toliko, bilo tako divnih momenata, detalja interesantnih, ovaj, gde mi je trebalo zapisati, ali... sam dobila napad srčani i onda ja sad moram da se pazim, da živim samo ovako. Ipak je to sedamdeset-sedam godina, to je mnogo.
 
-[Da. Dobro. Znači što se tiče stručne spreme, Vi imate srednju medicinsku, ili imate višu, za fizioterapeuta?]
-{Ognjenka}
 Višu fizioterapeutsku.
 
-[Višu.]
-{Ognjenka}
 Da. Imam ja i srednju medicinsku, ali sam ja sa tom diplomom upisala Višu medicinsku, Višu fizioterapeutsku. Tako se tada primalo, nije moglo bez, da.
 
-[Dobro, eto, hvala Vam.]
-{Ognjenka}
 Eto. Živa bila ti meni.

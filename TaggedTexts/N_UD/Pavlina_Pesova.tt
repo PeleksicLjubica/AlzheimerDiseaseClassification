@@ -1271,7 +1271,7 @@ se	PART	se
 udali	VERB	udati
 ?	PUNCT	?
 ]	PUNCT	]
-22	NUM	@card@
+22	NUM	22
 godine	NOUN	godina
 sam	AUX	jesam
 imala	VERB	imati
@@ -1291,7 +1291,7 @@ a	ADV	a
 ja	PRON	ja
 imam	VERB	imati
 sad	ADV	sad
-21	NUM	@card@
+21	NUM	21
 ,	PUNCT	,
 a	ADV	a
 ja	PRON	ja

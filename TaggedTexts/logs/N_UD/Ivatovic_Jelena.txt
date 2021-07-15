@@ -1,13 +1,13 @@
 Ivatovic_Jelena
 ------------------------------------------------
-number_of_words: 3856
-average_words_length: 3.679979253112033
+number_of_words: 3088
+average_words_length: 4.287564766839378
 vocabulary: 620
 vocabulary spoken once: 327
 ------------------------------------------------
-Type token ratio: 0.1607883817427386
-Brunet's Index: 17.430735297444084
-Honore's Statistic: 1747.2966233968843
+Type token ratio: 0.20077720207253885
+Brunet's Index: 16.140867046175387
+Honore's Statistic: 1700.297926590339
 ------------------------------------------------
 number of nouns: 625
 number of verbs: 512
@@ -26,21 +26,21 @@ number of adp: 165
 number of num: 84
 number of intj: 1
 Normalized ------------------------------------------------
-number of nouns normalized: 512.0293049792531
-number of verbs normalized:: 0.13278008298755187
-number of adjectives normalized:: 0.043827800829875516
-number of adverbs normalized:: 0.0679460580912863
-number of aux normalized:: 0.12733402489626555
-number of det normalized:: 0.05679460580912863
-number of part normalized:: 0.03967842323651452
-number of cconj normalized:: 0.027230290456431536
-number of sconj normalized:: 0.055238589211618255
-number of propn normalized:: 0.029304979253112033
-number of pronn normalized:: 0.052385892116182574
-number of adp normalized:: 0.04279045643153527
-number of num normalized:: 0.021784232365145227
-number of intj normalized:: 0.00025933609958506224
+number of nouns normalized: 0.20239637305699482
+number of verbs normalized:: 0.3248056994818653
+number of adjectives normalized: 0.0547279792746114
+number of adverbs normalized: 0.08484455958549222
+number of aux normalized: 0.15900259067357514
+number of det normalized: 0.07091968911917099
+number of part normalized: 0.049546632124352334
+number of cconj normalized: 0.03400259067357513
+number of sconj normalized: 0.06897668393782383
+number of propn normalized: 0.03659326424870466
+number of pronn normalized: 0.06541450777202072
+number of adp normalized: 0.053432642487046635
+number of num normalized: 0.027202072538860103
+number of intj normalized: 0.0003238341968911917
 Ratios ------------------------------------------------
-ratio noun to verb: 1.0
-ratio pronoun to verb: 0.39453125
-ratio pronoun to noun: 0.39453125
+ratio noun to verb: 0.6231306081754736
+ratio pronoun to verb: 0.20139581256231306
+ratio pronoun to noun: 0.3232

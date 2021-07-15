@@ -30,7 +30,7 @@ Vladislav	PROPN	Vladislav
 Mitić	PROPN	Mitić
 i	CCONJ	i
 imam	VERB	imati
-75	NUM	@card@
+75	NUM	75
 godina	NOUN	godina
 .	PUNCT	.
 Stanujem	VERB	stanovati
@@ -812,7 +812,7 @@ u	ADP	u
 rezervoarima	NOUN	rezervoar
 aviona	NOUN	avion
 G	VERB	G
-4	NUM	@card@
+4	NUM	4
 pri	ADP	pri
 naglom	ADJ	nagao
 poniranju	NOUN	poniranje
@@ -964,13 +964,13 @@ _	PUNCT	_
 jeste	INTJ	jeste
 ,	PUNCT	,
 ima	VERB	imati
-19	NUM	@card@
+19	NUM	19
 godina	NOUN	godina
 ,	PUNCT	,
 u	ADP	u
 stvari	NOUN	stvar
 sad	ADV	sad
-20	NUM	@card@
+20	NUM	20
 godina	NOUN	godina
 ,	PUNCT	,
 mesec	NOUN	mesec
@@ -5387,7 +5387,7 @@ sa	ADP	sa
 starešinama	NOUN	starešina
 ,	PUNCT	,
 oko	ADP	oko
-150	NUM	@card@
+150	NUM	150
 ,	PUNCT	,
 ih	PRON	ona
 je	AUX	jesam

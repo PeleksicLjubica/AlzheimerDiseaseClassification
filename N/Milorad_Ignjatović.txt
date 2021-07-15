@@ -1,98 +1,65 @@
-[Kako se zovete?]
 Ignjatović Milorad.
 
-[Kada ste rođeni?]
-Sedamnaesti šesti__četrdeset-devete.
+Sedamnaesti šesti četrdeset-devete.
 
-[Šta ste po zanimanju?]
-__Radnik bio__škole, nemam_imam samo osam_i više nisam.
+ Radnik bio škole, nemam imam samo osam i više nisam.
 
-[Gde ste rođeni?]
 U Beogradu.
 
-[Živeli ste tu sve vreme?]
 Molim?
 
-[Živeli ste sve vreme tu?]
 Da.
 
-[Govorite li neki strani jezik?]
 Ne.
 
-[Da li volite da čitate?]
-Da l?
+Da li?
 
-[Da li volite da čitate?]
-__Slabo.
+ Slabo.
 
-[Da li pišete levom ili desnom rukom?][Desnom?]
 Pa ovom rukom.
 
-[Ko su članovi vaše porodice?]
-_Unuk.
+ Unuk.
 
-[Imate li dece?]
 Imam.
 
-[Možete li malo da pričate o njima?]
-Imam__sina, sedamdeset i_koje godište i druge, i ovu__ćerku, sedamdeset i__četvrto.
+Imam sina, sedamdeset i koje godište i druge, i ovu ćerku, sedamdeset i četvrto.
 
-[Imate li unučiće?]
-Imam unuku od nje_i od_sina, sina.
+Imam unuku od nje i od sina, sina.
 
-[Koliko imaju godina,možete li malo da pričate o njima?]
 E pa sad, to ona bolje zna.(unuka 16,unuk 17)To ona bolje zna, ja ne znam.
 
-[Šta volite da radite u slobodno vreme?Imate li neki hobi?Jeste li se možda bavili nečim pored posla koji ste radili?]
-_________Dok sam bio zdrav_igrao sam fudbal, a ovako__ništa naročito.
+ Dok sam bio zdrav igrao sam fudbal, a ovako ništa naročito.
 
-[Volite li da gledate fudbal sad, pratite li sport?]
-Pa sad_slabije, ovaj televizor ima samo jedan.__On_nema__daljinski, nego samo jedan taj._Pa__volim, ne znam, košarku, fudbal, odbojku, vaterpolo.__Kad igra  Đoković, on je broj jedan, gledam sve. kad je on bilo osam, devet, deset noću, dok sam stanovao, ja_upalim, smanjim, ali Đokovića obavezno.
+Pa sad slabije, ovaj televizor ima samo jedan. On nema daljinski, nego samo jedan taj. Pa volim, ne znam, košarku, fudbal, odbojku, vaterpolo. Kad igra  Đoković, on je broj jedan, gledam sve. kad je on bilo osam, devet, deset noću, dok sam stanovao, ja upalim, smanjim, ali Đokovića obavezno.
 
-[Volite li još neki sport onako baš?]
-Pa vaterpolo, kažem vaterpolo__odbojku košarku_fudbal i tako,_____ništa naročito.
+Pa vaterpolo, kažem vaterpolo odbojku košarku fudbal i tako, ništa naročito.
 
-[Da li se družite sa nekim u domu, da li ste zadovoljni smeštajem?]
-Ne,_svi novi ljudi su_umrli. Ostali smo mi. Tako_ja sam_nogu_slomio,_a pet meseci sam nosio gips. Evo možete da vidite.
+Ne, svi novi ljudi su umrli. Ostali smo mi. Tako ja sam nogu slomio, a pet meseci sam nosio gips. Evo možete da vidite.
 
-[A kako ste je slomili? Jeste pali ili?]
-U stanu_pa pa krenuo i od jedanput mi se u glavi zavrtelo i noga mi je skroz ovako otišla. Tako mi je rekao i ortoped, da sam imao veliku sreću što nisam kuk, nego sam to i butni mišić._Pa sam, kažem, prvi put, kad mi na Banjici stavili, sam nosio tri meseca, pa sam bio na kontroli, pa su mi skinuli onaj stari i stavili nov. E pa sam, koliko beše, šest nedelja sam ga nosio._E__sad mi je dao banju. I banju sam dobio. E banju sam dobio, tu kod Šapca. Kako se beše zove ova... 
+U stanu pa pa krenuo i od jedanput mi se u glavi zavrtelo i noga mi je skroz ovako otišla. Tako mi je rekao i ortoped, da sam imao veliku sreću što nisam kuk, nego sam to i butni mišić. Pa sam, kažem, prvi put, kad mi na Banjici stavili, sam nosio tri meseca, pa sam bio na kontroli, pa su mi skinuli onaj stari i stavili nov. E pa sam, koliko beše, šest nedelja sam ga nosio. E sad mi je dao banju. I banju sam dobio. E banju sam dobio, tu kod Šapca. Kako se beše zove ova... 
 
-[Koviljača] 
-E tu. E sad čekam rešenje. Kazali su do____petka, valjda da treba. Da dobio sam, ali ali sada zavisi u banji kad ima__slobodno_mesto.
+E tu. E sad čekam rešenje. Kazali su do petka, valjda da treba. Da dobio sam, ali ali sada zavisi u banji kad ima slobodno mesto.
 
-[Lepa je Banja Koviljača.]
-Bio sam ja, bio sam kad sam ovu nogu slomio.__Ja sam tako,__a sad sam tu skoro___pet meseci, sam tu_____i eto.
+Bio sam ja, bio sam kad sam ovu nogu slomio. Ja sam tako, a sad sam tu skoro pet meseci, sam tu i eto.
 
-[Je l' Vam lepo ovde, jeste li zadovoljni?]
 Nisam.
 
-[Niste?]
-Nisam. Nemaju Bog zna šta neku_hranu_Nema,___da vam kažem, jedva čekam__da odem u_banju, da se izgubim odavde jer pet meseci sam na ovome.
+Nisam. Nemaju Bog zna šta neku hranu Nema, da vam kažem, jedva čekam da odem u banju, da se izgubim odavde jer pet meseci sam na ovome.
 
-[Je l' možete malo da ustanete?]
-Ne pa mogu_ovako. Samo mogu ja,_ali_kičma me_od ležanja,_to.___Sad su mi stavili_jastuk, da mi je noga malo viša.__a imam_taj__otok, evo evo vidi se.__Ovi kažu, navodno što se ne krećem, što ne idem. Kaže, on on bi pao da se ja krećem. Ali on stoji._Ovde su trebali na_Banjici da mi operišu, da mi stavljaju novo ali nisu smeli zbog srca, srce mi je slabije i onda su mi a gips su mi stavili. I pet meseci__sam ga, dovde mi je bilo ona vrućina, ono. Poludeo sam bio, al sam nekako izdržao,_eto.
+Ne pa mogu ovako. Samo mogu ja, ali kičma me od ležanja, to. Sad su mi stavili jastuk, da mi je noga malo viša. a imam taj otok, evo evo vidi se. Ovi kažu, navodno što se ne krećem, što ne idem. Kaže, on on bi pao da se ja krećem. Ali on stoji. Ovde su trebali na Banjici da mi operišu, da mi stavljaju novo ali nisu smeli zbog srca, srce mi je slabije i onda su mi a gips su mi stavili. I pet meseci sam ga, dovde mi je bilo ona vrućina, ono. Poludeo sam bio, al sam nekako izdržao, eto.
 
-[Je l' vas boli to mnogo?]
-Pa koleno me,__s vreme_na na vreme žiga. Valjda se__skuplja, da l' šta li je.____Kaže, da ne smem_mmnogo, treba da mirujem, treba ovo, treba ono._Ne znam._Jastuk je tu_i__evo vidite sve je pod otokom.___E sad,___kad će ovi iz iz Nemanjine da pošalju._Rekli su do_ove nedelje valjda.
+Pa koleno me, s vreme na na vreme žiga. Valjda se skuplja, da l' šta li je. Kaže, da ne smem mmnogo, treba da mirujem, treba ovo, treba ono. Ne znam. Jastuk je tu i evo vidite sve je pod otokom. E sad, kad će ovi iz iz Nemanjine da pošalju. Rekli su do ove nedelje valjda.
 
-[Da li se ovde u domu organizuju neke aktivnosti?]
-__Kako mislite?
+ Kako mislite?
 
-[Da li zajedno ručate ili igrate neke društvene igre?]
-_______Pa šta znam.___A družio sam se sa tim prijateljem,_ali na nažalost on je_umro_i__i nema ono staro, a društvo se_rasturilo, svaki na svoju stranu. Neko se o oženio, neko otišo,__tako da__nije više kao__nekada._Nekada smo__znali da sednemo, da kupimo gajbu_piva i gitaru. I da sednemo i_do deset, jedanest, dvanest sati,___da. Ali toga više nema.
+ Pa šta znam. A družio sam se sa tim prijateljem, ali na nažalost on je umro i i nema ono staro, a društvo se rasturilo, svaki na svoju stranu. Neko se o oženio, neko otišo, tako da nije više kao nekada. Nekada smo znali da sednemo, da kupimo gajbu piva i gitaru. I da sednemo i do deset, jedanest, dvanest sati, da. Ali toga više nema.
 
-[Je l' znate da svirate gitaru?]
 Ne, ne znam.
 
-[Šta volite od muzike da slušate?]
-__Pa većinom__voleo sam__Đorđa Marjanovića.___Onda ima ove_narodne_kao što je Miroslav, Lepa_Brena, ne znam,_Miki dok je bio živ._Onda______Harisa, ovoga Džinovića_ valjda. I tako tu i tamo.______Išli smo u Gradsku_pivnicu. To je ona kod Vuka, a bioskopa sto je_u rupi. Onda smo se svi celokupno,_i odemo na, na._____Krigle, pivo. I onda sednemo za onaj sto_i_tu. Ili odemo u Orašac preko puta Vuka i onda uvatimo dva_stola_i onda kolko smo tu, svaki iz džepa izvadi i kolko ko, i zovemo onoga_Miću. Bio neki mi rekao, za ove pare,_ćevape i pivo. I on izbroji i kaže,_toliko._Rekoh, daj onda sednemo._Salata to__i kažem,__išli smo tu i i gore kod Vuka.__Kako se zove ona kafana sa desne strane,___velika što ima i_____i baštu?___Uh, kako joj je ime?_(obraća se suprugi i pita je za ime kafane, na šta ona odgovara da nije nikad bila)Tu je ona, pa znaš frizerska,____pa velika ona_kafana brate.___Kažem, tu tu i tamo,______a u slobodno vreme odem na pijac._Jer sam tamo znao neke prijatelje iz iz njenoga, odakle je__ona. I onda kupimo tamo__pivo, sednemo__i onda hleba, salata, ne znam, luka,__slaninica.___Onda bilo lulubenica,__onda bilo. Ali_nažalost,_ njih više nema, umrli.____A, a na pijaci nisam bio, ne pamtim.__________Je l' to sve?
+ Pa većinom voleo sam Đorđa Marjanovića. Onda ima ove narodne kao što je Miroslav, Lepa Brena, ne znam, Miki dok je bio živ. Onda Harisa, ovoga Džinovića  valjda. I tako tu i tamo. Išli smo u Gradsku pivnicu. To je ona kod Vuka, a bioskopa sto je u rupi. Onda smo se svi celokupno, i odemo na, na. Krigle, pivo. I onda sednemo za onaj sto i tu. Ili odemo u Orašac preko puta Vuka i onda uvatimo dva stola i onda kolko smo tu, svaki iz džepa izvadi i kolko ko, i zovemo onoga Miću. Bio neki mi rekao, za ove pare, ćevape i pivo. I on izbroji i kaže, toliko. Rekoh, daj onda sednemo. Salata to i kažem, išli smo tu i i gore kod Vuka. Kako se zove ona kafana sa desne strane, velika što ima i i baštu? Uh, kako joj je ime? (obraća se suprugi i pita je za ime kafane, na šta ona odgovara da nije nikad bila)Tu je ona, pa znaš frizerska, pa velika ona kafana brate. Kažem, tu tu i tamo, a u slobodno vreme odem na pijac. Jer sam tamo znao neke prijatelje iz iz njenoga, odakle je ona. I onda kupimo tamo pivo, sednemo i onda hleba, salata, ne znam, luka, slaninica. Onda bilo lulubenica, onda bilo. Ali nažalost,  njih više nema, umrli. A, a na pijaci nisam bio, ne pamtim. Je l' to sve?
 
-[Je l' možete još nešto da mi ispričate, možda kad ste bili mali?]
 O meni?
 
-[Je l' imate braće ili sestara?]
-__Brat mi je, pre koliko ima,_pre godinu dana, umro._Stariji je od mene. On je umro._____Njega nema. Eto ja sam sam._Živim sa njom,____a ćerka mi je frizerka. Evo sad me baš_ošišala. Ja je baš preko telefona zovem, rekoh, ajde smiluj se već jednom da me ošišaš. Kad krenem u banju, da ne budem onakav.__Ona kaže hoću, hoću,__a nikad nema vremena. I sad uhvatila__da me malo_ošiša._____Pa eto,__bio sam mangupčić kao, kao_svi mi._Išli smo,____onda ranije, prodavali mleko u flašama._A ne mislim ovako,__u onim.__I mi, da bi_išli u bioskop,_onda je bilo_na Slaviji, od deset. On je bio još_onaj stari._Sad je sve to_srušeno, a ranije je to. I mi mi tu dođemo i ispred vrata maznemo ono. Ostavimo_praznu i tako nam ostane._I odemo svi u bioskop. U deset sati je škola,kakva škola._________Posle majka mi se zaposlila u bioskop u Vuku radila. I onda sam__preko nje__ulazio za džabe i gledo i filmove. A u februaru, kada je fest bio, onda sam radio na vratima, cepao_karte.___I onda,__ko nema_kartu, a_poznaje me i kaže, kaže, kako ćemo? Rekoh, ovde je odmah bife, idi uplati__pivo i_i_beži u salu._Sad gde ćeš da_sednš, ja to ne znam._I__u deset__svi i ja pitam nju:__”Je l' ima?” Kaže dobio si dve gajbe. Rekoh, ajdemo na pivo._Kaže ona:” Odakle ti?”._Ona izvuče__pivo. Kaže,___tu_isti smo._A najviše smo u_u_pivnicu. Kad___tu smo se__skupljali.__Bilo i ćevapi i ovo i ono,_a, a uveče je od devet sati_bio je još živ Toma Zdravković i onda smo mi__da ga slušamo. Onda kad sednemo___teramo do zore._______Eto_to,__ništa____naročito.
+ Brat mi je, pre koliko ima, pre godinu dana, umro. Stariji je od mene. On je umro. Njega nema. Eto ja sam sam. Živim sa njom, a ćerka mi je frizerka. Evo sad me baš ošišala. Ja je baš preko telefona zovem, rekoh, ajde smiluj se već jednom da me ošišaš. Kad krenem u banju, da ne budem onakav. Ona kaže hoću, hoću, a nikad nema vremena. I sad uhvatila da me malo ošiša. Pa eto, bio sam mangupčić kao, kao svi mi. Išli smo, onda ranije, prodavali mleko u flašama. A ne mislim ovako, u onim. I mi, da bi išli u bioskop, onda je bilo na Slaviji, od deset. On je bio još onaj stari. Sad je sve to srušeno, a ranije je to. I mi mi tu dođemo i ispred vrata maznemo ono. Ostavimo praznu i tako nam ostane. I odemo svi u bioskop. U deset sati je škola,kakva škola. Posle majka mi se zaposlila u bioskop u Vuku radila. I onda sam preko nje ulazio za džabe i gledo i filmove. A u februaru, kada je fest bio, onda sam radio na vratima, cepao karte. I onda, ko nema kartu, a poznaje me i kaže, kaže, kako ćemo? Rekoh, ovde je odmah bife, idi uplati pivo i i beži u salu. Sad gde ćeš da sednš, ja to ne znam. I u deset svi i ja pitam nju: ”Je l' ima?” Kaže dobio si dve gajbe. Rekoh, ajdemo na pivo. Kaže ona:” Odakle ti?”. Ona izvuče pivo. Kaže, tu isti smo. A najviše smo u u pivnicu. Kad tu smo se skupljali. Bilo i ćevapi i ovo i ono, a, a uveče je od devet sati bio je još živ Toma Zdravković i onda smo mi da ga slušamo. Onda kad sednemo teramo do zore. Eto to, ništa naročito.
 
-[Hvala što ste odvojili vreme i izvinite na smetnji]
-Molim, ništa, pa eto to je,_ništa naročito,_normalno._Sad_koliko će to da vam_da_vam_pomogne, je ne znam.
+Molim, ništa, pa eto to je, ništa naročito, normalno. Sad koliko će to da vam da vam pomogne, je ne znam.

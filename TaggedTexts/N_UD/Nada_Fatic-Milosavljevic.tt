@@ -83,11 +83,11 @@ ovde	ADV	ovde
 u	ADP	u
 Beogradu	PROPN	Beograd
 ,	PUNCT	,
-07	NUM	@card@
+07	NUM	07
 .	PUNCT	.
-06	NUM	@card@
+06	NUM	06
 .	PUNCT	.
-1954	NUM	@card@
+1954	NUM	1954
 .	PUNCT	.
 godine	NOUN	godina
 ,	PUNCT	,
@@ -3956,7 +3956,7 @@ da	SCONJ	da
 Sad	ADV	sad
 su	AUX	jesam
 neki	DET	neki
-3	NUM	@card@
+3	NUM	3
 D	NOUN	D
 ,	PUNCT	,
 ne	PART	ne

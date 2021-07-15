@@ -1,20 +1,20 @@
 Nadezda_Stanic
 ------------------------------------------------
-number_of_words: 7993
-average_words_length: 3.3311647691730264
-vocabulary: 893
-vocabulary spoken once: 414
+number_of_words: 5392
+average_words_length: 4.681750741839763
+vocabulary: 894
+vocabulary spoken once: 415
 ------------------------------------------------
-Type token ratio: 0.11172275741273614
-Brunet's Index: 18.705390627606707
-Honore's Statistic: 1675.3204684342454
+Type token ratio: 0.16580118694362017
+Brunet's Index: 16.44459319706651
+Honore's Statistic: 1603.7261915276358
 ------------------------------------------------
-number of nouns: 1514
+number of nouns: 1513
 number of verbs: 834
-number of adjectives: 259
-number of adverbs: 680
-number of punct: 2579
-number of aux: 565
+number of adjectives: 258
+number of adverbs: 679
+number of punct: 2575
+number of aux: 564
 number of det: 479
 number of part: 231
 number of cconj: 327
@@ -23,24 +23,24 @@ number of propn: 449
 number of pronn: 311
 number of x: 89
 number of adp: 260
-number of num: 70
+number of num: 71
 number of intj: 20
 Normalized ------------------------------------------------
-number of nouns normalized: 1065.0561741523834
-number of verbs normalized:: 0.10434129863630677
-number of adjectives normalized:: 0.03240335293381709
-number of adverbs normalized:: 0.08507444013511822
-number of aux normalized:: 0.0706868509946203
-number of det normalized:: 0.05992743650694358
-number of part normalized:: 0.02890028775178281
-number of cconj normalized:: 0.040910796947328916
-number of sconj normalized:: 0.03678218441135994
-number of propn normalized:: 0.05617415238333542
-number of pronn normalized:: 0.03890904541473789
-number of adp normalized:: 0.03252846240460403
-number of num normalized:: 0.0087576629550857
-number of intj normalized:: 0.0025021894157387712
+number of nouns normalized: 0.2806008902077151
+number of verbs normalized:: 0.25927299703264095
+number of adjectives normalized: 0.0478486646884273
+number of adverbs normalized: 0.1259272997032641
+number of aux normalized: 0.10459940652818991
+number of det normalized: 0.08883531157270029
+number of part normalized: 0.04284124629080119
+number of cconj normalized: 0.06064540059347181
+number of sconj normalized: 0.054525222551928786
+number of propn normalized: 0.08327151335311572
+number of pronn normalized: 0.057678041543026706
+number of adp normalized: 0.04821958456973294
+number of num normalized: 0.013167655786350149
+number of intj normalized: 0.00370919881305638
 Ratios ------------------------------------------------
-ratio noun to verb: 1.276978417266187
-ratio pronoun to verb: 0.37290167865707435
-ratio pronoun to noun: 0.292018779342723
+ratio noun to verb: 1.0822603719599428
+ratio pronoun to verb: 0.2224606580829757
+ratio pronoun to noun: 0.20555188367481825

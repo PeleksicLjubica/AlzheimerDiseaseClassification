@@ -576,12 +576,12 @@ imao	VERB	imati
 sam	AUX	jesam
 _	PUNCT	_
 _	PUNCT	_
-20	NUM	@card@
+20	NUM	20
 društava	NOUN	društvo
 pčela	NOUN	pčela
 .	PUNCT	.
 Do	ADP	do
-200	NUM	@card@
+200	NUM	200
 kila	NOUN	kila
 meda	NOUN	med
 godišnje	ADV	godišnje
@@ -939,7 +939,7 @@ _	PUNCT	_
 to	DET	taj
 je	AUX	jesam
 bilo	AUX	biti
-1944	NUM	@card@
+1944	NUM	1944
 -	PUNCT	-
 te	DET	taj
 godine	NOUN	godina

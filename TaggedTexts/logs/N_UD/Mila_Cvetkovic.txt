@@ -1,19 +1,19 @@
 Mila_Cvetkovic
 ------------------------------------------------
-number_of_words: 2308
-average_words_length: 3.4467071057192373
+number_of_words: 1712
+average_words_length: 4.4141355140186915
 vocabulary: 481
 vocabulary spoken once: 284
 ------------------------------------------------
-Type token ratio: 0.2084055459272097
-Brunet's Index: 16.36655272082643
-Honore's Statistic: 1890.8272679639917
+Type token ratio: 0.28095794392523366
+Brunet's Index: 14.693678681409809
+Honore's Statistic: 1817.891291763204
 ------------------------------------------------
 number of nouns: 377
 number of verbs: 270
 number of adjectives: 83
 number of adverbs: 178
-number of punct: 644
+number of punct: 646
 number of aux: 218
 number of det: 108
 number of part: 72
@@ -26,21 +26,21 @@ number of adp: 104
 number of num: 60
 number of intj: 5
 Normalized ------------------------------------------------
-number of nouns normalized: 296.0350953206239
-number of verbs normalized:: 0.1169844020797227
-number of adjectives normalized:: 0.03596187175043328
-number of adverbs normalized:: 0.07712305025996534
-number of aux normalized:: 0.09445407279029462
-number of det normalized:: 0.04679376083188908
-number of part normalized:: 0.03119584055459272
-number of cconj normalized:: 0.039428076256499134
-number of sconj normalized:: 0.03552859618717504
-number of propn normalized:: 0.03509532062391681
-number of pronn normalized:: 0.06282495667244367
-number of adp normalized:: 0.045060658578856154
-number of num normalized:: 0.025996533795493933
-number of intj normalized:: 0.002166377816291161
+number of nouns normalized: 0.22021028037383178
+number of verbs normalized:: 0.2850467289719626
+number of adjectives normalized: 0.04848130841121495
+number of adverbs normalized: 0.10397196261682243
+number of aux normalized: 0.12733644859813084
+number of det normalized: 0.0630841121495327
+number of part normalized: 0.04205607476635514
+number of cconj normalized: 0.053154205607476634
+number of sconj normalized: 0.04789719626168224
+number of propn normalized: 0.04731308411214953
+number of pronn normalized: 0.084696261682243
+number of adp normalized: 0.06074766355140187
+number of num normalized: 0.035046728971962614
+number of intj normalized: 0.0029205607476635513
 Ratios ------------------------------------------------
-ratio noun to verb: 1.0962962962962963
-ratio pronoun to verb: 0.5370370370370371
-ratio pronoun to noun: 0.48986486486486486
+ratio noun to verb: 0.7725409836065574
+ratio pronoun to verb: 0.29713114754098363
+ratio pronoun to noun: 0.38461538461538464

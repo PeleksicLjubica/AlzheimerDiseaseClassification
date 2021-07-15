@@ -1,7 +1,7 @@
 {	PUNCT	{
 Bojana	PROPN	Bojana
 }	PUNCT	}
-Ja	VERB	Ja
+Ja	ADV	Ja
 sam	AUX	jesam
 Bojana	PROPN	Bojana
 .	PUNCT	.
@@ -29,7 +29,7 @@ Imam	VERB	imati
 rodake	NOUN	rodake
 ,	PUNCT	,
 ali	CCONJ	ali
-cerke	PROPN	cerke
+ćerke	NOUN	ćerke
 i	CCONJ	i
 sinove	NOUN	sin
 nemam	VERB	nemati
@@ -95,9 +95,7 @@ nemam	VERB	nemati
 {	PUNCT	{
 Bojana	PROPN	Bojana
 }	PUNCT	}
-Mo	PROPN	Mo
-�	PUNCT	�
-da	SCONJ	da
+jutros
 je	AUX	jesam
 bila	AUX	biti
 jutros	ADV	jutros
@@ -311,7 +309,7 @@ Koji	PROPN	Koja
 jeste	AUX	jesam
 koji	DET	koji
 tu	ADV	tu
-dode	VERB	dode
+dođe	VERB	dođe
 i	CCONJ	i
 onda	ADV	onda
 u	ADP	u

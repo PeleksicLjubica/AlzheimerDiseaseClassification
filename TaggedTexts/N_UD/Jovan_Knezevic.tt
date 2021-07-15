@@ -330,7 +330,7 @@ je	AUX	jesam
 supruga	NOUN	supruga
 upokojena	VERB	upokojiti
 pre	ADP	pre
-8	NUM	@card@
+8	NUM	8
 godina	NOUN	godina
 a	ADV	a
 ova	DET	ovaj
@@ -492,7 +492,7 @@ fantastičan	ADJ	fantastičan
 on	PRON	on
 je	AUX	jesam
 otvoren	VERB	otvoriti
-1934	NUM	@card@
+1934	NUM	1934
 .	PUNCT	.
 Tako	ADV	tako
 da	SCONJ	da

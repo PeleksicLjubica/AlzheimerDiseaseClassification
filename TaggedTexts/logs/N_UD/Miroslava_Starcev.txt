@@ -1,13 +1,13 @@
 Miroslava_Starcev
 ------------------------------------------------
-number_of_words: 2077
-average_words_length: 3.458353394318729
+number_of_words: 1503
+average_words_length: 4.668662674650698
 vocabulary: 427
 vocabulary spoken once: 227
 ------------------------------------------------
-Type token ratio: 0.20558497833413578
-Brunet's Index: 16.641273875900914
-Honore's Statistic: 1630.85814239755
+Type token ratio: 0.28409846972721225
+Brunet's Index: 14.773220403638502
+Honore's Statistic: 1561.7991262122603
 ------------------------------------------------
 number of nouns: 363
 number of verbs: 219
@@ -26,21 +26,21 @@ number of adp: 97
 number of num: 41
 number of intj: 2
 Normalized ------------------------------------------------
-number of nouns normalized: 275.04236880115553
-number of verbs normalized:: 0.10544053923928744
-number of adjectives normalized:: 0.04718343765045739
-number of adverbs normalized:: 0.09436687530091478
-number of aux normalized:: 0.061145883485796824
-number of det normalized:: 0.045739046701974
-number of part normalized:: 0.03996148290804044
-number of cconj normalized:: 0.04477611940298507
-number of sconj normalized:: 0.045739046701974
-number of propn normalized:: 0.04236880115551276
-number of pronn normalized:: 0.03948001925854598
-number of adp normalized:: 0.046701974000962924
-number of num normalized:: 0.01974000962927299
-number of intj normalized:: 0.0009629272989889263
+number of nouns normalized: 0.24151696606786427
+number of verbs normalized:: 0.23020625415834997
+number of adjectives normalized: 0.06520292747837658
+number of adverbs normalized: 0.13040585495675316
+number of aux normalized: 0.08449767132401863
+number of det normalized: 0.06320691949434465
+number of part normalized: 0.0552228875582169
+number of cconj normalized: 0.06187624750499002
+number of sconj normalized: 0.06320691949434465
+number of propn normalized: 0.05854956753160346
+number of pronn normalized: 0.054557551563539586
+number of adp normalized: 0.06453759148369927
+number of num normalized: 0.027278775781769793
+number of intj normalized: 0.0013306719893546241
 Ratios ------------------------------------------------
-ratio noun to verb: 1.2557077625570776
-ratio pronoun to verb: 0.3744292237442922
-ratio pronoun to noun: 0.29818181818181816
+ratio noun to verb: 1.0491329479768785
+ratio pronoun to verb: 0.23699421965317918
+ratio pronoun to noun: 0.22589531680440772

@@ -1,13 +1,13 @@
 Ratimir
 ------------------------------------------------
-number_of_words: 576
-average_words_length: 3.6440972222222223
+number_of_words: 405
+average_words_length: 4.965432098765432
 vocabulary: 170
 vocabulary spoken once: 105
 ------------------------------------------------
-Type token ratio: 0.2951388888888889
-Brunet's Index: 15.237348582540205
-Honore's Statistic: 1662.3666189512335
+Type token ratio: 0.41975308641975306
+Brunet's Index: 13.102647507766996
+Honore's Statistic: 1570.2473867817102
 ------------------------------------------------
 number of nouns: 184
 number of verbs: 63
@@ -26,21 +26,21 @@ number of adp: 34
 number of num: 8
 number of intj: 2
 Normalized ------------------------------------------------
-number of nouns normalized: 125.10243055555556
-number of verbs normalized:: 0.109375
-number of adjectives normalized:: 0.03125
-number of adverbs normalized:: 0.057291666666666664
-number of aux normalized:: 0.036458333333333336
-number of det normalized:: 0.034722222222222224
-number of part normalized:: 0.03125
-number of cconj normalized:: 0.036458333333333336
-number of sconj normalized:: 0.034722222222222224
-number of propn normalized:: 0.10243055555555555
-number of pronn normalized:: 0.03819444444444445
-number of adp normalized:: 0.059027777777777776
-number of num normalized:: 0.013888888888888888
-number of intj normalized:: 0.003472222222222222
+number of nouns normalized: 0.454320987654321
+number of verbs normalized:: 0.2074074074074074
+number of adjectives normalized: 0.044444444444444446
+number of adverbs normalized: 0.08148148148148149
+number of aux normalized: 0.05185185185185185
+number of det normalized: 0.04938271604938271
+number of part normalized: 0.044444444444444446
+number of cconj normalized: 0.05185185185185185
+number of sconj normalized: 0.04938271604938271
+number of propn normalized: 0.145679012345679
+number of pronn normalized: 0.05432098765432099
+number of adp normalized: 0.08395061728395062
+number of num normalized: 0.019753086419753086
+number of intj normalized: 0.0049382716049382715
 Ratios ------------------------------------------------
-ratio noun to verb: 1.9841269841269842
-ratio pronoun to verb: 0.3492063492063492
-ratio pronoun to noun: 0.176
+ratio noun to verb: 2.1904761904761907
+ratio pronoun to verb: 0.2619047619047619
+ratio pronoun to noun: 0.11956521739130435

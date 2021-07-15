@@ -1,19 +1,19 @@
 Desanka_Vidojevic
 ------------------------------------------------
-number_of_words: 988
-average_words_length: 3.341093117408907
+number_of_words: 643
+average_words_length: 4.9720062208398135
 vocabulary: 245
 vocabulary spoken once: 145
 ------------------------------------------------
-Type token ratio: 0.2479757085020243
-Brunet's Index: 16.15209205042543
-Honore's Statistic: 1689.4422609482276
+Type token ratio: 0.3810264385692068
+Brunet's Index: 13.582107913911
+Honore's Statistic: 1584.2054574382166
 ------------------------------------------------
 number of nouns: 188
 number of verbs: 105
 number of adjectives: 40
 number of adverbs: 70
-number of punct: 331
+number of punct: 333
 number of aux: 78
 number of det: 28
 number of part: 57
@@ -26,21 +26,21 @@ number of adp: 30
 number of num: 10
 number of intj: 0
 Normalized ------------------------------------------------
-number of nouns normalized: 148.04048582995952
-number of verbs normalized:: 0.1062753036437247
-number of adjectives normalized:: 0.04048582995951417
-number of adverbs normalized:: 0.0708502024291498
-number of aux normalized:: 0.07894736842105263
-number of det normalized:: 0.02834008097165992
-number of part normalized:: 0.057692307692307696
-number of cconj normalized:: 0.03137651821862348
-number of sconj normalized:: 0.027327935222672066
-number of propn normalized:: 0.04048582995951417
-number of pronn normalized:: 0.019230769230769232
-number of adp normalized:: 0.030364372469635626
-number of num normalized:: 0.010121457489878543
-number of intj normalized:: 0.0
+number of nouns normalized: 0.29237947122861585
+number of verbs normalized:: 0.2846034214618974
+number of adjectives normalized: 0.06220839813374806
+number of adverbs normalized: 0.1088646967340591
+number of aux normalized: 0.12130637636080871
+number of det normalized: 0.04354587869362364
+number of part normalized: 0.08864696734059098
+number of cconj normalized: 0.04821150855365474
+number of sconj normalized: 0.041990668740279936
+number of propn normalized: 0.06220839813374806
+number of pronn normalized: 0.029548989113530325
+number of adp normalized: 0.04665629860031104
+number of num normalized: 0.015552099533437015
+number of intj normalized: 0.0
 Ratios ------------------------------------------------
-ratio noun to verb: 1.4095238095238096
-ratio pronoun to verb: 0.18095238095238095
-ratio pronoun to noun: 0.12837837837837837
+ratio noun to verb: 1.0273224043715847
+ratio pronoun to verb: 0.10382513661202186
+ratio pronoun to noun: 0.10106382978723404

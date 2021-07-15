@@ -1,113 +1,75 @@
-{Bojana}
 Ja sam Bojana.
 
-{Bojana}
-__Prezime?
+ Prezime?
 
-{Bojana}
-Cosic.
+Cosic
 
-{Bojana}
-__Nemam nikog. Imam rodake, ali cerke i sinove nemam.
+ Nemam nikog. Imam rodake, ali cerke i sinove nemam.
 
-{Bojana}
 Nemam.
 
-{Bojana}
-_Molim?
+ Molim?
 
-{Bojana}
-_Sad a to su došli oni koji nisu meni veliki rod znate.
+ Sad a to su došli oni koji nisu meni veliki rod znate.
 
-{Bojana}
-Nego samo su mene u uzeli_ u njihovu kucu.
+Nego samo su mene u uzeli  u njihovu kucu.
 
-{Bojana}
-_Mila?
+ Mila?
 
-{Bojana}
 Ja i Mile nemam.
 
-{Bojana}
 Možda je bila jutros, al’ to znaci ja ne znam.
 
-{Bojana}
 Meni nije rekla.
 
-{Bojana}
 Da.
 
-{Bojana}
 E pa dobro, možda je bila.
 
-{Bojana}
 Ne znam.
 
-{Bojana}
 Ne znam, pravo da Vam kažem, ne znam da je ona bila moja cerka.
 
-{Bojana}
-_Okej.
+ Okej.
 
-{Bojana}
 Okej.
 
-{Bojana}
 Ponovicemo.
 
-{Bojana}
 Ja nemam unucadi.
 
-{Bojana}
 Nemam.
 
-{Bojana}
 Nemam.
 
-{Bojana}
 Zašto dolazim?
 
-{Bojana}
-Zato što,eto ja__.
+Zato što,eto ja .
 
-{Bojana}
 Jako jako su me davno tu...
 
-{Bojana}
-_Ovde? Ja volim da dodem.
+ Ovde? Ja volim da dodem.
 
-{Bojana}
 Jeste.
 
-{Bojana}
-Pa zato što me ovde svi poštujete i volite i ja Vas poštujem i volim._Eto zbog toga_a inace__.
+Pa zato što me ovde svi poštujete i volite i ja Vas poštujem i volim. Eto zbog toga a inace .
 
-{Bojana}
-__O svakako.
+ O svakako.
 
-{Bojana}
-Zanimam se__znate najviše volim kad radim onom malom decaku.
+Zanimam se znate najviše volim kad radim onom malom decaku.
 
-{Bojana}
 Koji jeste koji tu dode i onda uživa kad vidi.
 
-{Bojana}
 Kad mu ja. A ja mu dam to.
 
-{Bojana}
 Jeste..
 
-{Bojana}
 Jeste. Znate da sam ja molila da..
 
-{Bojana}
-Da on da i..ja ono što sam za njega_uradila.
+Da on da i..ja ono što sam za njega uradila.
 
-{Bojana}
 Da mu date.
 
-{Bojana}
 Jer sam mislila da nece doci.
 
-{Bojana}
 Da,hocu.

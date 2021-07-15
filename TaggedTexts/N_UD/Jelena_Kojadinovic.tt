@@ -13,7 +13,7 @@ imate	VERB	imati
 godina	NOUN	godina
 ?	PUNCT	?
 ]	PUNCT	]
-86	NUM	@card@
+86	NUM	86
 godina	NOUN	godina
 .	PUNCT	.
 [	PUNCT	[
@@ -67,7 +67,7 @@ operacije	NOUN	operacija
 koju	DET	koji
 sam	AUX	jesam
 imala	VERB	imati
-1992	NUM	@card@
+1992	NUM	1992
 .	PUNCT	.
 godine	NOUN	godina
 ,	PUNCT	,
@@ -112,7 +112,7 @@ _	PUNCT	_
 ]	PUNCT	]
 Završila	VERB	Završila
 sam	AUX	jesam
-4	NUM	@card@
+4	NUM	4
 razreda	NOUN	razred
 .	PUNCT	.
 Posle	ADP	posle

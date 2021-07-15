@@ -5,8 +5,9 @@ import re
 import os
 import math  # needed for logarithm
 from utilities import *
-import matplotlib.pyplot as plt
-from cosine_distance_module import *
+from cosine_distance import *
+from plotting import *
+from machine_learning import *
 
 GLOBAL_NUMBER_OF_WORDS_P = []
 GLOBAL_NUMBER_OF_WORDS_N = []
@@ -88,7 +89,6 @@ def read_tagged_files(patient_class, path_log_file, path_to_tagged):
             # Find patient name to make log file with data for that patient
             head, tail = os.path.split(path)
             patient_name = tail.split(".")[0]
-            print(tail.split(".")[0])
             patient_log_file = open(PATH_FOR_LOG_FILE + '/' + path_to_tagged + "/" + patient_name + '.txt', mode="w",
                                     encoding="utf8")
             patient_log_file.write(patient_name + "\n")
@@ -144,7 +144,7 @@ def read_tagged_files(patient_class, path_log_file, path_to_tagged):
                 match_obj = re.match(REGEX, line, re.M | re.I)
                 if match_obj:
 
-                    words_length += len(str(match_obj.group(3)))
+                    words_length += len(str(match_obj.group(1)))
 
                     # If type of object is not PUNCT - punctuation marks, word should be included in vocabulary
                     if str(match_obj.group(2)) != "PUNCT":
@@ -190,21 +190,20 @@ def read_tagged_files(patient_class, path_log_file, path_to_tagged):
                     elif str(match_obj.group(2)) == "INTJ":
                         number_of_intj += 1
                     else:
-                        # print("Line{}: {}".format(count, line.strip()))
-                        #print(str(match_obj.group(2)))
+                        print("Line{}: {}".format(count, line.strip()))
+                        print(str(match_obj.group(2)))
                         log_file.write("\n")
                         log_file.write("Line{}: {}".format(count, line.strip()) + "\n")
 
                     log_file.write("match_obj.group(1) : " + str(match_obj.group(1)) + "\n")
                     log_file.write("match_obj.group(2) : " + str(match_obj.group(2)) + "\n")
                     log_file.write("match_obj.group(3) : " + str(match_obj.group(3)) + "\n")
-                #else:
-                    #print("No match!! " + line)
+                else:
+                    print("No match!! " + line)
 
-            number_of_words = number_of_adverbs + number_of_det + number_of_pron + number_of_adp + \
-                              number_of_propn + number_of_sconj + number_of_punct + number_of_cconj + number_of_part + \
-                              number_of_aux + number_of_adjectives + number_of_nouns + number_of_verbs + number_of_intj + \
-                              number_of_x
+            number_of_words = number_of_adjectives + number_of_adp + number_of_adverbs + number_of_aux + \
+                              number_of_cconj + number_of_det + number_of_intj + number_of_nouns + number_of_num + \
+                              number_of_part + number_of_pron + number_of_propn + number_of_sconj + number_of_verbs
 
             vocabulary = len(vocabulary_list)
             average_words_length = words_length / number_of_words
@@ -234,7 +233,7 @@ def read_tagged_files(patient_class, path_log_file, path_to_tagged):
             patient_log_file.write("------------------------------------------------\n")
 
             number_of_nouns += number_of_propn
-            patient_log_file.write("number of nouns: " + str(number_of_nouns+number_of_propn) + "\n")
+            patient_log_file.write("number of nouns: " + str(number_of_nouns + number_of_propn) + "\n")
             patient_log_file.write("number of verbs: " + str(number_of_verbs) + "\n")
             patient_log_file.write("number of adjectives: " + str(number_of_adjectives) + "\n")
             patient_log_file.write("number of adverbs: " + str(number_of_adverbs) + "\n")
@@ -252,68 +251,33 @@ def read_tagged_files(patient_class, path_log_file, path_to_tagged):
             patient_log_file.write("number of intj: " + str(number_of_intj) + "\n")
 
             patient_log_file.write("Normalized ------------------------------------------------\n")
-            patient_log_file.write("number of nouns normalized: " + str(number_of_nouns+number_of_propn / number_of_words) + "\n")
-            patient_log_file.write("number of verbs normalized:: " + str(number_of_verbs / number_of_words) + "\n")
             patient_log_file.write(
-                "number of adjectives normalized:: " + str(number_of_adjectives / number_of_words) + "\n")
-            patient_log_file.write("number of adverbs normalized:: " + str(number_of_adverbs / number_of_words) + "\n")
-            patient_log_file.write("number of aux normalized:: " + str(number_of_aux / number_of_words) + "\n")
-            patient_log_file.write("number of det normalized:: " + str(number_of_det / number_of_words) + "\n")
-            patient_log_file.write("number of part normalized:: " + str(number_of_part / number_of_words) + "\n")
-            patient_log_file.write("number of cconj normalized:: " + str(number_of_cconj / number_of_words) + "\n")
-            patient_log_file.write("number of sconj normalized:: " + str(number_of_sconj / number_of_words) + "\n")
-            patient_log_file.write("number of propn normalized:: " + str(number_of_propn / number_of_words) + "\n")
-            patient_log_file.write("number of pronn normalized:: " + str(number_of_pron / number_of_words) + "\n")
-            patient_log_file.write("number of adp normalized:: " + str(number_of_adp / number_of_words) + "\n")
-            patient_log_file.write("number of num normalized:: " + str(number_of_num / number_of_words) + "\n")
-            patient_log_file.write("number of intj normalized:: " + str(number_of_intj / number_of_words) + "\n")
+                "number of nouns normalized: " + str((number_of_nouns + number_of_propn) / number_of_words) + "\n")
+            patient_log_file.write("number of verbs normalized:: " + str((number_of_verbs + number_of_aux) / number_of_words) + "\n")
+            patient_log_file.write(
+                "number of adjectives normalized: " + str(number_of_adjectives / number_of_words) + "\n")
+            patient_log_file.write("number of adverbs normalized: " + str(number_of_adverbs / number_of_words) + "\n")
+            patient_log_file.write("number of aux normalized: " + str(number_of_aux / number_of_words) + "\n")
+            patient_log_file.write("number of det normalized: " + str(number_of_det / number_of_words) + "\n")
+            patient_log_file.write("number of part normalized: " + str(number_of_part / number_of_words) + "\n")
+            patient_log_file.write("number of cconj normalized: " + str(number_of_cconj / number_of_words) + "\n")
+            patient_log_file.write("number of sconj normalized: " + str(number_of_sconj / number_of_words) + "\n")
+            patient_log_file.write("number of propn normalized: " + str(number_of_propn / number_of_words) + "\n")
+            patient_log_file.write("number of pronn normalized: " + str(number_of_pron / number_of_words) + "\n")
+            patient_log_file.write("number of adp normalized: " + str(number_of_adp / number_of_words) + "\n")
+            patient_log_file.write("number of num normalized: " + str(number_of_num / number_of_words) + "\n")
+            patient_log_file.write("number of intj normalized: " + str(number_of_intj / number_of_words) + "\n")
 
             patient_log_file.write("Ratios ------------------------------------------------\n")
             if number_of_verbs != 0:
-                patient_log_file.write("ratio noun to verb: " + str(number_of_nouns / number_of_verbs) + "\n")
-                patient_log_file.write("ratio pronoun to verb: " + str(number_of_pron / number_of_verbs) + "\n")
+                patient_log_file.write("ratio noun to verb: " + str((number_of_nouns + number_of_propn) / (number_of_verbs + number_of_aux)) + "\n")
+                patient_log_file.write("ratio pronoun to verb: " + str(number_of_pron / (number_of_verbs + number_of_aux)) + "\n")
             if number_of_nouns != 0:
-                patient_log_file.write("ratio pronoun to noun: " + str(number_of_pron / number_of_nouns) + "\n")
+                patient_log_file.write("ratio pronoun to noun: " + str(number_of_pron / (number_of_nouns + number_of_propn)) + "\n")
 
-
+            patient_log_file.close()
             file.close()
     log_file.close()
-
-
-def plot_lexical_analysis_results_two_plots(fp_result_p, fp_range, fp_result_n, fp_desc, sp_result_p, sp_range, sp_result_n,
-                                  sp_desc):
-    plt.figure(1)
-    plt.subplot(211)
-    tmp_list1 = [1] * len(fp_result_p)
-    plt.plot(fp_result_p, tmp_list1, "ro")
-    tmp_list2 = [2] * len(fp_result_n)
-    plt.plot(fp_result_n, tmp_list2, 'bo')
-    plt.xlabel(fp_desc)
-    plt.axis([0, fp_range, 0, 3])
-    plt.yticks([])
-
-    plt.subplot(212)
-    tmp_list = [1] * len(sp_result_p)
-    plt.plot(sp_result_p, tmp_list, "ro")
-    tmp_list = [2] * len(sp_result_n)
-    plt.plot(sp_result_n, tmp_list, 'bo')
-    plt.xlabel(sp_desc)
-    plt.axis([0, sp_range, 0, 3])
-    plt.yticks([])
-
-    plt.show()
-
-
-def plot_lexical_analysis_results_one_plot(fp_result_p, fp_range, fp_result_n, fp_desc):
-
-    tmp_list1 = [1] * len(fp_result_p)
-    plt.plot(fp_result_p, tmp_list1, "ro")
-    tmp_list2 = [2] * len(fp_result_n)
-    plt.plot(fp_result_n, tmp_list2, 'bo')
-    plt.xlabel(fp_desc)
-    plt.axis([0, fp_range, 0, 3])
-    plt.yticks([])
-    plt.show()
 
 
 def read_results(patient_class, path_log_file, path_to_tagged):
@@ -439,8 +403,9 @@ def read_results(patient_class, path_log_file, path_to_tagged):
                             GLOBAL_PRONOUN_NOUN_N.append(float(match_obj.group(1)))
                 count += 1
 
+
 def draw_graphs_for_lexical_statistics():
-    # Draw grapsh
+    # Draw graphs
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_NOUNS_P, 2000, GLOBAL_NUMBER_OF_NOUNS_N, "Number of nouns",
                                             GLOBAL_NUMBER_OF_NOUNS_NOR_P, 1, GLOBAL_NUMBER_OF_NOUNS_NOR_N,
                                             "Number of nouns normalized by number of words")
@@ -486,18 +451,19 @@ def draw_graphs_for_lexical_statistics():
     plot_lexical_analysis_results_one_plot(GLOBAL_AVERAGE_WORDS_LEN_P, 6, GLOBAL_AVERAGE_WORDS_LEN_N,
                                            "Average words length")
 
-    plot_lexical_analysis_results_one_plot(GLOBAL_NOUN_VERB_P, 1, GLOBAL_NOUN_VERB_N, "Noun/Verb ratio")
+    plot_lexical_analysis_results_one_plot(GLOBAL_NOUN_VERB_P, 4.6, GLOBAL_NOUN_VERB_N, "Noun/Verb ratio")
     plot_lexical_analysis_results_one_plot(GLOBAL_PRONOUN_NOUN_P, 1, GLOBAL_PRONOUN_NOUN_N, "Pronoun/Noun ratio")
+
 
 def start_lexical_analysis():
     print("*******************************************")
     print(" Starting Lexical Analysis ")
 
-    read_tagged_files("P", PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
+    #read_tagged_files("P", PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
 
     print(" Finished reading P files ")
 
-    read_tagged_files("N", PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
+    #read_tagged_files("N", PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
 
     print(" Finished reading N files ")
 
@@ -510,9 +476,8 @@ def start_lexical_analysis():
     print(" Finished reading N results")
 
     draw_graphs_for_lexical_statistics()
+
     print("Draw graphs finished")
-
-
 
     print("*******************************************")
     print(" Ending Lexical Analysis ")
@@ -523,18 +488,10 @@ def start_machine_learning():
     print("*******************************************")
     print(" Starting Machine Learning Algorithms ")
 
-    bag_of_words()
+    start_word_embedding()
 
     print("*******************************************")
     print(" Ending Machine Learning Algorithms ")
-
-
-def bag_of_words():
-    print("*******************************************")
-    print(" Starting Bag of words ")
-
-    print("*******************************************")
-    print(" Ending Bag of words  ")
 
 
 # Main function
@@ -542,7 +499,7 @@ if __name__ == '__main__':
     print("*******************************************")
     print(" Start Classification of Alzheimer Disease ")
 
-    start_machine_learning()
+    # start_machine_learning()
     start_lexical_analysis()
 
     print("*******************************************")

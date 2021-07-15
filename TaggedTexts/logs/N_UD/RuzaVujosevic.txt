@@ -1,13 +1,13 @@
 RuzaVujosevic
 ------------------------------------------------
-number_of_words: 4927
-average_words_length: 3.435559163791354
+number_of_words: 3805
+average_words_length: 4.155059132720105
 vocabulary: 747
 vocabulary spoken once: 392
 ------------------------------------------------
-Type token ratio: 0.15161355794601178
-Brunet's Index: 17.356391094402888
-Honore's Statistic: 1789.1145676677015
+Type token ratio: 0.19632063074901446
+Brunet's Index: 15.91434587321389
+Honore's Statistic: 1734.7383771580144
 ------------------------------------------------
 number of nouns: 683
 number of verbs: 710
@@ -26,21 +26,21 @@ number of adp: 218
 number of num: 22
 number of intj: 10
 Normalized ------------------------------------------------
-number of nouns normalized: 548.0274000405926
-number of verbs normalized:: 0.14410391719098842
-number of adjectives normalized:: 0.029023746701846966
-number of adverbs normalized:: 0.08808605642378729
-number of aux normalized:: 0.09133346864217577
-number of det normalized:: 0.040389689466206614
-number of part normalized:: 0.04018672620255734
-number of cconj normalized:: 0.05946823624923889
-number of sconj normalized:: 0.049117109803125635
-number of propn normalized:: 0.02740004059265273
-number of pronn normalized:: 0.06860158311345646
-number of adp normalized:: 0.04424599147554293
-number of num normalized:: 0.004465191800284148
-number of intj normalized:: 0.0020296326364927946
+number of nouns normalized: 0.1795006570302234
+number of verbs normalized:: 0.30486202365308807
+number of adjectives normalized: 0.03758212877792379
+number of adverbs normalized: 0.11406044678055191
+number of aux normalized: 0.11826544021024968
+number of det normalized: 0.05229960578186597
+number of part normalized: 0.05203679369250985
+number of cconj normalized: 0.07700394218134034
+number of sconj normalized: 0.06360052562417871
+number of propn normalized: 0.035479632063074903
+number of pronn normalized: 0.0888304862023653
+number of adp normalized: 0.05729303547963206
+number of num normalized: 0.005781865965834429
+number of intj normalized: 0.002628120893561104
 Ratios ------------------------------------------------
-ratio noun to verb: 0.7718309859154929
-ratio pronoun to verb: 0.476056338028169
-ratio pronoun to noun: 0.6167883211678832
+ratio noun to verb: 0.5887931034482758
+ratio pronoun to verb: 0.2913793103448276
+ratio pronoun to noun: 0.49487554904831627

@@ -1,13 +1,13 @@
 Savica1
 ------------------------------------------------
-number_of_words: 184
-average_words_length: 2.516304347826087
+number_of_words: 100
+average_words_length: 4.54
 vocabulary: 47
 vocabulary spoken once: 28
 ------------------------------------------------
-Type token ratio: 0.2554347826086957
-Brunet's Index: 15.844484067172813
-Honore's Statistic: 1290.0104242506438
+Type token ratio: 0.47
+Brunet's Index: 11.470444195544305
+Honore's Statistic: 1139.173677586528
 ------------------------------------------------
 number of nouns: 54
 number of verbs: 13
@@ -26,21 +26,21 @@ number of adp: 1
 number of num: 0
 number of intj: 20
 Normalized ------------------------------------------------
-number of nouns normalized: 30.130434782608695
-number of verbs normalized:: 0.07065217391304347
-number of adjectives normalized:: 0.021739130434782608
-number of adverbs normalized:: 0.06521739130434782
-number of aux normalized:: 0.0
-number of det normalized:: 0.021739130434782608
-number of part normalized:: 0.03804347826086957
-number of cconj normalized:: 0.010869565217391304
-number of sconj normalized:: 0.016304347826086956
-number of propn normalized:: 0.13043478260869565
-number of pronn normalized:: 0.021739130434782608
-number of adp normalized:: 0.005434782608695652
-number of num normalized:: 0.0
-number of intj normalized:: 0.10869565217391304
+number of nouns normalized: 0.54
+number of verbs normalized:: 0.13
+number of adjectives normalized: 0.04
+number of adverbs normalized: 0.12
+number of aux normalized: 0.0
+number of det normalized: 0.04
+number of part normalized: 0.07
+number of cconj normalized: 0.02
+number of sconj normalized: 0.03
+number of propn normalized: 0.24
+number of pronn normalized: 0.04
+number of adp normalized: 0.01
+number of num normalized: 0.0
+number of intj normalized: 0.2
 Ratios ------------------------------------------------
-ratio noun to verb: 2.3076923076923075
+ratio noun to verb: 4.153846153846154
 ratio pronoun to verb: 0.3076923076923077
-ratio pronoun to noun: 0.13333333333333333
+ratio pronoun to noun: 0.07407407407407407

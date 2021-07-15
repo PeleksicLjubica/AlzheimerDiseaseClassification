@@ -1,115 +1,72 @@
-[Da li možete da se predstavite?]
-[Vaše ima i prezime?]
-Ja sam Milica Adzić,___živim u Beogradu___.
+Ja sam Milica Adzić, živim u Beogradu .
 
-[Datum rođenja, godina?]
 Šesti,peti četrdeset osme.
 
-[Gde ste ranije živeli?]
-Isto sam živela, u Beogradu___ dvadeset deveti  novembar.
+Isto sam živela, u Beogradu  dvadeset deveti  novembar.
 
-[Pre toga da li ste se često selili?]
-Bila sam u Ljubljani____, Zagrebu.
+Bila sam u Ljubljani , Zagrebu.
 
-[Gde vam je bilo najlepše?]
-Gde mi je bilo najlepše____,pa bilo je__u Ljubljani u Zagrebu_bilo je, svaki grad na svoj način je lep.
+Gde mi je bilo najlepše ,pa bilo je u Ljubljani u Zagrebu bilo je, svaki grad na svoj način je lep.
 
-[Šta ste po struci, čime ste se bavili?]
 Bavila sam se trgovinom.
 
-[Jel to jedini posao kojim ste se bavili ili ste pored toga još nešto radili?]
 Pa svirala sam violinu.
 
-[Da li pišete levom ili desnom rukom?]
-Pišem__sa desnom rukom.
+Pišem sa desnom rukom.
 
-[Da li volite da čitate knjige?]
 Pa volim da čitam knjige mada u poslednje vreme slabo ih čitam.
 
-[Imate li neku omiljenu?]
-Pa nemam,_sve su mi tako mile,drage_, svaka na svoj način.
+Pa nemam, sve su mi tako mile,drage , svaka na svoj način.
 
-[Imate li omiljeni žanr?]
 Pa ne.
-[Rekli ste da svirate violinu.Kada ste počeli?]
-Počela sam_kao dete___.Kao mala, u malom sinfonijskom orkestru Ljubljana.
+Počela sam kao dete .Kao mala, u malom sinfonijskom orkestru Ljubljana.
 
-[Da li je to bila vasa želja ili želja vaših roditelja?]
-Pa moja želja i želja roditelja.Mislim jedno sa drugim mora da se uklapa____.Ja sam prešla za Beograd __, onda sam prestala.
+Pa moja želja i želja roditelja.Mislim jedno sa drugim mora da se uklapa .Ja sam prešla za Beograd  , onda sam prestala.
 
-[Da li gledate filmove?]
-Pa filmove uglavnom_gledam_,ali__malo manje.
+Pa filmove uglavnom gledam ,ali malo manje.
 
-[ Da li imate neki omiljeni?]
 Pa ima ih mnogo...
 
-[Kada bi postojao vremeplov u koje vreme bi se vratili?]
-Koje vreme?_______.Ja mislim u sadašnje.
+Koje vreme? .Ja mislim u sadašnje.
 
-[Najviše vam se sviđa sada?]
-Pa sve mi se sviđa____.Tu i tamo,uglavnom sve___jer vreme ide napred, mi idemo napred___,starimo__ali to nije to____.Vi mladi ostajete.
+Pa sve mi se sviđa .Tu i tamo,uglavnom sve jer vreme ide napred, mi idemo napred ,starimo ali to nije to .Vi mladi ostajete.
 
-[Da li se bojite nečega, imate li strah od nečega?]
-O_ strah___.Šta je strah?.
+O  strah .Šta je strah?.
 
-[ Diplomatski odgovor.]
-[ Šta vas rastužuje a šta može da vas razveseli?]
-Rastužuje me bolesno dete____,razveseli__me neki dobar igrani film ili eventualno __kad se u nekoj porodici, kada se tako desilo nešto__ fantastično.Van svake mogućnosti.
+Rastužuje me bolesno dete ,razveseli me neki dobar igrani film ili eventualno  kad se u nekoj porodici, kada se tako desilo nešto  fantastično.Van svake mogućnosti.
 
-[Kada bi imali priliku da odete na pusto ostrvo koga biste poveli i šta biste poneli?]
 Na pusto ostrvo...
-[ ili letovanje?]
-Mmm____pa ne znam šta bi ponela___,nešto neophodno.
-[ A koga?]
-Pa verovatno muža__,sina.
+Mmm pa ne znam šta bi ponela ,nešto neophodno.
+Pa verovatno muža ,sina.
 
-[Koju muziku ste ranije slušali, a koju sada?]
-Volim klasiku_,volim_____,svaka muzika je na svoj način lepa___. I o muzici ne moramo, ne trebamo da pričamo__.Svi mi volimo različitu muziku. U suštini ponekad istu____.Lepo je slušati nešto lepo.
+Volim klasiku ,volim ,svaka muzika je na svoj način lepa . I o muzici ne moramo, ne trebamo da pričamo .Svi mi volimo različitu muziku. U suštini ponekad istu .Lepo je slušati nešto lepo.
 
-[Znači nije se promenio žanr muzike?]
-Ne,_ cak je____...
+Ne,  cak je ...
 
-[Šta volite da radite u slobodno vreme?]
-Šta volim da radim u slobodno vreme?__.Uuu__pa da putujem.
+Šta volim da radim u slobodno vreme? .Uuu pa da putujem.
 
-[Imate li neki hobi?]
-Imam___samo...
-[Samo ne znate?]
-Pa recimo_____volim da istrazujem,volim_____ne znam ni ja tako nešto.
+Imam samo...
+Pa recimo volim da istrazujem,volim ne znam ni ja tako nešto.
 
-[Da li u domu organizujete neka druženja?]
 Kako da ne.
 
-[Stvarno?]
 Kako da ne.
-[Volite li da idete?]
-Pa ja sam malo____,volim da idem što da ne.Volim da čujem razne glasove__ i razne priče pozitivne,negativne.
+Pa ja sam malo ,volim da idem što da ne.Volim da čujem razne glasove  i razne priče pozitivne,negativne.
 
-[Da li ima neka osoba sa kojom volite da se družite?]
-Posebno,___pa ne znam nešto nemam, al ima prijatnih ljudi.
+Posebno, pa ne znam nešto nemam, al ima prijatnih ljudi.
 
-[Da li možete da mi kažete nešto o vašim članovima porodice?]
-Pa_zavisi o kome.
-[ O kome god hoćete, neke njihove karakteristike, imate li unuke?]
-Imam devojčicu Saru___mnogo je slatka devojčica. Možda će čak i da dođe.
+Pa zavisi o kome.
+Imam devojčicu Saru mnogo je slatka devojčica. Možda će čak i da dođe.
 
-[Koliko ona ima godina?]
 Ona ima šest godina i umiljata je.
-[ Nešto više o njoj?Ne znam da li imate sina ili ćerku?]
-Imam dva sina ja____. Dva sina____,relativno dobra deca_, u današnje vreme.
+Imam dva sina ja . Dva sina ,relativno dobra deca , u današnje vreme.
 
 I za kraj da li možete nešto o vama više da mi kažete?]
-O meni?__.
+O meni? .
 Šta vas interesuje?
-[ Šta možete da mi kažete?]
-Šta mogu da kažem?__.Ja sam nekad pozitivna, nekad negativna____ osoba. U suštini vesele prirode____.Volim mnogo da putujem__
-[Gde ste sve putovali?]
-Pamtim, bila sam ___do Kine onda,__obišla sam  __razne zemlje sveta.
-[Možete da izdvojite neku zemlju gde vam je baš bilo lepo?]
-U pa__,poslednjih godina dana bila __sam na Malti__.Jako lepa__.Istorijski vezana. Međutim sada nije  više _turistički interesantna zemlja.
-[ A hrana gde vam se najviše svidela?]
-Isto tamo u ___Kini, ali ne volim sve da jedem.
-[Ako nemate više ništa da kažete to je to, ja vam se zahvaljujem na izdvojenom vremenu]
+Šta mogu da kažem? .Ja sam nekad pozitivna, nekad negativna  osoba. U suštini vesele prirode .Volim mnogo da putujem 
+Pamtim, bila sam  do Kine onda, obišla sam   razne zemlje sveta.
+U pa ,poslednjih godina dana bila  sam na Malti .Jako lepa .Istorijski vezana. Međutim sada nije  više  turistički interesantna zemlja.
+Isto tamo u  Kini, ali ne volim sve da jedem.
 Hvala i vama što se došli.
-[Nema na čemu]
 Drago mi je da sam vas upoznala.

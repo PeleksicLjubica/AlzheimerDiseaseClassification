@@ -1,13 +1,13 @@
 Nada_Fatic-Milosavljevic
 ------------------------------------------------
-number_of_words: 5156
-average_words_length: 3.693366951124903
-vocabulary: 856
-vocabulary spoken once: 499
+number_of_words: 4349
+average_words_length: 4.1899287192458035
+vocabulary: 860
+vocabulary spoken once: 503
 ------------------------------------------------
-Type token ratio: 0.16602017067494182
-Brunet's Index: 16.534467781593687
-Honore's Statistic: 2049.5844279088437
+Type token ratio: 0.19774660841572775
+Brunet's Index: 15.60307287095946
+Honore's Statistic: 2018.157715079543
 ------------------------------------------------
 number of nouns: 776
 number of verbs: 659
@@ -23,24 +23,24 @@ number of propn: 125
 number of pronn: 289
 number of x: 28
 number of adp: 261
-number of num: 44
+number of num: 48
 number of intj: 9
 Normalized ------------------------------------------------
-number of nouns normalized: 651.0242435996897
-number of verbs normalized:: 0.1278122575640031
-number of adjectives normalized:: 0.03975950349107835
-number of adverbs normalized:: 0.09018619084561676
-number of aux normalized:: 0.082622187742436
-number of det normalized:: 0.08010085337470908
-number of part normalized:: 0.057408844065166796
-number of cconj normalized:: 0.06070597362296354
-number of sconj normalized:: 0.06089992242048099
-number of propn normalized:: 0.024243599689681924
-number of pronn normalized:: 0.05605120248254461
-number of adp normalized:: 0.05062063615205586
-number of num normalized:: 0.008533747090768037
-number of intj normalized:: 0.0017455391776570986
+number of nouns normalized: 0.17843182340767993
+number of verbs normalized:: 0.24948263968728443
+number of adjectives normalized: 0.0471372729363072
+number of adverbs normalized: 0.10692113129455047
+number of aux normalized: 0.09795355254081398
+number of det normalized: 0.09496435962290181
+number of part normalized: 0.06806162336169234
+number of cconj normalized: 0.0719705679466544
+number of sconj normalized: 0.07220050586341688
+number of propn normalized: 0.028742239595309266
+number of pronn normalized: 0.06645205794435502
+number of adp normalized: 0.06001379627500575
+number of num normalized: 0.011037020004598759
+number of intj normalized: 0.002069441250862267
 Ratios ------------------------------------------------
-ratio noun to verb: 0.9878603945371776
-ratio pronoun to verb: 0.4385432473444613
-ratio pronoun to noun: 0.44393241167434716
+ratio noun to verb: 0.7152073732718894
+ratio pronoun to verb: 0.2663594470046083
+ratio pronoun to noun: 0.37242268041237114

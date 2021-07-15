@@ -1,13 +1,13 @@
 Gizela_Štefanac
 ------------------------------------------------
-number_of_words: 3606
-average_words_length: 3.6037160288408208
+number_of_words: 2717
+average_words_length: 4.599926389400074
 vocabulary: 650
 vocabulary spoken once: 338
 ------------------------------------------------
-Type token ratio: 0.18025513033832502
-Brunet's Index: 16.660066501965368
-Honore's Statistic: 1706.3238341173462
+Type token ratio: 0.23923444976076555
+Brunet's Index: 15.116587808437465
+Honore's Statistic: 1647.3507519638226
 ------------------------------------------------
 number of nouns: 714
 number of verbs: 365
@@ -26,21 +26,21 @@ number of adp: 197
 number of num: 35
 number of intj: 7
 Normalized ------------------------------------------------
-number of nouns normalized: 536.0493621741542
-number of verbs normalized:: 0.10122018857459789
-number of adjectives normalized:: 0.0452024403771492
-number of adverbs normalized:: 0.10870770937326678
-number of aux normalized:: 0.08069883527454243
-number of det normalized:: 0.0524126455906822
-number of part normalized:: 0.030782029950083195
-number of cconj normalized:: 0.056572379367720464
-number of sconj normalized:: 0.03216860787576262
-number of propn normalized:: 0.04936217415418746
-number of pronn normalized:: 0.030782029950083195
-number of adp normalized:: 0.054631170271769273
-number of num normalized:: 0.009706045479755962
-number of intj normalized:: 0.0019412090959511925
+number of nouns normalized: 0.26278984173721015
+number of verbs normalized:: 0.24144276775855722
+number of adjectives normalized: 0.059992638940007365
+number of adverbs normalized: 0.1442767758557232
+number of aux normalized: 0.10710342289289658
+number of det normalized: 0.06956201693043798
+number of part normalized: 0.04085388295914612
+number of cconj normalized: 0.07508281192491718
+number of sconj normalized: 0.042694147957305854
+number of propn normalized: 0.06551343393448657
+number of pronn normalized: 0.04085388295914612
+number of adp normalized: 0.07250644092749356
+number of num normalized: 0.012881854987118146
+number of intj normalized: 0.002576370997423629
 Ratios ------------------------------------------------
-ratio noun to verb: 1.4684931506849315
-ratio pronoun to verb: 0.3041095890410959
-ratio pronoun to noun: 0.20708955223880596
+ratio noun to verb: 1.0884146341463414
+ratio pronoun to verb: 0.16920731707317074
+ratio pronoun to noun: 0.15546218487394958

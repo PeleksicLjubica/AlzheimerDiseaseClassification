@@ -1,13 +1,13 @@
 Radomir_Ugrnic
 ------------------------------------------------
-number_of_words: 2313
-average_words_length: 4.333765672287073
+number_of_words: 1976
+average_words_length: 5.0465587044534415
 vocabulary: 604
 vocabulary spoken once: 331
 ------------------------------------------------
-Type token ratio: 0.2611327280587981
-Brunet's Index: 14.774737219932737
-Honore's Statistic: 1713.8335531090802
+Type token ratio: 0.305668016194332
+Brunet's Index: 13.987663180717739
+Honore's Statistic: 1678.993863186051
 ------------------------------------------------
 number of nouns: 635
 number of verbs: 205
@@ -26,21 +26,21 @@ number of adp: 215
 number of num: 40
 number of intj: 1
 Normalized ------------------------------------------------
-number of nouns normalized: 523.0484219628189
-number of verbs normalized:: 0.08862948551664505
-number of adjectives normalized:: 0.08041504539559015
-number of adverbs normalized:: 0.08603545179420666
-number of aux normalized:: 0.0622568093385214
-number of det normalized:: 0.05015131863380891
-number of part normalized:: 0.042801556420233464
-number of cconj normalized:: 0.06312148724600086
-number of sconj normalized:: 0.025075659316904454
-number of propn normalized:: 0.04842196281884998
-number of pronn normalized:: 0.019022913964548204
-number of adp normalized:: 0.09295287505404237
-number of num normalized:: 0.01729355814958928
-number of intj normalized:: 0.00043233895373973193
+number of nouns normalized: 0.32135627530364375
+number of verbs normalized:: 0.17661943319838055
+number of adjectives normalized: 0.09412955465587045
+number of adverbs normalized: 0.1007085020242915
+number of aux normalized: 0.0728744939271255
+number of det normalized: 0.058704453441295545
+number of part normalized: 0.050101214574898786
+number of cconj normalized: 0.07388663967611336
+number of sconj normalized: 0.029352226720647773
+number of propn normalized: 0.05668016194331984
+number of pronn normalized: 0.022267206477732792
+number of adp normalized: 0.10880566801619433
+number of num normalized: 0.020242914979757085
+number of intj normalized: 0.0005060728744939271
 Ratios ------------------------------------------------
-ratio noun to verb: 2.551219512195122
-ratio pronoun to verb: 0.2146341463414634
-ratio pronoun to noun: 0.0841300191204589
+ratio noun to verb: 1.819484240687679
+ratio pronoun to verb: 0.12607449856733524
+ratio pronoun to noun: 0.06929133858267716

@@ -1,221 +1,81 @@
-﻿[Kako se zovete?]
-Šaula(_)Stana.
+﻿Šaula Stana.
 
-[Kako je prezime?]
 Šaula.
 
-[Koliko godina imate?]
-Sedamdeset(____)pet.
+Sedamdeset pet.
 
-[Čime ste se bavili?]
-Pa(_)nisam radila(_)bavila sam se(_)domaćicom.
+Pa nisam radila bavila sam se domaćicom.
 
-[Čime?]
-Domaćicom.
-
-[Je l' imate stručnu spremu?]
-Nemam(_)kad mi nije dao radit. Moj muž(_)moj muž je bio(_)oficir(_)Znate kako je to. Velika plata je imao(_)pa nisam radila.
-
-[Odakle ste?]
-Ja sam iz Subotice.
-
-[Je l’ volite taj grad?]
-Uh,(_)volim.
-
-[Koliko ste dugo živeli tamo?]
-Pa samo do dvadeset godina(_)Udala sam se u(_)b(_)Beograda.
-
-[U Beogradu ste se udali?]
-Da. I otada(_)sam živela u(_)b(_)Beogradu. Pedeset godina(_)živim.
-
-[Gde ste upoznali svog muža?]
-Pa(_)tamo je došao. On je mene upoznao u Suboticu.
-
-[Kad ste dobili sina?]
-(___)P ja sam imala dva sina, sad jednog(_)imam. Jedan je umro(_)pete godine.(_)I(_)praunuk nisam dobila(___)nisam mogla dece.
-
-[Ako vas to uznemirava, ne morate da pričate o tome.]
-Ne.(__)Kažem,(_)nisam imala odmah dece. S dvadeset četiri godine sam dobila prvog sina, a drugog, ovaj što tu teži,od(_____)trideset godina. Pet godina su(__)razlika 
-između njih.
-
-[Je l' bolujete od neke hronične bolesti? Je l' primate terapiju?]
-Pa_ne primam kad ja sam meni su(_) slabije ka(_)karlične kosti, to se(_)deformisalo i zato sam(_)grbava. I ne možem(_)ići.(_)Samo malo,ne možem šetati. Samo da mi nije ovog(_
-)bolesnog sina,ja ne bih bila u domu.(_)Ja bih platila ženu koja bi mi,(___)m malo ja šta bih mogla(_)radila.
-
-[Koje ste nacionalne pripadnosti? Je l' ste iz Srbije?]
-Jesam(_)Ja sam Lazić(_)M m moj otac je(_)Lazić, a Šaula sam po mužu.
-
-[Je l' znate da govorite neki strani jezik?]
-Ne znam(_)Pa i(_)učila sam kod sestre, ona je išla u školu(__)al nemački.Malo znam.
-
-[Je l' biste voleli da znate strani jezik?]
-A volela bih(_)jako. Ja sam mojoj deci(_) ka(_)Onaj što je umro,(_)završio je(_)fakuljtet(_)onaj(_)građevinski_inžinjer. A ovaj(__)išao u školu(__)ima tri godine fakulteta, onog(__)poljoprivrednog. A ja sam kazala da uče jezike.(__)Nisu hteli ni nijedan(_)Ovaj što se razboleo, on je bio u ratu. Ti si mlada(_)to ne znaš svašta(__)I(__)da, tu se razboleo
-i ne radi mu(_)ruka ni(_)ni noga(_)Ne može, u kolicima je. To me sad malo muči, znaš kako je(_)Sin mi je(__)A dobar je(_)Tako mi ga žao što je tako prošao(___)znaš. Mi(_)imao je
-vojsku(_)od vojske se razboleo, stalno po bolnicama(_)Ne da mu se.
-
-[Imate li neko muzičko obrazovanje?]
-N ne znam,ne(__). Ja sam imala moždani udar(_)Kad mi je sin onaj umro, a ovaj u bolnici.(__)I ja sam bila u domu, pa su me(_)odneli(__)u Slankamen(__)I nisam(__)ništa mogla(_)
-Govoriti(_)Da sam u(_)Slankomenu bila(__)tri meseca(_)To je banja. I doneli su ovog_Slobodana kod mene(__)a on je bio u domu već Donesu ga i(__)onaj(__)a nisu mi ništa pomogli,
-ta banja k(_)vežbala sam tu(_)stisnu se kosti(_)ne može se to pomoći(__)A(_)ovaj Slobodan je išao sa(__)fizičkog, krenuo je(_)nogom i(__)i(__)i(___)ovaj(_)fizioteraput(_)p(_)pustio ga
-samog dođe kod mene(_) mesec dana(__)Kad ja jedared, njega nema(_)Ja kažem(_)Doktore(_)šta je s mojim sinom(_)kad ga nema." Uhvatio ga ponovo(__)udar(____)Kaže(_)kaže: "Ne 
-sekirajte se,(__)vašeg(_)sina(__)" Kaže kaže(__)To je naš problem." Kaže sin(_)kaže(__)Kad ja oni ga(_)izneli od(__)Slankamena ovde, a ja sam p(___)posle došla jedno(___)nedelju dana.
-Baš(___)bilo je(__)dve(__)dva(_)dvadeset trećeg novembra kad sam ja došla. Tako da je mene(__)Slankamen(_)ovaj(__). Sad sam dve godine sam ovde(__). A bila sam(_)u stanu.(____)Tamo je
-Iišla milicija(_)kad nema nikog ostati u stanu(_)i(__)za, ovaj(_)mene su odneli u dom. *nerazumljiva rečenica* Odneli su me u Slankamen(_)i(_)milicija je(_)ovaj(_)za(_)zapečatila stan.
-Sad je stan prazan(__)Malo sam se sekirala š što će ostati(_)stan, a(__)milicija(__)pazila mi na to. Videla sam u(_)stanu, možete da zamislite(_)pošto se nama sviđa.
-
-[Je l' volite da čitate knjige?]
-Ne volim čitat(_). Ja volim kad mi neko(_)priča.(__)Ne volim čitati,(__)al'(_)pevanje(__)ja znam lepo pevati.(_)i moj sin zna(_)ovaj(_)i,(___)kako se zove,(_)Slobodan(_)Šaula. I(__)kaže(__)
-ja znam, samo(_)ne može(_)sada. Da sam(_)zdrava. Jako sam lepo pevala. U školi(_)je(__)kad sam išla u školu(__)učiteljica je kao mala(__)mala sam bila, drugi razred.(__)Ona je
-primetila da ja znam pevati i uvek(_)je terala(_)da(_)pevam.
-
-[Je l' ste imali hor u školi?]
-Jeste, imala sam(_)imala sam. I(_)omladinska(_)organizacija, to je bilo lepo(_)Kad sam(__)i pevala sam(__)na javnom mestu. Samo nisam imala(__)ovaj(_)znaš(__)mogućnosti da(__).
-Tražila sam se da radim ja.Ma(_)moj muž nije dao da radim.(__)A imao je veliku platu,(_)veliki oficir bio. Ja da sam(___)radila, ja ne bih nikad imala tu platu(_)što je on imao.
-(_)Znate, nije žena(_)nije ženi dobro kad radi.(_)Kad ne radi(__)ona mož' sve. Ja sam navikla na to, a i on. Znate, on je bio oficir, on je(_)dosadan bio,(_)al(__)oni su bili 
-gotovani, a ja sam radila.(_)I(_)i đeca su bezobrazna kad kad(_)vidi da možeš(__)ah(__)malo. Al stvarno sam imala divnu(_)decu. Jaku završili školu. A onaj umro nije bio bolestan
-(_)uopšte.  Tako sam(_)zalila za njim(___)Jako.(_)Ostala sam sa Slobodanom, a on je nemoćan.
-
-[Je l' ste voleli da kuvate?]
-Volela sam. I znam kuvati(__)s(_)s sve što je(_)ja sam mala(_)s mojom majkom bila(__)pa sam učila kuvati. 
-
-[Šta ste najviše voleli da kuvate?]
-(____)Pa(_)
-
-[Kolače?]
-Volim kolače, da.(_( torte volim.(_)Ku kupim ja(__)*nerazumljivo* I on voli tortu. On ne voli slatko(__)Kafu volim piti, samo ne gorku. Ja sam(_)malokrvna, znate, pa mi(_)
-gorčina smeta(__)I pivo(_)ne volim(__)a vino volim(__)pogotovu šampanjsko vino(_)dobro društvo(__)Eto, to volim,a ne volim(__)se napijati.
-
-[Kakvu ste muziku slušali dok ste bili mladi, a koju slušate sada?]
-Pa volim narodnu muziku(___)Pa ona(_)ističe(_)iz(___)onaj(_)kako se zove(___)Ne kaže se, kako ću (_)da(_)Ne znam(_)sad kazati(_). A narodna muzika ima(_)svašta znaš. To sam volela,
-a i znam peva. A(_)mogu ja i drugu muziku da(_)pevam(__)Znam, pa mi_sad(__). Kad sam bila(_)mala(__)ja sam kazala učiteljici da ja znam i drugi glas pevati(__)A ona se smeje,
-jako me volela.  
-
-[Je l' imate još nešto što biste voleli da mi ispričate?]
-(_)Pa i neku_sad(_). Ova sudbina me udarila.(_)Volela bih da imam(_)i unučadi(_)kao(_)svi. A onaj(__)kad je stao(_)na(__)moj muž tad je i(_)umro. Trideset godina sam ja(_)i čovek i žena.
-(_)To nije lako(_)Još muška deca,(_)znate. To je(__)A dobru sam decu imala, zato(_)Pod mojom su rukom odrasli. *nerazumljiva rečenica* A ja sam volela da radim, ja sam sve 
-Tražila(___)da(_)radim(_)Al nije dao.
-
-[Šta volite da radite u slobodno vreme?]
-Pa evo vidite kako ja namestim svoj krevet, to mene ne mrzi. Samo da možem s rukama, ne možem ništa s rukama.(__)_ovo ako(__)m m mrzim kad je nečisto i ja volim_čisto da
-je.(___)Kod mene(_)j ja sam(____)bila domaćica broj jedan. I kuvati_svašta i_snađi se_kad(__)nešto treba(_)Kad je muž radio, nije lako ni njegov posao(_)Kaže n(_)kaže:"Ne znaš
-ti kako je(_)to raditi."(_)Pa(__)ja sam molila da radim.(________)Ja i dan danas radim što možem, sve uradim._Ja sama sebe, vidiš, presvlačim,(_)neću da me tu. M mene(__)me(__)ne
-uradi dobro(_)pa me žulja.(__)Pa ja sama.
-
-[To bi bilo to.]
-Ja volim društvo.(___)i mlade ljude(__)Imala sam društvo Eto, to je sve.
-
-[Hvala Vam puno na ovom intervjuu!]
-
--------------------------------------------------------------
-Transkript intervjua 2 (sa ispravljenim greskama u izgovoru)
--------------------------------------------------------------
-
-[Kako se zovete?]
-Šaula(_)Stana.
-
-[Kako je prezime?]
-Šaula.
-
-[Koliko godina imate?]
-Sedamdeset(____)pet.
-
-[Čime ste se bavili?]
-Pa(_)nisam radila(_)bavila sam se(_)domaćicom.
-
-[Čime?]
 Domaćica.
 
-[Je l imate stručnu spremu?]
-Nemam(_)kad mi nije dao radit. Moj muž(_)je bio_oficir(_)Znate kako je to. Veliku platu je imao(_)pa nisam radila.
+Nemam kad mi nije dao radit. Moj muž je bio oficir Znate kako je to. Veliku platu je imao pa nisam radila.
 
-[Odakle ste?]
 Ja sam iz Subotice.
 
-[Je l’ volite taj grad?]
-Uh(_)volim.
+Uh volim.
 
-[Koliko ste dugo živeli tamo?]
-Pa samo do dvadesete godine(_)Udala sam se u(_)Beogradu.
+Pa samo do dvadesete godine Udala sam se u Beogradu.
 
-[U Beogradu ste se udali?]
-Da. I od tada(_)sam živela u(_)Beogradu. Pedeset godina(_)živim ovde.
+Da. I od tada sam živela u Beogradu. Pedeset godina živim ovde.
 
-[Gde ste upoznali svog muža?]
-Pa(_)tamo je došao. On je mene upoznao u Subotici.
+Pa tamo je došao. On je mene upoznao u Subotici.
 
-[Kad ste dobili sina?]
-(___)Ja sam imala dva sina, sad jednog(_)imam. Jedan je umro(_)pete godine(_)I(_)praunuka nisam sam dobila(___)nisam mogla da imam
+ Ja sam imala dva sina, sad jednog imam. Jedan je umro pete godine I praunuka nisam sam dobila nisam mogla da imam
 odmah dece.
 
-[Ako vas to uznemirava, ne morate da pričate o tome.]
-Ne.(__)Kažem(_)nisam imala odmah dece. S dvadeset četiri godine sam dobila prvog sina, a drugog, ovaj što tu(_)leži,s(___)trideset godina. Pet godina je(__)razlika 
+Ne. Kažem nisam imala odmah dece. S dvadeset četiri godine sam dobila prvog sina, a drugog, ovaj što tu leži,s trideset godina. Pet godina je razlika 
 između njih.
 
-[Je l' bolujete od neke hronične bolesti? Je l' primate terapiju?]
-Pa(_)ne primam(_)meni su(_) slabije karlične kosti, to se(_)deformisalo i zato sam(_)grbava. I ne mogu(_)ići(_)Samo malo(_)ne mogu šetati. Samo da mi nije ovog(_)
-bolesnog sina,(_)ja ne bih bila u domu(_)Ja bih platila ženu koja bi mi pomagala(__)Malo ja šta bih mogla(_)radila bih.
+Pa ne primam meni su  slabije karlične kosti, to se deformisalo i zato sam grbava. I ne mogu ići Samo malo ne mogu šetati. Samo da mi nije ovog 
+bolesnog sina, ja ne bih bila u domu Ja bih platila ženu koja bi mi pomagala Malo ja šta bih mogla radila bih.
 
-[Koje ste nacionalne pripadnosti? Je l' ste iz Srbije?]
-Jesam(_)Ja sam Lazić.(_)Moj(_)otac je(_)Lazić, a Šaula sam po mužu.
+Jesam Ja sam Lazić. Moj otac je Lazić, a Šaula sam po mužu.
 
-[Je l' znate da govorite neki strani jezik?]
-Ne znam(_(Pa i(_)učila sam(_)kod sestre, ona je išla u školu,(__)al nemački.Malo znam.
+Ne znam( (Pa i učila sam kod sestre, ona je išla u školu, al nemački.Malo znam.
 
-[Je l' biste voleli da znate strani jezik?]
-A volela bih(_)jako. Ja sam mojoj deci govorila(_)Onaj što je umro,(_)završio je(_)fakultet(_)on je(_)građevinski(_)inženjer. A ovaj drugi(__)išao u školu(__)ima tri godine 
-fakulteta, onog(_)poljoprivrednog. A ja sam kazala da uče jezike.(__)Nisu hteli ni nijedan(_)Ovaj što se razboleo, on je bio u ratu. Ti si mlada,(_)ti ne znaš svašta(_)I(__)da,
-tu se razboleo i ne radi mu(_)ruka ni noga(_)Ne može, u kolicima je. To me sad malo muči, znaš kako je(_)Sin mi je(__)A dobar je(_)Tako mi ga žao što je tako prošao(___)znaš. 
-Išao je u vojsku(_)od vojske se razboleo, stalno po bolnicama.(_)Ne da mu se.
+A volela bih jako. Ja sam mojoj deci govorila Onaj što je umro, završio je fakultet on je građevinski inženjer. A ovaj drugi išao u školu ima tri godine 
+fakulteta, onog poljoprivrednog. A ja sam kazala da uče jezike. Nisu hteli ni nijedan Ovaj što se razboleo, on je bio u ratu. Ti si mlada, ti ne znaš svašta I da,
+tu se razboleo i ne radi mu ruka ni noga Ne može, u kolicima je. To me sad malo muči, znaš kako je Sin mi je A dobar je Tako mi ga žao što je tako prošao znaš. 
+Išao je u vojsku od vojske se razboleo, stalno po bolnicama. Ne da mu se.
 
-[Imate li neko muzičko obrazovanje?]
-Ne znam,ne(__). Ja sam imala moždani udar(_)Kad mi je sin onaj umro, a ovaj u bolnici(__)I ja sam bila u domu, pa su me_odneli(__)u Slankamen(_)I nisam(_)ništa mogla(_)
-govoriti._Pa sam u(_)Slankamenu bila(__)tri meseca._To je banja. I doneli su ovog(_)Slobodana kod mene(__)a on je bio u domu već(_)Donesu ga,a nisu mi ništa pomogli, ta banja. Vežbala sam tu(_)stisnu se kosti(__)ne može se tu pomoći(__)A(__)ovaj Slobodan je išao na(__)fizikalnu, krenuo je sa(_)nogom.(__)Ovaj(_)fizioterapeut(__)pustio ga
-Samog(_)dođe kod mene(_)mesec dana(__)Kad ja jedared,a njega nema(_)Ja kažem:_"Doktore(__)šta je s mojim sinom(__)kad ga nema." Uhvatio ga ponovo(__)udar(___)Kaže: "Ne 
-sekirajte se,(__)vašeg(_)sina(_)" Kaže(__)To je naš problem."(__)Kad ja,(_)oni ga(_)preneli iz(__)Slankamena ovde, a ja sam(__)posle došla, jedno(__)nedelju dana.
-Baš(___)bilo je(__)dvadeset trećeg novembra kad sam ja došla. Tako da je mene(__)Slankamen(_)ovaj(__). Sad sam dve godine sam ovde(__). A bila sam(_)u stanu.(____)Tamo je
-I(_)išla milicija(__)kad nema nikog ostati u stanu(_)i(__)mene su odneli u dom. Odneli su me u Slankamen(_)i(_)milicija je(_)ovaj,(_)zapečatila stan.
-Sad je stan prazan(__)Malo sam se sekirala što će ostati(_)stan, a(_)milicija(_)pazila mi na to. Videla sam u(_)stanu, možete da zamislite(__)pošto se nama sviđa.
+Ne znam,ne . Ja sam imala moždani udar Kad mi je sin onaj umro, a ovaj u bolnici I ja sam bila u domu, pa su me odneli u Slankamen I nisam ništa mogla 
+govoriti. Pa sam u Slankamenu bila tri meseca. To je banja. I doneli su ovog Slobodana kod mene a on je bio u domu već Donesu ga,a nisu mi ništa pomogli, ta banja. Vežbala sam tu stisnu se kosti ne može se tu pomoći A ovaj Slobodan je išao na fizikalnu, krenuo je sa nogom. Ovaj fizioterapeut pustio ga
+Samog dođe kod mene mesec dana Kad ja jedared,a njega nema Ja kažem: "Doktore šta je s mojim sinom kad ga nema." Uhvatio ga ponovo udar Kaže: "Ne 
+sekirajte se, vašeg sina " Kaže To je naš problem." Kad ja, oni ga preneli iz Slankamena ovde, a ja sam posle došla, jedno nedelju dana.
+Baš bilo je dvadeset trećeg novembra kad sam ja došla. Tako da je mene Slankamen ovaj . Sad sam dve godine sam ovde . A bila sam u stanu. Tamo je
+I išla milicija kad nema nikog ostati u stanu i mene su odneli u dom. Odneli su me u Slankamen i milicija je ovaj, zapečatila stan.
+Sad je stan prazan Malo sam se sekirala što će ostati stan, a milicija pazila mi na to. Videla sam u stanu, možete da zamislite pošto se nama sviđa.
 
-[Je l' volite da čitate knjige?]
-Ne volim čitat(_). Ja volim kad mi neko(_)priča(__)Ne volim čitati,(_)al(_)pevanje(_)ja znam lepo pevati(_)I moj sin zna(_)ovaj(__)kako se zove(_)Slobodan(_)Šaula. I(_(kaže(__)
-ja znam, samo(_)ne mogu(_)sada. Da sam(_)zdrava. Jako sam lepo pevala. Kad sam išla u školu(___)kao mala(_), drugi razred,(_) učiteljica je primetila da ja znam pevati 
-i uvek(_)me je terala(_)da(_)pevam.
+Ne volim čitat . Ja volim kad mi neko priča Ne volim čitati, al pevanje ja znam lepo pevati I moj sin zna ovaj kako se zove Slobodan Šaula. I( (kaže 
+ja znam, samo ne mogu sada. Da sam zdrava. Jako sam lepo pevala. Kad sam išla u školu kao mala , drugi razred,  učiteljica je primetila da ja znam pevati 
+i uvek me je terala da pevam.
 
-[Je l' ste imali hor u školi?]
-Jeste, imala sam(_)imala sam. I(_)omladinska(_)organizacija, to je bilo lepo(___)Pevala sam(__)i na javnom mestu. Samo nisam imala(__)ovaj(__)znaš(__)mogućnosti. Ja sam tražila 
-da radim(_)Moj muž nije dao da radim(__)A imao je veliku platu(_)veliki oficir bio. Ja da sam(___)radila, ja ne bih nikad imala tu platu(_)što je on imao.
-(_)Znate(_)nije ženi dobro kad radi(_)Kad ne radi(__)ona može sve. Ja sam navikla(_)na to, a i on. Znate, on je bio oficir, on je(_)dosadan bio,(_)al(__)oni su bili 
-gotovani, a ja sam radila(_)I deca su bezobrazna kad(_)vidi da mogu(__)malo. Al stvarno sam imala divnu(_)decu. Jaku završili školu. A onaj umro(_)nije bio bolestan
-(_)uopšte. Tako sam(_)žalila za njim(____)Jako(_)Ostala sam sa Slobodanom, a on je nemoćan.
+Jeste, imala sam imala sam. I omladinska organizacija, to je bilo lepo Pevala sam i na javnom mestu. Samo nisam imala ovaj znaš mogućnosti. Ja sam tražila 
+da radim Moj muž nije dao da radim A imao je veliku platu veliki oficir bio. Ja da sam radila, ja ne bih nikad imala tu platu što je on imao.
+ Znate nije ženi dobro kad radi Kad ne radi ona može sve. Ja sam navikla na to, a i on. Znate, on je bio oficir, on je dosadan bio, al oni su bili 
+gotovani, a ja sam radila I deca su bezobrazna kad vidi da mogu malo. Al stvarno sam imala divnu decu. Jaku završili školu. A onaj umro nije bio bolestan
+ uopšte. Tako sam žalila za njim Jako Ostala sam sa Slobodanom, a on je nemoćan.
 
-[Je l' ste voleli da kuvate?]
-Volela sam. I znam kuvati(__)sve što je(__)Ja sam kao mala(__)s mojom majkom bila(___)pa sam učila kuvati. 
+Volela sam. I znam kuvati sve što je Ja sam kao mala s mojom majkom bila pa sam učila kuvati. 
 
-[Šta ste najviše voleli da kuvate?]
-(____)Pa(_)
+Pa... 
 
-[Kolače?]
-Volim kolače, da(_)I torte volim.(_) Moj muž i on voli tortu. On ne voli slatko(_)Kafu volim piti, samo ne gorku. Ja sam(_)malokrvna, znate, pa mi(_)
-gorčina smeta(___)I pivo(_(ne volim(__)a vino volim(__)pogotovu šampanjsko vino(_)dobro društvo(__)Eto, to volim,a ne volim(__)se napijati.
+Volim kolače, da I torte volim.  Moj muž i on voli tortu. On ne voli slatko Kafu volim piti, samo ne gorku. Ja sam malokrvna, znate, pa mi 
+gorčina smeta I pivo( (ne volim a vino volim pogotovu šampanjsko vino dobro društvo Eto, to volim,a ne volim se napijati.
 
-[Kakvu ste muziku slušali dok ste bili mladi, a koju slušate sada?]
-Pa volim narodnu muziku(__)Ne znam_sad kazati(_). A narodna muzika(_)ima(_)svašta(_)znaš. To sam volela,a i znam da pevam. A(_)mogu ja i drugu muziku da(_)pevam(__)Znam, pa 
-mi_sad(__). Kad sam bila(_)mala(_)ja sam kazala učiteljici da ja znam i drugi glas pevati(__)A ona se smeje,jako me volela.  
+Pa volim narodnu muziku Ne znam sad kazati . A narodna muzika ima svašta znaš. To sam volela,a i znam da pevam. A mogu ja i drugu muziku da pevam Znam, pa 
+mi sad . Kad sam bila mala ja sam kazala učiteljici da ja znam i drugi glas pevati A ona se smeje,jako me volela.  
 
-[Je l' imate još nešto što biste voleli da mi ispričate?]
-Pa i nemam(_)sad(_). Ova sudbina me udarila.(_ )Volela bih da imam_i unučadi(_)kao svi. Moj muž tad je i(_)umro. Trideset godina sam ja(_)i čovek i žena(_)To nije lako.
-(_)Još muška deca(_)znate(__)A dobru sam decu imala.Pod mojom su rukom odrasli. A ja sam volela da radim, ja sam sve tražila(___) da(_)radim(_)Al nije dao.
+Pa i nemam sad . Ova sudbina me udarila.(  )Volela bih da imam i unučadi kao svi. Moj muž tad je i umro. Trideset godina sam ja i čovek i žena To nije lako.
+ Još muška deca znate A dobru sam decu imala.Pod mojom su rukom odrasli. A ja sam volela da radim, ja sam sve tražila  da radim Al nije dao.
 
-[Šta volite da radite u slobodno vreme?]
-Pa evo vidite kako ja namestim svoj krevet, to mene ne mrzi. Samo da mogu da radim rukama, ne mogu ništa s rukama.(__)i mrzim kad je nečisto i ja volim(_)čisto da
-Je(___)Kod mene(__)ja sam(___)bila domaćica broj jedan. I kuvati(_)svašta, i(_)snađi se_kad(___)nešto treba(_)Kad je muž radio, nije bio lak ni njegov posao(_)Kaže(_)kaže:"Ne znaš
-ti kako je(_)to raditi."(_)Pa(__)ja sam molila da radim.(________)Ja i dan danas radim što mogu, sve uradim.(_)Ja sama sebe, vidiš, presvlačim,neću da me tu presvlače. Meni(__)
-ne uradi dobro(_)pa me žulja(__)Pa ja sama.
+Pa evo vidite kako ja namestim svoj krevet, to mene ne mrzi. Samo da mogu da radim rukama, ne mogu ništa s rukama. i mrzim kad je nečisto i ja volim čisto da
+Je Kod mene ja sam bila domaćica broj jedan. I kuvati svašta, i snađi se kad nešto treba Kad je muž radio, nije bio lak ni njegov posao Kaže kaže:"Ne znaš
+ti kako je to raditi." Pa ja sam molila da radim. Ja i dan danas radim što mogu, sve uradim. Ja sama sebe, vidiš, presvlačim,neću da me tu presvlače. Meni 
+ne uradi dobro pa me žulja Pa ja sama.
 
-[To bi bilo to.]
-Ja volim društvo.(___)i mlade ljude(_)Imala sam društvo Eto, to je sve.
+Ja volim društvo. i mlade ljude Imala sam društvo Eto, to je sve.
 
-[Hvala Vam puno na ovom intervjuu!]
 
 
 

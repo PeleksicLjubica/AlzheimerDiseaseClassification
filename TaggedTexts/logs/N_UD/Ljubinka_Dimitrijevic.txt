@@ -1,13 +1,13 @@
 Ljubinka_Dimitrijevic
 ------------------------------------------------
-number_of_words: 1322
-average_words_length: 3.003782148260212
+number_of_words: 802
+average_words_length: 4.841645885286783
 vocabulary: 290
 vocabulary spoken once: 176
 ------------------------------------------------
-Type token ratio: 0.21936459909228442
-Brunet's Index: 16.776511417224906
-Honore's Statistic: 1828.2467508064674
+Type token ratio: 0.36159600997506236
+Brunet's Index: 13.789016575178765
+Honore's Statistic: 1701.1065756853413
 ------------------------------------------------
 number of nouns: 183
 number of verbs: 131
@@ -26,21 +26,21 @@ number of adp: 36
 number of num: 13
 number of intj: 1
 Normalized ------------------------------------------------
-number of nouns normalized: 140.03252647503783
-number of verbs normalized:: 0.09909228441754916
-number of adjectives normalized:: 0.03177004538577912
-number of adverbs normalized:: 0.07715582450832073
-number of aux normalized:: 0.05143721633888049
-number of det normalized:: 0.049924357034795766
-number of part normalized:: 0.046898638426626324
-number of cconj normalized:: 0.03177004538577912
-number of sconj normalized:: 0.048411497730711045
-number of propn normalized:: 0.03252647503782148
-number of pronn normalized:: 0.0264750378214826
-number of adp normalized:: 0.02723146747352496
-number of num normalized:: 0.009833585476550681
-number of intj normalized:: 0.0007564296520423601
+number of nouns normalized: 0.2281795511221945
+number of verbs normalized:: 0.24812967581047382
+number of adjectives normalized: 0.05236907730673317
+number of adverbs normalized: 0.12718204488778054
+number of aux normalized: 0.08478802992518704
+number of det normalized: 0.08229426433915212
+number of part normalized: 0.0773067331670823
+number of cconj normalized: 0.05236907730673317
+number of sconj normalized: 0.0798004987531172
+number of propn normalized: 0.05361596009975062
+number of pronn normalized: 0.043640897755610975
+number of adp normalized: 0.04488778054862843
+number of num normalized: 0.016209476309226933
+number of intj normalized: 0.0012468827930174563
 Ratios ------------------------------------------------
-ratio noun to verb: 1.0687022900763359
-ratio pronoun to verb: 0.26717557251908397
-ratio pronoun to noun: 0.25
+ratio noun to verb: 0.9195979899497487
+ratio pronoun to verb: 0.17587939698492464
+ratio pronoun to noun: 0.1912568306010929

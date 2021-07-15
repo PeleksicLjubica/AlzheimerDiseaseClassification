@@ -1,13 +1,13 @@
 Maca4
 ------------------------------------------------
-number_of_words: 92
-average_words_length: 3.260869565217391
+number_of_words: 67
+average_words_length: 4.358208955223881
 vocabulary: 48
 vocabulary spoken once: 42
 ------------------------------------------------
-Type token ratio: 0.5217391304347826
-Brunet's Index: 10.883974529835765
-Honore's Statistic: 3617.4308616392323
+Type token ratio: 0.7164179104477612
+Brunet's Index: 9.206223697080645
+Honore's Statistic: 3363.7540955127724
 ------------------------------------------------
 number of nouns: 45
 number of verbs: 5
@@ -26,21 +26,21 @@ number of adp: 4
 number of num: 2
 number of intj: 1
 Normalized ------------------------------------------------
-number of nouns normalized: 28.184782608695652
-number of verbs normalized:: 0.05434782608695652
-number of adjectives normalized:: 0.06521739130434782
-number of adverbs normalized:: 0.043478260869565216
-number of aux normalized:: 0.05434782608695652
-number of det normalized:: 0.010869565217391304
-number of part normalized:: 0.010869565217391304
-number of cconj normalized:: 0.05434782608695652
-number of sconj normalized:: 0.010869565217391304
-number of propn normalized:: 0.18478260869565216
-number of pronn normalized:: 0.043478260869565216
-number of adp normalized:: 0.043478260869565216
-number of num normalized:: 0.021739130434782608
-number of intj normalized:: 0.010869565217391304
+number of nouns normalized: 0.6716417910447762
+number of verbs normalized:: 0.14925373134328357
+number of adjectives normalized: 0.08955223880597014
+number of adverbs normalized: 0.05970149253731343
+number of aux normalized: 0.07462686567164178
+number of det normalized: 0.014925373134328358
+number of part normalized: 0.014925373134328358
+number of cconj normalized: 0.07462686567164178
+number of sconj normalized: 0.014925373134328358
+number of propn normalized: 0.2537313432835821
+number of pronn normalized: 0.05970149253731343
+number of adp normalized: 0.05970149253731343
+number of num normalized: 0.029850746268656716
+number of intj normalized: 0.014925373134328358
 Ratios ------------------------------------------------
-ratio noun to verb: 5.6
-ratio pronoun to verb: 0.8
-ratio pronoun to noun: 0.14285714285714285
+ratio noun to verb: 4.5
+ratio pronoun to verb: 0.4
+ratio pronoun to noun: 0.08888888888888889

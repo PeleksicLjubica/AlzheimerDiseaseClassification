@@ -1,13 +1,13 @@
 Stanomir_Arandjelovic
 ------------------------------------------------
-number_of_words: 1662
-average_words_length: 3.743682310469314
+number_of_words: 1244
+average_words_length: 4.832797427652733
 vocabulary: 443
 vocabulary spoken once: 263
 ------------------------------------------------
-Type token ratio: 0.266546329723225
-Brunet's Index: 15.079164185991162
-Honore's Statistic: 1825.1051111716777
+Type token ratio: 0.35610932475884244
+Brunet's Index: 13.562669336117061
+Honore's Statistic: 1753.809256706396
 ------------------------------------------------
 number of nouns: 337
 number of verbs: 186
@@ -26,21 +26,21 @@ number of adp: 90
 number of num: 21
 number of intj: 2
 Normalized ------------------------------------------------
-number of nouns normalized: 279.03489771359807
-number of verbs normalized:: 0.11191335740072202
-number of adjectives normalized:: 0.05776173285198556
-number of adverbs normalized:: 0.08604091456077016
-number of aux normalized:: 0.07280385078219014
-number of det normalized:: 0.044524669073405534
-number of part normalized:: 0.025872442839951864
-number of cconj normalized:: 0.05054151624548736
-number of sconj normalized:: 0.032490974729241874
-number of propn normalized:: 0.03489771359807461
-number of pronn normalized:: 0.030685920577617327
-number of adp normalized:: 0.05415162454873646
-number of num normalized:: 0.01263537906137184
-number of intj normalized:: 0.0012033694344163659
+number of nouns normalized: 0.2709003215434084
+number of verbs normalized:: 0.24678456591639872
+number of adjectives normalized: 0.07717041800643087
+number of adverbs normalized: 0.11495176848874598
+number of aux normalized: 0.0972668810289389
+number of det normalized: 0.0594855305466238
+number of part normalized: 0.03456591639871383
+number of cconj normalized: 0.06752411575562701
+number of sconj normalized: 0.04340836012861737
+number of propn normalized: 0.04662379421221865
+number of pronn normalized: 0.0409967845659164
+number of adp normalized: 0.07234726688102894
+number of num normalized: 0.016881028938906754
+number of intj normalized: 0.001607717041800643
 Ratios ------------------------------------------------
-ratio noun to verb: 1.5
-ratio pronoun to verb: 0.27419354838709675
-ratio pronoun to noun: 0.1827956989247312
+ratio noun to verb: 1.0977198697068404
+ratio pronoun to verb: 0.16612377850162866
+ratio pronoun to noun: 0.1513353115727003
