@@ -1,0 +1,46 @@
+Ljubinka_Dimitrijevic
+------------------------------------------------
+number_of_words: 802
+average_words_length: 4.841645885286783
+vocabulary: 290
+vocabulary spoken once: 176
+------------------------------------------------
+Type token ratio: 0.36159600997506236
+Brunet's Index: 13.789016575178765
+Honore's Statistic: 1701.1065756853413
+------------------------------------------------
+number of nouns: 183
+number of verbs: 131
+number of adjectives: 42
+number of adverbs: 102
+number of punct: 517
+number of aux: 68
+number of det: 66
+number of part: 62
+number of cconj: 42
+number of sconj: 64
+number of propn: 43
+number of pronn: 35
+number of x: 16
+number of adp: 36
+number of num: 13
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.2281795511221945
+number of verbs normalized:: 0.24812967581047382
+number of adjectives normalized: 0.05236907730673317
+number of adverbs normalized: 0.12718204488778054
+number of aux normalized: 0.08478802992518704
+number of det normalized: 0.08229426433915212
+number of part normalized: 0.0773067331670823
+number of cconj normalized: 0.05236907730673317
+number of sconj normalized: 0.0798004987531172
+number of propn normalized: 0.05361596009975062
+number of pronn normalized: 0.043640897755610975
+number of adp normalized: 0.04488778054862843
+number of num normalized: 0.016209476309226933
+number of intj normalized: 0.0012468827930174563
+Ratios ------------------------------------------------
+ratio noun to verb: 0.9195979899497487
+ratio pronoun to verb: 0.17587939698492464
+ratio pronoun to noun: 0.1912568306010929

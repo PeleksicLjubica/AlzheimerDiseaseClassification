@@ -19531,9 +19531,9 @@ match_obj.group(3) : ,
 match_obj.group(1) : ali
 match_obj.group(2) : CCONJ
 match_obj.group(3) : ali
-match_obj.group(1) : cerke
-match_obj.group(2) : PROPN
-match_obj.group(3) : cerke
+match_obj.group(1) : ćerke
+match_obj.group(2) : NOUN
+match_obj.group(3) : ćerke
 match_obj.group(1) : i
 match_obj.group(2) : CCONJ
 match_obj.group(3) : i
@@ -19726,12 +19726,6 @@ match_obj.group(3) : Bojana
 match_obj.group(1) : }
 match_obj.group(2) : PUNCT
 match_obj.group(3) : }
-match_obj.group(1) : Mo
-match_obj.group(2) : PROPN
-match_obj.group(3) : Mo
-match_obj.group(1) : da
-match_obj.group(2) : SCONJ
-match_obj.group(3) : da
 match_obj.group(1) : je
 match_obj.group(2) : AUX
 match_obj.group(3) : jesam
@@ -20344,9 +20338,9 @@ match_obj.group(3) : koji
 match_obj.group(1) : tu
 match_obj.group(2) : ADV
 match_obj.group(3) : tu
-match_obj.group(1) : dode
+match_obj.group(1) : dođe
 match_obj.group(2) : VERB
-match_obj.group(3) : dode
+match_obj.group(3) : dođe
 match_obj.group(1) : i
 match_obj.group(2) : CCONJ
 match_obj.group(3) : i

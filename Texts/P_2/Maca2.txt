@@ -1,0 +1,46 @@
+Maca2
+------------------------------------------------
+number_of_words: 15
+average_words_length: 5.066666666666666
+vocabulary: 10
+vocabulary spoken once: 7
+------------------------------------------------
+Type token ratio: 0.6666666666666666
+Brunet's Index: 6.372979336374192
+Honore's Statistic: 902.6834003674031
+------------------------------------------------
+number of nouns: 13
+number of verbs: 2
+number of adjectives: 1
+number of adverbs: 1
+number of punct: 12
+number of aux: 2
+number of det: 0
+number of part: 0
+number of cconj: 0
+number of sconj: 1
+number of propn: 5
+number of pronn: 0
+number of x: 0
+number of adp: 0
+number of num: 0
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.8666666666666667
+number of verbs normalized:: 0.26666666666666666
+number of adjectives normalized: 0.06666666666666667
+number of adverbs normalized: 0.06666666666666667
+number of aux normalized: 0.13333333333333333
+number of det normalized: 0.0
+number of part normalized: 0.0
+number of cconj normalized: 0.0
+number of sconj normalized: 0.06666666666666667
+number of propn normalized: 0.3333333333333333
+number of pronn normalized: 0.0
+number of adp normalized: 0.0
+number of num normalized: 0.0
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 3.25
+ratio pronoun to verb: 0.0
+ratio pronoun to noun: 0.0

@@ -1,0 +1,46 @@
+Ksenija
+------------------------------------------------
+number_of_words: 531
+average_words_length: 5.135593220338983
+vocabulary: 200
+vocabulary spoken once: 126
+------------------------------------------------
+Type token ratio: 0.3766478342749529
+Brunet's Index: 13.7047820493713
+Honore's Statistic: 1695.881627362686
+------------------------------------------------
+number of nouns: 136
+number of verbs: 72
+number of adjectives: 122
+number of adverbs: 47
+number of punct: 368
+number of aux: 40
+number of det: 28
+number of part: 31
+number of cconj: 28
+number of sconj: 17
+number of propn: 48
+number of pronn: 37
+number of x: 19
+number of adp: 11
+number of num: 10
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.256120527306968
+number of verbs normalized:: 0.21092278719397364
+number of adjectives normalized: 0.2297551789077213
+number of adverbs normalized: 0.08851224105461393
+number of aux normalized: 0.07532956685499058
+number of det normalized: 0.05273069679849341
+number of part normalized: 0.0583804143126177
+number of cconj normalized: 0.05273069679849341
+number of sconj normalized: 0.032015065913371
+number of propn normalized: 0.0903954802259887
+number of pronn normalized: 0.0696798493408663
+number of adp normalized: 0.02071563088512241
+number of num normalized: 0.018832391713747645
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 1.2142857142857142
+ratio pronoun to verb: 0.33035714285714285
+ratio pronoun to noun: 0.27205882352941174

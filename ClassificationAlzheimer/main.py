@@ -7,10 +7,13 @@ import pathlib
 import re
 import os
 import math  # needed for logarithm
+
+import numpy as np
+
 from utilities import *
-from cosine_distance import *
-from plotting import *
-from machine_learning import *
+from cosine_distance import calculate_cosine_distance
+from plotting import plot_lexical_analysis_results_one_plot, plot_lexical_analysis_results_two_plots
+from machine_learning import start_word_embedding
 
 GLOBAL_NUMBER_OF_WORDS_P = []
 GLOBAL_NUMBER_OF_WORDS_N = []
@@ -92,7 +95,7 @@ def read_tagged_files(path_log_file, path_to_tagged):
             # Open next file in the folder
             file = open(path, mode="r+", encoding="utf8")
 
-            if ".DS_Store" in path:
+            if ".DS_Store" in path.parts:
                 break
 
             # Find patient name to make log file with data for that patient
@@ -161,7 +164,7 @@ def read_tagged_files(path_log_file, path_to_tagged):
                         if word not in vocabulary_list:
                             vocabulary_list[word] = 1
                         else:
-                            previous_value = vocabulary_list[word] = 1
+                            previous_value = vocabulary_list[word]
                             vocabulary_list[word] = previous_value + 1
 
                     if str(match_obj.group(2)) == "NOUN":
@@ -227,7 +230,7 @@ def read_tagged_files(path_log_file, path_to_tagged):
 
             value = 1 - vocabulary_spoken_once / vocabulary
             if value == 0:
-                value = 0.000000001
+                value = 0.0001
             R = (100 * math.log(number_of_words)) / value
 
             patient_log_file.write("number_of_words: " + str(number_of_words) + "\n")
@@ -421,56 +424,77 @@ def read_results(patient_class, path_log_file, path_to_tagged):
                             GLOBAL_PRONOUN_NOUN_N.append(float(match_obj.group(1)))
                 count += 1
 
-
 # Function for calling plotting module with needed data
 def draw_graphs_for_lexical_statistics():
+
+    v = 1
+
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_NOUNS_P, 2000, GLOBAL_NUMBER_OF_NOUNS_N, "Number of nouns",
-                                            GLOBAL_NUMBER_OF_NOUNS_NOR_P, 1, GLOBAL_NUMBER_OF_NOUNS_NOR_N,
+                                            GLOBAL_NUMBER_OF_NOUNS_NOR_P, np.mean(GLOBAL_NUMBER_OF_NOUNS_NOR_P), 1,
+                                            GLOBAL_NUMBER_OF_NOUNS_NOR_N, np.mean(GLOBAL_NUMBER_OF_NOUNS_NOR_N),
                                             "Number of nouns normalized by number of words")
 
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_ADJECTIVES_P, 300, GLOBAL_NUMBER_OF_ADJECTIVES_N,
-                                            "Number of adjectives",
-                                            GLOBAL_NUMBER_OF_ADJECTIVES_NOR_P, 1, GLOBAL_NUMBER_OF_ADJECTIVES_NOR_N,
+                                            "Number of adjectives", GLOBAL_NUMBER_OF_ADJECTIVES_NOR_P,
+                                            np.mean(GLOBAL_NUMBER_OF_ADJECTIVES_NOR_P), 1,
+                                            GLOBAL_NUMBER_OF_ADJECTIVES_NOR_N, np.mean(GLOBAL_NUMBER_OF_ADJECTIVES_NOR_N),
                                             "Number of adjectives normalized by number of words")
 
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_ADVERBS_P, 600, GLOBAL_NUMBER_OF_ADVERBS_N,
-                                            "Number of adverbs",
-                                            GLOBAL_NUMBER_OF_ADVERBS_NOR_P, 1, GLOBAL_NUMBER_OF_ADVERBS_NOR_N,
+                                            "Number of adverbs", GLOBAL_NUMBER_OF_ADVERBS_NOR_P,
+                                            np.mean(GLOBAL_NUMBER_OF_ADVERBS_NOR_P), 1, GLOBAL_NUMBER_OF_ADVERBS_NOR_N,
+                                            np.mean(GLOBAL_NUMBER_OF_ADVERBS_NOR_N),
                                             "Number of adverbs normalized by number of words")
 
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_CCONJ_P, 400, GLOBAL_NUMBER_OF_CCONJ_N,
-                                            "Number of cconj",
-                                            GLOBAL_NUMBER_OF_CCONJ_NOR_P, 1, GLOBAL_NUMBER_OF_CCONJ_NOR_N,
+                                            "Number of cconj", GLOBAL_NUMBER_OF_CCONJ_NOR_P,
+                                            np.mean(GLOBAL_NUMBER_OF_CCONJ_NOR_P), 1, GLOBAL_NUMBER_OF_CCONJ_NOR_N,
+                                            np.mean(GLOBAL_NUMBER_OF_CCONJ_NOR_N),
                                             "Number of cconj normalized by number of words")
 
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_PART_P, 400, GLOBAL_NUMBER_OF_PART_N,
-                                            "Number of part",
-                                            GLOBAL_NUMBER_OF_PART_NOR_P, 1, GLOBAL_NUMBER_OF_PART_NOR_N,
+                                            "Number of part", GLOBAL_NUMBER_OF_PART_NOR_P,
+                                            np.mean(GLOBAL_NUMBER_OF_PART_NOR_P), 1, GLOBAL_NUMBER_OF_PART_NOR_N,
+                                            np.mean(GLOBAL_NUMBER_OF_PART_NOR_N),
                                             "Number of part normalized by number of words")
 
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_PRONN_P, 100, GLOBAL_NUMBER_OF_PRONN_N,
                                             "Number of pronn",
-                                            GLOBAL_NUMBER_OF_PRONN_NOR_P, 1, GLOBAL_NUMBER_OF_PRONN_NOR_N,
+                                            GLOBAL_NUMBER_OF_PRONN_NOR_P, np.mean(GLOBAL_NUMBER_OF_PRONN_NOR_P), 1,
+                                            GLOBAL_NUMBER_OF_PRONN_NOR_N, np.mean(GLOBAL_NUMBER_OF_PRONN_NOR_N),
                                             "Number of pronn normalized by number of words")
 
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_SCONJ_P, 650, GLOBAL_NUMBER_OF_SCONJ_N,
                                             "Number of sconj",
-                                            GLOBAL_NUMBER_OF_SCONJ_NOR_P, 1, GLOBAL_NUMBER_OF_SCONJ_NOR_N,
+                                            GLOBAL_NUMBER_OF_SCONJ_NOR_P, np.mean(GLOBAL_NUMBER_OF_SCONJ_NOR_P), 1,
+                                            GLOBAL_NUMBER_OF_SCONJ_NOR_N, np.mean(GLOBAL_NUMBER_OF_SCONJ_NOR_N),
                                             "Number of sconj normalized by number of words")
 
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_VERBS_P, 1500, GLOBAL_NUMBER_OF_VERBS_N,
                                             "Number of verbs",
-                                            GLOBAL_NUMBER_OF_VERBS_NOR_P, 1, GLOBAL_NUMBER_OF_VERBS_NOR_N,
+                                            GLOBAL_NUMBER_OF_VERBS_NOR_P, np.mean(GLOBAL_NUMBER_OF_VERBS_NOR_P), 1,
+                                            GLOBAL_NUMBER_OF_VERBS_NOR_N, np.mean(GLOBAL_NUMBER_OF_VERBS_NOR_N),
                                             "Number of verbs normalized by number of words")
 
-    plot_lexical_analysis_results_one_plot(GLOBAL_NUMBER_OF_WORDS_P, 8000, GLOBAL_NUMBER_OF_WORDS_N,
+    plot_lexical_analysis_results_one_plot(GLOBAL_NUMBER_OF_WORDS_P, np.mean(GLOBAL_NUMBER_OF_WORDS_P), 8000,
+                                           GLOBAL_NUMBER_OF_WORDS_N, np.mean(GLOBAL_NUMBER_OF_WORDS_N),
                                            "Number of words")
 
-    plot_lexical_analysis_results_one_plot(GLOBAL_AVERAGE_WORDS_LEN_P, 6, GLOBAL_AVERAGE_WORDS_LEN_N,
+    plot_lexical_analysis_results_one_plot(GLOBAL_AVERAGE_WORDS_LEN_P, np.mean(GLOBAL_AVERAGE_WORDS_LEN_P), 6,
+                                           GLOBAL_AVERAGE_WORDS_LEN_N, np.mean(GLOBAL_AVERAGE_WORDS_LEN_N),
                                            "Average words length")
 
-    plot_lexical_analysis_results_one_plot(GLOBAL_NOUN_VERB_P, 4.6, GLOBAL_NOUN_VERB_N, "Noun/Verb ratio")
-    plot_lexical_analysis_results_one_plot(GLOBAL_PRONOUN_NOUN_P, 1, GLOBAL_PRONOUN_NOUN_N, "Pronoun/Noun ratio")
+    plot_lexical_analysis_results_one_plot(GLOBAL_NOUN_VERB_P, np.mean(GLOBAL_NOUN_VERB_P),  4.6, GLOBAL_NOUN_VERB_N,
+                                           np.mean(GLOBAL_NOUN_VERB_N),  "Noun/Verb ratio")
+    plot_lexical_analysis_results_one_plot(GLOBAL_PRONOUN_NOUN_P, np.mean(GLOBAL_PRONOUN_NOUN_P), 1,
+                                           GLOBAL_PRONOUN_NOUN_N, np.mean(GLOBAL_PRONOUN_NOUN_N), "Pronoun/Noun ratio")
+
+    plot_lexical_analysis_results_one_plot(GLOBAL_TTR_P, np.mean(GLOBAL_TTR_P), 1.2, GLOBAL_TTR_N,
+                                           np.mean(GLOBAL_TTR_N), "Type Token Ratio")
+    plot_lexical_analysis_results_one_plot(GLOBAL_R_P, np.mean(GLOBAL_R_P), 2300, GLOBAL_R_N, np.mean(GLOBAL_R_N),
+                                           "Brunet's Index")
+    plot_lexical_analysis_results_one_plot(GLOBAL_W_P, np.mean(GLOBAL_W_P), 20, GLOBAL_W_N, np.mean(GLOBAL_W_N),
+                                           "Honore's Statistic")
 
 
 '''
@@ -481,10 +505,10 @@ shown on graphs.
 def start_lexical_analysis():
     print(" Starting Lexical Analysis ")
 
-    # read_tagged_files(PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
+    #read_tagged_files(PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
     print(" Finished reading P files ")
 
-    # read_tagged_files(PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
+    #read_tagged_files(PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
     print(" Finished reading N files ")
 
     read_results("P", PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
@@ -511,8 +535,8 @@ def start_machine_learning():
 if __name__ == '__main__':
     print(" Start Classification of Alzheimer Disease ")
 
-    # start_machine_learning()
-    # start_lexical_analysis()
-    calculate_cosine_distance()
+    #start_machine_learning()
+    #start_lexical_analysis()
+    #calculate_cosine_distance()
 
     print(" End Classification of Alzheimer Disease ")

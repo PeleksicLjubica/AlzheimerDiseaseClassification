@@ -1,0 +1,46 @@
+Ljubica_Djordjevic
+------------------------------------------------
+number_of_words: 2897
+average_words_length: 4.353469105971695
+vocabulary: 580
+vocabulary spoken once: 298
+------------------------------------------------
+Type token ratio: 0.2002071108042803
+Brunet's Index: 16.277513205814977
+Honore's Statistic: 1639.5141768461785
+------------------------------------------------
+number of nouns: 588
+number of verbs: 461
+number of adjectives: 109
+number of adverbs: 258
+number of punct: 956
+number of aux: 322
+number of det: 284
+number of part: 181
+number of cconj: 143
+number of sconj: 208
+number of propn: 119
+number of pronn: 259
+number of x: 49
+number of adp: 177
+number of num: 21
+number of intj: 5
+Normalized ------------------------------------------------
+number of nouns normalized: 0.20296858819468416
+number of verbs normalized:: 0.2702795995857784
+number of adjectives normalized: 0.037625129444252677
+number of adverbs normalized: 0.08905764584052468
+number of aux normalized: 0.1111494649637556
+number of det normalized: 0.09803244735933725
+number of part normalized: 0.06247842595788747
+number of cconj normalized: 0.049361408353469104
+number of sconj normalized: 0.07179841215050052
+number of propn normalized: 0.04107697618225751
+number of pronn normalized: 0.08940283051432517
+number of adp normalized: 0.06109768726268554
+number of num normalized: 0.007248878149810148
+number of intj normalized: 0.0017259233690024164
+Ratios ------------------------------------------------
+ratio noun to verb: 0.7509578544061303
+ratio pronoun to verb: 0.33077905491698595
+ratio pronoun to noun: 0.44047619047619047

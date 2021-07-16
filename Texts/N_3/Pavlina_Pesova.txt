@@ -1,0 +1,46 @@
+Pavlina_Pesova
+------------------------------------------------
+number_of_words: 6327
+average_words_length: 4.1569464201043145
+vocabulary: 998
+vocabulary spoken once: 484
+------------------------------------------------
+Type token ratio: 0.1577366840524735
+Brunet's Index: 16.457545043529304
+Honore's Statistic: 1699.431187978325
+------------------------------------------------
+number of nouns: 1205
+number of verbs: 1136
+number of adjectives: 218
+number of adverbs: 621
+number of punct: 1861
+number of aux: 666
+number of det: 366
+number of part: 257
+number of cconj: 321
+number of sconj: 509
+number of propn: 180
+number of pronn: 736
+number of x: 70
+number of adp: 383
+number of num: 76
+number of intj: 13
+Normalized ------------------------------------------------
+number of nouns normalized: 0.1904536115062431
+number of verbs normalized:: 0.2848111269163901
+number of adjectives normalized: 0.03445550813971866
+number of adverbs normalized: 0.09815078236130868
+number of aux normalized: 0.10526315789473684
+number of det normalized: 0.057847321005215745
+number of part normalized: 0.040619566935356406
+number of cconj normalized: 0.05073494547178758
+number of sconj normalized: 0.08044886992255414
+number of propn normalized: 0.02844950213371266
+number of pronn normalized: 0.11632685316895844
+number of adp normalized: 0.06053421842895527
+number of num normalized: 0.012012012012012012
+number of intj normalized: 0.002054686265212581
+Ratios ------------------------------------------------
+ratio noun to verb: 0.6687014428412874
+ratio pronoun to verb: 0.40843507214206437
+ratio pronoun to noun: 0.6107883817427386

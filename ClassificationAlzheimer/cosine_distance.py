@@ -3,14 +3,14 @@
 Module for calculating the cosine distance
 
 """
-
-from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
 import pathlib
-from utilities import *
-from sklearn.metrics.pairwise import cosine_similarity
 import os
 import numpy
+from sklearn.feature_extraction.text import TfidfVectorizer
+from utilities import *
+from sklearn.metrics.pairwise import cosine_similarity
+
 
 documents = []
 document_index = []

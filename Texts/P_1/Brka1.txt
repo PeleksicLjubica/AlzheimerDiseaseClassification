@@ -1,0 +1,46 @@
+Brka1
+------------------------------------------------
+number_of_words: 39
+average_words_length: 4.589743589743589
+vocabulary: 27
+vocabulary spoken once: 21
+------------------------------------------------
+Type token ratio: 0.6923076923076923
+Brunet's Index: 8.38805748883306
+Honore's Statistic: 1648.6027407583408
+------------------------------------------------
+number of nouns: 23
+number of verbs: 4
+number of adjectives: 3
+number of adverbs: 2
+number of punct: 17
+number of aux: 7
+number of det: 3
+number of part: 0
+number of cconj: 1
+number of sconj: 3
+number of propn: 10
+number of pronn: 1
+number of x: 0
+number of adp: 2
+number of num: 0
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.5897435897435898
+number of verbs normalized:: 0.28205128205128205
+number of adjectives normalized: 0.07692307692307693
+number of adverbs normalized: 0.05128205128205128
+number of aux normalized: 0.1794871794871795
+number of det normalized: 0.07692307692307693
+number of part normalized: 0.0
+number of cconj normalized: 0.02564102564102564
+number of sconj normalized: 0.07692307692307693
+number of propn normalized: 0.2564102564102564
+number of pronn normalized: 0.02564102564102564
+number of adp normalized: 0.05128205128205128
+number of num normalized: 0.0
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 2.090909090909091
+ratio pronoun to verb: 0.09090909090909091
+ratio pronoun to noun: 0.043478260869565216

@@ -1,0 +1,46 @@
+Milena2
+------------------------------------------------
+number_of_words: 75
+average_words_length: 5.306666666666667
+vocabulary: 47
+vocabulary spoken once: 34
+------------------------------------------------
+Type token ratio: 0.6266666666666667
+Brunet's Index: 9.848927223687303
+Honore's Statistic: 1560.9380102785124
+------------------------------------------------
+number of nouns: 49
+number of verbs: 12
+number of adjectives: 5
+number of adverbs: 3
+number of punct: 50
+number of aux: 3
+number of det: 0
+number of part: 1
+number of cconj: 2
+number of sconj: 2
+number of propn: 10
+number of pronn: 2
+number of x: 4
+number of adp: 2
+number of num: 3
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.6533333333333333
+number of verbs normalized:: 0.2
+number of adjectives normalized: 0.06666666666666667
+number of adverbs normalized: 0.04
+number of aux normalized: 0.04
+number of det normalized: 0.0
+number of part normalized: 0.013333333333333334
+number of cconj normalized: 0.02666666666666667
+number of sconj normalized: 0.02666666666666667
+number of propn normalized: 0.13333333333333333
+number of pronn normalized: 0.02666666666666667
+number of adp normalized: 0.02666666666666667
+number of num normalized: 0.04
+number of intj normalized: 0.013333333333333334
+Ratios ------------------------------------------------
+ratio noun to verb: 3.2666666666666666
+ratio pronoun to verb: 0.13333333333333333
+ratio pronoun to noun: 0.04081632653061224

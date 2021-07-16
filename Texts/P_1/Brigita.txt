@@ -1,0 +1,44 @@
+Brigita
+------------------------------------------------
+number_of_words: 11
+average_words_length: 5.0
+vocabulary: 10
+vocabulary spoken once: 9
+------------------------------------------------
+Type token ratio: 0.9090909090909091
+Brunet's Index: 5.154904058914256
+Honore's Statistic: 2397.8952727983715
+------------------------------------------------
+number of nouns: 8
+number of verbs: 0
+number of adjectives: 1
+number of adverbs: 1
+number of punct: 7
+number of aux: 1
+number of det: 0
+number of part: 1
+number of cconj: 1
+number of sconj: 0
+number of propn: 3
+number of pronn: 0
+number of x: 0
+number of adp: 1
+number of num: 0
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.7272727272727273
+number of verbs normalized:: 0.09090909090909091
+number of adjectives normalized: 0.09090909090909091
+number of adverbs normalized: 0.09090909090909091
+number of aux normalized: 0.09090909090909091
+number of det normalized: 0.0
+number of part normalized: 0.09090909090909091
+number of cconj normalized: 0.09090909090909091
+number of sconj normalized: 0.0
+number of propn normalized: 0.2727272727272727
+number of pronn normalized: 0.0
+number of adp normalized: 0.09090909090909091
+number of num normalized: 0.0
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio pronoun to noun: 0.0
