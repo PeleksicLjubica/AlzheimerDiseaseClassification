@@ -1,27 +1,52 @@
 """
 
-
+Module for calculating the cosine distance
 
 """
 
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
+import pathlib
 from utilities import *
+from sklearn.metrics.pairwise import cosine_similarity
+import os
+import numpy
+
+documents = []
+document_index = []
+
+def read_files(path_to_folder):
+
+    for path in pathlib.Path(path_to_folder).iterdir():
+        if path.is_file():
+            # Open next file in the folder
+            print(path)
+            if ".DS_Store" in path:
+                break
+            file = open(path, mode="r+", encoding="utf8")
+            read_file = file.read()
+            documents.append(read_file)
+
+            # Find patient name to make log file with data for that patient
+            head, tail = os.path.split(path)
+            patient_name = tail.split(".")[0]
+            document_index.append(patient_name)
 
 
 def calculate_cosine_distance():
 
-    count_vectorizer = CountVectorizer()
+    read_files(PATH_TO_TEXTS + "P/")
+    read_files(PATH_TO_TEXTS + "N/")
 
-    file_to_be_tested = PATH_TO_TEXTS + "test_file.txt"
+    tfidf_vectorizer = TfidfVectorizer()
+    sparse_matrix = tfidf_vectorizer.fit_transform(documents)
 
-    for path in pathlib.Path(PATH_TO_TAGGED_FILES + "/logs/" + path_to_tagged).iterdir():
-        if path.is_file():
-            # Open next file in the folder
-            file = open(path, mode="r", encoding="utf8")
-            lines = file.readlines()
+    doc_term_matrix = sparse_matrix.todense()
+    df = pd.DataFrame(doc_term_matrix,
+                      columns=tfidf_vectorizer.get_feature_names(),
+                      index=document_index)
 
-            for line in lines:
+    with numpy.printoptions(threshold=numpy.inf):
+        print(df)
 
-                # Match regex against the line
-                match_obj = re.match(REGEX_READ_FILE, line, re.M | re.I)
+        print(cosine_similarity(df, df))

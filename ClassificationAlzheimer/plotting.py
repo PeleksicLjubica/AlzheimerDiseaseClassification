@@ -1,13 +1,15 @@
-'''
-
+"""
 Module for plotting.
 Containing different functions to call pyplot and draw them
+"""
 
-'''
 import matplotlib.pyplot as plt
 
-def plot_lexical_analysis_results_two_plots(fp_result_p, fp_range, fp_result_n, fp_desc, sp_result_p, sp_range, sp_result_n,
-                                  sp_desc):
+
+# Function for plotting two plots on the same image
+def plot_lexical_analysis_results_two_plots(fp_result_p, fp_range, fp_result_n, fp_desc, sp_result_p, sp_range,
+                                            sp_result_n,
+                                            sp_desc):
     plt.figure(1)
     plt.subplot(211)
     tmp_list1 = [1] * len(fp_result_p)
@@ -32,8 +34,8 @@ def plot_lexical_analysis_results_two_plots(fp_result_p, fp_range, fp_result_n, 
     plt.show()
 
 
+# Function for plotting one plot in the image
 def plot_lexical_analysis_results_one_plot(fp_result_p, fp_range, fp_result_n, fp_desc):
-
     tmp_list1 = [1] * len(fp_result_p)
     plt.plot(fp_result_p, tmp_list1, "ro", label='Positive')
     tmp_list2 = [2] * len(fp_result_n)

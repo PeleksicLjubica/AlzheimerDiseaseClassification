@@ -1,5 +1,8 @@
-# main.py
-# Script used to start framework
+'''
+main.py
+Script used to start framework
+'''
+
 import pathlib
 import re
 import os
@@ -77,14 +80,20 @@ GLOBAL_NOUN_VERB_N = []
 GLOBAL_PRONOUN_VERB_N = []
 GLOBAL_PRONOUN_NOUN_N = []
 
-
-def read_tagged_files(patient_class, path_log_file, path_to_tagged):
+'''
+Function to read person_name.tt file, extract statistics and write them to person_name.txt file 
+These statistics are later used to draw graphs
+'''
+def read_tagged_files(path_log_file, path_to_tagged):
     log_file = open(path_log_file, mode="w+", encoding="utf8")
 
     for path in pathlib.Path(PATH_TO_TAGGED_FILES + "/" + path_to_tagged).iterdir():
         if path.is_file():
             # Open next file in the folder
             file = open(path, mode="r+", encoding="utf8")
+
+            if ".DS_Store" in path:
+                break
 
             # Find patient name to make log file with data for that patient
             head, tail = os.path.split(path)
@@ -253,7 +262,8 @@ def read_tagged_files(patient_class, path_log_file, path_to_tagged):
             patient_log_file.write("Normalized ------------------------------------------------\n")
             patient_log_file.write(
                 "number of nouns normalized: " + str((number_of_nouns + number_of_propn) / number_of_words) + "\n")
-            patient_log_file.write("number of verbs normalized:: " + str((number_of_verbs + number_of_aux) / number_of_words) + "\n")
+            patient_log_file.write(
+                "number of verbs normalized:: " + str((number_of_verbs + number_of_aux) / number_of_words) + "\n")
             patient_log_file.write(
                 "number of adjectives normalized: " + str(number_of_adjectives / number_of_words) + "\n")
             patient_log_file.write("number of adverbs normalized: " + str(number_of_adverbs / number_of_words) + "\n")
@@ -270,16 +280,23 @@ def read_tagged_files(patient_class, path_log_file, path_to_tagged):
 
             patient_log_file.write("Ratios ------------------------------------------------\n")
             if number_of_verbs != 0:
-                patient_log_file.write("ratio noun to verb: " + str((number_of_nouns + number_of_propn) / (number_of_verbs + number_of_aux)) + "\n")
-                patient_log_file.write("ratio pronoun to verb: " + str(number_of_pron / (number_of_verbs + number_of_aux)) + "\n")
+                patient_log_file.write("ratio noun to verb: " + str(
+                    (number_of_nouns + number_of_propn) / (number_of_verbs + number_of_aux)) + "\n")
+                patient_log_file.write(
+                    "ratio pronoun to verb: " + str(number_of_pron / (number_of_verbs + number_of_aux)) + "\n")
             if number_of_nouns != 0:
-                patient_log_file.write("ratio pronoun to noun: " + str(number_of_pron / (number_of_nouns + number_of_propn)) + "\n")
+                patient_log_file.write(
+                    "ratio pronoun to noun: " + str(number_of_pron / (number_of_nouns + number_of_propn)) + "\n")
 
             patient_log_file.close()
             file.close()
     log_file.close()
 
 
+'''
+    Functions for reading statistics from persion_name.txt statistic file for every person and storing information
+    to global variable arrays
+'''
 def read_results(patient_class, path_log_file, path_to_tagged):
     for path in pathlib.Path(PATH_TO_TAGGED_FILES + "/logs/" + path_to_tagged).iterdir():
         if path.is_file():
@@ -294,6 +311,7 @@ def read_results(patient_class, path_log_file, path_to_tagged):
                 # Match regex against the line
                 match_obj = re.match(REGEX_READ_FILE, line, re.M | re.I)
                 if match_obj:
+                    # Store in global variable arrays for positive patients
                     if patient_class == "P":
                         if count == 2:
                             GLOBAL_NUMBER_OF_WORDS_P.append(int(match_obj.group(1)))
@@ -347,7 +365,7 @@ def read_results(patient_class, path_log_file, path_to_tagged):
                             GLOBAL_PRONOUN_VERB_P.append(float(match_obj.group(1)))
                         elif count == 45:
                             GLOBAL_PRONOUN_NOUN_P.append(float(match_obj.group(1)))
-
+                    # Store in global variable arrays for negative patients
                     elif patient_class == "N":
                         if count == 2:
                             GLOBAL_NUMBER_OF_WORDS_N.append(int(match_obj.group(1)))
@@ -404,8 +422,8 @@ def read_results(patient_class, path_log_file, path_to_tagged):
                 count += 1
 
 
+# Function for calling plotting module with needed data
 def draw_graphs_for_lexical_statistics():
-    # Draw graphs
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_NOUNS_P, 2000, GLOBAL_NUMBER_OF_NOUNS_N, "Number of nouns",
                                             GLOBAL_NUMBER_OF_NOUNS_NOR_P, 1, GLOBAL_NUMBER_OF_NOUNS_NOR_N,
                                             "Number of nouns normalized by number of words")
@@ -455,52 +473,46 @@ def draw_graphs_for_lexical_statistics():
     plot_lexical_analysis_results_one_plot(GLOBAL_PRONOUN_NOUN_P, 1, GLOBAL_PRONOUN_NOUN_N, "Pronoun/Noun ratio")
 
 
+'''
+Function to start lexical analysis. Reading of tagged files has to be done at least once. 
+Results are stored in files, read in read_results functions and those results are 
+shown on graphs. 
+'''
 def start_lexical_analysis():
-    print("*******************************************")
     print(" Starting Lexical Analysis ")
 
-    #read_tagged_files("P", PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
-
+    # read_tagged_files(PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
     print(" Finished reading P files ")
 
-    #read_tagged_files("N", PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
-
+    # read_tagged_files(PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
     print(" Finished reading N files ")
 
     read_results("P", PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
-
     print(" Finished reading P results ")
 
     read_results("N", PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
-
     print(" Finished reading N results")
 
     draw_graphs_for_lexical_statistics()
-
     print("Draw graphs finished")
-
-    print("*******************************************")
     print(" Ending Lexical Analysis ")
 
 
 # Function that starts Machine Learning algorithms
 def start_machine_learning():
-    print("*******************************************")
     print(" Starting Machine Learning Algorithms ")
 
     start_word_embedding()
 
-    print("*******************************************")
     print(" Ending Machine Learning Algorithms ")
 
 
 # Main function
 if __name__ == '__main__':
-    print("*******************************************")
     print(" Start Classification of Alzheimer Disease ")
 
     # start_machine_learning()
-    start_lexical_analysis()
+    # start_lexical_analysis()
+    calculate_cosine_distance()
 
-    print("*******************************************")
     print(" End Classification of Alzheimer Disease ")
