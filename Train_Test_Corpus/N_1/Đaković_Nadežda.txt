@@ -1,0 +1,46 @@
+Đaković_Nadežda
+------------------------------------------------
+number_of_words: 1680
+average_words_length: 4.458928571428571
+vocabulary: 483
+vocabulary spoken once: 270
+------------------------------------------------
+Type token ratio: 0.2875
+Brunet's Index: 14.567196283371112
+Honore's Statistic: 1684.048451628121
+------------------------------------------------
+number of nouns: 366
+number of verbs: 281
+number of adjectives: 78
+number of adverbs: 208
+number of punct: 551
+number of aux: 207
+number of det: 101
+number of part: 71
+number of cconj: 116
+number of sconj: 84
+number of propn: 71
+number of pronn: 106
+number of x: 18
+number of adp: 92
+number of num: 41
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.21785714285714286
+number of verbs normalized:: 0.2904761904761905
+number of adjectives normalized: 0.04642857142857143
+number of adverbs normalized: 0.12380952380952381
+number of aux normalized: 0.12321428571428572
+number of det normalized: 0.06011904761904762
+number of part normalized: 0.042261904761904764
+number of cconj normalized: 0.06904761904761905
+number of sconj normalized: 0.05
+number of propn normalized: 0.042261904761904764
+number of pronn normalized: 0.0630952380952381
+number of adp normalized: 0.05476190476190476
+number of num normalized: 0.024404761904761905
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 0.75
+ratio pronoun to verb: 0.21721311475409835
+ratio pronoun to noun: 0.2896174863387978

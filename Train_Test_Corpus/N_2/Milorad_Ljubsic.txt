@@ -1,0 +1,46 @@
+Milorad_Ljubsic
+------------------------------------------------
+number_of_words: 511
+average_words_length: 4.861056751467711
+vocabulary: 271
+vocabulary spoken once: 196
+------------------------------------------------
+Type token ratio: 0.5303326810176126
+Brunet's Index: 11.876069132118797
+Honore's Statistic: 2253.4082119269383
+------------------------------------------------
+number of nouns: 176
+number of verbs: 75
+number of adjectives: 36
+number of adverbs: 60
+number of punct: 165
+number of aux: 34
+number of det: 28
+number of part: 17
+number of cconj: 35
+number of sconj: 15
+number of propn: 44
+number of pronn: 14
+number of x: 3
+number of adp: 47
+number of num: 18
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.34442270058708413
+number of verbs normalized:: 0.21330724070450097
+number of adjectives normalized: 0.07045009784735812
+number of adverbs normalized: 0.11741682974559686
+number of aux normalized: 0.06653620352250489
+number of det normalized: 0.0547945205479452
+number of part normalized: 0.033268101761252444
+number of cconj normalized: 0.0684931506849315
+number of sconj normalized: 0.029354207436399216
+number of propn normalized: 0.08610567514677103
+number of pronn normalized: 0.0273972602739726
+number of adp normalized: 0.09197651663405088
+number of num normalized: 0.03522504892367906
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 1.614678899082569
+ratio pronoun to verb: 0.12844036697247707
+ratio pronoun to noun: 0.07954545454545454

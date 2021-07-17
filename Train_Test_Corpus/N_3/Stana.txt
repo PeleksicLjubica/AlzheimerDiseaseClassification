@@ -1,0 +1,46 @@
+Stana
+------------------------------------------------
+number_of_words: 1185
+average_words_length: 4.934177215189873
+vocabulary: 336
+vocabulary spoken once: 194
+------------------------------------------------
+Type token ratio: 0.28354430379746837
+Brunet's Index: 15.035324945913148
+Honore's Statistic: 1674.675595774128
+------------------------------------------------
+number of nouns: 272
+number of verbs: 241
+number of adjectives: 67
+number of adverbs: 114
+number of punct: 1140
+number of aux: 169
+number of det: 56
+number of part: 46
+number of cconj: 44
+number of sconj: 59
+number of propn: 57
+number of pronn: 104
+number of x: 36
+number of adp: 51
+number of num: 17
+number of intj: 2
+Normalized ------------------------------------------------
+number of nouns normalized: 0.22953586497890296
+number of verbs normalized:: 0.3459915611814346
+number of adjectives normalized: 0.056540084388185655
+number of adverbs normalized: 0.09620253164556962
+number of aux normalized: 0.14261603375527426
+number of det normalized: 0.04725738396624472
+number of part normalized: 0.038818565400843885
+number of cconj normalized: 0.03713080168776371
+number of sconj normalized: 0.049789029535864976
+number of propn normalized: 0.04810126582278481
+number of pronn normalized: 0.08776371308016878
+number of adp normalized: 0.043037974683544304
+number of num normalized: 0.014345991561181435
+number of intj normalized: 0.0016877637130801688
+Ratios ------------------------------------------------
+ratio noun to verb: 0.6634146341463415
+ratio pronoun to verb: 0.25365853658536586
+ratio pronoun to noun: 0.38235294117647056

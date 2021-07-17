@@ -1,0 +1,46 @@
+Mirjana_Jelenkovic
+------------------------------------------------
+number_of_words: 912
+average_words_length: 4.99890350877193
+vocabulary: 334
+vocabulary spoken once: 192
+------------------------------------------------
+Type token ratio: 0.36622807017543857
+Brunet's Index: 13.635730139041954
+Honore's Statistic: 1603.1153216090327
+------------------------------------------------
+number of nouns: 279
+number of verbs: 162
+number of adjectives: 74
+number of adverbs: 83
+number of punct: 341
+number of aux: 83
+number of det: 46
+number of part: 42
+number of cconj: 60
+number of sconj: 43
+number of propn: 66
+number of pronn: 24
+number of x: 7
+number of adp: 74
+number of num: 8
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.3059210526315789
+number of verbs normalized:: 0.26864035087719296
+number of adjectives normalized: 0.08114035087719298
+number of adverbs normalized: 0.09100877192982457
+number of aux normalized: 0.09100877192982457
+number of det normalized: 0.05043859649122807
+number of part normalized: 0.046052631578947366
+number of cconj normalized: 0.06578947368421052
+number of sconj normalized: 0.047149122807017545
+number of propn normalized: 0.07236842105263158
+number of pronn normalized: 0.02631578947368421
+number of adp normalized: 0.08114035087719298
+number of num normalized: 0.008771929824561403
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 1.1387755102040817
+ratio pronoun to verb: 0.09795918367346938
+ratio pronoun to noun: 0.08602150537634409

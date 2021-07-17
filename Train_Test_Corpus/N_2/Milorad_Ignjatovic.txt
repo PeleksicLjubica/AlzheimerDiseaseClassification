@@ -1,0 +1,46 @@
+Milorad_Ignjatovic
+------------------------------------------------
+number_of_words: 1329
+average_words_length: 4.469525959367946
+vocabulary: 410
+vocabulary spoken once: 232
+------------------------------------------------
+Type token ratio: 0.308502633559067
+Brunet's Index: 14.372722482995231
+Honore's Statistic: 1656.6262045350734
+------------------------------------------------
+number of nouns: 325
+number of verbs: 217
+number of adjectives: 50
+number of adverbs: 170
+number of punct: 814
+number of aux: 138
+number of det: 68
+number of part: 77
+number of cconj: 91
+number of sconj: 67
+number of propn: 72
+number of pronn: 91
+number of x: 25
+number of adp: 79
+number of num: 25
+number of intj: 3
+Normalized ------------------------------------------------
+number of nouns normalized: 0.24454477050413845
+number of verbs normalized:: 0.2671181339352897
+number of adjectives normalized: 0.03762227238525207
+number of adverbs normalized: 0.12791572610985705
+number of aux normalized: 0.1038374717832957
+number of det normalized: 0.051166290443942816
+number of part normalized: 0.057938299473288185
+number of cconj normalized: 0.06847253574115876
+number of sconj normalized: 0.05041384499623777
+number of propn normalized: 0.05417607223476298
+number of pronn normalized: 0.06847253574115876
+number of adp normalized: 0.059443190368698266
+number of num normalized: 0.018811136192626036
+number of intj normalized: 0.002257336343115124
+Ratios ------------------------------------------------
+ratio noun to verb: 0.9154929577464789
+ratio pronoun to verb: 0.2563380281690141
+ratio pronoun to noun: 0.28

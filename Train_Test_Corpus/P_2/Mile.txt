@@ -1,0 +1,46 @@
+Mile
+------------------------------------------------
+number_of_words: 60
+average_words_length: 5.15
+vocabulary: 38
+vocabulary spoken once: 24
+------------------------------------------------
+Type token ratio: 0.6333333333333333
+Brunet's Index: 9.45525547801854
+Honore's Statistic: 1111.3220954602843
+------------------------------------------------
+number of nouns: 19
+number of verbs: 12
+number of adjectives: 17
+number of adverbs: 3
+number of punct: 57
+number of aux: 4
+number of det: 3
+number of part: 0
+number of cconj: 1
+number of sconj: 2
+number of propn: 6
+number of pronn: 3
+number of x: 5
+number of adp: 2
+number of num: 0
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.31666666666666665
+number of verbs normalized:: 0.26666666666666666
+number of adjectives normalized: 0.2833333333333333
+number of adverbs normalized: 0.05
+number of aux normalized: 0.06666666666666667
+number of det normalized: 0.05
+number of part normalized: 0.0
+number of cconj normalized: 0.016666666666666666
+number of sconj normalized: 0.03333333333333333
+number of propn normalized: 0.1
+number of pronn normalized: 0.05
+number of adp normalized: 0.03333333333333333
+number of num normalized: 0.0
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 1.1875
+ratio pronoun to verb: 0.1875
+ratio pronoun to noun: 0.15789473684210525

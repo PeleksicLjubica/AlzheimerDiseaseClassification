@@ -1,0 +1,46 @@
+Bojana
+------------------------------------------------
+number_of_words: 227
+average_words_length: 4.568281938325991
+vocabulary: 98
+vocabulary spoken once: 69
+------------------------------------------------
+Type token ratio: 0.43171806167400884
+Brunet's Index: 12.75485899497019
+Honore's Statistic: 1833.2589714247501
+------------------------------------------------
+number of nouns: 135
+number of verbs: 34
+number of adjectives: 6
+number of adverbs: 24
+number of punct: 153
+number of aux: 16
+number of det: 14
+number of part: 8
+number of cconj: 10
+number of sconj: 10
+number of propn: 59
+number of pronn: 21
+number of x: 2
+number of adp: 7
+number of num: 0
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.5947136563876652
+number of verbs normalized:: 0.22026431718061673
+number of adjectives normalized: 0.02643171806167401
+number of adverbs normalized: 0.10572687224669604
+number of aux normalized: 0.07048458149779736
+number of det normalized: 0.06167400881057269
+number of part normalized: 0.03524229074889868
+number of cconj normalized: 0.04405286343612335
+number of sconj normalized: 0.04405286343612335
+number of propn normalized: 0.2599118942731278
+number of pronn normalized: 0.09251101321585903
+number of adp normalized: 0.030837004405286344
+number of num normalized: 0.0
+number of intj normalized: 0.004405286343612335
+Ratios ------------------------------------------------
+ratio noun to verb: 2.7
+ratio pronoun to verb: 0.42
+ratio pronoun to noun: 0.15555555555555556

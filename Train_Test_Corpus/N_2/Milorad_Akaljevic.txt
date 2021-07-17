@@ -1,0 +1,46 @@
+Milorad_Akaljevic
+------------------------------------------------
+number_of_words: 682
+average_words_length: 4.706744868035191
+vocabulary: 299
+vocabulary spoken once: 207
+------------------------------------------------
+Type token ratio: 0.43841642228739003
+Brunet's Index: 12.773818550970576
+Honore's Statistic: 2120.6346387991252
+------------------------------------------------
+number of nouns: 212
+number of verbs: 99
+number of adjectives: 35
+number of adverbs: 56
+number of punct: 339
+number of aux: 74
+number of det: 51
+number of part: 32
+number of cconj: 32
+number of sconj: 30
+number of propn: 36
+number of pronn: 29
+number of x: 7
+number of adp: 54
+number of num: 14
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.31085043988269795
+number of verbs normalized:: 0.2536656891495601
+number of adjectives normalized: 0.051319648093841645
+number of adverbs normalized: 0.08211143695014662
+number of aux normalized: 0.10850439882697947
+number of det normalized: 0.0747800586510264
+number of part normalized: 0.0469208211143695
+number of cconj normalized: 0.0469208211143695
+number of sconj normalized: 0.04398826979472141
+number of propn normalized: 0.05278592375366569
+number of pronn normalized: 0.04252199413489736
+number of adp normalized: 0.07917888563049853
+number of num normalized: 0.020527859237536656
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 1.2254335260115607
+ratio pronoun to verb: 0.1676300578034682
+ratio pronoun to noun: 0.13679245283018868

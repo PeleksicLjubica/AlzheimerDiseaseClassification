@@ -1,0 +1,46 @@
+Vladislav_Mitic
+------------------------------------------------
+number_of_words: 4769
+average_words_length: 4.696582092681904
+vocabulary: 1151
+vocabulary spoken once: 663
+------------------------------------------------
+Type token ratio: 0.24135038792199623
+Brunet's Index: 14.11564028203462
+Honore's Statistic: 1997.7142618773066
+------------------------------------------------
+number of nouns: 1252
+number of verbs: 686
+number of adjectives: 305
+number of adverbs: 407
+number of punct: 1054
+number of aux: 508
+number of det: 359
+number of part: 179
+number of cconj: 256
+number of sconj: 269
+number of propn: 201
+number of pronn: 231
+number of x: 17
+number of adp: 403
+number of num: 106
+number of intj: 9
+Normalized ------------------------------------------------
+number of nouns normalized: 0.26252883204026
+number of verbs normalized:: 0.2503669532396729
+number of adjectives normalized: 0.06395470748584609
+number of adverbs normalized: 0.08534283916963724
+number of aux normalized: 0.10652128328790103
+number of det normalized: 0.07527783602432375
+number of part normalized: 0.037534074229398195
+number of cconj normalized: 0.053680016775005245
+number of sconj normalized: 0.056405955126860974
+number of propn normalized: 0.04214720067100021
+number of pronn normalized: 0.04843782763682113
+number of adp normalized: 0.08450408890752778
+number of num normalized: 0.022226881945900608
+number of intj normalized: 0.001887188089746278
+Ratios ------------------------------------------------
+ratio noun to verb: 1.04857621440536
+ratio pronoun to verb: 0.1934673366834171
+ratio pronoun to noun: 0.18450479233226838

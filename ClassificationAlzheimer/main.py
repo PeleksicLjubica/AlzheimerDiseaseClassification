@@ -14,6 +14,7 @@ from utilities import *
 from cosine_distance import calculate_cosine_distance
 from plotting import plot_lexical_analysis_results_one_plot, plot_lexical_analysis_results_two_plots
 from machine_learning import start_word_embedding
+from statistics import calculate_statistics
 
 GLOBAL_NUMBER_OF_WORDS_P = []
 GLOBAL_NUMBER_OF_WORDS_N = []
@@ -83,11 +84,12 @@ GLOBAL_NOUN_VERB_N = []
 GLOBAL_PRONOUN_VERB_N = []
 GLOBAL_PRONOUN_NOUN_N = []
 
-'''
-Function to read person_name.tt file, extract statistics and write them to person_name.txt file 
-These statistics are later used to draw graphs
-'''
+
 def read_tagged_files(path_log_file, path_to_tagged):
+    """
+    Function to read person_name.tt file, extract statistics and write them to person_name.txt file
+    These statistics are later used to draw graphs
+    """
     log_file = open(path_log_file, mode="w+", encoding="utf8")
 
     for path in pathlib.Path(PATH_TO_TAGGED_FILES + "/" + path_to_tagged).iterdir():
@@ -296,11 +298,11 @@ def read_tagged_files(path_log_file, path_to_tagged):
     log_file.close()
 
 
-'''
-    Functions for reading statistics from persion_name.txt statistic file for every person and storing information
-    to global variable arrays
-'''
-def read_results(patient_class, path_log_file, path_to_tagged):
+def read_results(patient_class, path_log_file, path_to_tagged) -> None:
+    """
+        Functions for reading statistics from persion_name.txt statistic file for every person and storing information
+        to global variable arrays
+    """
     for path in pathlib.Path(PATH_TO_TAGGED_FILES + "/logs/" + path_to_tagged).iterdir():
         if path.is_file():
             # Open next file in the folder
@@ -424,9 +426,9 @@ def read_results(patient_class, path_log_file, path_to_tagged):
                             GLOBAL_PRONOUN_NOUN_N.append(float(match_obj.group(1)))
                 count += 1
 
+
 # Function for calling plotting module with needed data
 def draw_graphs_for_lexical_statistics():
-
     v = 1
 
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_NOUNS_P, 2000, GLOBAL_NUMBER_OF_NOUNS_N, "Number of nouns",
@@ -437,7 +439,8 @@ def draw_graphs_for_lexical_statistics():
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_ADJECTIVES_P, 300, GLOBAL_NUMBER_OF_ADJECTIVES_N,
                                             "Number of adjectives", GLOBAL_NUMBER_OF_ADJECTIVES_NOR_P,
                                             np.mean(GLOBAL_NUMBER_OF_ADJECTIVES_NOR_P), 1,
-                                            GLOBAL_NUMBER_OF_ADJECTIVES_NOR_N, np.mean(GLOBAL_NUMBER_OF_ADJECTIVES_NOR_N),
+                                            GLOBAL_NUMBER_OF_ADJECTIVES_NOR_N,
+                                            np.mean(GLOBAL_NUMBER_OF_ADJECTIVES_NOR_N),
                                             "Number of adjectives normalized by number of words")
 
     plot_lexical_analysis_results_two_plots(GLOBAL_NUMBER_OF_ADVERBS_P, 600, GLOBAL_NUMBER_OF_ADVERBS_N,
@@ -484,8 +487,8 @@ def draw_graphs_for_lexical_statistics():
                                            GLOBAL_AVERAGE_WORDS_LEN_N, np.mean(GLOBAL_AVERAGE_WORDS_LEN_N),
                                            "Average words length")
 
-    plot_lexical_analysis_results_one_plot(GLOBAL_NOUN_VERB_P, np.mean(GLOBAL_NOUN_VERB_P),  4.6, GLOBAL_NOUN_VERB_N,
-                                           np.mean(GLOBAL_NOUN_VERB_N),  "Noun/Verb ratio")
+    plot_lexical_analysis_results_one_plot(GLOBAL_NOUN_VERB_P, np.mean(GLOBAL_NOUN_VERB_P), 4.6, GLOBAL_NOUN_VERB_N,
+                                           np.mean(GLOBAL_NOUN_VERB_N), "Noun/Verb ratio")
     plot_lexical_analysis_results_one_plot(GLOBAL_PRONOUN_NOUN_P, np.mean(GLOBAL_PRONOUN_NOUN_P), 1,
                                            GLOBAL_PRONOUN_NOUN_N, np.mean(GLOBAL_PRONOUN_NOUN_N), "Pronoun/Noun ratio")
 
@@ -497,28 +500,46 @@ def draw_graphs_for_lexical_statistics():
                                            "Honore's Statistic")
 
 
-'''
-Function to start lexical analysis. Reading of tagged files has to be done at least once. 
-Results are stored in files, read in read_results functions and those results are 
-shown on graphs. 
-'''
-def start_lexical_analysis():
+def start_lexical_analysis(draw_graphs: bool, statistics: bool):
+    """
+    Function to start lexical analysis. Reading of tagged files has to be done at least once.
+    Results are stored in files, read in read_results functions and those results are
+    shown on graphs.
+    """
     print(" Starting Lexical Analysis ")
 
-    #read_tagged_files(PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
+    # read_tagged_files(PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
     print(" Finished reading P files ")
 
-    #read_tagged_files(PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
+    # read_tagged_files(PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
     print(" Finished reading N files ")
 
-    read_results("P", PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
-    print(" Finished reading P results ")
+    if draw_graphs:
+        read_results("P", PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
+        print(" Finished reading P results ")
 
-    read_results("N", PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
-    print(" Finished reading N results")
+        read_results("N", PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
+        print(" Finished reading N results")
 
-    draw_graphs_for_lexical_statistics()
-    print("Draw graphs finished")
+        draw_graphs_for_lexical_statistics()
+        print(" Draw graphs finished")
+
+    if statistics:
+        calculate_statistics(PATH_TO_TRAIN_TEST_CORPUS + TRAIN_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + TRAIN_FOLDER_2,
+                             PATH_TO_TRAIN_TEST_CORPUS + TRAIN_FOLDER_3, PATH_TO_TRAIN_TEST_CORPUS + TRAIN_FOLDER_4,
+                             PATH_TO_TRAIN_TEST_CORPUS + TEST_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + TEST_FOLDER_2,
+                             "train_1_2_test_3.txt")
+
+        calculate_statistics(PATH_TO_TRAIN_TEST_CORPUS + TRAIN_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + TEST_FOLDER_1,
+                             PATH_TO_TRAIN_TEST_CORPUS + TRAIN_FOLDER_3, PATH_TO_TRAIN_TEST_CORPUS + TEST_FOLDER_2,
+                             PATH_TO_TRAIN_TEST_CORPUS + TRAIN_FOLDER_2, PATH_TO_TRAIN_TEST_CORPUS + TRAIN_FOLDER_4,
+                             "train_1_3_test_2.txt")
+
+        calculate_statistics(PATH_TO_TRAIN_TEST_CORPUS + TEST_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + TRAIN_FOLDER_2,
+                             PATH_TO_TRAIN_TEST_CORPUS + TEST_FOLDER_2, PATH_TO_TRAIN_TEST_CORPUS + TRAIN_FOLDER_4,
+                             PATH_TO_TRAIN_TEST_CORPUS + TRAIN_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + TRAIN_FOLDER_3,
+                             "train_3_2_test_1.txt")
+
     print(" Ending Lexical Analysis ")
 
 
@@ -535,8 +556,8 @@ def start_machine_learning():
 if __name__ == '__main__':
     print(" Start Classification of Alzheimer Disease ")
 
-    #start_machine_learning()
-    #start_lexical_analysis()
-    #calculate_cosine_distance()
+    # start_machine_learning()
+    start_lexical_analysis(False, True)
+    # calculate_cosine_distance()
 
     print(" End Classification of Alzheimer Disease ")

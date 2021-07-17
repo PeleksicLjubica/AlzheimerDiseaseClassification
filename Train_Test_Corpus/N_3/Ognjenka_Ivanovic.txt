@@ -1,0 +1,46 @@
+Ognjenka_Ivanovic
+------------------------------------------------
+number_of_words: 4890
+average_words_length: 4.533742331288344
+vocabulary: 1045
+vocabulary spoken once: 605
+------------------------------------------------
+Type token ratio: 0.21370143149284254
+Brunet's Index: 14.846733958220094
+Honore's Statistic: 2017.550050836368
+------------------------------------------------
+number of nouns: 1179
+number of verbs: 798
+number of adjectives: 260
+number of adverbs: 503
+number of punct: 1839
+number of aux: 517
+number of det: 325
+number of part: 256
+number of cconj: 247
+number of sconj: 323
+number of propn: 281
+number of pronn: 412
+number of x: 64
+number of adp: 246
+number of num: 89
+number of intj: 16
+Normalized ------------------------------------------------
+number of nouns normalized: 0.2411042944785276
+number of verbs normalized:: 0.2689161554192229
+number of adjectives normalized: 0.053169734151329244
+number of adverbs normalized: 0.10286298568507157
+number of aux normalized: 0.10572597137014315
+number of det normalized: 0.06646216768916155
+number of part normalized: 0.052351738241308794
+number of cconj normalized: 0.05051124744376278
+number of sconj normalized: 0.06605316973415133
+number of propn normalized: 0.0574642126789366
+number of pronn normalized: 0.08425357873210634
+number of adp normalized: 0.05030674846625767
+number of num normalized: 0.01820040899795501
+number of intj normalized: 0.0032719836400817996
+Ratios ------------------------------------------------
+ratio noun to verb: 0.8965779467680608
+ratio pronoun to verb: 0.3133079847908745
+ratio pronoun to noun: 0.34944868532654794

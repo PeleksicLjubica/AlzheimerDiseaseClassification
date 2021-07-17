@@ -1,0 +1,46 @@
+Ratimir
+------------------------------------------------
+number_of_words: 405
+average_words_length: 4.965432098765432
+vocabulary: 170
+vocabulary spoken once: 105
+------------------------------------------------
+Type token ratio: 0.41975308641975306
+Brunet's Index: 13.102647507766996
+Honore's Statistic: 1570.2473867817102
+------------------------------------------------
+number of nouns: 184
+number of verbs: 63
+number of adjectives: 18
+number of adverbs: 33
+number of punct: 166
+number of aux: 21
+number of det: 20
+number of part: 18
+number of cconj: 21
+number of sconj: 20
+number of propn: 59
+number of pronn: 22
+number of x: 13
+number of adp: 34
+number of num: 8
+number of intj: 2
+Normalized ------------------------------------------------
+number of nouns normalized: 0.454320987654321
+number of verbs normalized:: 0.2074074074074074
+number of adjectives normalized: 0.044444444444444446
+number of adverbs normalized: 0.08148148148148149
+number of aux normalized: 0.05185185185185185
+number of det normalized: 0.04938271604938271
+number of part normalized: 0.044444444444444446
+number of cconj normalized: 0.05185185185185185
+number of sconj normalized: 0.04938271604938271
+number of propn normalized: 0.145679012345679
+number of pronn normalized: 0.05432098765432099
+number of adp normalized: 0.08395061728395062
+number of num normalized: 0.019753086419753086
+number of intj normalized: 0.0049382716049382715
+Ratios ------------------------------------------------
+ratio noun to verb: 2.1904761904761907
+ratio pronoun to verb: 0.2619047619047619
+ratio pronoun to noun: 0.11956521739130435

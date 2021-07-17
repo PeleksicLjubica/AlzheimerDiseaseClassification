@@ -1,0 +1,46 @@
+Lela_Mitic
+------------------------------------------------
+number_of_words: 1030
+average_words_length: 4.615533980582525
+vocabulary: 382
+vocabulary spoken once: 244
+------------------------------------------------
+Type token ratio: 0.37087378640776697
+Brunet's Index: 13.47806010687175
+Honore's Statistic: 1920.328970309744
+------------------------------------------------
+number of nouns: 245
+number of verbs: 171
+number of adjectives: 66
+number of adverbs: 76
+number of punct: 318
+number of aux: 101
+number of det: 65
+number of part: 57
+number of cconj: 59
+number of sconj: 82
+number of propn: 41
+number of pronn: 58
+number of x: 14
+number of adp: 78
+number of num: 11
+number of intj: 2
+Normalized ------------------------------------------------
+number of nouns normalized: 0.23786407766990292
+number of verbs normalized:: 0.26407766990291265
+number of adjectives normalized: 0.06407766990291262
+number of adverbs normalized: 0.07378640776699029
+number of aux normalized: 0.09805825242718447
+number of det normalized: 0.06310679611650485
+number of part normalized: 0.05533980582524272
+number of cconj normalized: 0.05728155339805825
+number of sconj normalized: 0.07961165048543689
+number of propn normalized: 0.039805825242718446
+number of pronn normalized: 0.05631067961165048
+number of adp normalized: 0.07572815533980583
+number of num normalized: 0.010679611650485437
+number of intj normalized: 0.001941747572815534
+Ratios ------------------------------------------------
+ratio noun to verb: 0.9007352941176471
+ratio pronoun to verb: 0.21323529411764705
+ratio pronoun to noun: 0.23673469387755103
