@@ -19,21 +19,22 @@ BOW_PREPROCESSING_STOP_WORDS: bool = False
 
 PATH_TO_STATISTIC_FOLDER = "../Statistic"
 PATH_TO_TRAIN_TEST_CORPUS = "../Train_Test_Corpus/"
-TRAIN_FOLDER_1 = "P_1"
-TRAIN_FOLDER_2 = "P_2"
-TRAIN_FOLDER_3 = "N_1"
-TRAIN_FOLDER_4 = "N_2"
-TEST_FOLDER_1 = "P_3"
-TEST_FOLDER_2 = "N_3"
+PATH_TO_TRAIN_TEST_CORPUS_ML = "../Train_Test_Corpus_ML/"
+POSITIVE_FOLDER_1 = "P_1"
+POSITIVE_FOLDER_2 = "P_2"
+NEGATIVE_FOLDER_1 = "N_1"
+NEGATIVE_FOLDER_2 = "N_2"
+POSITIVE_FOLDER_3 = "P_3"
+NEGATIVE_FOLDER_3 = "N_3"
 
 
-class Clasiffication_Class(Enum):
+class ClassificationClass(Enum):
     NONE = 0
     POSITIVE = 1
     NEGATIVE = 2
 
 
-class Corpus_Type(Enum):
+class CorpusType(Enum):
     NONE = 0
     TRAIN = 1
     TEST = 2
@@ -50,3 +51,8 @@ class Measurement(Enum):
     noun_verb = 43
     pronoun_verb = 44
     pronoun_noun = 45
+
+
+class MLAlgorithm(Enum):
+    SVM = 1,
+    NaiveBayes = 2

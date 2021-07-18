@@ -31,7 +31,7 @@ def find_all_train_statistics(measure: Measurement, train_data, path_to_folder):
     return train_data
 
 
-def find_all_test_statistics(measure: Measurement, class_clasif: Clasiffication_Class, path_to_folder,
+def find_all_test_statistics(measure: Measurement, class_clasif: ClassificationClass, path_to_folder,
                              positive_train_data, negative_train_data):
 
     """
@@ -73,7 +73,7 @@ def find_all_test_statistics(measure: Measurement, class_clasif: Clasiffication_
                     for value in negative_train_data:
                         distance_from_document_to_n += abs(test_document_value - value)
 
-                    if class_clasif == Clasiffication_Class.POSITIVE:
+                    if class_clasif == ClassificationClass.POSITIVE:
                         if distance_from_document_to_p < distance_from_document_to_n:
                             TruePositives += 1
                         else:
@@ -84,9 +84,9 @@ def find_all_test_statistics(measure: Measurement, class_clasif: Clasiffication_
                         else:
                             TrueNegatives += 1
 
-    if class_clasif == Clasiffication_Class.POSITIVE:
+    if class_clasif == ClassificationClass.POSITIVE:
         return [TruePositives, FalseNegatives]
-    elif class_clasif == Clasiffication_Class.NEGATIVE:
+    elif class_clasif == ClassificationClass.NEGATIVE:
         return [TrueNegatives, FalsePositives]
 
 
@@ -114,11 +114,11 @@ def calculate_statistics_for_measure(measure: Measurement, path_to_train_1, path
     negative_train_data = find_all_train_statistics(measure, negative_train_data, path_to_train_3)
     negative_train_data = find_all_train_statistics(measure, negative_train_data, path_to_train_4)
 
-    [TruePositives, FalseNegatives] = find_all_test_statistics(measure, Clasiffication_Class.POSITIVE,
+    [TruePositives, FalseNegatives] = find_all_test_statistics(measure, ClassificationClass.POSITIVE,
                                                                path_to_test_1, positive_train_data, negative_train_data)
 
-    [_, FalsePositives] = find_all_test_statistics(measure, Clasiffication_Class.NEGATIVE,
-                                                               path_to_test_2, positive_train_data, negative_train_data)
+    [_, FalsePositives] = find_all_test_statistics(measure, ClassificationClass.NEGATIVE,
+                                                   path_to_test_2, positive_train_data, negative_train_data)
 
     P = TruePositives / (TruePositives + FalsePositives)
     R = TruePositives / (TruePositives + FalseNegatives)
