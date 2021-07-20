@@ -17,7 +17,6 @@ def find_all_train_statistics(measure: Measurement, train_data, path_to_folder):
     for path in pathlib.Path(path_to_folder).iterdir():
         if path.is_file():
             # Open next file in the folder
-            print(path)
             file = open(path, encoding="utf8")
             if ".DS_Store" not in path.parts:
                 lines = file.readlines()
@@ -50,6 +49,8 @@ def find_all_test_statistics(measure: Measurement, class_clasif: ClassificationC
     TrueNegatives = 0
     FalseNegatives = 0
 
+    print("Enter Find all test statistics")
+
     # Iterate over positive training data
     for path in pathlib.Path(path_to_folder).iterdir():
 
@@ -73,6 +74,13 @@ def find_all_test_statistics(measure: Measurement, class_clasif: ClassificationC
                     for value in negative_train_data:
                         distance_from_document_to_n += abs(test_document_value - value)
 
+                    distance_from_document_to_n = distance_from_document_to_n / len(negative_train_data)
+                    distance_from_document_to_p = distance_from_document_to_p / len(positive_train_data)
+
+                    print("Test document " + str(path) + "Test document value: " + str(test_document_value) +
+                          " Distance from docuent to P: " + str(distance_from_document_to_p) + " Distance from docuent to N: " +
+                          str(distance_from_document_to_n))
+
                     if class_clasif == ClassificationClass.POSITIVE:
                         if distance_from_document_to_p < distance_from_document_to_n:
                             TruePositives += 1
@@ -85,8 +93,10 @@ def find_all_test_statistics(measure: Measurement, class_clasif: ClassificationC
                             TrueNegatives += 1
 
     if class_clasif == ClassificationClass.POSITIVE:
+        print("TruePositives: " + str(TruePositives) + " FalseNegatives: " + str(FalseNegatives))
         return [TruePositives, FalseNegatives]
     elif class_clasif == ClassificationClass.NEGATIVE:
+        print("TrueNegatives: " + str(TrueNegatives) + " FalsePositives: " + str(FalsePositives))
         return [TrueNegatives, FalsePositives]
 
 
@@ -120,15 +130,29 @@ def calculate_statistics_for_measure(measure: Measurement, path_to_train_1, path
     [_, FalsePositives] = find_all_test_statistics(measure, ClassificationClass.NEGATIVE,
                                                    path_to_test_2, positive_train_data, negative_train_data)
 
-    P = TruePositives / (TruePositives + FalsePositives)
-    R = TruePositives / (TruePositives + FalseNegatives)
-    F = (2 * P * R) / (P + R)
+    print("True Positives: " + str(TruePositives) + "FalsePositives: " + str(FalsePositives) + "FalseNegatives: " + str(FalseNegatives))
+
+    P = 0
+    R = 0
+    F = 0
+    if TruePositives + FalsePositives != 0:
+        P = TruePositives / (TruePositives + FalsePositives)
+    if TruePositives + FalseNegatives != 0:
+        R = TruePositives / (TruePositives + FalseNegatives)
+
+    print("P: " + str(P) + "R: " + str(R))
+
+    if P+R != 0:
+        F = (2 * P * R) / (P + R)
+
+    print("P: " + str(P) + " R: " + str(R) + " F: " + str(F))
+
     print(" Exit calculate_statistics_for_measure")
     return P, R, F
 
 
 def calculate_statistics(path_to_train_1, path_to_train_2, path_to_train_3, path_to_train_4, path_to_test_1,
-                         path_to_test_2, log_file_name):
+                         path_to_test_2, path_to_statistic_folder):
     """
     Function to call statistic calculation for all measures and save calculations to log files
     :param path_to_train_1:
@@ -176,7 +200,7 @@ def calculate_statistics(path_to_train_1, path_to_train_2, path_to_train_3, path
                                                                                       path_to_train_3, path_to_train_4,
                                                                                       path_to_test_1, path_to_test_2)
 
-    log_file = open(PATH_TO_STATISTIC_FOLDER + "/" + log_file_name, mode="w+", encoding="utf8")
+    log_file = open(path_to_statistic_folder, mode="w+", encoding="utf8")
     log_file.write("Train folders: \n")
     log_file.write(path_to_train_1 + "\n")
     log_file.write(path_to_train_2 + "\n")
@@ -210,5 +234,5 @@ def calculate_statistics(path_to_train_1, path_to_train_2, path_to_train_3, path
     log_file.write("Pronoun/Noun statistic: " + "Precision: " + str(P_pronoun_noun) + " Recall: " + str(R_pronoun_noun)
                    + " F-measure: " + str(F_pronoun_noun) + "\n")
 
-
+    log_file.close()
     print(" Exit calculate_statistics")

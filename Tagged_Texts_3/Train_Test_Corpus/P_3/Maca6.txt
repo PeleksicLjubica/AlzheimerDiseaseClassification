@@ -1,0 +1,46 @@
+Maca6
+------------------------------------------------
+number_of_words: 215
+average_words_length: 4.283720930232558
+vocabulary: 107
+vocabulary spoken once: 74
+------------------------------------------------
+Type token ratio: 0.49767441860465117
+Brunet's Index: 11.990906017259714
+Honore's Statistic: 1741.388693968666
+------------------------------------------------
+number of nouns: 48
+number of verbs: 30
+number of adjectives: 14
+number of adverbs: 20
+number of punct: 119
+number of aux: 27
+number of det: 8
+number of part: 12
+number of cconj: 15
+number of sconj: 23
+number of propn: 14
+number of pronn: 15
+number of x: 3
+number of adp: 8
+number of num: 0
+number of intj: 9
+Normalized ------------------------------------------------
+number of nouns normalized: 0.22325581395348837
+number of verbs normalized:: 0.2651162790697674
+number of adjectives normalized: 0.06511627906976744
+number of adverbs normalized: 0.09302325581395349
+number of aux normalized: 0.12558139534883722
+number of det normalized: 0.037209302325581395
+number of part normalized: 0.05581395348837209
+number of cconj normalized: 0.06976744186046512
+number of sconj normalized: 0.10697674418604651
+number of propn normalized: 0.06511627906976744
+number of pronn normalized: 0.06976744186046512
+number of adp normalized: 0.037209302325581395
+number of num normalized: 0.0
+number of intj normalized: 0.04186046511627907
+Ratios ------------------------------------------------
+ratio noun to verb: 0.8421052631578947
+ratio pronoun to verb: 0.2631578947368421
+ratio pronoun to noun: 0.3125

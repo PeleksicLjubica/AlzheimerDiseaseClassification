@@ -1,0 +1,1321 @@
+/usr/bin/python3 /Users/ljubica/Documents/MASTER_RAD/MasterRadGit/AlzheimerDiseaseClassification/ClassificationAlzheimer/main.py
+ Start Classification of Alzheimer Disease 
+ Starting Lexical Analysis 
+ Enter calculate_statistics
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Maca6.txtTest document value: 0.5117370892018779 Distance from docuent to P: 0.08932387893930943 Distance from docuent to N: 0.1835096726904019
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Milena4.txtTest document value: 0.2728563316297558 Distance from docuent to P: 0.23095571536505308 Distance from docuent to N: 0.09930785976400425
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Tanasije2.txtTest document value: 0.47086247086247085 Distance from docuent to P: 0.08204264046815073 Distance from docuent to N: 0.1502103961797798
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Ratimir.txtTest document value: 0.44473684210526315 Distance from docuent to P: 0.0832885142990695 Distance from docuent to N: 0.13284820987579213
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Savica.txtTest document value: 0.5686274509803921 Distance from docuent to P: 0.11402786264546796 Distance from docuent to N: 0.23217639643222884
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Steva3.txtTest document value: 0.5362903225806451 Distance from docuent to P: 0.09853134145634718 Distance from docuent to N: 0.20418607974620595
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Mile.txtTest document value: 0.5869565217391305 Distance from docuent to P: 0.12319239802483717 Distance from docuent to N: 0.24994977932877782
+TruePositives: 6 FalseNegatives: 1
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stanomir_Aranđelović.txtTest document value: 0.40232312565997885 Distance from docuent to P: 0.10773891517948943 Distance from docuent to N: 0.11197230381383734
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Petković.txtTest document value: 0.244140625 Distance from docuent to P: 0.2596714219948089 Distance from docuent to N: 0.11055964479633702
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ratka_Rosić.txtTest document value: 0.35274725274725277 Distance from docuent to P: 0.15106479424755614 Distance from docuent to N: 0.09753006548271323
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Pavlina_Pesova.txtTest document value: 0.1650502556868277 Distance from docuent to P: 0.3387617913079812 Distance from docuent to N: 0.17208536196934437
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stana.txtTest document value: 0.2589453860640301 Distance from docuent to P: 0.24486666093077877 Distance from docuent to N: 0.10373287011615298
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nikola_Polovina.txtTest document value: 0.5618729096989966 Distance from docuent to P: 0.1106505920047702 Distance from docuent to N: 0.22581813860975514
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stošić.txtTest document value: 0.36524453694068676 Distance from docuent to P: 0.14011063021272635 Distance from docuent to N: 0.09985499241432334
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Vladislav_Mitić.txtTest document value: 0.24857017157941047 Distance from docuent to P: 0.2552418754153984 Distance from docuent to N: 0.10846143852187942
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ognjenka_Ivanović.txtTest document value: 0.22456140350877193 Distance from docuent to P: 0.279250643486037 Distance from docuent to N: 0.1210576147053946
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Zdravko.txtTest document value: 0.3684738955823293 Distance from docuent to P: 0.13728494140128916 Distance from docuent to N: 0.10053485739151122
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Popović_Dragoljub.txtTest document value: 0.6339285714285714 Distance from docuent to P: 0.15118507282085927 Distance from docuent to N: 0.2969218290182186
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Rada.txtTest document value: 0.1602136181575434 Distance from docuent to P: 0.34359842883726543 Distance from docuent to N: 0.17679312425280935
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ruža_Vujošević.txtTest document value: 0.1926654265213925 Distance from docuent to P: 0.31114662047341646 Distance from docuent to N: 0.14592362117870403
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Ognjenović.txtTest document value: 0.2583436341161928 Distance from docuent to P: 0.24546841287861612 Distance from docuent to N: 0.1039862393573476
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Veselinka_Milenković.txtTest document value: 0.4294294294294294 Distance from docuent to P: 0.08874313267775255 Distance from docuent to N: 0.12479167688851114
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Radomir_Ugrnić.txtTest document value: 0.3329169269206746 Distance from docuent to P: 0.17089512007413432 Distance from docuent to N: 0.09544266276412607
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stanić.txtTest document value: 0.18135095447870778 Distance from docuent to P: 0.3224610925161011 Distance from docuent to N: 0.15664259469282638
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stevan_Grubor.txtTest document value: 0.28537265842965326 Distance from docuent to P: 0.21843938856515563 Distance from docuent to N: 0.09663360187962808
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Popović.txtTest document value: 0.2643372578807444 Distance from docuent to P: 0.23947478911406447 Distance from docuent to N: 0.10179900083487803
+TrueNegatives: 15 FalsePositives: 4
+True Positives: 6FalsePositives: 4FalseNegatives: 1
+P: 0.6R: 0.8571428571428571
+P: 0.6 R: 0.8571428571428571 F: 0.7058823529411764
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Maca6.txtTest document value: 1885.0995034268626 Distance from docuent to P: 242.01538746216187 Distance from docuent to N: 190.51919255324088
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Milena4.txtTest document value: 2054.5234821421363 Distance from docuent to P: 358.48668566636496 Distance from docuent to N: 276.94753189598975
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Tanasije2.txtTest document value: 1943.5147581324748 Distance from docuent to P: 268.4032947795978 Distance from docuent to N: 212.45603923232227
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Ratimir.txtTest document value: 1593.4745106504013 Distance from docuent to P: 235.51461041956034 Distance from docuent to N: 237.89530601882575
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Savica.txtTest document value: 1341.2421158524382 Distance from docuent to P: 381.87873078538064 Distance from docuent to N: 482.22748289600446
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Steva3.txtTest document value: 1929.7000611577437 Distance from docuent to P: 258.59689903113167 Distance from docuent to N: 206.95097698040755
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Mile.txtTest document value: 1109.893559821128 Distance from docuent to P: 594.324302492234 Distance from docuent to N: 713.5760389273145
+TruePositives: 3 FalseNegatives: 4
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stanomir_Aranđelović.txtTest document value: 2024.1139182200748 Distance from docuent to P: 331.87831723456105 Distance from docuent to N: 256.5837897222371
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Petković.txtTest document value: 1938.67651617431 Distance from docuent to P: 264.77461331097425 Distance from docuent to N: 210.41888472362132
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ratka_Rosić.txtTest document value: 1735.806124161109 Distance from docuent to P: 234.04353435891767 Distance from docuent to N: 159.18490760301756
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Pavlina_Pesova.txtTest document value: 1754.8722386423274 Distance from docuent to P: 234.04353435891767 Distance from docuent to N: 156.97125475401242
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stana.txtTest document value: 1545.3024439479984 Distance from docuent to P: 243.6740188040242 Distance from docuent to N: 279.853667987793
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nikola_Polovina.txtTest document value: 2335.7915129991106 Distance from docuent to P: 631.5736506857487 Distance from docuent to N: 522.2825251651202
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stošić.txtTest document value: 1759.6051222982283 Distance from docuent to P: 234.04353435891767 Distance from docuent to N: 156.8315203834117
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Vladislav_Mitić.txtTest document value: 2082.464637852541 Distance from docuent to P: 382.9351969129689 Distance from docuent to N: 296.0651647504769
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ognjenka_Ivanović.txtTest document value: 2047.4790321724558 Distance from docuent to P: 352.3227919428945 Distance from docuent to N: 272.1276450746294
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Zdravko.txtTest document value: 1948.9809565642672 Distance from docuent to P: 272.5029436034421 Distance from docuent to N: 214.75759646676119
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Popović_Dragoljub.txtTest document value: 2093.8338741371977 Distance from docuent to P: 392.88327866204367 Distance from docuent to N: 304.33682695134286
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Rada.txtTest document value: 1549.3612925104087 Distance from docuent to P: 242.63700065571877 Distance from docuent to N: 276.0566314291038
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ruža_Vujošević.txtTest document value: 1803.2944254320973 Distance from docuent to P: 234.04353435891767 Distance from docuent to N: 161.98371733029072
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Ognjenović.txtTest document value: 1642.861419576865 Distance from docuent to P: 234.04353435891767 Distance from docuent to N: 203.9204236648824
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Veselinka_Milenković.txtTest document value: 1510.1170473949155 Distance from docuent to P: 261.1422557440882 Distance from docuent to N: 313.3525513535272
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Radomir_Ugrnić.txtTest document value: 1747.857119567666 Distance from docuent to P: 234.04353435891767 Distance from docuent to N: 157.46215572429503
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stanić.txtTest document value: 1596.2832734597869 Distance from docuent to P: 235.16351506838714 Distance from docuent to N: 235.67786169562658
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stevan_Grubor.txtTest document value: 1912.8293225932964 Distance from docuent to P: 249.82790521594868 Distance from docuent to N: 200.73544171982175
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Popović.txtTest document value: 1986.091266307765 Distance from docuent to P: 300.33567591106544 Distance from docuent to N: 233.12359109991772
+TrueNegatives: 15 FalsePositives: 4
+True Positives: 3FalsePositives: 4FalseNegatives: 4
+P: 0.42857142857142855R: 0.42857142857142855
+P: 0.42857142857142855 R: 0.42857142857142855 F: 0.42857142857142855
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Maca6.txtTest document value: 11.849193133448269 Distance from docuent to P: 1.2248672920965045 Distance from docuent to N: 2.286902370002445
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Milena4.txtTest document value: 13.869232104091093 Distance from docuent to P: 2.0450634195206323 Distance from docuent to N: 1.1999709159717926
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Tanasije2.txtTest document value: 12.486006526311176 Distance from docuent to P: 1.146470244301277 Distance from docuent to N: 1.772917287596909
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Ratimir.txtTest document value: 12.781382875405658 Distance from docuent to P: 1.2018932535659905 Distance from docuent to N: 1.5905069133650984
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Savica.txtTest document value: 10.662169669243534 Distance from docuent to P: 1.8041686841659899 Distance from docuent to N: 3.4098160129692587
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Steva3.txtTest document value: 11.708202719709483 Distance from docuent to P: 1.2777386972485494 Distance from docuent to N: 2.405631139466685
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Mile.txtTest document value: 10.395201423567883 Distance from docuent to P: 1.9710238377132723 Distance from docuent to N: 3.6767842586449113
+TruePositives: 6 FalseNegatives: 1
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stanomir_Aranđelović.txtTest document value: 13.074638398056745 Distance from docuent to P: 1.340376559171303 Distance from docuent to N: 1.4371726376950071
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Petković.txtTest document value: 15.072157741828732 Distance from docuent to P: 3.2479890572582724 Distance from docuent to N: 1.2794958349337633
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ratka_Rosić.txtTest document value: 13.860139044473486 Distance from docuent to P: 2.035970359903026 Distance from docuent to N: 1.2009280801420663
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Pavlina_Pesova.txtTest document value: 16.365604319158805 Distance from docuent to P: 4.541435634588345 Distance from docuent to N: 2.2936186369460123
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stana.txtTest document value: 15.770110141592085 Distance from docuent to P: 3.9459414570216245 Distance from docuent to N: 1.7472626293658309
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nikola_Polovina.txtTest document value: 11.560058233822147 Distance from docuent to P: 1.3332928794563004 Distance from docuent to N: 2.5327874424820522
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stošić.txtTest document value: 13.616432068587233 Distance from docuent to P: 1.7922633840167723 Distance from docuent to N: 1.2407732634824706
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Vladislav_Mitić.txtTest document value: 14.01776383546842 Distance from docuent to P: 2.193595150897959 Distance from docuent to N: 1.1843359968794416
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ognjenka_Ivanović.txtTest document value: 14.768902004959077 Distance from docuent to P: 2.9447333203886163 Distance from docuent to N: 1.2036512859217776
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Zdravko.txtTest document value: 13.539934404718151 Distance from docuent to P: 1.7157657201476897 Distance from docuent to N: 1.2568780348233288
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Popović_Dragoljub.txtTest document value: 10.332756398887227 Distance from docuent to P: 2.0100519781386823 Distance from docuent to N: 3.7392292833255665
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Rada.txtTest document value: 18.000555394942687 Distance from docuent to P: 6.176386710372226 Distance from docuent to N: 3.9285697127298937
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ruža_Vujošević.txtTest document value: 16.07330323301232 Distance from docuent to P: 4.249134548441861 Distance from docuent to N: 2.004730176480595
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Ognjenović.txtTest document value: 15.325734264344788 Distance from docuent to P: 3.5015655797743284 Distance from docuent to N: 1.3984489726409808
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Veselinka_Milenković.txtTest document value: 12.948548676872601 Distance from docuent to P: 1.2646912589702592 Distance from docuent to N: 1.5025249125930225
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Radomir_Ugrnić.txtTest document value: 13.715025401220696 Distance from docuent to P: 1.8908567166502355 Distance from docuent to N: 1.222250304751389
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stanić.txtTest document value: 16.360232567090325 Distance from docuent to P: 4.536063882519864 Distance from docuent to N: 2.2882468848775313
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stevan_Grubor.txtTest document value: 14.095846245538455 Distance from docuent to P: 2.2716775609679947 Distance from docuent to N: 1.176116795819438
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Popović.txtTest document value: 14.507410828200598 Distance from docuent to P: 2.683242143630137 Distance from docuent to N: 1.1718498389321605
+TrueNegatives: 15 FalsePositives: 4
+True Positives: 6FalsePositives: 4FalseNegatives: 1
+P: 0.6R: 0.8571428571428571
+P: 0.6 R: 0.8571428571428571 F: 0.7058823529411764
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Maca6.txtTest document value: 0.2863849765258216 Distance from docuent to P: 0.025054208952665916 Distance from docuent to N: 0.029911675026350813
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Milena4.txtTest document value: 0.27967064168086314 Distance from docuent to P: 0.023963173903330633 Distance from docuent to N: 0.026364395109324715
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Tanasije2.txtTest document value: 0.337995337995338 Distance from docuent to P: 0.06527716437896713 Distance from docuent to N: 0.07134732710071394
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Ratimir.txtTest document value: 0.21842105263157896 Distance from docuent to P: 0.058813294230405926 Distance from docuent to N: 0.04925946495899292
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Savica.txtTest document value: 0.22549019607843138 Distance from docuent to P: 0.05262779371441007 Distance from docuent to N: 0.043005613719385445
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Steva3.txtTest document value: 0.25 Distance from docuent to P: 0.032896793373827185 Distance from docuent to N: 0.028537563781281573
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Mile.txtTest document value: 0.22826086956521738 Distance from docuent to P: 0.05020345441347231 Distance from docuent to N: 0.04087821072141108
+TruePositives: 3 FalseNegatives: 4
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stanomir_Aranđelović.txtTest document value: 0.235480464625132 Distance from docuent to P: 0.043886308736047014 Distance from docuent to N: 0.03597115343853001
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Petković.txtTest document value: 0.3015625 Distance from docuent to P: 0.03480290773283551 Distance from docuent to N: 0.04001918645803021
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ratka_Rosić.txtTest document value: 0.29010989010989013 Distance from docuent to P: 0.026916665744700172 Distance from docuent to N: 0.032068203943443126
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Pavlina_Pesova.txtTest document value: 0.2897196261682243 Distance from docuent to P: 0.026721533773867243 Distance from docuent to N: 0.03184226166142605
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stana.txtTest document value: 0.3436911487758945 Distance from docuent to P: 0.07097297515952368 Distance from docuent to N: 0.07682682603060957
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nikola_Polovina.txtTest document value: 0.27759197324414714 Distance from docuent to P: 0.023963173903330633 Distance from docuent to N: 0.025551417832344315
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stošić.txtTest document value: 0.2518210197710718 Distance from docuent to P: 0.03175865601690732 Distance from docuent to N: 0.027794965105788622
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Vladislav_Mitić.txtTest document value: 0.26154861416630004 Distance from docuent to P: 0.02729755582044138 Distance from docuent to N: 0.024631444095747954
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ognjenka_Ivanović.txtTest document value: 0.2792982456140351 Distance from docuent to P: 0.023963173903330633 Distance from docuent to N: 0.026207596765397124
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Zdravko.txtTest document value: 0.2921686746987952 Distance from docuent to P: 0.028134044781028284 Distance from docuent to N: 0.033351169177767176
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Popović_Dragoljub.txtTest document value: 0.21428571428571427 Distance from docuent to P: 0.06243171528303752 Distance from docuent to N: 0.05300394186607964
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Rada.txtTest document value: 0.2970627503337784 Distance from docuent to P: 0.031428095483169285 Distance from docuent to N: 0.03670358144081426
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ruža_Vujošević.txtTest document value: 0.3034812649481796 Distance from docuent to P: 0.03624198144397021 Distance from docuent to N: 0.041469644835571154
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Ognjenović.txtTest document value: 0.3176761433868974 Distance from docuent to P: 0.04691511851383106 Distance from docuent to N: 0.053018984127918584
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Veselinka_Milenković.txtTest document value: 0.2552552552552553 Distance from docuent to P: 0.029859777099911344 Distance from docuent to N: 0.02652972045372104
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Radomir_Ugrnić.txtTest document value: 0.15927545284197375 Distance from docuent to P: 0.1134427207743971 Distance from docuent to N: 0.1075888699033112
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stanić.txtTest document value: 0.26823299069995105 Distance from docuent to P: 0.02562646168702862 Distance from docuent to N: 0.023560773135148122
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stevan_Grubor.txtTest document value: 0.27261857313670784 Distance from docuent to P: 0.024555663581996876 Distance from docuent to N: 0.024098669122667178
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Popović.txtTest document value: 0.26015951386251424 Distance from docuent to P: 0.02764483089638783 Distance from docuent to N: 0.024996996807270532
+TrueNegatives: 9 FalsePositives: 10
+True Positives: 3FalsePositives: 10FalseNegatives: 4
+P: 0.23076923076923078R: 0.42857142857142855
+P: 0.23076923076923078 R: 0.42857142857142855 F: 0.3
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Maca6.txtTest document value: 0.2863849765258216 Distance from docuent to P: 0.025054208952665916 Distance from docuent to N: 0.029911675026350813
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Milena4.txtTest document value: 0.27967064168086314 Distance from docuent to P: 0.023963173903330633 Distance from docuent to N: 0.026364395109324715
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Tanasije2.txtTest document value: 0.337995337995338 Distance from docuent to P: 0.06527716437896713 Distance from docuent to N: 0.07134732710071394
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Ratimir.txtTest document value: 0.21842105263157896 Distance from docuent to P: 0.058813294230405926 Distance from docuent to N: 0.04925946495899292
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Savica.txtTest document value: 0.22549019607843138 Distance from docuent to P: 0.05262779371441007 Distance from docuent to N: 0.043005613719385445
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Steva3.txtTest document value: 0.25 Distance from docuent to P: 0.032896793373827185 Distance from docuent to N: 0.028537563781281573
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Mile.txtTest document value: 0.22826086956521738 Distance from docuent to P: 0.05020345441347231 Distance from docuent to N: 0.04087821072141108
+TruePositives: 3 FalseNegatives: 4
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stanomir_Aranđelović.txtTest document value: 0.235480464625132 Distance from docuent to P: 0.043886308736047014 Distance from docuent to N: 0.03597115343853001
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Petković.txtTest document value: 0.3015625 Distance from docuent to P: 0.03480290773283551 Distance from docuent to N: 0.04001918645803021
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ratka_Rosić.txtTest document value: 0.29010989010989013 Distance from docuent to P: 0.026916665744700172 Distance from docuent to N: 0.032068203943443126
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Pavlina_Pesova.txtTest document value: 0.2897196261682243 Distance from docuent to P: 0.026721533773867243 Distance from docuent to N: 0.03184226166142605
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stana.txtTest document value: 0.3436911487758945 Distance from docuent to P: 0.07097297515952368 Distance from docuent to N: 0.07682682603060957
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nikola_Polovina.txtTest document value: 0.27759197324414714 Distance from docuent to P: 0.023963173903330633 Distance from docuent to N: 0.025551417832344315
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stošić.txtTest document value: 0.2518210197710718 Distance from docuent to P: 0.03175865601690732 Distance from docuent to N: 0.027794965105788622
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Vladislav_Mitić.txtTest document value: 0.26154861416630004 Distance from docuent to P: 0.02729755582044138 Distance from docuent to N: 0.024631444095747954
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ognjenka_Ivanović.txtTest document value: 0.2792982456140351 Distance from docuent to P: 0.023963173903330633 Distance from docuent to N: 0.026207596765397124
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Zdravko.txtTest document value: 0.2921686746987952 Distance from docuent to P: 0.028134044781028284 Distance from docuent to N: 0.033351169177767176
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Popović_Dragoljub.txtTest document value: 0.21428571428571427 Distance from docuent to P: 0.06243171528303752 Distance from docuent to N: 0.05300394186607964
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Rada.txtTest document value: 0.2970627503337784 Distance from docuent to P: 0.031428095483169285 Distance from docuent to N: 0.03670358144081426
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ruža_Vujošević.txtTest document value: 0.3034812649481796 Distance from docuent to P: 0.03624198144397021 Distance from docuent to N: 0.041469644835571154
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Ognjenović.txtTest document value: 0.3176761433868974 Distance from docuent to P: 0.04691511851383106 Distance from docuent to N: 0.053018984127918584
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Veselinka_Milenković.txtTest document value: 0.2552552552552553 Distance from docuent to P: 0.029859777099911344 Distance from docuent to N: 0.02652972045372104
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Radomir_Ugrnić.txtTest document value: 0.15927545284197375 Distance from docuent to P: 0.1134427207743971 Distance from docuent to N: 0.1075888699033112
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stanić.txtTest document value: 0.26823299069995105 Distance from docuent to P: 0.02562646168702862 Distance from docuent to N: 0.023560773135148122
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stevan_Grubor.txtTest document value: 0.27261857313670784 Distance from docuent to P: 0.024555663581996876 Distance from docuent to N: 0.024098669122667178
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Popović.txtTest document value: 0.26015951386251424 Distance from docuent to P: 0.02764483089638783 Distance from docuent to N: 0.024996996807270532
+TrueNegatives: 9 FalsePositives: 10
+True Positives: 3FalsePositives: 10FalseNegatives: 4
+P: 0.23076923076923078R: 0.42857142857142855
+P: 0.23076923076923078 R: 0.42857142857142855 F: 0.3
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Maca6.txtTest document value: 0.051643192488262914 Distance from docuent to P: 0.01744565404687497 Distance from docuent to N: 0.012707264855934064
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Milena4.txtTest document value: 0.048551959114139696 Distance from docuent to P: 0.01705924987510957 Distance from docuent to N: 0.013102505112074421
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Tanasije2.txtTest document value: 0.04428904428904429 Distance from docuent to P: 0.017209661883288672 Distance from docuent to N: 0.014808462136106607
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Ratimir.txtTest document value: 0.05789473684210526 Distance from docuent to P: 0.01871306811622905 Distance from docuent to N: 0.013398320115455097
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Savica.txtTest document value: 0.049019607843137254 Distance from docuent to P: 0.017117705966234263 Distance from docuent to N: 0.012995884504469979
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Steva3.txtTest document value: 0.06854838709677419 Distance from docuent to P: 0.02520786037014184 Distance from docuent to N: 0.018888445245571636
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Mile.txtTest document value: 0.07608695652173914 Distance from docuent to P: 0.030861787438865546 Distance from docuent to N: 0.023998195007802658
+TruePositives: 0 FalseNegatives: 7
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stanomir_Aranđelović.txtTest document value: 0.0897571277719113 Distance from docuent to P: 0.041917390181316926 Distance from docuent to N: 0.034942028325455364
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Petković.txtTest document value: 0.0609375 Distance from docuent to P: 0.019906823620099254 Distance from docuent to N: 0.014477286895770871
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ratka_Rosić.txtTest document value: 0.05384615384615385 Distance from docuent to P: 0.017721024216611342 Distance from docuent to N: 0.012730760876436303
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Pavlina_Pesova.txtTest document value: 0.03526714865103157 Distance from docuent to P: 0.020916732963748994 Distance from docuent to N: 0.02078498486972995
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stana.txtTest document value: 0.0480225988700565 Distance from docuent to P: 0.017014351371384278 Distance from docuent to N: 0.013260130083028057
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nikola_Polovina.txtTest document value: 0.09698996655518395 Distance from docuent to P: 0.04824612411668049 Distance from docuent to N: 0.04177415295548171
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stošić.txtTest document value: 0.08844953173777315 Distance from docuent to P: 0.04077324365144604 Distance from docuent to N: 0.033772073979121214
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Vladislav_Mitić.txtTest document value: 0.06401231852177738 Distance from docuent to P: 0.021805808938894243 Distance from docuent to N: 0.016095612433548442
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ognjenka_Ivanović.txtTest document value: 0.05052631578947368 Distance from docuent to P: 0.017306044459526316 Distance from docuent to N: 0.012767915311835352
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Zdravko.txtTest document value: 0.06827309236947791 Distance from docuent to P: 0.025001389324669637 Distance from docuent to N: 0.018714574891489776
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Popović_Dragoljub.txtTest document value: 0.0625 Distance from docuent to P: 0.02074195293044408 Distance from docuent to N: 0.015299655316823502
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Rada.txtTest document value: 0.03237650200267023 Distance from docuent to P: 0.022723387118974835 Distance from docuent to N: 0.023336021307475967
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ruža_Vujošević.txtTest document value: 0.037470103640712196 Distance from docuent to P: 0.019594019420657995 Distance from docuent to N: 0.019045809877876813
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Ognjenović.txtTest document value: 0.029666254635352288 Distance from docuent to P: 0.024741267958645636 Distance from docuent to N: 0.02596561887697736
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Veselinka_Milenković.txtTest document value: 0.04504504504504504 Distance from docuent to P: 0.01711516178878858 Distance from docuent to N: 0.014410567001369372
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Radomir_Ugrnić.txtTest document value: 0.09868831980012492 Distance from docuent to P: 0.04973218320600384 Distance from docuent to N: 0.043383119187531065
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stanić.txtTest document value: 0.05188448360254528 Distance from docuent to P: 0.017475815436160266 Distance from docuent to N: 0.012694565323603413
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stevan_Grubor.txtTest document value: 0.05579912315663611 Distance from docuent to P: 0.018189164694861763 Distance from docuent to N: 0.012987491748489932
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Popović.txtTest document value: 0.061906570451955946 Distance from docuent to P: 0.02039135884607723 Distance from docuent to N: 0.014987323975747688
+TrueNegatives: 17 FalsePositives: 2
+True Positives: 0FalsePositives: 2FalseNegatives: 7
+P: 0.0R: 0.0
+P: 0.0 R: 0.0 F: 0
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Maca6.txtTest document value: 0.07981220657276995 Distance from docuent to P: 0.012083691199167457 Distance from docuent to N: 0.01816787575975585
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Milena4.txtTest document value: 0.07921635434412266 Distance from docuent to P: 0.012009209670586544 Distance from docuent to N: 0.01838740026504695
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Tanasije2.txtTest document value: 0.06993006993006994 Distance from docuent to P: 0.014783097242000637 Distance from docuent to N: 0.02230986905506152
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Ratimir.txtTest document value: 0.07105263157894737 Distance from docuent to P: 0.01408149621145224 Distance from docuent to N: 0.021765215186307932
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Savica.txtTest document value: 0.09803921568627451 Distance from docuent to P: 0.020538292220558387 Distance from docuent to N: 0.017168193419413034
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Steva3.txtTest document value: 0.10483870967741936 Distance from docuent to P: 0.02644766945638133 Distance from docuent to N: 0.020087369090894872
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Mile.txtTest document value: 0.08695652173913043 Distance from docuent to P: 0.014538074046722197 Distance from docuent to N: 0.016089687784705837
+TruePositives: 5 FalseNegatives: 2
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stanomir_Aranđelović.txtTest document value: 0.0908130939809926 Distance from docuent to P: 0.016466360167653286 Distance from docuent to N: 0.01582635659245074
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Petković.txtTest document value: 0.0921875 Distance from docuent to P: 0.017153563177156987 Distance from docuent to N: 0.015971030910240998
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ratka_Rosić.txtTest document value: 0.1 Distance from docuent to P: 0.022213798488639393 Distance from docuent to N: 0.017837939802735497
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Pavlina_Pesova.txtTest document value: 0.0765297125727385 Distance from docuent to P: 0.011738217454464562 Distance from docuent to N: 0.019377215654504277
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stana.txtTest document value: 0.06120527306967985 Distance from docuent to P: 0.021093289549175824 Distance from docuent to N: 0.02877828232638377
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nikola_Polovina.txtTest document value: 0.06688963210702341 Distance from docuent to P: 0.01683002027116815 Distance from docuent to N: 0.02423604411720325
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stošić.txtTest document value: 0.07284079084287201 Distance from docuent to P: 0.01296389667149934 Distance from docuent to N: 0.020918192377080463
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Vladislav_Mitić.txtTest document value: 0.08205015398152221 Distance from docuent to P: 0.012454041222349357 Distance from docuent to N: 0.017454487439576394
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ognjenka_Ivanović.txtTest document value: 0.07976608187134503 Distance from docuent to P: 0.012077925611489345 Distance from docuent to N: 0.01818486907080714
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Zdravko.txtTest document value: 0.1144578313253012 Distance from docuent to P: 0.03486440089827794 Distance from docuent to N: 0.026713420999843588
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Popović_Dragoljub.txtTest document value: 0.10714285714285714 Distance from docuent to P: 0.028463798488639388 Distance from docuent to N: 0.021458206050466465
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Rada.txtTest document value: 0.13351134846461948 Distance from docuent to P: 0.05209611469519435 Distance from docuent to N: 0.0445454210602067
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ruža_Vujošević.txtTest document value: 0.09115067765081053 Distance from docuent to P: 0.016635152002562246 Distance from docuent to N: 0.015861891715589466
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Ognjenović.txtTest document value: 0.07292954264524104 Distance from docuent to P: 0.012910036292340488 Distance from docuent to N: 0.020876152049642504
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Veselinka_Milenković.txtTest document value: 0.09009009009009009 Distance from docuent to P: 0.016104858222202027 Distance from docuent to N: 0.015799995019111238
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Radomir_Ugrnić.txtTest document value: 0.07932542161149282 Distance from docuent to P: 0.012022843079007816 Distance from docuent to N: 0.018347217587594788
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stanić.txtTest document value: 0.09740577581987274 Distance from docuent to P: 0.02006321232075706 Distance from docuent to N: 0.016968159777391422
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stevan_Grubor.txtTest document value: 0.0940613790354723 Distance from docuent to P: 0.018090502694893134 Distance from docuent to N: 0.016244999799944804
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Popović.txtTest document value: 0.09229016331181163 Distance from docuent to P: 0.017204894833062794 Distance from docuent to N: 0.01598183757464222
+TrueNegatives: 11 FalsePositives: 8
+True Positives: 5FalsePositives: 8FalseNegatives: 2
+P: 0.38461538461538464R: 0.7142857142857143
+P: 0.38461538461538464 R: 0.7142857142857143 F: 0.5
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Maca6.txtTest document value: 0.7049180327868853 Distance from docuent to P: 0.34509784507757935 Distance from docuent to N: 0.21308169826072806
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Milena4.txtTest document value: 0.7736040609137056 Distance from docuent to P: 0.32692917000311567 Distance from docuent to N: 0.21688815910076836
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Tanasije2.txtTest document value: 0.5655172413793104 Distance from docuent to P: 0.3989623982476321 Distance from docuent to N: 0.24280194193820215
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Ratimir.txtTest document value: 1.2289156626506024 Distance from docuent to P: 0.4928077276632793 Distance from docuent to N: 0.4895605403875653
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Savica.txtTest document value: 1.608695652173913 Distance from docuent to P: 0.7912296763275015 Distance from docuent to N: 0.8310254548171072
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Steva3.txtTest document value: 0.967741935483871 Distance from docuent to P: 0.3522731516294585 Distance from docuent to N: 0.28581870308851043
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Mile.txtTest document value: 0.9523809523809523 Distance from docuent to P: 0.34651278296586396 Distance from docuent to N: 0.2753406883660135
+TruePositives: 1 FalseNegatives: 6
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stanomir_Aranđelović.txtTest document value: 1.116591928251121 Distance from docuent to P: 0.4210836114675547 Distance from docuent to N: 0.3974286260443876
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Petković.txtTest document value: 0.5233160621761658 Distance from docuent to P: 0.4265728552267526 Distance from docuent to N: 0.2677094247777867
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ratka_Rosić.txtTest document value: 0.6818181818181818 Distance from docuent to P: 0.3537602891908432 Distance from docuent to N: 0.21449191071555374
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Pavlina_Pesova.txtTest document value: 0.5727328058429701 Distance from docuent to P: 0.39535461601580213 Distance from docuent to N: 0.2397010681884506
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stana.txtTest document value: 0.4602739726027397 Distance from docuent to P: 0.4738544224068221 Distance from docuent to N: 0.32070349186811054
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nikola_Polovina.txtTest document value: 1.0602409638554218 Distance from docuent to P: 0.39290812926970503 Distance from docuent to N: 0.3529410225740987
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stošić.txtTest document value: 1.1074380165289257 Distance from docuent to P: 0.41650665560645705 Distance from docuent to N: 0.39020185363212834
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Vladislav_Mitić.txtTest document value: 0.9327165685449958 Distance from docuent to P: 0.3391386390273803 Distance from docuent to N: 0.2639308805808486
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ognjenka_Ivanović.txtTest document value: 0.6197654941373534 Distance from docuent to P: 0.37703004707115373 Distance from docuent to N: 0.22545614008394382
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Zdravko.txtTest document value: 0.5257731958762887 Distance from docuent to P: 0.42473000495166036 Distance from docuent to N: 0.26589890520927506
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Popović_Dragoljub.txtTest document value: 1.7083333333333333 Distance from docuent to P: 0.878412647341994 Distance from docuent to N: 0.9306631359765272
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Rada.txtTest document value: 0.35842696629213483 Distance from docuent to P: 0.5525674538942426 Distance from docuent to N: 0.41924323106467104
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ruža_Vujošević.txtTest document value: 0.5087565674255692 Distance from docuent to P: 0.43749247628969995 Distance from docuent to N: 0.27843747354138415
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Ognjenović.txtTest document value: 0.5739299610894941 Distance from docuent to P: 0.39475603839254014 Distance from docuent to N: 0.23926001099236285
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Veselinka_Milenković.txtTest document value: 1.0235294117647058 Distance from docuent to P: 0.3745523532243471 Distance from docuent to N: 0.3241954799452634
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Radomir_Ugrnić.txtTest document value: 2.074509803921569 Distance from docuent to P: 1.1988170591067002 Distance from docuent to N: 1.2968396065647625
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stanić.txtTest document value: 0.6195255474452555 Distance from docuent to P: 0.3771200270806906 Distance from docuent to N: 0.22550665517701704
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stevan_Grubor.txtTest document value: 0.716374269005848 Distance from docuent to P: 0.34123661798008015 Distance from docuent to N: 0.21303094456839694
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Popović.txtTest document value: 0.8656934306569343 Distance from docuent to P: 0.3257219987437936 Distance from docuent to N: 0.23352983349441694
+TrueNegatives: 17 FalsePositives: 2
+True Positives: 1FalsePositives: 2FalseNegatives: 6
+P: 0.3333333333333333R: 0.14285714285714285
+P: 0.3333333333333333 R: 0.14285714285714285 F: 0.2
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Maca6.txtTest document value: 0.3114754098360656 Distance from docuent to P: 0.09397039146015959 Distance from docuent to N: 0.07803776181904802
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Milena4.txtTest document value: 0.3065989847715736 Distance from docuent to P: 0.09336083832709807 Distance from docuent to N: 0.0756332451842241
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Tanasije2.txtTest document value: 0.2206896551724138 Distance from docuent to P: 0.12256586745545432 Distance from docuent to N: 0.060110452861814566
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Ratimir.txtTest document value: 0.26506024096385544 Distance from docuent to P: 0.09546148257558063 Distance from docuent to N: 0.06010484574445495
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Savica.txtTest document value: 0.21739130434782608 Distance from docuent to P: 0.12503963057389508 Distance from docuent to N: 0.061152037332737
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Steva3.txtTest document value: 0.20967741935483872 Distance from docuent to P: 0.13140108118499502 Distance from docuent to N: 0.06402385251960652
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Mile.txtTest document value: 0.3333333333333333 Distance from docuent to P: 0.09670263189731804 Distance from docuent to N: 0.09188637972745743
+TruePositives: 0 FalseNegatives: 7
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stanomir_Aranđelović.txtTest document value: 0.17040358744394618 Distance from docuent to P: 0.16576568410702602 Distance from docuent to N: 0.08915960405929127
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Petković.txtTest document value: 0.2189119170984456 Distance from docuent to P: 0.12389917101093047 Distance from docuent to N: 0.06067184383254135
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ratka_Rosić.txtTest document value: 0.24621212121212122 Distance from docuent to P: 0.10503386641052223 Distance from docuent to N: 0.058272337413759236
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Pavlina_Pesova.txtTest document value: 0.4217894096165551 Distance from docuent to P: 0.12973326716305097 Distance from docuent to N: 0.1683513036136885
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stana.txtTest document value: 0.3041095890410959 Distance from docuent to P: 0.09304966386078839 Distance from docuent to N: 0.07445405773294522
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nikola_Polovina.txtTest document value: 0.1566265060240964 Distance from docuent to P: 0.1778206303493946 Distance from docuent to N: 0.10076135683390164
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stošić.txtTest document value: 0.17768595041322313 Distance from docuent to P: 0.1593936165089087 Distance from docuent to N: 0.08315628916190239
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Vladislav_Mitić.txtTest document value: 0.19596299411269974 Distance from docuent to P: 0.14340120327186667 Distance from docuent to N: 0.07058408800317169
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ognjenka_Ivanović.txtTest document value: 0.3492462311557789 Distance from docuent to P: 0.10068085635292946 Distance from docuent to N: 0.1027741519217623
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Zdravko.txtTest document value: 0.1958762886597938 Distance from docuent to P: 0.14347707054315934 Distance from docuent to N: 0.0706388493418491
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Popović_Dragoljub.txtTest document value: 0.2916666666666667 Distance from docuent to P: 0.09291475310943925 Distance from docuent to N: 0.06871600143646908
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Rada.txtTest document value: 0.31910112359550563 Distance from docuent to P: 0.09492360568008959 Distance from docuent to N: 0.08253957773049073
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ruža_Vujošević.txtTest document value: 0.30823117338003503 Distance from docuent to P: 0.09356486190315577 Distance from docuent to N: 0.07640638715665321
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Ognjenović.txtTest document value: 0.377431906614786 Distance from docuent to P: 0.10772727521768123 Distance from docuent to N: 0.1244767525603302
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Veselinka_Milenković.txtTest document value: 0.16470588235294117 Distance from docuent to P: 0.17075117606165538 Distance from docuent to N: 0.09395767150434808
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Radomir_Ugrnić.txtTest document value: 0.12549019607843137 Distance from docuent to P: 0.2050649015518515 Distance from docuent to N: 0.12938787597480023
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stanić.txtTest document value: 0.28832116788321166 Distance from docuent to P: 0.09291475310943928 Distance from docuent to N: 0.06730737036975115
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stevan_Grubor.txtTest document value: 0.3201754385964912 Distance from docuent to P: 0.0950578950552128 Distance from docuent to N: 0.08321809246795533
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Popović.txtTest document value: 0.19562043795620437 Distance from docuent to P: 0.14370093990880012 Distance from docuent to N: 0.07080043925990559
+TrueNegatives: 16 FalsePositives: 3
+True Positives: 0FalsePositives: 3FalseNegatives: 7
+P: 0.0R: 0.0
+P: 0.0 R: 0.0 F: 0
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Maca6.txtTest document value: 0.4418604651162791 Distance from docuent to P: 0.19473690702799204 Distance from docuent to N: 0.16022204162672649
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Milena4.txtTest document value: 0.3963254593175853 Distance from docuent to P: 0.18707108190145574 Distance from docuent to N: 0.14943707339965212
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Tanasije2.txtTest document value: 0.3902439024390244 Distance from docuent to P: 0.18707108190145574 Distance from docuent to N: 0.1487969095176983
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Ratimir.txtTest document value: 0.21568627450980393 Distance from docuent to P: 0.25486728982178014 Distance from docuent to N: 0.1805527067700389
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Savica.txtTest document value: 0.13513513513513514 Distance from docuent to P: 0.32412404657853694 Distance from docuent to N: 0.24392616646818052
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Steva3.txtTest document value: 0.21666666666666667 Distance from docuent to P: 0.2541319957041331 Distance from docuent to N: 0.17998511131080253
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_3/Mile.txtTest document value: 0.35 Distance from docuent to P: 0.19282505015542398 Distance from docuent to N: 0.1476392300747935
+TruePositives: 0 FalseNegatives: 7
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stanomir_Aranđelović.txtTest document value: 0.15261044176706828 Distance from docuent to P: 0.3088331532755954 Distance from docuent to N: 0.22921011877813147
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Petković.txtTest document value: 0.4183168316831683 Distance from docuent to P: 0.18944601009393366 Distance from docuent to N: 0.1531068632909689
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ratka_Rosić.txtTest document value: 0.3611111111111111 Distance from docuent to P: 0.19054330412367795 Distance from docuent to N: 0.1475930620230853
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Pavlina_Pesova.txtTest document value: 0.7364505844845909 Distance from docuent to P: 0.35103231837143645 Distance from docuent to N: 0.36448428521218984
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stana.txtTest document value: 0.6607142857142857 Distance from docuent to P: 0.3036971316399957 Distance from docuent to N: 0.29998794429276876
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nikola_Polovina.txtTest document value: 0.14772727272727273 Distance from docuent to P: 0.3131059261854166 Distance from docuent to N: 0.233322261127433
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stošić.txtTest document value: 0.16044776119402984 Distance from docuent to P: 0.3019754987770041 Distance from docuent to N: 0.22261027083963755
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Vladislav_Mitić.txtTest document value: 0.21009918845807032 Distance from docuent to P: 0.2590576043605804 Distance from docuent to N: 0.184100418184571
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ognjenka_Ivanović.txtTest document value: 0.5635135135135135 Distance from docuent to P: 0.24456628335473563 Distance from docuent to N: 0.22794166877045247
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Zdravko.txtTest document value: 0.37254901960784315 Distance from docuent to P: 0.18911356556158646 Distance from docuent to N: 0.14769996156629536
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Popović_Dragoljub.txtTest document value: 0.17073170731707318 Distance from docuent to P: 0.2929770459193411 Distance from docuent to N: 0.21423839357965038
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Rada.txtTest document value: 0.890282131661442 Distance from docuent to P: 0.4641658072660395 Distance from docuent to N: 0.5159241260926918
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Ruža_Vujošević.txtTest document value: 0.6058519793459552 Distance from docuent to P: 0.2694081901597892 Distance from docuent to N: 0.25913843306804113
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Ognjenović.txtTest document value: 0.6576271186440678 Distance from docuent to P: 0.30176765222110946 Distance from docuent to N: 0.2975507071320704
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Veselinka_Milenković.txtTest document value: 0.16091954022988506 Distance from docuent to P: 0.3015626921206307 Distance from docuent to N: 0.22221298323049626
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Radomir_Ugrnić.txtTest document value: 0.06049149338374291 Distance from docuent to P: 0.39020912977137057 Distance from docuent to N: 0.3138665121850071
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Nadežda_Stanić.txtTest document value: 0.4653902798232695 Distance from docuent to P: 0.20061936070473968 Distance from docuent to N: 0.1678737233874286
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Stevan_Grubor.txtTest document value: 0.44693877551020406 Distance from docuent to P: 0.19600648462647327 Distance from docuent to N: 0.1618257185932291
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_3/Staniša_Popović.txtTest document value: 0.22596964586846544 Distance from docuent to P: 0.24715476130278402 Distance from docuent to N: 0.17459917598344535
+TrueNegatives: 17 FalsePositives: 2
+True Positives: 0FalsePositives: 2FalseNegatives: 7
+P: 0.0R: 0.0
+P: 0.0 R: 0.0 F: 0
+ Exit calculate_statistics_for_measure
+ Exit calculate_statistics
+ Enter calculate_statistics
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Maca2.txtTest document value: 0.4793103448275862 Distance from docuent to P: 0.08093792032843666 Distance from docuent to N: 0.17807687667240812
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Milena3.txtTest document value: 0.35289957567185287 Distance from docuent to P: 0.15839286868106484 Distance from docuent to N: 0.10905607092906022
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Ksenija2.txtTest document value: 0.4188679245283019 Distance from docuent to P: 0.10350312629047197 Distance from docuent to N: 0.13762803857041822
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dragica.txtTest document value: 0.6935483870967742 Distance from docuent to P: 0.19950287605085196 Distance from docuent to N: 0.3703185606592593
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Tanasije3.txtTest document value: 0.43843843843843844 Distance from docuent to P: 0.09099442480838411 Distance from docuent to N: 0.1493869935744836
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Steva4.txtTest document value: 0.5113122171945701 Distance from docuent to P: 0.08213425142135274 Distance from docuent to N: 0.20334151275160592
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dara.txtTest document value: 0.6049382716049383 Distance from docuent to P: 0.12563109596284117 Distance from docuent to N: 0.28323425042129885
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Jovanka.txtTest document value: 0.4444444444444444 Distance from docuent to P: 0.08819162200558134 Distance from docuent to N: 0.1531802605256452
+TruePositives: 7 FalseNegatives: 1
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mila_Cvetkovic.txtTest document value: 0.2736019242333133 Distance from docuent to P: 0.22711749992779912 Distance from docuent to N: 0.09909719266354648
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milena_Jevremović.txtTest document value: 0.37337192474674386 Distance from docuent to P: 0.14065016614949266 Distance from docuent to N: 0.11596083688288444
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubinka_Dimitrijević.txtTest document value: 0.4124087591240876 Distance from docuent to P: 0.1082398475868958 Distance from docuent to N: 0.13422847783135808
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Milosavljevic.txtTest document value: 0.19855159927579963 Distance from docuent to P: 0.30206841253817185 Distance from docuent to N: 0.12967433991217459
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Lukić_Milorad.txtTest document value: 0.3795336787564767 Distance from docuent to P: 0.1353099793410575 Distance from docuent to N: 0.11855525962382457
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miša.txtTest document value: 0.2626609442060086 Distance from docuent to P: 0.23795906760796284 Distance from docuent to N: 0.09918541969905892
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Jelenković.txtTest document value: 0.38676844783715014 Distance from docuent to P: 0.1290398461378072 Distance from docuent to N: 0.12160147818410817
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mara.txtTest document value: 0.26907356948228883 Distance from docuent to P: 0.23154644233168264 Distance from docuent to N: 0.09909719266354652
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Stanković.txtTest document value: 0.4868421052631579 Distance from docuent to P: 0.08050291062592527 Distance from docuent to N: 0.18402300333207003
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubiša_Baščarević.txtTest document value: 0.30328324986087923 Distance from docuent to P: 0.20139368438390867 Distance from docuent to N: 0.10041969733218405
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Akaljević.txtTest document value: 0.45318352059925093 Distance from docuent to P: 0.08523961026586999 Distance from docuent to N: 0.15905420402583412
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Adzić.txtTest document value: 0.45454545454545453 Distance from docuent to P: 0.08478563228380213 Distance from docuent to N: 0.15998605356797344
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miroslava_Starčev.txtTest document value: 0.33237547892720304 Distance from docuent to P: 0.17618041919309466 Distance from docuent to N: 0.1047556887232851
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ljubišić.txtTest document value: 0.5626477541371159 Distance from docuent to P: 0.0986565117458102 Distance from docuent to N: 0.24403995841098677
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Nada_Fatić-Milosavljević.txtTest document value: 0.19876806443970624 Distance from docuent to P: 0.30185194737426524 Distance from docuent to N: 0.12950344636172204
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milanović_Vera.txtTest document value: 0.28784860557768926 Distance from docuent to P: 0.2147703760960066 Distance from docuent to N: 0.09922750567133785
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ignjatović.txtTest document value: 0.3022026431718062 Distance from docuent to P: 0.20233021018110534 Distance from docuent to N: 0.10030594925965004
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Običan.txtTest document value: 0.16260162601626016 Distance from docuent to P: 0.33801838579771126 Distance from docuent to N: 0.16075388504539775
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Milićević.txtTest document value: 0.35374149659863946 Distance from docuent to P: 0.15766320387784977 Distance from docuent to N: 0.10927762906768827
+TrueNegatives: 14 FalsePositives: 5
+True Positives: 7FalsePositives: 5FalseNegatives: 1
+P: 0.5833333333333334R: 0.875
+P: 0.5833333333333334 R: 0.875 F: 0.7000000000000001
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Maca2.txtTest document value: 1922.227922669005 Distance from docuent to P: 272.32418115722044 Distance from docuent to N: 188.0282437544083
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Milena3.txtTest document value: 1999.908699105968 Distance from docuent to P: 335.81299087562724 Distance from docuent to N: 222.4833489715024
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Ksenija2.txtTest document value: 1934.1370770184014 Distance from docuent to P: 280.06127588161263 Distance from docuent to N: 191.7890293384282
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dragica.txtTest document value: 1365.1290658226073 Distance from docuent to P: 343.464940942109 Distance from docuent to N: 460.8921702689582
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Tanasije3.txtTest document value: 2119.972008842862 Distance from docuent to P: 448.59432954103227 Distance from docuent to N: 309.58022730530325
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Steva4.txtTest document value: 1605.2431191355424 Distance from docuent to P: 225.6453027449208 Distance from docuent to N: 238.7247960147842
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dara.txtTest document value: 1917.6324648183602 Distance from docuent to P: 269.5669064468335 Distance from docuent to N: 186.5770465384152
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Jovanka.txtTest document value: 1190.0182412567835 Distance from docuent to P: 492.04272890313376 Distance from docuent to N: 636.0029948347819
+TruePositives: 3 FalseNegatives: 5
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mila_Cvetkovic.txtTest document value: 1757.5271916837405 Distance from docuent to P: 235.79757424813403 Distance from docuent to N: 156.00551570631708
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milena_Jevremović.txtTest document value: 1739.0103861155249 Distance from docuent to P: 234.56312054358628 Distance from docuent to N: 159.95934206958063
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubinka_Dimitrijević.txtTest document value: 1804.073689683863 Distance from docuent to P: 238.90067411480885 Distance from docuent to N: 157.9205573844392
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Milosavljevic.txtTest document value: 1616.2695661439761 Distance from docuent to P: 226.38039921214974 Distance from docuent to N: 231.18038490375062
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Lukić_Milorad.txtTest document value: 1787.2958469332655 Distance from docuent to P: 237.78215126476894 Distance from docuent to N: 156.11345476586234
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miša.txtTest document value: 1968.969962860815 Distance from docuent to P: 308.99941946316136 Distance from docuent to N: 205.58743142850787
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Jelenković.txtTest document value: 1717.5888685580326 Distance from docuent to P: 233.13501937308683 Distance from docuent to N: 168.2995853146597
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mara.txtTest document value: 1664.8579205918566 Distance from docuent to P: 229.61962284200843 Distance from docuent to N: 199.09343191388467
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Stanković.txtTest document value: 1585.9404337209025 Distance from docuent to P: 225.36300064121127 Distance from docuent to N: 252.4762565479001
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubiša_Baščarević.txtTest document value: 1935.6214541692134 Distance from docuent to P: 281.1498191255414 Distance from docuent to N: 192.257780017632
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Akaljević.txtTest document value: 2140.6419620117845 Distance from docuent to P: 469.26428270995467 Distance from docuent to N: 328.0743959301284
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Adzić.txtTest document value: 1619.1563002615935 Distance from docuent to P: 226.57284815332423 Distance from docuent to N: 229.2052510338019
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miroslava_Starčev.txtTest document value: 1686.6662410136896 Distance from docuent to P: 231.0735108701306 Distance from docuent to N: 185.3197558579901
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ljubišić.txtTest document value: 2525.0431203737085 Distance from docuent to P: 853.6654410718784 Distance from docuent to N: 699.021884282143
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Nada_Fatić-Milosavljević.txtTest document value: 2084.472364021284 Distance from docuent to P: 413.09468471945434 Distance from docuent to N: 279.40466655060595
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milanović_Vera.txtTest document value: 1548.4457130021194 Distance from docuent to P: 229.70017979013866 Distance from docuent to N: 281.61020489339717
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ignjatović.txtTest document value: 1597.877523152992 Distance from docuent to P: 225.1542630127507 Distance from docuent to N: 243.76441431863455
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Običan.txtTest document value: 1996.6193154314146 Distance from docuent to P: 332.9621916910143 Distance from docuent to N: 220.57896894939256
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Milićević.txtTest document value: 2142.5814652439813 Distance from docuent to P: 471.2037859421514 Distance from docuent to N: 329.8097409273571
+TrueNegatives: 14 FalsePositives: 5
+True Positives: 3FalsePositives: 5FalseNegatives: 5
+P: 0.375R: 0.375
+P: 0.375 R: 0.375 F: 0.375
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Maca2.txtTest document value: 12.32648860798719 Distance from docuent to P: 1.169747369351669 Distance from docuent to N: 2.1765933390468435
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Milena3.txtTest document value: 13.498318769565913 Distance from docuent to P: 1.764275469475715 Distance from docuent to N: 1.4879723977533008
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Ksenija2.txtTest document value: 13.095671041810608 Distance from docuent to P: 1.4491153196162188 Distance from docuent to N: 1.6727207931119026
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dragica.txtTest document value: 9.19667199670051 Distance from docuent to P: 2.7491108995979086 Distance from docuent to N: 5.059601359842376
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Tanasije3.txtTest document value: 12.83563754774855 Distance from docuent to P: 1.284510377488611 Distance from docuent to N: 1.8259844924550503
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Steva4.txtTest document value: 11.875806232747319 Distance from docuent to P: 1.1547557077635038 Distance from docuent to N: 2.5323952142362165
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dara.txtTest document value: 10.887259528113777 Distance from docuent to P: 1.5414638644899257 Distance from docuent to N: 3.3981982036515594
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Jovanka.txtTest document value: 12.469757509827279 Distance from docuent to P: 1.1792986294743415 Distance from docuent to N: 2.0664663301985335
+TruePositives: 7 FalseNegatives: 1
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mila_Cvetkovic.txtTest document value: 14.903461648929772 Distance from docuent to P: 3.1199632375695505 Distance from docuent to N: 1.364534603065075
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milena_Jevremović.txtTest document value: 13.672588286577385 Distance from docuent to P: 1.9153090508856574 Distance from docuent to N: 1.4245331326879118
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubinka_Dimitrijević.txtTest document value: 13.175628166865806 Distance from docuent to P: 1.5077505446566974 Distance from docuent to N: 1.6348463654541772
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Milosavljevic.txtTest document value: 16.093230430537105 Distance from docuent to P: 4.3097320191768835 Distance from docuent to N: 1.9670458362295442
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Lukić_Milorad.txtTest document value: 13.52428332575783 Distance from docuent to P: 1.7867780848420434 Distance from docuent to N: 1.4770399530409146
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miša.txtTest document value: 14.726060814028038 Distance from docuent to P: 2.9425624026678165 Distance from docuent to N: 1.338778744445382
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Jelenković.txtTest document value: 13.405888301134457 Distance from docuent to P: 1.684169063501787 Distance from docuent to N: 1.5268904897244397
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mara.txtTest document value: 15.163104183163055 Distance from docuent to P: 3.379605771802834 Distance from docuent to N: 1.418226596550267
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Stanković.txtTest document value: 12.135578182177182 Distance from docuent to P: 1.1570200076310018 Distance from docuent to N: 2.3273120962652714
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubiša_Baščarević.txtTest document value: 14.150160112418734 Distance from docuent to P: 2.366661701058512 Distance from docuent to N: 1.3385686431117156
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Akaljević.txtTest document value: 12.666611149295589 Distance from docuent to P: 1.2209342883585714 Distance from docuent to N: 1.9327380072674474
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Adzić.txtTest document value: 12.671339093683219 Distance from docuent to P: 1.2225102698211148 Distance from docuent to N: 1.9297519371278917
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miroslava_Starčev.txtTest document value: 14.122604559516443 Distance from docuent to P: 2.3391061481562208 Distance from docuent to N: 1.3400189353697314
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ljubišić.txtTest document value: 11.605716216916745 Distance from docuent to P: 1.2188901647287769 Distance from docuent to N: 2.745624174102458
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Nada_Fatić-Milosavljević.txtTest document value: 15.624820613915084 Distance from docuent to P: 3.841322202554862 Distance from docuent to N: 1.649957077497147
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milanović_Vera.txtTest document value: 15.082901353490048 Distance from docuent to P: 3.299402942129825 Distance from docuent to N: 1.397120588741581
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ignjatović.txtTest document value: 14.654440726071016 Distance from docuent to P: 2.870942314710794 Distance from docuent to N: 1.3312397878183269
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Običan.txtTest document value: 15.17670752089326 Distance from docuent to P: 3.393209109533039 Distance from docuent to N: 1.4218064222687414
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Milićević.txtTest document value: 13.447096892860278 Distance from docuent to P: 1.719883176330832 Distance from docuent to N: 1.5095395037346206
+TrueNegatives: 14 FalsePositives: 5
+True Positives: 7FalsePositives: 5FalseNegatives: 1
+P: 0.5833333333333334R: 0.875
+P: 0.5833333333333334 R: 0.875 F: 0.7000000000000001
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Maca2.txtTest document value: 0.27241379310344827 Distance from docuent to P: 0.032985090797978095 Distance from docuent to N: 0.024767006891299254
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Milena3.txtTest document value: 0.29066478076379065 Distance from docuent to P: 0.03653395097914855 Distance from docuent to N: 0.029696838189287596
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Ksenija2.txtTest document value: 0.27735849056603773 Distance from docuent to P: 0.03265544430047214 Distance from docuent to N: 0.025162657269564365
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dragica.txtTest document value: 0.24193548387096775 Distance from docuent to P: 0.039901106243119995 Distance from docuent to N: 0.03770277714136356
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Tanasije3.txtTest document value: 0.2852852852852853 Distance from docuent to P: 0.03351007924798356 Distance from docuent to N: 0.027635969052497888
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Steva4.txtTest document value: 0.24434389140271492 Distance from docuent to P: 0.038777182728304646 Distance from docuent to N: 0.0361816776476285
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dara.txtTest document value: 0.25925925925925924 Distance from docuent to P: 0.033862059720924036 Distance from docuent to N: 0.02791053607880618
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Jovanka.txtTest document value: 0.31746031746031744 Distance from docuent to P: 0.055581885606231445 Distance from docuent to N: 0.04845181534894621
+TruePositives: 0 FalseNegatives: 8
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mila_Cvetkovic.txtTest document value: 0.2904389657245941 Distance from docuent to P: 0.03639846195563061 Distance from docuent to N: 0.029589873170720808
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milena_Jevremović.txtTest document value: 0.22575976845151954 Distance from docuent to P: 0.04778325358735554 Distance from docuent to N: 0.0496765146815836
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubinka_Dimitrijević.txtTest document value: 0.2062043795620438 Distance from docuent to P: 0.06371681886583068 Distance from docuent to N: 0.06759877498920246
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Milosavljevic.txtTest document value: 0.3123114061557031 Distance from docuent to P: 0.05180601731618091 Distance from docuent to N: 0.044337742907615954
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Lukić_Milorad.txtTest document value: 0.26424870466321243 Distance from docuent to P: 0.03352943002732715 Distance from docuent to N: 0.025904445166281542
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miša.txtTest document value: 0.2957081545064378 Distance from docuent to P: 0.03963029944005303 Distance from docuent to N: 0.03239092120059719
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Jelenković.txtTest document value: 0.272264631043257 Distance from docuent to P: 0.03299503493532418 Distance from docuent to N: 0.02476700689129925
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mara.txtTest document value: 0.28133514986376024 Distance from docuent to P: 0.03261226810501025 Distance from docuent to N: 0.026229523382775854
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Stanković.txtTest document value: 0.34210526315789475 Distance from docuent to P: 0.07537242644940391 Distance from docuent to N: 0.07085551978233637
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubiša_Baščarević.txtTest document value: 0.2459654980523094 Distance from docuent to P: 0.038020432958493874 Distance from docuent to N: 0.035157505026831966
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Akaljević.txtTest document value: 0.2565543071161049 Distance from docuent to P: 0.03439012273697654 Distance from docuent to N: 0.029191829199247718
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Adzić.txtTest document value: 0.23543123543123542 Distance from docuent to P: 0.042936422181661736 Distance from docuent to N: 0.041879514671404015
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miroslava_Starčev.txtTest document value: 0.22413793103448276 Distance from docuent to P: 0.048936658043437414 Distance from docuent to N: 0.051127632370511246
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ljubišić.txtTest document value: 0.21513002364066194 Distance from docuent to P: 0.05598126066436162 Distance from docuent to N: 0.05918733898603514
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Nada_Fatić-Milosavljević.txtTest document value: 0.2513622364368633 Distance from docuent to P: 0.035683586570617175 Distance from docuent to N: 0.03188027331849902
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milanović_Vera.txtTest document value: 0.2818725099601594 Distance from docuent to P: 0.032648092111436856 Distance from docuent to N: 0.026399216044796642
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ignjatović.txtTest document value: 0.27312775330396477 Distance from docuent to P: 0.03293749345127699 Distance from docuent to N: 0.02479380584747066
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Običan.txtTest document value: 0.2585566596406705 Distance from docuent to P: 0.03398965223206342 Distance from docuent to N: 0.028243346424453485
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Milićević.txtTest document value: 0.2687074829931973 Distance from docuent to P: 0.03323217813866149 Distance from docuent to N: 0.024865279983989796
+TrueNegatives: 15 FalsePositives: 4
+True Positives: 0FalsePositives: 4FalseNegatives: 8
+P: 0.0R: 0.0
+P: 0.0 R: 0.0 F: 0
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Maca2.txtTest document value: 0.27241379310344827 Distance from docuent to P: 0.032985090797978095 Distance from docuent to N: 0.024767006891299254
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Milena3.txtTest document value: 0.29066478076379065 Distance from docuent to P: 0.03653395097914855 Distance from docuent to N: 0.029696838189287596
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Ksenija2.txtTest document value: 0.27735849056603773 Distance from docuent to P: 0.03265544430047214 Distance from docuent to N: 0.025162657269564365
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dragica.txtTest document value: 0.24193548387096775 Distance from docuent to P: 0.039901106243119995 Distance from docuent to N: 0.03770277714136356
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Tanasije3.txtTest document value: 0.2852852852852853 Distance from docuent to P: 0.03351007924798356 Distance from docuent to N: 0.027635969052497888
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Steva4.txtTest document value: 0.24434389140271492 Distance from docuent to P: 0.038777182728304646 Distance from docuent to N: 0.0361816776476285
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dara.txtTest document value: 0.25925925925925924 Distance from docuent to P: 0.033862059720924036 Distance from docuent to N: 0.02791053607880618
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Jovanka.txtTest document value: 0.31746031746031744 Distance from docuent to P: 0.055581885606231445 Distance from docuent to N: 0.04845181534894621
+TruePositives: 0 FalseNegatives: 8
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mila_Cvetkovic.txtTest document value: 0.2904389657245941 Distance from docuent to P: 0.03639846195563061 Distance from docuent to N: 0.029589873170720808
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milena_Jevremović.txtTest document value: 0.22575976845151954 Distance from docuent to P: 0.04778325358735554 Distance from docuent to N: 0.0496765146815836
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubinka_Dimitrijević.txtTest document value: 0.2062043795620438 Distance from docuent to P: 0.06371681886583068 Distance from docuent to N: 0.06759877498920246
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Milosavljevic.txtTest document value: 0.3123114061557031 Distance from docuent to P: 0.05180601731618091 Distance from docuent to N: 0.044337742907615954
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Lukić_Milorad.txtTest document value: 0.26424870466321243 Distance from docuent to P: 0.03352943002732715 Distance from docuent to N: 0.025904445166281542
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miša.txtTest document value: 0.2957081545064378 Distance from docuent to P: 0.03963029944005303 Distance from docuent to N: 0.03239092120059719
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Jelenković.txtTest document value: 0.272264631043257 Distance from docuent to P: 0.03299503493532418 Distance from docuent to N: 0.02476700689129925
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mara.txtTest document value: 0.28133514986376024 Distance from docuent to P: 0.03261226810501025 Distance from docuent to N: 0.026229523382775854
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Stanković.txtTest document value: 0.34210526315789475 Distance from docuent to P: 0.07537242644940391 Distance from docuent to N: 0.07085551978233637
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubiša_Baščarević.txtTest document value: 0.2459654980523094 Distance from docuent to P: 0.038020432958493874 Distance from docuent to N: 0.035157505026831966
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Akaljević.txtTest document value: 0.2565543071161049 Distance from docuent to P: 0.03439012273697654 Distance from docuent to N: 0.029191829199247718
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Adzić.txtTest document value: 0.23543123543123542 Distance from docuent to P: 0.042936422181661736 Distance from docuent to N: 0.041879514671404015
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miroslava_Starčev.txtTest document value: 0.22413793103448276 Distance from docuent to P: 0.048936658043437414 Distance from docuent to N: 0.051127632370511246
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ljubišić.txtTest document value: 0.21513002364066194 Distance from docuent to P: 0.05598126066436162 Distance from docuent to N: 0.05918733898603514
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Nada_Fatić-Milosavljević.txtTest document value: 0.2513622364368633 Distance from docuent to P: 0.035683586570617175 Distance from docuent to N: 0.03188027331849902
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milanović_Vera.txtTest document value: 0.2818725099601594 Distance from docuent to P: 0.032648092111436856 Distance from docuent to N: 0.026399216044796642
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ignjatović.txtTest document value: 0.27312775330396477 Distance from docuent to P: 0.03293749345127699 Distance from docuent to N: 0.02479380584747066
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Običan.txtTest document value: 0.2585566596406705 Distance from docuent to P: 0.03398965223206342 Distance from docuent to N: 0.028243346424453485
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Milićević.txtTest document value: 0.2687074829931973 Distance from docuent to P: 0.03323217813866149 Distance from docuent to N: 0.024865279983989796
+TrueNegatives: 15 FalsePositives: 4
+True Positives: 0FalsePositives: 4FalseNegatives: 8
+P: 0.0R: 0.0
+P: 0.0 R: 0.0 F: 0
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Maca2.txtTest document value: 0.06206896551724138 Distance from docuent to P: 0.01905060675538537 Distance from docuent to N: 0.015419882041614296
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Milena3.txtTest document value: 0.042432814710042434 Distance from docuent to P: 0.020255589762667052 Distance from docuent to N: 0.01767454477068845
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Ksenija2.txtTest document value: 0.04150943396226415 Distance from docuent to P: 0.02093273564437113 Distance from docuent to N: 0.018257732611390524
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dragica.txtTest document value: 0.03225806451612903 Distance from docuent to P: 0.027717073238203552 Distance from docuent to N: 0.024670210133404032
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Tanasije3.txtTest document value: 0.06306306306306306 Distance from docuent to P: 0.019514518943435484 Distance from docuent to N: 0.015920405250848934
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Steva4.txtTest document value: 0.04072398190045249 Distance from docuent to P: 0.021508733823033012 Distance from docuent to N: 0.0187538075977979
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dara.txtTest document value: 0.037037037037037035 Distance from docuent to P: 0.02421249338953768 Distance from docuent to N: 0.021105197332780032
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Jovanka.txtTest document value: 0.0582010582010582 Distance from docuent to P: 0.017513365458861407 Distance from docuent to N: 0.014050124641053856
+TruePositives: 0 FalseNegatives: 8
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mila_Cvetkovic.txtTest document value: 0.0487071557426338 Distance from docuent to P: 0.01671351568526464 Distance from docuent to N: 0.014411953836667874
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milena_Jevremović.txtTest document value: 0.0694645441389291 Distance from docuent to P: 0.02262403105112696 Distance from docuent to N: 0.019862807407682856
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubinka_Dimitrijević.txtTest document value: 0.060218978102189784 Distance from docuent to P: 0.018187279295027958 Distance from docuent to N: 0.01467020980540966
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Milosavljevic.txtTest document value: 0.038322269161134584 Distance from docuent to P: 0.023269989831866154 Distance from docuent to N: 0.02027067880157762
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Lukić_Milorad.txtTest document value: 0.05958549222797927 Distance from docuent to P: 0.0179748434678351 Distance from docuent to N: 0.01443682027280579
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miša.txtTest document value: 0.039484978540772535 Distance from docuent to P: 0.022417336286798314 Distance from docuent to N: 0.0195363360354905
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Jelenković.txtTest document value: 0.08269720101781171 Distance from docuent to P: 0.0314449911112662 Distance from docuent to N: 0.02891673053533938
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mara.txtTest document value: 0.04155313351498638 Distance from docuent to P: 0.020900689305708164 Distance from docuent to N: 0.018230132893881756
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Stanković.txtTest document value: 0.039473684210526314 Distance from docuent to P: 0.02242561879564554 Distance from docuent to N: 0.019543469296698632
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubiša_Baščarević.txtTest document value: 0.08013355592654424 Distance from docuent to P: 0.029564984711003394 Distance from docuent to N: 0.027162657578156373
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Akaljević.txtTest document value: 0.05056179775280899 Distance from docuent to P: 0.016548212604519167 Distance from docuent to N: 0.013869620783982847
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Adzić.txtTest document value: 0.1048951048951049 Distance from docuent to P: 0.050598356829517424 Distance from docuent to N: 0.04817765753782183
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miroslava_Starčev.txtTest document value: 0.06417624521072797 Distance from docuent to P: 0.020034003945679113 Distance from docuent to N: 0.01651491831219629
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ljubišić.txtTest document value: 0.07801418439716312 Distance from docuent to P: 0.02801077892279057 Distance from docuent to N: 0.025712561268579834
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Nada_Fatić-Milosavljević.txtTest document value: 0.046671404880360104 Distance from docuent to P: 0.01757425524942029 Distance from docuent to N: 0.015215373119864616
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milanović_Vera.txtTest document value: 0.04083665338645418 Distance from docuent to P: 0.02142610806663177 Distance from docuent to N: 0.018682646659270514
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ignjatović.txtTest document value: 0.03524229074889868 Distance from docuent to P: 0.02552864066750581 Distance from docuent to N: 0.02233448994582905
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Običan.txtTest document value: 0.04958345879755094 Distance from docuent to P: 0.016613435201536367 Distance from docuent to N: 0.01413522655616772
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Milićević.txtTest document value: 0.06054421768707483 Distance from docuent to P: 0.018339057767974308 Distance from docuent to N: 0.014790034915630473
+TrueNegatives: 19 FalsePositives: 0
+True Positives: 0FalsePositives: 0FalseNegatives: 8
+P: 0R: 0.0
+P: 0 R: 0.0 F: 0
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Maca2.txtTest document value: 0.07586206896551724 Distance from docuent to P: 0.009790354961972962 Distance from docuent to N: 0.019357945853315774
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Milena3.txtTest document value: 0.09618104667609619 Distance from docuent to P: 0.01774674763539263 Distance from docuent to N: 0.01648542372616239
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Ksenija2.txtTest document value: 0.09622641509433963 Distance from docuent to P: 0.017773968686338692 Distance from docuent to N: 0.016497362783594875
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dragica.txtTest document value: 0.12903225806451613 Distance from docuent to P: 0.04890523354739788 Distance from docuent to N: 0.03974484691665072
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Tanasije3.txtTest document value: 0.08408408408408409 Distance from docuent to P: 0.010871561767524887 Distance from docuent to N: 0.016663841332923895
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Steva4.txtTest document value: 0.07692307692307693 Distance from docuent to P: 0.0096138899915635 Distance from docuent to N: 0.0188760665234369
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dara.txtTest document value: 0.07407407407407407 Distance from docuent to P: 0.010221659486603958 Distance from docuent to N: 0.02020489080189412
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Jovanka.txtTest document value: 0.0582010582010582 Distance from docuent to P: 0.022067059790486857 Distance from docuent to N: 0.032280698445095714
+TruePositives: 5 FalseNegatives: 3
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mila_Cvetkovic.txtTest document value: 0.0926037282020445 Distance from docuent to P: 0.015600356550961625 Distance from docuent to N: 0.01562074259264498
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milena_Jevremović.txtTest document value: 0.09696092619392185 Distance from docuent to P: 0.018214675346088026 Distance from docuent to N: 0.016690655178221776
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubinka_Dimitrijević.txtTest document value: 0.11861313868613138 Distance from docuent to P: 0.03848611416901313 Distance from docuent to N: 0.030422476946517
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Milosavljevic.txtTest document value: 0.08358479179239589 Distance from docuent to P: 0.010638558698070394 Distance from docuent to N: 0.0167689554995951
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Lukić_Milorad.txtTest document value: 0.09455958549222798 Distance from docuent to P: 0.01677387092507171 Distance from docuent to N: 0.016058723414618125
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miša.txtTest document value: 0.06051502145922747 Distance from docuent to P: 0.020061624966740153 Distance from docuent to N: 0.030152513783912423
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Jelenković.txtTest document value: 0.07506361323155217 Distance from docuent to P: 0.009950046108765978 Distance from docuent to N: 0.019736161727299226
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mara.txtTest document value: 0.08719346049046321 Distance from docuent to P: 0.012354195924012849 Distance from docuent to N: 0.01600923577368619
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Stanković.txtTest document value: 0.07017543859649122 Distance from docuent to P: 0.012003660786149117 Distance from docuent to N: 0.022542038752997227
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubiša_Baščarević.txtTest document value: 0.06956037840845854 Distance from docuent to P: 0.01242198910185025 Distance from docuent to N: 0.02293049781912313
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Akaljević.txtTest document value: 0.06554307116104868 Distance from docuent to P: 0.015703981891828436 Distance from docuent to N: 0.025882037634460228
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Adzić.txtTest document value: 0.08857808857808858 Distance from docuent to P: 0.013184972776588066 Distance from docuent to N: 0.015717735123659787
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miroslava_Starčev.txtTest document value: 0.11398467432950192 Distance from docuent to P: 0.03385764981238367 Distance from docuent to N: 0.026306122364048508
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ljubišić.txtTest document value: 0.10401891252955082 Distance from docuent to P: 0.024001194298815042 Distance from docuent to N: 0.0197932201874861
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Nada_Fatić-Milosavljević.txtTest document value: 0.09950248756218906 Distance from docuent to P: 0.02008695932710152 Distance from docuent to N: 0.017602078314572167
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milanović_Vera.txtTest document value: 0.08864541832669323 Distance from docuent to P: 0.01322537062575086 Distance from docuent to N: 0.015703560439743025
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ignjatović.txtTest document value: 0.10396475770925111 Distance from docuent to P: 0.02395426012122196 Distance from docuent to N: 0.019764717650486253
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Običan.txtTest document value: 0.0868212385827562 Distance from docuent to P: 0.012148900533571871 Distance from docuent to N: 0.01608759828057187
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Milićević.txtTest document value: 0.06462585034013606 Distance from docuent to P: 0.01649890660328605 Distance from docuent to N: 0.026654434115228748
+TrueNegatives: 7 FalsePositives: 12
+True Positives: 5FalsePositives: 12FalseNegatives: 3
+P: 0.29411764705882354R: 0.625
+P: 0.29411764705882354 R: 0.625 F: 0.4
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Maca2.txtTest document value: 1.0126582278481013 Distance from docuent to P: 0.40009030344269647 Distance from docuent to N: 0.36219773240128317
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Milena3.txtTest document value: 0.7128953771289538 Distance from docuent to P: 0.3878926470969452 Distance from docuent to N: 0.24950522039443057
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Ksenija2.txtTest document value: 0.5782312925170068 Distance from docuent to P: 0.44967224067024475 Distance from docuent to N: 0.25617511192117676
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dragica.txtTest document value: 1.2 Distance from docuent to P: 0.4875164637802492 Distance from docuent to N: 0.49849740961961275
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Tanasije3.txtTest document value: 0.5578947368421052 Distance from docuent to P: 0.46017896725682594 Distance from docuent to N: 0.262255933992073
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Steva4.txtTest document value: 0.7777777777777778 Distance from docuent to P: 0.36682167579588026 Distance from docuent to N: 0.26130200808841125
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dara.txtTest document value: 0.9285714285714286 Distance from docuent to P: 0.369247134543178 Distance from docuent to N: 0.314110006352495
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Jovanka.txtTest document value: 1.1333333333333333 Distance from docuent to P: 0.4564053526691381 Distance from docuent to N: 0.4439324257313205
+TruePositives: 1 FalseNegatives: 7
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mila_Cvetkovic.txtTest document value: 0.5900621118012422 Distance from docuent to P: 0.4441511916709348 Distance from docuent to N: 0.2543070878236659
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milena_Jevremović.txtTest document value: 1.5128205128205128 Distance from docuent to P: 0.6730627514952118 Distance from docuent to N: 0.7674732680691555
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubinka_Dimitrijević.txtTest document value: 0.8938053097345132 Distance from docuent to P: 0.3626600993629174 Distance from docuent to N: 0.2976418447981666
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Milosavljevic.txtTest document value: 0.591304347826087 Distance from docuent to P: 0.4435714815260073 Distance from docuent to N: 0.25411094529342726
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Lukić_Milorad.txtTest document value: 1.0196078431372548 Distance from docuent to P: 0.4033334572443014 Distance from docuent to N: 0.36622119388447727
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miša.txtTest document value: 0.5297532656023222 Distance from docuent to P: 0.4785389247911346 Distance from docuent to N: 0.27584729413267844
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Jelenković.txtTest document value: 1.02803738317757 Distance from docuent to P: 0.40726724259644853 Distance from docuent to N: 0.3713387155611262
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mara.txtTest document value: 0.4915254237288136 Distance from docuent to P: 0.5065726754983741 Distance from docuent to N: 0.3030407241291219
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Stanković.txtTest document value: 0.3974358974358974 Distance from docuent to P: 0.5755716614465128 Distance from docuent to N: 0.3898171916711253
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubiša_Baščarević.txtTest document value: 0.9049773755656109 Distance from docuent to P: 0.3645283239420144 Distance from docuent to N: 0.3029338759813181
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Akaljević.txtTest document value: 0.948905109489051 Distance from docuent to P: 0.37331387072670247 Distance from docuent to N: 0.3252880322986751
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Adzić.txtTest document value: 0.8613861386138614 Distance from docuent to P: 0.36049882128820726 Distance from docuent to N: 0.28406593449566325
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miroslava_Starčev.txtTest document value: 0.9529914529914529 Distance from docuent to P: 0.3742125395085829 Distance from docuent to N: 0.32765381011585504
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ljubišić.txtTest document value: 1.4945054945054945 Distance from docuent to P: 0.6603643387967991 Distance from docuent to N: 0.7510861464188759
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Nada_Fatić-Milosavljević.txtTest document value: 0.6635249764373233 Distance from docuent to P: 0.40986852150743025 Distance from docuent to N: 0.2475004719997701
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milanović_Vera.txtTest document value: 0.6855123674911661 Distance from docuent to P: 0.39960773901563695 Distance from docuent to N: 0.24769490282466405
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ignjatović.txtTest document value: 0.6193548387096774 Distance from docuent to P: 0.4304812524469984 Distance from docuent to N: 0.24968192041707085
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Običan.txtTest document value: 0.8489906832298136 Distance from docuent to P: 0.3596724575959373 Distance from docuent to N: 0.2801305490307714
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Milićević.txtTest document value: 0.7291139240506329 Distance from docuent to P: 0.3824864647897188 Distance from docuent to N: 0.2518829440201223
+TrueNegatives: 17 FalsePositives: 2
+True Positives: 1FalsePositives: 2FalseNegatives: 7
+P: 0.3333333333333333R: 0.125
+P: 0.3333333333333333 R: 0.125 F: 0.18181818181818182
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Maca2.txtTest document value: 0.26582278481012656 Distance from docuent to P: 0.07650938934018839 Distance from docuent to N: 0.0658987826361103
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Milena3.txtTest document value: 0.2846715328467153 Distance from docuent to P: 0.07776597254262761 Distance from docuent to N: 0.06903996826997498
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Ksenija2.txtTest document value: 0.3333333333333333 Distance from docuent to P: 0.09152946622334318 Distance from docuent to N: 0.08962014727379804
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dragica.txtTest document value: 0.4666666666666667 Distance from docuent to P: 0.19075438928094007 Distance from docuent to N: 0.20580844652132524
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Tanasije3.txtTest document value: 0.45263157894736844 Distance from docuent to P: 0.17859064659088156 Distance from docuent to N: 0.19177335880202698
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Steva4.txtTest document value: 0.3888888888888889 Distance from docuent to P: 0.12613993876485022 Distance from docuent to N: 0.1297622750976352
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dara.txtTest document value: 0.21428571428571427 Distance from docuent to P: 0.0990663992495259 Distance from docuent to N: 0.06957145260453688
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Jovanka.txtTest document value: 0.23333333333333334 Distance from docuent to P: 0.0889095729007955 Distance from docuent to N: 0.06506345370976033
+TruePositives: 3 FalseNegatives: 5
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mila_Cvetkovic.txtTest document value: 0.3167701863354037 Distance from docuent to P: 0.08379999762430937 Distance from docuent to N: 0.07997482366619427
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milena_Jevremović.txtTest document value: 0.25 Distance from docuent to P: 0.08113179512301769 Distance from docuent to N: 0.06497801283484578
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubinka_Dimitrijević.txtTest document value: 0.21238938053097345 Distance from docuent to P: 0.10045704400300252 Distance from docuent to N: 0.07036990892232249
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Milosavljevic.txtTest document value: 0.2772946859903382 Distance from docuent to P: 0.07727418275220248 Distance from docuent to N: 0.06748694787915875
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Lukić_Milorad.txtTest document value: 0.19607843137254902 Distance from docuent to P: 0.11423160511681904 Distance from docuent to N: 0.0772376769890275
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miša.txtTest document value: 0.2946298984034833 Distance from docuent to P: 0.0784298635797455 Distance from docuent to N: 0.07162446429545713
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Jelenković.txtTest document value: 0.09813084112149532 Distance from docuent to P: 0.1993687378515329 Distance from docuent to N: 0.16272737902384612
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mara.txtTest document value: 0.36077481840193704 Distance from docuent to P: 0.10799435726450542 Distance from docuent to N: 0.10755837927745082
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Stanković.txtTest document value: 0.15384615384615385 Distance from docuent to P: 0.1508329123063615 Distance from docuent to N: 0.10850448512906768
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubiša_Baščarević.txtTest document value: 0.19004524886877827 Distance from docuent to P: 0.11946036328675366 Distance from docuent to N: 0.08068975247073955
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Akaljević.txtTest document value: 0.20437956204379562 Distance from docuent to P: 0.10703729186840531 Distance from docuent to N: 0.07374246407481842
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Adzić.txtTest document value: 0.3564356435643564 Distance from docuent to P: 0.10539085236195705 Distance from docuent to N: 0.10458947017805355
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miroslava_Starčev.txtTest document value: 0.20085470085470086 Distance from docuent to P: 0.11009217156562076 Distance from docuent to N: 0.07522661615443725
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ljubišić.txtTest document value: 0.14285714285714285 Distance from docuent to P: 0.16035672183017102 Distance from docuent to N: 0.11891512711865705
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Nada_Fatić-Milosavljević.txtTest document value: 0.27426955702167766 Distance from docuent to P: 0.07707250748762512 Distance from docuent to N: 0.0669392804473206
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milanović_Vera.txtTest document value: 0.2756183745583039 Distance from docuent to P: 0.07716242865673352 Distance from docuent to N: 0.0671522516373142
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ignjatović.txtTest document value: 0.3096774193548387 Distance from docuent to P: 0.0807297717642093 Distance from docuent to N: 0.07674547492686129
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Običan.txtTest document value: 0.23408385093167702 Distance from docuent to P: 0.08855933135490177 Distance from docuent to N: 0.06498445185730309
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Milićević.txtTest document value: 0.19746835443037974 Distance from docuent to P: 0.11302700513336573 Distance from docuent to N: 0.07665244622783562
+TrueNegatives: 19 FalsePositives: 0
+True Positives: 3FalsePositives: 0FalseNegatives: 5
+P: 1.0R: 0.375
+P: 1.0 R: 0.375 F: 0.5454545454545454
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Maca2.txtTest document value: 0.2625 Distance from docuent to P: 0.1917446110676567 Distance from docuent to N: 0.19161954382010887
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Milena3.txtTest document value: 0.3993174061433447 Distance from docuent to P: 0.168563939446117 Distance from docuent to N: 0.17487467521524183
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Ksenija2.txtTest document value: 0.5764705882352941 Distance from docuent to P: 0.27998516858411787 Distance from docuent to N: 0.2357928902787731
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dragica.txtTest document value: 0.3888888888888889 Distance from docuent to P: 0.16625997822514263 Distance from docuent to N: 0.17432580588605995
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Tanasije3.txtTest document value: 0.8113207547169812 Distance from docuent to P: 0.45220862400402184 Distance from docuent to N: 0.41252495653621596
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Steva4.txtTest document value: 0.5 Distance from docuent to P: 0.22390673721156887 Distance from docuent to N: 0.19888802876090855
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Dara.txtTest document value: 0.23076923076923078 Distance from docuent to P: 0.20655230337534894 Distance from docuent to N: 0.20707327282847823
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_2/Jovanka.txtTest document value: 0.20588235294117646 Distance from docuent to P: 0.22091127773432334 Distance from docuent to N: 0.2214507942350428
+TruePositives: 4 FalseNegatives: 4
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mila_Cvetkovic.txtTest document value: 0.5368421052631579 Distance from docuent to P: 0.25092428107121795 Distance from docuent to N: 0.2163395523066149
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milena_Jevremović.txtTest document value: 0.1652542372881356 Distance from docuent to P: 0.2507052292132199 Distance from docuent to N: 0.24739894464901274
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubinka_Dimitrijević.txtTest document value: 0.2376237623762376 Distance from docuent to P: 0.20335352195874576 Distance from docuent to N: 0.20346562461426412
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Milosavljevic.txtTest document value: 0.46895424836601307 Distance from docuent to P: 0.20150570132551637 Distance from docuent to N: 0.18530545092691444
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Lukić_Milorad.txtTest document value: 0.19230769230769232 Distance from docuent to P: 0.230866028865545 Distance from docuent to N: 0.2300242641088223
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miša.txtTest document value: 0.5561643835616439 Distance from docuent to P: 0.26509395182344103 Distance from docuent to N: 0.22549221044800297
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Jelenković.txtTest document value: 0.09545454545454546 Distance from docuent to P: 0.30718241518193135 Distance from docuent to N: 0.3093372753059706
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mara.txtTest document value: 0.7339901477832512 Distance from docuent to P: 0.3954995122526197 Distance from docuent to N: 0.34191508117969877
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Stanković.txtTest document value: 0.3870967741935484 Distance from docuent to P: 0.16614050391211996 Distance from docuent to N: 0.1742314840599894
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Ljubiša_Baščarević.txtTest document value: 0.21 Distance from docuent to P: 0.21789166989118608 Distance from docuent to N: 0.2188501750399963
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Akaljević.txtTest document value: 0.2153846153846154 Distance from docuent to P: 0.21394295194246807 Distance from docuent to N: 0.21572754568795216
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milica_Adzić.txtTest document value: 0.41379310344827586 Distance from docuent to P: 0.17338917188109404 Distance from docuent to N: 0.17563655402076453
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Miroslava_Starčev.txtTest document value: 0.21076233183856502 Distance from docuent to P: 0.21733262654290508 Distance from docuent to N: 0.21840360458303396
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ljubišić.txtTest document value: 0.09558823529411764 Distance from docuent to P: 0.30706655065430205 Distance from docuent to N: 0.30921062177374425
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Nada_Fatić-Milosavljević.txtTest document value: 0.4133522727272727 Distance from docuent to P: 0.1732422283074264 Distance from docuent to N: 0.1756133524038696
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milanović_Vera.txtTest document value: 0.4020618556701031 Distance from docuent to P: 0.16947875595503645 Distance from docuent to N: 0.1750191199271765
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Ignjatović.txtTest document value: 0.5 Distance from docuent to P: 0.22390673721156887 Distance from docuent to N: 0.19888802876090855
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Mirjana_Običan.txtTest document value: 0.2757201646090535 Distance from docuent to P: 0.18612389776175814 Distance from docuent to N: 0.18764768900651027
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_2/Milorad_Milićević.txtTest document value: 0.2708333333333333 Distance from docuent to P: 0.18785572217876778 Distance from docuent to N: 0.18893369723696296
+TrueNegatives: 7 FalsePositives: 12
+True Positives: 4FalsePositives: 12FalseNegatives: 4
+P: 0.25R: 0.5
+P: 0.25 R: 0.5 F: 0.3333333333333333
+ Exit calculate_statistics_for_measure
+ Exit calculate_statistics
+ Enter calculate_statistics
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Steva.txtTest document value: 0.4293193717277487 Distance from docuent to P: 0.09218030824645883 Distance from docuent to N: 0.13379119802736048
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Tanasije.txtTest document value: 0.43373493975903615 Distance from docuent to P: 0.08953096742768635 Distance from docuent to N: 0.136806583643416
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Bojana.txtTest document value: 0.48633879781420764 Distance from docuent to P: 0.07848884571362816 Distance from docuent to N: 0.17621704549609707
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Ksenija.txtTest document value: 0.4017467248908297 Distance from docuent to P: 0.11100672296693985 Distance from docuent to N: 0.11696839134101197
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Milena.txtTest document value: 0.4547038327526132 Distance from docuent to P: 0.08181520140083262 Distance from docuent to N: 0.15124207307904883
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Branko.txtTest document value: 0.6268656716417911 Distance from docuent to P: 0.14670159150869272 Distance from docuent to N: 0.3013295377718789
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Brka1.txtTest document value: 0.7428571428571429 Distance from docuent to P: 0.2538020339967134 Distance from docuent to N: 0.4169492774195053
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Maca.txtTest document value: 0.5416666666666666 Distance from docuent to P: 0.09093208644017968 Distance from docuent to N: 0.22278244519032828
+TruePositives: 8 FalseNegatives: 0
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovan_Knezevic.txtTest document value: 0.44644750795334043 Distance from docuent to P: 0.08346646636068718 Distance from docuent to N: 0.1455046566184663
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljiljana_Ranković.txtTest document value: 0.22400990099009901 Distance from docuent to P: 0.2650452078703305 Distance from docuent to N: 0.11815416246619403
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dobrica_Jevremović.txtTest document value: 0.2214867617107943 Distance from docuent to P: 0.2675683471496351 Distance from docuent to N: 0.11974772411628129
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivić_Cveta.txtTest document value: 0.5601851851851852 Distance from docuent to P: 0.09957406174882169 Distance from docuent to N: 0.23837698710065977
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ifeta.txtTest document value: 0.3081761006289308 Distance from docuent to P: 0.18558831076472196 Distance from docuent to N: 0.09254115401352724
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivatović_Jelena.txtTest document value: 0.20791712911579727 Distance from docuent to P: 0.28113797974463217 Distance from docuent to N: 0.12831801838680565
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Đaković_Nadežda.txtTest document value: 0.29606625258799174 Distance from docuent to P: 0.19608351240020253 Distance from docuent to N: 0.09260660347751479
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Franca_Mihajlović.txtTest document value: 0.3575685339690107 Distance from docuent to P: 0.14340406297627378 Distance from docuent to N: 0.09821933369891422
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dragica.txtTest document value: 0.22941822173435786 Distance from docuent to P: 0.2596368871260716 Distance from docuent to N: 0.11499400295537719
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovanka_Jovovic.txtTest document value: 0.579185520361991 Distance from docuent to P: 0.1098486274155442 Distance from docuent to N: 0.256158868138384
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljubica_Đorđević.txtTest document value: 0.21906873614190686 Distance from docuent to P: 0.2699863727185226 Distance from docuent to N: 0.1212748981597891
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Branko_Lučić.txtTest document value: 0.4197324414715719 Distance from docuent to P: 0.0979324664001649 Distance from docuent to N: 0.1277362947076698
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jozefina_Ciglar.txtTest document value: 0.2596221133659902 Distance from docuent to P: 0.22943299549443924 Distance from docuent to N: 0.0990069413109757
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jelena_Kojadinović.txtTest document value: 0.46064814814814814 Distance from docuent to P: 0.08062633832172561 Distance from docuent to N: 0.1559349536544711
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Gizela_Štefanac.txtTest document value: 0.24295302013422818 Distance from docuent to P: 0.24610208872620126 Distance from docuent to N: 0.10715806703966282
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Desanka_Vidojevic.txtTest document value: 0.47619047619047616 Distance from docuent to P: 0.07822827342366073 Distance from docuent to N: 0.16820521263525637
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Lela_Mitić.txtTest document value: 0.3877038895859473 Distance from docuent to P: 0.12130480219052027 Distance from docuent to N: 0.1095774253910739
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dušanka_Kovačević.txtTest document value: 0.2004541701073493 Distance from docuent to P: 0.2886009387530802 Distance from docuent to N: 0.1330314661816149
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Draga_Opačić.txtTest document value: 0.2554112554112554 Distance from docuent to P: 0.23364385344917407 Distance from docuent to N: 0.10089865262891548
+TrueNegatives: 13 FalsePositives: 6
+True Positives: 8FalsePositives: 6FalseNegatives: 0
+P: 0.5714285714285714R: 1.0
+P: 0.5714285714285714 R: 1.0 F: 0.7272727272727273
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Steva.txtTest document value: 1477.3469391083006 Distance from docuent to P: 370.51480337257976 Distance from docuent to N: 363.0288732334409
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Tanasije.txtTest document value: 1857.6431900532764 Distance from docuent to P: 261.91905297433897 Distance from docuent to N: 198.42104298947157
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Bojana.txtTest document value: 1545.4808920096214 Distance from docuent to P: 338.7189586852968 Distance from docuent to N: 296.7655673150849
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Ksenija.txtTest document value: 1544.3067532561784 Distance from docuent to P: 339.2668901035702 Distance from docuent to N: 297.86851728878753
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Milena.txtTest document value: 1905.7888188958698 Distance from docuent to P: 255.04850260168786 Distance from docuent to N: 206.02298438567055
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Branko.txtTest document value: 1471.642416786838 Distance from docuent to P: 373.1769137892623 Distance from docuent to N: 368.73339555490344
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Brka1.txtTest document value: 1848.7809919744952 Distance from docuent to P: 263.6914925900952 Distance from docuent to N: 197.0217485559798
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Maca.txtTest document value: 1562.2271962596835 Distance from docuent to P: 330.9040167019345 Distance from docuent to N: 283.1845259864418
+TruePositives: 0 FalseNegatives: 8
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovan_Knezevic.txtTest document value: 2201.112141212737 Distance from docuent to P: 473.6643685558891 Distance from docuent to N: 384.8737157629608
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljiljana_Ranković.txtTest document value: 1741.2321570893075 Distance from docuent to P: 285.20125956713275 Distance from docuent to N: 191.92985539600465
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dobrica_Jevremović.txtTest document value: 2105.26916153295 Distance from docuent to P: 379.78176851742387 Distance from docuent to N: 302.94500258577614
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivić_Cveta.txtTest document value: 2032.5271479055752 Distance from docuent to P: 319.6715346052406 Distance from docuent to N: 254.892955856858
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ifeta.txtTest document value: 1513.2586933883724 Distance from docuent to P: 353.75598470854624 Distance from docuent to N: 327.2824687424984
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivatović_Jelena.txtTest document value: 1721.313977134637 Distance from docuent to P: 289.18489555806684 Distance from docuent to N: 197.81729096579633
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Đaković_Nadežda.txtTest document value: 1784.3038950031846 Distance from docuent to P: 276.5869119843573 Distance from docuent to N: 189.0386425625977
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Franca_Mihajlović.txtTest document value: 1819.5164071532988 Distance from docuent to P: 269.5444095543345 Distance from docuent to N: 192.40102463684354
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dragica.txtTest document value: 1771.9815362774636 Distance from docuent to P: 279.0513837295015 Distance from docuent to N: 189.03864256259772
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovanka_Jovovic.txtTest document value: 1771.7046815237752 Distance from docuent to P: 279.10675468023925 Distance from docuent to N: 189.03864256259772
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljubica_Đorđević.txtTest document value: 1687.6669002021101 Distance from docuent to P: 295.9143109445722 Distance from docuent to N: 210.0175241211165
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Branko_Lučić.txtTest document value: 1725.5820206899014 Distance from docuent to P: 288.3312868470139 Distance from docuent to N: 196.46948773781813
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jozefina_Ciglar.txtTest document value: 1576.1490619953104 Distance from docuent to P: 324.40714602530863 Distance from docuent to N: 272.1935793530522
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jelena_Kojadinović.txtTest document value: 1750.1691189283742 Distance from docuent to P: 283.4138671993194 Distance from docuent to N: 190.17007392255417
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Gizela_Štefanac.txtTest document value: 1702.2821558239368 Distance from docuent to P: 292.9912598202069 Distance from docuent to N: 204.63295626044354
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Desanka_Vidojevic.txtTest document value: 1816.7546961864339 Distance from docuent to P: 270.09675174770746 Distance from docuent to N: 191.96496501049646
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Lela_Mitić.txtTest document value: 1966.080091186835 Distance from docuent to P: 275.45417406738216 Distance from docuent to N: 222.29066502352046
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dušanka_Kovačević.txtTest document value: 1971.1523247936523 Distance from docuent to P: 278.49751423147256 Distance from docuent to N: 224.27424382249717
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Draga_Opačić.txtTest document value: 1715.129259439212 Distance from docuent to P: 290.4218390971518 Distance from docuent to N: 199.89981282323683
+TrueNegatives: 19 FalsePositives: 0
+True Positives: 0FalsePositives: 0FalseNegatives: 8
+P: 0R: 0.0
+P: 0 R: 0.0 F: 0
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Steva.txtTest document value: 12.97351488118497 Distance from docuent to P: 1.1834052050214476 Distance from docuent to N: 1.57373162445413
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Tanasije.txtTest document value: 12.893407365696389 Distance from docuent to P: 1.1353406957282985 Distance from docuent to N: 1.6272280190351394
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Bojana.txtTest document value: 11.988709958456015 Distance from docuent to P: 0.9866186880507117 Distance from docuent to N: 2.3255682739779187
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Ksenija.txtTest document value: 13.349180148273867 Distance from docuent to P: 1.4426055794698869 Distance from docuent to N: 1.3600532311150986
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Milena.txtTest document value: 12.633375150382433 Distance from docuent to P: 1.026024049525171 Distance from docuent to N: 1.8088921633138433
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Branko.txtTest document value: 9.672941300653557 Distance from docuent to P: 2.3863612522920645 Distance from docuent to N: 4.511463298846591
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Brka1.txtTest document value: 7.979538359664028 Distance from docuent to P: 4.016261619421188 Distance from docuent to N: 6.204866239836118
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Maca.txtTest document value: 11.51042055431497 Distance from docuent to P: 1.1387633713881358 Distance from docuent to N: 2.7359663691550584
+TruePositives: 7 FalseNegatives: 1
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovan_Knezevic.txtTest document value: 12.517328192329783 Distance from docuent to P: 0.9873417301742878 Distance from docuent to N: 1.9005081828290922
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljiljana_Ranković.txtTest document value: 15.278838497124203 Distance from docuent to P: 3.2830385180389863 Distance from docuent to N: 1.483006686445085
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dobrica_Jevremović.txtTest document value: 15.012830350978579 Distance from docuent to P: 3.0170303718933624 Distance from docuent to N: 1.352346675279765
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivić_Cveta.txtTest document value: 11.431349420620172 Distance from docuent to P: 1.1756632337790416 Distance from docuent to N: 2.810875864234341
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ifeta.txtTest document value: 14.545373372282993 Distance from docuent to P: 2.5495733931977766 Distance from docuent to N: 1.2259873518053872
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivatović_Jelena.txtTest document value: 16.118215923427808 Distance from docuent to P: 4.122415944342592 Distance from docuent to N: 2.058639982396523
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Đaković_Nadežda.txtTest document value: 14.545505614651555 Distance from docuent to P: 2.5497056355663394 Distance from docuent to N: 1.2260082321793713
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Franca_Mihajlović.txtTest document value: 13.829920382292242 Distance from docuent to P: 1.839361966113539 Distance from docuent to N: 1.206410686641726
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dragica.txtTest document value: 15.394537966796946 Distance from docuent to P: 3.3987379877117303 Distance from docuent to N: 1.5536118374373131
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovanka_Jovovic.txtTest document value: 11.292427159287403 Distance from docuent to P: 1.240493622401001 Distance from docuent to N: 2.9424864276022293
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljubica_Đorđević.txtTest document value: 16.0325093005556 Distance from docuent to P: 4.036709321470383 Distance from docuent to N: 1.9918088822114115
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Branko_Lučić.txtTest document value: 13.0554344092776 Distance from docuent to P: 1.2325569218770256 Distance from docuent to N: 1.5219929751324681
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jozefina_Ciglar.txtTest document value: 15.440398770506924 Distance from docuent to P: 3.4445987914217073 Distance from docuent to N: 1.582576555569931
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jelena_Kojadinović.txtTest document value: 12.600781289395693 Distance from docuent to P: 1.0151594291962576 Distance from docuent to N: 1.834624158829691
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Gizela_Štefanac.txtTest document value: 15.309990939281933 Distance from docuent to P: 3.3141909601967177 Distance from docuent to N: 1.501042310852192
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Desanka_Vidojevic.txtTest document value: 12.41313715034385 Distance from docuent to P: 0.969876680905744 Distance from docuent to N: 1.9827642686074607
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Lela_Mitić.txtTest document value: 13.384708731581604 Distance from docuent to P: 1.468659873895561 Distance from docuent to N: 1.3413539767426053
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dušanka_Kovačević.txtTest document value: 15.296649429003558 Distance from docuent to P: 3.3008494499183416 Distance from docuent to N: 1.4933182785857648
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Draga_Opačić.txtTest document value: 15.233297446116657 Distance from docuent to P: 3.2374974670314396 Distance from docuent to N: 1.456640814809137
+TrueNegatives: 13 FalsePositives: 6
+True Positives: 7FalsePositives: 6FalseNegatives: 1
+P: 0.5384615384615384R: 0.875
+P: 0.5384615384615384 R: 0.875 F: 0.6666666666666667
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Steva.txtTest document value: 0.2591623036649215 Distance from docuent to P: 0.028036965206432438 Distance from docuent to N: 0.029215761782190593
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Tanasije.txtTest document value: 0.29518072289156627 Distance from docuent to P: 0.03619699243529787 Distance from docuent to N: 0.03549766551267091
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Bojana.txtTest document value: 0.3333333333333333 Distance from docuent to P: 0.06629197554232917 Distance from docuent to N: 0.06664906001416779
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Ksenija.txtTest document value: 0.25327510917030566 Distance from docuent to P: 0.029214404105355602 Distance from docuent to N: 0.03131980741241127
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Milena.txtTest document value: 0.28222996515679444 Distance from docuent to P: 0.028785789710400425 Distance from docuent to N: 0.02976392661750437
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Branko.txtTest document value: 0.2835820895522388 Distance from docuent to P: 0.029236497842215214 Distance from docuent to N: 0.030262077710562815
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Brka1.txtTest document value: 0.2857142857142857 Distance from docuent to P: 0.0300044299534309 Distance from docuent to N: 0.03104762366500115
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Maca.txtTest document value: 0.18229166666666666 Distance from docuent to P: 0.08537129174593813 Distance from docuent to N: 0.08661081502575232
+TruePositives: 7 FalseNegatives: 1
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovan_Knezevic.txtTest document value: 0.22905620360551432 Distance from docuent to P: 0.04060628714593249 Distance from docuent to N: 0.04545300113911501
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljiljana_Ranković.txtTest document value: 0.2787747524752475 Distance from docuent to P: 0.02775350404396687 Distance from docuent to N: 0.02881630341968246
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dobrica_Jevremović.txtTest document value: 0.27647657841140527 Distance from docuent to P: 0.027411457518482747 Distance from docuent to N: 0.028391182292175784
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivić_Cveta.txtTest document value: 0.22685185185185186 Distance from docuent to P: 0.042116767226578714 Distance from docuent to N: 0.046961241812673526
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ifeta.txtTest document value: 0.302785265049416 Distance from docuent to P: 0.04177365668438767 Distance from docuent to N: 0.040638315725532954
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivatović_Jelena.txtTest document value: 0.33518312985571586 Distance from docuent to P: 0.06789513252839402 Distance from docuent to N: 0.06830414111314166
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Đaković_Nadežda.txtTest document value: 0.28226363008971705 Distance from docuent to P: 0.02879701135470797 Distance from docuent to N: 0.02977632948752849
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Franca_Mihajlović.txtTest document value: 0.265792610250298 Distance from docuent to P: 0.027582017354828965 Distance from docuent to N: 0.028072049420716096
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dragica.txtTest document value: 0.2934504207830223 Distance from docuent to P: 0.03492810422236562 Distance from docuent to N: 0.03449591166035598
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovanka_Jovovic.txtTest document value: 0.248868778280543 Distance from docuent to P: 0.0302464998459024 Distance from docuent to N: 0.03346172040004023
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljubica_Đorđević.txtTest document value: 0.26740576496674057 Distance from docuent to P: 0.02747447370706613 Distance from docuent to N: 0.027902243661090554
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Branko_Lučić.txtTest document value: 0.23411371237458195 Distance from docuent to P: 0.037571781884491916 Distance from docuent to N: 0.041992600402384526
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jozefina_Ciglar.txtTest document value: 0.26871938418474456 Distance from docuent to P: 0.027386899092532533 Distance from docuent to N: 0.027790193989529133
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jelena_Kojadinović.txtTest document value: 0.27546296296296297 Distance from docuent to P: 0.027343883155253264 Distance from docuent to N: 0.028231137747684886
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Gizela_Štefanac.txtTest document value: 0.2366890380313199 Distance from docuent to P: 0.036026586490449146 Distance from docuent to N: 0.0403603447428413
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Desanka_Vidojevic.txtTest document value: 0.3165266106442577 Distance from docuent to P: 0.05185064345393824 Distance from docuent to N: 0.05167196775250223
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Lela_Mitić.txtTest document value: 0.26474278544542035 Distance from docuent to P: 0.027652005675154145 Distance from docuent to N: 0.028182557294913743
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dušanka_Kovačević.txtTest document value: 0.2658959537572254 Distance from docuent to P: 0.027575127787700472 Distance from docuent to N: 0.028061171156828994
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Draga_Opačić.txtTest document value: 0.27056277056277056 Distance from docuent to P: 0.027264006667330795 Distance from docuent to N: 0.027790193989529133
+TrueNegatives: 3 FalsePositives: 16
+True Positives: 7FalsePositives: 16FalseNegatives: 1
+P: 0.30434782608695654R: 0.875
+P: 0.30434782608695654 R: 0.875 F: 0.4516129032258065
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Steva.txtTest document value: 0.2591623036649215 Distance from docuent to P: 0.028036965206432438 Distance from docuent to N: 0.029215761782190593
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Tanasije.txtTest document value: 0.29518072289156627 Distance from docuent to P: 0.03619699243529787 Distance from docuent to N: 0.03549766551267091
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Bojana.txtTest document value: 0.3333333333333333 Distance from docuent to P: 0.06629197554232917 Distance from docuent to N: 0.06664906001416779
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Ksenija.txtTest document value: 0.25327510917030566 Distance from docuent to P: 0.029214404105355602 Distance from docuent to N: 0.03131980741241127
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Milena.txtTest document value: 0.28222996515679444 Distance from docuent to P: 0.028785789710400425 Distance from docuent to N: 0.02976392661750437
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Branko.txtTest document value: 0.2835820895522388 Distance from docuent to P: 0.029236497842215214 Distance from docuent to N: 0.030262077710562815
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Brka1.txtTest document value: 0.2857142857142857 Distance from docuent to P: 0.0300044299534309 Distance from docuent to N: 0.03104762366500115
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Maca.txtTest document value: 0.18229166666666666 Distance from docuent to P: 0.08537129174593813 Distance from docuent to N: 0.08661081502575232
+TruePositives: 7 FalseNegatives: 1
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovan_Knezevic.txtTest document value: 0.22905620360551432 Distance from docuent to P: 0.04060628714593249 Distance from docuent to N: 0.04545300113911501
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljiljana_Ranković.txtTest document value: 0.2787747524752475 Distance from docuent to P: 0.02775350404396687 Distance from docuent to N: 0.02881630341968246
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dobrica_Jevremović.txtTest document value: 0.27647657841140527 Distance from docuent to P: 0.027411457518482747 Distance from docuent to N: 0.028391182292175784
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivić_Cveta.txtTest document value: 0.22685185185185186 Distance from docuent to P: 0.042116767226578714 Distance from docuent to N: 0.046961241812673526
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ifeta.txtTest document value: 0.302785265049416 Distance from docuent to P: 0.04177365668438767 Distance from docuent to N: 0.040638315725532954
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivatović_Jelena.txtTest document value: 0.33518312985571586 Distance from docuent to P: 0.06789513252839402 Distance from docuent to N: 0.06830414111314166
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Đaković_Nadežda.txtTest document value: 0.28226363008971705 Distance from docuent to P: 0.02879701135470797 Distance from docuent to N: 0.02977632948752849
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Franca_Mihajlović.txtTest document value: 0.265792610250298 Distance from docuent to P: 0.027582017354828965 Distance from docuent to N: 0.028072049420716096
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dragica.txtTest document value: 0.2934504207830223 Distance from docuent to P: 0.03492810422236562 Distance from docuent to N: 0.03449591166035598
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovanka_Jovovic.txtTest document value: 0.248868778280543 Distance from docuent to P: 0.0302464998459024 Distance from docuent to N: 0.03346172040004023
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljubica_Đorđević.txtTest document value: 0.26740576496674057 Distance from docuent to P: 0.02747447370706613 Distance from docuent to N: 0.027902243661090554
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Branko_Lučić.txtTest document value: 0.23411371237458195 Distance from docuent to P: 0.037571781884491916 Distance from docuent to N: 0.041992600402384526
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jozefina_Ciglar.txtTest document value: 0.26871938418474456 Distance from docuent to P: 0.027386899092532533 Distance from docuent to N: 0.027790193989529133
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jelena_Kojadinović.txtTest document value: 0.27546296296296297 Distance from docuent to P: 0.027343883155253264 Distance from docuent to N: 0.028231137747684886
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Gizela_Štefanac.txtTest document value: 0.2366890380313199 Distance from docuent to P: 0.036026586490449146 Distance from docuent to N: 0.0403603447428413
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Desanka_Vidojevic.txtTest document value: 0.3165266106442577 Distance from docuent to P: 0.05185064345393824 Distance from docuent to N: 0.05167196775250223
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Lela_Mitić.txtTest document value: 0.26474278544542035 Distance from docuent to P: 0.027652005675154145 Distance from docuent to N: 0.028182557294913743
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dušanka_Kovačević.txtTest document value: 0.2658959537572254 Distance from docuent to P: 0.027575127787700472 Distance from docuent to N: 0.028061171156828994
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Draga_Opačić.txtTest document value: 0.27056277056277056 Distance from docuent to P: 0.027264006667330795 Distance from docuent to N: 0.027790193989529133
+TrueNegatives: 3 FalsePositives: 16
+True Positives: 7FalsePositives: 16FalseNegatives: 1
+P: 0.30434782608695654R: 0.875
+P: 0.30434782608695654 R: 0.875 F: 0.4516129032258065
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Steva.txtTest document value: 0.060209424083769635 Distance from docuent to P: 0.012511493992102163 Distance from docuent to N: 0.01585710807144859
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Tanasije.txtTest document value: 0.04819277108433735 Distance from docuent to P: 0.010149949134635971 Distance from docuent to N: 0.016431766294723243
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Bojana.txtTest document value: 0.01639344262295082 Distance from docuent to P: 0.03516177758388188 Distance from docuent to N: 0.04206930755566847
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Ksenija.txtTest document value: 0.04585152838427948 Distance from docuent to P: 0.010618197674647549 Distance from docuent to N: 0.01732852435694455
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Milena.txtTest document value: 0.05400696864111498 Distance from docuent to P: 0.010694595820321125 Distance from docuent to N: 0.0155921484512947
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Branko.txtTest document value: 0.014925373134328358 Distance from docuent to P: 0.03662984707250434 Distance from docuent to N: 0.04353737704429092
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Brka1.txtTest document value: 0.11428571428571428 Distance from docuent to P: 0.06273049407888158 Distance from docuent to N: 0.055822964107095016
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Maca.txtTest document value: 0.08333333333333333 Distance from docuent to P: 0.031778113126500626 Distance from docuent to N: 0.02813970863331571
+TruePositives: 6 FalseNegatives: 2
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovan_Knezevic.txtTest document value: 0.09013785790031813 Distance from docuent to P: 0.038582637693485425 Distance from docuent to N: 0.03326246654009144
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljiljana_Ranković.txtTest document value: 0.053217821782178217 Distance from docuent to P: 0.010536766448533772 Distance from docuent to N: 0.01562521855992499
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dobrica_Jevremović.txtTest document value: 0.04837067209775967 Distance from docuent to P: 0.01011436893195151 Distance from docuent to N: 0.01637558702732672
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivić_Cveta.txtTest document value: 0.08796296296296297 Distance from docuent to P: 0.03640774275613026 Distance from docuent to N: 0.0315510146762007
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ifeta.txtTest document value: 0.04582210242587601 Distance from docuent to P: 0.010624082866328242 Distance from docuent to N: 0.017340914234167063
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivatović_Jelena.txtTest document value: 0.059193488716241215 Distance from docuent to P: 0.012037390820588901 Distance from docuent to N: 0.015770799270221285
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Đaković_Nadežda.txtTest document value: 0.05244996549344375 Distance from docuent to P: 0.010383195190786879 Distance from docuent to N: 0.01566563204880576
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Franca_Mihajlović.txtTest document value: 0.054827175208581644 Distance from docuent to P: 0.010858637133814457 Distance from docuent to N: 0.0155921484512947
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dragica.txtTest document value: 0.0464690815953165 Distance from docuent to P: 0.010494687032440142 Distance from docuent to N: 0.017068501952297394
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovanka_Jovovic.txtTest document value: 0.049773755656108594 Distance from docuent to P: 0.01009721146760709 Distance from docuent to N: 0.015998660470586665
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljubica_Đorđević.txtTest document value: 0.03458980044345898 Distance from docuent to P: 0.017276317887017712 Distance from docuent to N: 0.024248573116681115
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Branko_Lučić.txtTest document value: 0.06521739130434782 Distance from docuent to P: 0.015555579232157479 Distance from docuent to N: 0.01755404720817834
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jozefina_Ciglar.txtTest document value: 0.05878236529041288 Distance from docuent to P: 0.01184553322186901 Distance from docuent to N: 0.015749161195177677
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jelena_Kojadinović.txtTest document value: 0.032407407407407406 Distance from docuent to P: 0.019167725184929083 Distance from docuent to N: 0.026201240569990413
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Gizela_Štefanac.txtTest document value: 0.056375838926174496 Distance from docuent to P: 0.011168369877333028 Distance from docuent to N: 0.01562250191284935
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Desanka_Vidojevic.txtTest document value: 0.05322128851540616 Distance from docuent to P: 0.01053745979517936 Distance from docuent to N: 0.01562503610028141
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Lela_Mitić.txtTest document value: 0.05897114178168131 Distance from docuent to P: 0.011933628917794278 Distance from docuent to N: 0.015759096799981286
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dušanka_Kovačević.txtTest document value: 0.04521056977704377 Distance from docuent to P: 0.01074638939609469 Distance from docuent to N: 0.01759840166525433
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Draga_Opačić.txtTest document value: 0.030844155844155844 Distance from docuent to P: 0.02071106436267686 Distance from docuent to N: 0.027680589134926787
+TrueNegatives: 2 FalsePositives: 17
+True Positives: 6FalsePositives: 17FalseNegatives: 2
+P: 0.2608695652173913R: 0.75
+P: 0.2608695652173913 R: 0.75 F: 0.3870967741935483
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Steva.txtTest document value: 0.06806282722513089 Distance from docuent to P: 0.018614061418845244 Distance from docuent to N: 0.021469606542578328
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Tanasije.txtTest document value: 0.08132530120481928 Distance from docuent to P: 0.012774134109136219 Distance from docuent to N: 0.014561016760616519
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Bojana.txtTest document value: 0.09836065573770492 Distance from docuent to P: 0.017951957132475223 Distance from docuent to N: 0.01574850586992184
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Ksenija.txtTest document value: 0.08296943231441048 Distance from docuent to P: 0.012883742849775632 Distance from docuent to N: 0.014090200533002887
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Milena.txtTest document value: 0.07665505226480836 Distance from docuent to P: 0.013260981652541418 Distance from docuent to N: 0.016340116370789498
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Branko.txtTest document value: 0.07462686567164178 Distance from docuent to P: 0.014101737622780337 Distance from docuent to N: 0.017317226223754745
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Brka1.txtTest document value: 0.05714285714285714 Distance from docuent to P: 0.028219128964575964 Distance from docuent to N: 0.03125614041492897
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Maca.txtTest document value: 0.07291666666666667 Distance from docuent to P: 0.015054151479423043 Distance from docuent to N: 0.01821800864629819
+TruePositives: 7 FalseNegatives: 1
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovan_Knezevic.txtTest document value: 0.05726405090137858 Distance from docuent to P: 0.02809793520605453 Distance from docuent to N: 0.03113494665640754
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljiljana_Ranković.txtTest document value: 0.10983910891089109 Distance from docuent to P: 0.02703620935727465 Distance from docuent to N: 0.023609088045841276
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dobrica_Jevremović.txtTest document value: 0.079938900203666 Distance from docuent to P: 0.012681707375726 Distance from docuent to N: 0.014998827603085976
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivić_Cveta.txtTest document value: 0.07407407407407407 Distance from docuent to P: 0.014359707034978604 Distance from docuent to N: 0.017608169169843018
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ifeta.txtTest document value: 0.05929919137466307 Distance from docuent to P: 0.02620921248925069 Distance from docuent to N: 0.029099806183123047
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivatović_Jelena.txtTest document value: 0.06585275619681835 Distance from docuent to P: 0.020529456310049446 Distance from docuent to N: 0.023152652348187835
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Đaković_Nadežda.txtTest document value: 0.1131815044858523 Distance from docuent to P: 0.0299329521889077 Distance from docuent to N: 0.026247821394494854
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Franca_Mihajlović.txtTest document value: 0.10250297973778308 Distance from docuent to P: 0.020989661399199208 Distance from docuent to N: 0.018218332812772305
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dragica.txtTest document value: 0.0889132821075741 Distance from docuent to P: 0.014184793954911028 Distance from docuent to N: 0.013038840733090001
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovanka_Jovovic.txtTest document value: 0.09049773755656108 Distance from docuent to P: 0.014712945771240023 Distance from docuent to N: 0.01306029586290427
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljubica_Đorđević.txtTest document value: 0.06829268292682927 Distance from docuent to P: 0.01841485314403998 Distance from docuent to N: 0.021300239183432164
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Branko_Lučić.txtTest document value: 0.09698996655518395 Distance from docuent to P: 0.01708668494943859 Distance from docuent to N: 0.015048975208841797
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jozefina_Ciglar.txtTest document value: 0.11336599020293912 Distance from docuent to P: 0.030092839810382948 Distance from docuent to N: 0.026393468013247618
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jelena_Kojadinović.txtTest document value: 0.09953703703703703 Distance from docuent to P: 0.018814636751985445 Distance from docuent to N: 0.016369472315614957
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Gizela_Štefanac.txtTest document value: 0.14630872483221477 Distance from docuent to P: 0.060946738724781666 Distance from docuent to N: 0.057909727274428655
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Desanka_Vidojevic.txtTest document value: 0.10644257703081232 Distance from docuent to P: 0.02409254839453972 Distance from docuent to N: 0.020964472356939337
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Lela_Mitić.txtTest document value: 0.06900878293601004 Distance from docuent to P: 0.017794233136083318 Distance from docuent to N: 0.02077258654508844
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dušanka_Kovačević.txtTest document value: 0.09062758051197357 Distance from docuent to P: 0.014756226756377519 Distance from docuent to N: 0.013067129702662822
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Draga_Opačić.txtTest document value: 0.10984848484848485 Distance from docuent to P: 0.027044335169855906 Distance from docuent to N: 0.023616490101836342
+TrueNegatives: 12 FalsePositives: 7
+True Positives: 7FalsePositives: 7FalseNegatives: 1
+P: 0.5R: 0.875
+P: 0.5 R: 0.875 F: 0.6363636363636364
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Steva.txtTest document value: 0.8484848484848485 Distance from docuent to P: 0.2341982549741073 Distance from docuent to N: 0.2787834284288599
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Tanasije.txtTest document value: 0.5408163265306123 Distance from docuent to P: 0.37272605425525085 Distance from docuent to N: 0.32433892239378875
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Bojana.txtTest document value: 0.3770491803278688 Distance from docuent to P: 0.5364932004579944 Distance from docuent to N: 0.4611246450665726
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Ksenija.txtTest document value: 0.896551724137931 Distance from docuent to P: 0.23099379659723512 Distance from docuent to N: 0.28743596579568537
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Milena.txtTest document value: 0.7962962962962963 Distance from docuent to P: 0.23767749178667744 Distance from docuent to N: 0.2760366625241993
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Branko.txtTest document value: 0.3157894736842105 Distance from docuent to P: 0.5977529071016525 Distance from docuent to N: 0.5214042351820343
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Brka1.txtTest document value: 1.5 Distance from docuent to P: 0.6009503728373252 Distance from docuent to N: 0.7046833253482505
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Maca.txtTest document value: 2.3142857142857145 Distance from docuent to P: 1.4007433334998514 Distance from docuent to N: 1.4770920054194696
+TruePositives: 5 FalseNegatives: 3
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovan_Knezevic.txtTest document value: 1.4074074074074074 Distance from docuent to P: 0.5207034592570784 Distance from docuent to N: 0.6312947256438616
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljiljana_Ranković.txtTest document value: 0.5538290788013318 Distance from docuent to P: 0.3597133019845313 Distance from docuent to N: 0.3168052237107406
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dobrica_Jevremović.txtTest document value: 0.6602209944751382 Distance from docuent to P: 0.2905240146689906 Distance from docuent to N: 0.2780978964508467
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivić_Cveta.txtTest document value: 1.163265306122449 Distance from docuent to P: 0.32276497819754163 Distance from docuent to N: 0.438550961471526
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ifeta.txtTest document value: 0.744807121661721 Distance from docuent to P: 0.24934578281138792 Distance from docuent to N: 0.2733267059644847
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivatović_Jelena.txtTest document value: 0.48344370860927155 Distance from docuent to P: 0.4300986721765916 Distance from docuent to N: 0.36607601549365976
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Đaković_Nadežda.txtTest document value: 0.5672371638141809 Distance from docuent to P: 0.34778019689260836 Distance from docuent to N: 0.3090426481769859
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Franca_Mihajlović.txtTest document value: 0.8609865470852018 Distance from docuent to P: 0.23336480840075033 Distance from docuent to N: 0.2800727738212673
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dragica.txtTest document value: 0.5486284289276808 Distance from docuent to P: 0.36491395185818226 Distance from docuent to N: 0.3198161262691701
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovanka_Jovovic.txtTest document value: 0.8909090909090909 Distance from docuent to P: 0.2313699721458244 Distance from docuent to N: 0.2861034948841707
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljubica_Đorđević.txtTest document value: 0.5439469320066335 Distance from docuent to P: 0.3695954487792296 Distance from docuent to N: 0.3225264665918817
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Branko_Lučić.txtTest document value: 0.9357142857142857 Distance from docuent to P: 0.22933534011119233 Distance from docuent to N: 0.29951740975356644
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jozefina_Ciglar.txtTest document value: 0.5338541666666666 Distance from docuent to P: 0.37968821411919657 Distance from docuent to N: 0.32836964652554673
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jelena_Kojadinović.txtTest document value: 0.7058823529411765 Distance from docuent to P: 0.26325577560993974 Distance from docuent to N: 0.273052954304147
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Gizela_Štefanac.txtTest document value: 0.8431001890359168 Distance from docuent to P: 0.23455723227070271 Distance from docuent to N: 0.27850002529996876
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Desanka_Vidojevic.txtTest document value: 0.504424778761062 Distance from docuent to P: 0.4091176020248012 Distance from docuent to N: 0.34908665931490207
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Lela_Mitić.txtTest document value: 0.7819905213270142 Distance from docuent to P: 0.23863121011796284 Distance from docuent to N: 0.27528372699950016
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dušanka_Kovačević.txtTest document value: 0.5722049689440993 Distance from docuent to P: 0.34413713979733485 Distance from docuent to N: 0.306166550470191
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Draga_Opačić.txtTest document value: 0.486 Distance from docuent to P: 0.42754238078586315 Distance from docuent to N: 0.36392334905936213
+TrueNegatives: 10 FalsePositives: 9
+True Positives: 5FalsePositives: 9FalseNegatives: 3
+P: 0.35714285714285715R: 0.625
+P: 0.35714285714285715 R: 0.625 F: 0.45454545454545453
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Steva.txtTest document value: 0.30303030303030304 Distance from docuent to P: 0.06566843424618063 Distance from docuent to N: 0.07796836551074743
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Tanasije.txtTest document value: 0.25510204081632654 Distance from docuent to P: 0.06917300825481121 Distance from docuent to N: 0.06679794487463744
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Bojana.txtTest document value: 0.4098360655737705 Distance from docuent to P: 0.12286220210983283 Distance from docuent to N: 0.16380274582891666
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Ksenija.txtTest document value: 0.3793103448275862 Distance from docuent to P: 0.1017538127708047 Distance from docuent to N: 0.13488364196411048
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Milena.txtTest document value: 0.25925925925925924 Distance from docuent to P: 0.06778726877383365 Distance from docuent to N: 0.06723554681599878
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Branko.txtTest document value: 0.2631578947368421 Distance from docuent to P: 0.06648772361463937 Distance from docuent to N: 0.0676459294978496
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Brka1.txtTest document value: 0.1 Distance from docuent to P: 0.20025734539280354 Distance from docuent to N: 0.14676081989860582
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Maca.txtTest document value: 0.6285714285714286 Distance from docuent to P: 0.328314083178625 Distance from docuent to N: 0.3819089854559018
+TruePositives: 5 FalseNegatives: 3
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovan_Knezevic.txtTest document value: 0.17592592592592593 Distance from docuent to P: 0.12433141946687762 Distance from docuent to N: 0.08228499991366782
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljiljana_Ranković.txtTest document value: 0.2641509433962264 Distance from docuent to P: 0.0661567073948446 Distance from docuent to N: 0.06775046093567953
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dobrica_Jevremović.txtTest document value: 0.31215469613259667 Distance from docuent to P: 0.0671080601406741 Distance from docuent to N: 0.0825705261128616
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivić_Cveta.txtTest document value: 0.32653061224489793 Distance from docuent to P: 0.07190003217810784 Distance from docuent to N: 0.09213264008352515
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ifeta.txtTest document value: 0.27596439169139464 Distance from docuent to P: 0.06502499231096283 Distance from docuent to N: 0.06910139506163449
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivatović_Jelena.txtTest document value: 0.2229580573951435 Distance from docuent to P: 0.08127103952029753 Distance from docuent to N: 0.06664709398600592
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Đaković_Nadežda.txtTest document value: 0.2713936430317848 Distance from docuent to P: 0.06532970888827014 Distance from docuent to N: 0.06851285037100144
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Franca_Mihajlović.txtTest document value: 0.21524663677130046 Distance from docuent to P: 0.08588139394177616 Distance from docuent to N: 0.06724586772026848
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dragica.txtTest document value: 0.38403990024937656 Distance from docuent to P: 0.10459154602387892 Distance from docuent to N: 0.13936427341633298
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovanka_Jovovic.txtTest document value: 0.23636363636363636 Distance from docuent to P: 0.0754191430723746 Distance from docuent to N: 0.06606152590513575
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljubica_Đorđević.txtTest document value: 0.373134328358209 Distance from docuent to P: 0.09804820288917838 Distance from docuent to N: 0.12925886732241512
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Branko_Lučić.txtTest document value: 0.2357142857142857 Distance from docuent to P: 0.07563559328882483 Distance from docuent to N: 0.06606152590513573
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jozefina_Ciglar.txtTest document value: 0.2265625 Distance from docuent to P: 0.07958896630469785 Distance from docuent to N: 0.06645738648048718
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jelena_Kojadinović.txtTest document value: 0.18487394957983194 Distance from docuent to P: 0.1153833958129716 Distance from docuent to N: 0.07701193229891712
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Gizela_Štefanac.txtTest document value: 0.22684310018903592 Distance from docuent to P: 0.07945801954981441 Distance from docuent to N: 0.0664426180494853
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Desanka_Vidojevic.txtTest document value: 0.17699115044247787 Distance from docuent to P: 0.12326619495032567 Distance from docuent to N: 0.0816122265347929
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Lela_Mitić.txtTest document value: 0.22274881516587677 Distance from docuent to P: 0.08136868589395535 Distance from docuent to N: 0.06665810673491472
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dušanka_Kovačević.txtTest document value: 0.3734472049689441 Distance from docuent to P: 0.09823592885561945 Distance from docuent to N: 0.12953880955307287
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Draga_Opačić.txtTest document value: 0.38 Distance from docuent to P: 0.10216760587425297 Distance from docuent to N: 0.13553699949587092
+TrueNegatives: 10 FalsePositives: 9
+True Positives: 5FalsePositives: 9FalseNegatives: 3
+P: 0.35714285714285715R: 0.625
+P: 0.35714285714285715 R: 0.625 F: 0.45454545454545453
+ Exit calculate_statistics_for_measure
+ Enter calculate_statistics_for_measure
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+ Enter find_all_train_statistics
+ Exit find_all_positive_train_statistics
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Steva.txtTest document value: 0.35714285714285715 Distance from docuent to P: 0.1287096631795018 Distance from docuent to N: 0.17417865365776583
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Tanasije.txtTest document value: 0.4716981132075472 Distance from docuent to P: 0.16665323865953763 Distance from docuent to N: 0.19801347491408008
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Bojana.txtTest document value: 1.0869565217391304 Distance from docuent to P: 0.718885380080503 Distance from docuent to N: 0.7225110877669036
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Ksenija.txtTest document value: 0.4230769230769231 Distance from docuent to P: 0.13998499685307725 Distance from docuent to N: 0.18087988666634855
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Milena.txtTest document value: 0.32558139534883723 Distance from docuent to P: 0.13406957458592486 Distance from docuent to N: 0.17583978322587213
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Branko.txtTest document value: 0.8333333333333334 Distance from docuent to P: 0.465262191674706 Distance from docuent to N: 0.4718852045362702
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Brka1.txtTest document value: 0.06666666666666667 Distance from docuent to P: 0.3014044749919608 Distance from docuent to N: 0.2981037764257141
+Test document ../Tagged_Texts_2/Train_Test_Corpus/P_1/Maca.txtTest document value: 0.2716049382716049 Distance from docuent to P: 0.14486486600137133 Distance from docuent to N: 0.17889724024769746
+TruePositives: 7 FalseNegatives: 1
+Enter Find all test statistics
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovan_Knezevic.txtTest document value: 0.125 Distance from docuent to P: 0.2430711416586274 Distance from docuent to N: 0.24594363007052134
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljiljana_Ranković.txtTest document value: 0.47695390781563124 Distance from docuent to P: 0.16980671542438805 Distance from docuent to N: 0.2005030618336989
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dobrica_Jevremović.txtTest document value: 0.47280334728033474 Distance from docuent to P: 0.16731637910321015 Distance from docuent to N: 0.1985370068432953
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivić_Cveta.txtTest document value: 0.2807017543859649 Distance from docuent to P: 0.14304550277849928 Distance from docuent to N: 0.17820186959233902
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ifeta.txtTest document value: 0.3705179282868526 Distance from docuent to P: 0.12781799176990213 Distance from docuent to N: 0.17396979818575245
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ivatović_Jelena.txtTest document value: 0.4611872146118721 Distance from docuent to P: 0.16034669950213262 Distance from docuent to N: 0.19366463341957812
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Đaković_Nadežda.txtTest document value: 0.47844827586206895 Distance from docuent to P: 0.17070333625225068 Distance from docuent to N: 0.20121092038201152
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Franca_Mihajlović.txtTest document value: 0.25 Distance from docuent to P: 0.15085252032235896 Distance from docuent to N: 0.18226793550435752
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dragica.txtTest document value: 0.7 Distance from docuent to P: 0.3467716256369701 Distance from docuent to N: 0.3492768220240512
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jovanka_Jovovic.txtTest document value: 0.2653061224489796 Distance from docuent to P: 0.14612462916589636 Distance from docuent to N: 0.17985117932820283
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Ljubica_Đorđević.txtTest document value: 0.6859756097560976 Distance from docuent to P: 0.3346171540922548 Distance from docuent to N: 0.3374668091870808
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Branko_Lučić.txtTest document value: 0.25190839694656486 Distance from docuent to P: 0.15021638800683737 Distance from docuent to N: 0.18196660967068937
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jozefina_Ciglar.txtTest document value: 0.424390243902439 Distance from docuent to P: 0.1405978799049848 Distance from docuent to N: 0.18129461955861675
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Jelena_Kojadinović.txtTest document value: 0.2619047619047619 Distance from docuent to P: 0.146884266354105 Distance from docuent to N: 0.18038823625623723
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Gizela_Štefanac.txtTest document value: 0.26905829596412556 Distance from docuent to P: 0.1453741944628672 Distance from docuent to N: 0.17925873087844293
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Desanka_Vidojevic.txtTest document value: 0.3508771929824561 Distance from docuent to P: 0.12912737412352857 Distance from docuent to N: 0.1745084254556816
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Lela_Mitić.txtTest document value: 0.28484848484848485 Distance from docuent to P: 0.1422161566859953 Distance from docuent to N: 0.17798362062062748
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Dušanka_Kovačević.txtTest document value: 0.6526458616010855 Distance from docuent to P: 0.3057313723579108 Distance from docuent to N: 0.3100864781700275
+Test document ../Tagged_Texts_2/Train_Test_Corpus/N_1/Draga_Opačić.txtTest document value: 0.7818930041152263 Distance from docuent to P: 0.41774556253683304 Distance from docuent to N: 0.4231522610664844
+TrueNegatives: 0 FalsePositives: 19
+True Positives: 7FalsePositives: 19FalseNegatives: 1
+P: 0.2692307692307692R: 0.875
+P: 0.2692307692307692 R: 0.875 F: 0.411764705882353
+ Exit calculate_statistics_for_measure
+ Exit calculate_statistics
+ Ending Lexical Analysis 
+ End Classification of Alzheimer Disease 

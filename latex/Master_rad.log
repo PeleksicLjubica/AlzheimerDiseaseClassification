@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdftex 2021.7.18)  18 JUL 2021 01:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdftex 2021.7.18)  19 JUL 2021 16:32
 entering extended mode
 **/Users/ljubica/Documents/MASTER_RAD/MasterRadGit/AlzheimerDiseaseClassificati
 on/latex/Master_rad.bib
@@ -10,11 +10,11 @@ n/latex/Master_rad.bib
                 $
 <to be read again> 
                    _
-l.1 @inproceedings{pos_
-                       tagging,
+l.1 @inproceedings{Alzheimer_
+                             facts_figures,
 ? 
 ! Extra }, or forgotten $.
-l.8 }
+l.9 }
      
 ? 
 ! Missing $ inserted.
@@ -22,44 +22,11 @@ l.8 }
                 $
 <to be read again> 
                    \par 
-l.9 
-    
-? 
-
-Overfull \hbox (220.40436pt too wide) in paragraph at lines 1--9
-[]\tenrm @inproceedingspos$[]\teni agging; author \tenrm = []\teni ; title \ten
-rm = []\teni ; booktitle \tenrm =|
-
-\hbox(6.94444+1.94444)x469.75499
-.\hbox(0.0+0.0)x20.0
-.\tenrm @
-.\tenrm i
-.\tenrm n
-.\tenrm p
-.etc.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-<to be read again> 
-                   _
-l.10 @inproceedings{Alzheimer_
-                              facts_figures,
-? 
-! Extra }, or forgotten $.
-l.18 }
-      
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-<to be read again> 
-                   \par 
-l.19 
+l.10 
      
 ? 
 
-Overfull \hbox (125.61914pt too wide) in paragraph at lines 10--19
+Overfull \hbox (125.61914pt too wide) in paragraph at lines 1--10
 []\tenrm @inproceedingsAlzheimer$[]\teni acts[]igures; author \tenrm = []\teni 
 ; title \tenrm = []\teni ; booktitle \tenrm =|
 
@@ -72,7 +39,7 @@ Overfull \hbox (125.61914pt too wide) in paragraph at lines 10--19
 .etc.
 
 
-Overfull \hbox (320.98778pt too wide) in paragraph at lines 10--19
+Overfull \hbox (320.98778pt too wide) in paragraph at lines 1--10
 []\teni ; year \tenrm = []\teni ; language \tenrm = []\teni ; hyphenation \tenr
 m = []\teni ; ee \tenrm = []$ |
 
@@ -90,7 +57,234 @@ m = []\teni ; ee \tenrm = []$ |
 .\kern0.35878
 .etc.
 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.11 @inproceedings{Language_
+                             impairment,
+? 
+! Extra }, or forgotten $.
+l.18 }
+      
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.19 
+     
+? 
+
+Overfull \hbox (73.5046pt too wide) in paragraph at lines 11--19
+[]\tenrm @inproceedingsLanguage$[]\teni mpairment; author \tenrm = []\teni ; ti
+tle \tenrm = []\teni ; year \tenrm =|
+
+\hbox(7.51782+1.94444)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm i
+.\tenrm n
+.\tenrm p
+.etc.
+
+
+Overfull \hbox (148.32799pt too wide) in paragraph at lines 11--19
+[]\teni ; language \tenrm = []\teni ; hyphenation \tenrm = []\teni ; ee \tenrm 
+= []$ |
+
+\hbox(7.5+2.5)x469.75499
+.\hbox(6.44444+0.0)x20.00006
+..\tenrm 2
+..\tenrm 0
+..\tenrm 2
+..\tenrm 0
+.\teni ;
+.\glue(\thinmuskip) 1.66663
+.\teni l
+.\kern0.19678
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.20 @inproceedings{world_
+                          alzheimer_report,
+? 
+! Extra }, or forgotten $.
+l.27 }
+      
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.28 
+     
+? 
+
+Overfull \hbox (310.06157pt too wide) in paragraph at lines 20--28
+[]\tenrm @inproceedingsworld$[]\teni lzheimer[]eport; author \tenrm = []\teni ;
+ title \tenrm = []\teni ; year \tenrm =|
+
+\hbox(7.51782+1.94444)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm i
+.\tenrm n
+.\tenrm p
+.etc.
+
+
+Overfull \hbox (93.89462pt too wide) in paragraph at lines 20--28
+[]\teni ; language \tenrm = []\teni ; hyphenation \tenrm = []\teni ; ee \tenrm 
+= []$ |
+
+\hbox(7.5+2.5)x469.75499
+.\hbox(6.44444+0.0)x20.00006
+..\tenrm 2
+..\tenrm 0
+..\tenrm 1
+..\tenrm 1
+.\teni ;
+.\glue(\thinmuskip) 1.66663
+.\teni l
+.\kern0.19678
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.29 @inproceedings{automatic_
+                              det_and_rat,
+? 
+! Extra }, or forgotten $.
+l.34 }
+      
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.35 
+     
+? 
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+
+Overfull \hbox (125.74893pt too wide) in paragraph at lines 29--35
+[]\tenrm @inproceedingsautomatic$[]\teni et[]nd[]at; author \tenrm = []\teni ; 
+title \tenrm =|
+
+\hbox(6.94444+1.94444)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm i
+.\tenrm n
+.\tenrm p
+.etc.
+
+
+Overfull \hbox (63.24799pt too wide) in paragraph at lines 29--35
+[]\teni ; language \tenrm =|
+
+\hbox(6.94444+1.94444)x469.75499
+.\hbox(6.94444+1.94444)x477.61058
+..\teni A
+..\teni u
+..\teni t
+..\teni o
+..\teni m
+..etc.
+.\teni ;
+.\glue(\thinmuskip) 1.66663
+.\teni l
+.\kern0.19678
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.37 @inproceedings{linguistic_
+                               features,
+? 
+! Extra }, or forgotten $.
+l.42 }
+      
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.43 
+     
+? 
+
+Overfull \hbox (10.9187pt too wide) in paragraph at lines 37--43
+[]\tenrm @inproceedingslinguistic$[]\teni eatures; author \tenrm = []\teni ; ti
+tle \tenrm =|
+
+\hbox(6.94444+2.86108)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm i
+.\tenrm n
+.\tenrm p
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.44 @inproceedings{pos_
+                        tagging,
+? 
+! Extra }, or forgotten $.
+l.51 }
+      
+? 
 )
+*
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+<*> 
+    
+? 
+
+Overfull \hbox (220.40436pt too wide) in paragraph at lines 44--0
+[]\tenrm @inproceedingspos$[]\teni agging; author \tenrm = []\teni ; title \ten
+rm = []\teni ; booktitle \tenrm =|
+
+\hbox(6.94444+1.94444)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm i
+.\tenrm n
+.\tenrm p
+.etc.
+
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
 *
 (Please type a command or say `\end')
 *
@@ -98,9 +292,13 @@ m = []\teni ; ee \tenrm = []$ |
 *\end
 [1{/Users/ljubica/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/
 pdftex.map}]
-(\end occurred inside a group at level 2)
+(\end occurred inside a group at level 6)
 
-### simple group (level 2) entered at line 10 ({)
+### simple group (level 6) entered at line 44 ({)
+### simple group (level 5) entered at line 37 ({)
+### simple group (level 4) entered at line 29 ({)
+### simple group (level 3) entered at line 20 ({)
+### simple group (level 2) entered at line 11 ({)
 ### simple group (level 1) entered at line 1 ({)
 ### bottom level</Users/ljubica/Library/Application Support/MiKTeX/texmfs/insta
 ll/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/ljubica/Library/Applicatio
@@ -109,7 +307,7 @@ s/ljubica/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/
 amsfonts/cm/cmr10.pfb></Users/ljubica/Library/Application Support/MiKTeX/texmfs
 /install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/ljubica/Library/Appl
 ication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Master_rad.pdf (1 page, 62781 bytes).
+Output written on Master_rad.pdf (1 page, 59474 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

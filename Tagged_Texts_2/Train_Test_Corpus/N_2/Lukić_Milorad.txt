@@ -1,0 +1,46 @@
+Lukić_Milorad
+------------------------------------------------
+number_of_words: 772
+average_words_length: 4.450777202072539
+vocabulary: 293
+vocabulary spoken once: 184
+------------------------------------------------
+Type token ratio: 0.3795336787564767
+Brunet's Index: 13.52428332575783
+Honore's Statistic: 1787.2958469332655
+------------------------------------------------
+number of nouns: 208
+number of verbs: 114
+number of adjectives: 46
+number of adverbs: 73
+number of punct: 160
+number of aux: 90
+number of det: 32
+number of part: 26
+number of cconj: 57
+number of sconj: 24
+number of propn: 45
+number of pronn: 40
+number of x: 0
+number of adp: 78
+number of num: 28
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.2694300518134715
+number of verbs normalized:: 0.26424870466321243
+number of adjectives normalized: 0.05958549222797927
+number of adverbs normalized: 0.09455958549222798
+number of aux normalized: 0.11658031088082901
+number of det normalized: 0.04145077720207254
+number of part normalized: 0.03367875647668394
+number of cconj normalized: 0.07383419689119171
+number of sconj normalized: 0.031088082901554404
+number of propn normalized: 0.05829015544041451
+number of pronn normalized: 0.05181347150259067
+number of adp normalized: 0.10103626943005181
+number of num normalized: 0.03626943005181347
+number of intj normalized: 0.0012953367875647669
+Ratios ------------------------------------------------
+ratio noun to verb: 1.0196078431372548
+ratio pronoun to verb: 0.19607843137254902
+ratio pronoun to noun: 0.19230769230769232

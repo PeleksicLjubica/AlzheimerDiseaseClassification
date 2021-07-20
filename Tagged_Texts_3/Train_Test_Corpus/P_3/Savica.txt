@@ -1,0 +1,46 @@
+Savica
+------------------------------------------------
+number_of_words: 104
+average_words_length: 4.471153846153846
+vocabulary: 58
+vocabulary spoken once: 40
+------------------------------------------------
+Type token ratio: 0.5576923076923077
+Brunet's Index: 10.768644239075083
+Honore's Statistic: 1496.525956389998
+------------------------------------------------
+number of nouns: 29
+number of verbs: 21
+number of adjectives: 4
+number of adverbs: 10
+number of punct: 75
+number of aux: 2
+number of det: 4
+number of part: 8
+number of cconj: 3
+number of sconj: 8
+number of propn: 13
+number of pronn: 5
+number of x: 1
+number of adp: 0
+number of num: 0
+number of intj: 23
+Normalized ------------------------------------------------
+number of nouns normalized: 0.27884615384615385
+number of verbs normalized:: 0.22115384615384615
+number of adjectives normalized: 0.038461538461538464
+number of adverbs normalized: 0.09615384615384616
+number of aux normalized: 0.019230769230769232
+number of det normalized: 0.038461538461538464
+number of part normalized: 0.07692307692307693
+number of cconj normalized: 0.028846153846153848
+number of sconj normalized: 0.07692307692307693
+number of propn normalized: 0.125
+number of pronn normalized: 0.04807692307692308
+number of adp normalized: 0.0
+number of num normalized: 0.0
+number of intj normalized: 0.22115384615384615
+Ratios ------------------------------------------------
+ratio noun to verb: 1.2608695652173914
+ratio pronoun to verb: 0.21739130434782608
+ratio pronoun to noun: 0.1724137931034483

@@ -1,0 +1,46 @@
+Tanasije3
+------------------------------------------------
+number_of_words: 333
+average_words_length: 4.273273273273273
+vocabulary: 150
+vocabulary spoken once: 110
+------------------------------------------------
+Type token ratio: 0.45045045045045046
+Brunet's Index: 12.690689189214305
+Honore's Statistic: 2178.053433742666
+------------------------------------------------
+number of nouns: 61
+number of verbs: 49
+number of adjectives: 19
+number of adverbs: 32
+number of punct: 139
+number of aux: 38
+number of det: 10
+number of part: 15
+number of cconj: 26
+number of sconj: 23
+number of propn: 8
+number of pronn: 43
+number of x: 2
+number of adp: 19
+number of num: 5
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.1831831831831832
+number of verbs normalized:: 0.26126126126126126
+number of adjectives normalized: 0.057057057057057055
+number of adverbs normalized: 0.0960960960960961
+number of aux normalized: 0.11411411411411411
+number of det normalized: 0.03003003003003003
+number of part normalized: 0.04504504504504504
+number of cconj normalized: 0.07807807807807808
+number of sconj normalized: 0.06906906906906907
+number of propn normalized: 0.024024024024024024
+number of pronn normalized: 0.12912912912912913
+number of adp normalized: 0.057057057057057055
+number of num normalized: 0.015015015015015015
+number of intj normalized: 0.003003003003003003
+Ratios ------------------------------------------------
+ratio noun to verb: 0.7011494252873564
+ratio pronoun to verb: 0.4942528735632184
+ratio pronoun to noun: 0.7049180327868853

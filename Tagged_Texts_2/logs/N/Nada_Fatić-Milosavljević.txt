@@ -1,0 +1,46 @@
+Nada_Fatić-Milosavljević
+------------------------------------------------
+number_of_words: 4221
+average_words_length: 4.165363657900971
+vocabulary: 839
+vocabulary spoken once: 503
+------------------------------------------------
+Type token ratio: 0.19876806443970624
+Brunet's Index: 15.624820613915084
+Honore's Statistic: 2084.472364021284
+------------------------------------------------
+number of nouns: 704
+number of verbs: 647
+number of adjectives: 197
+number of adverbs: 420
+number of punct: 708
+number of aux: 414
+number of det: 416
+number of part: 306
+number of cconj: 334
+number of sconj: 304
+number of propn: 104
+number of pronn: 291
+number of x: 10
+number of adp: 240
+number of num: 49
+number of intj: 3
+Normalized ------------------------------------------------
+number of nouns normalized: 0.1667851220090026
+number of verbs normalized:: 0.2513622364368633
+number of adjectives normalized: 0.046671404880360104
+number of adverbs normalized: 0.09950248756218906
+number of aux normalized: 0.09808102345415778
+number of det normalized: 0.09855484482350153
+number of part normalized: 0.07249466950959488
+number of cconj normalized: 0.07912816868040749
+number of sconj normalized: 0.07202084814025113
+number of propn normalized: 0.024638711205875383
+number of pronn normalized: 0.0689410092395167
+number of adp normalized: 0.05685856432125089
+number of num normalized: 0.011608623548922056
+number of intj normalized: 0.0007107320540156361
+Ratios ------------------------------------------------
+ratio noun to verb: 0.6635249764373233
+ratio pronoun to verb: 0.27426955702167766
+ratio pronoun to noun: 0.4133522727272727

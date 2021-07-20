@@ -1,0 +1,46 @@
+Milena3
+------------------------------------------------
+number_of_words: 1414
+average_words_length: 4.374115983026874
+vocabulary: 499
+vocabulary spoken once: 318
+------------------------------------------------
+Type token ratio: 0.35289957567185287
+Brunet's Index: 13.498318769565913
+Honore's Statistic: 1999.908699105968
+------------------------------------------------
+number of nouns: 293
+number of verbs: 242
+number of adjectives: 60
+number of adverbs: 136
+number of punct: 322
+number of aux: 169
+number of det: 95
+number of part: 65
+number of cconj: 88
+number of sconj: 88
+number of propn: 48
+number of pronn: 117
+number of x: 2
+number of adp: 80
+number of num: 27
+number of intj: 2
+Normalized ------------------------------------------------
+number of nouns normalized: 0.2072135785007072
+number of verbs normalized:: 0.29066478076379065
+number of adjectives normalized: 0.042432814710042434
+number of adverbs normalized: 0.09618104667609619
+number of aux normalized: 0.11951909476661952
+number of det normalized: 0.06718528995756719
+number of part normalized: 0.04596888260254597
+number of cconj normalized: 0.06223479490806223
+number of sconj normalized: 0.06223479490806223
+number of propn normalized: 0.033946251768033946
+number of pronn normalized: 0.08274398868458274
+number of adp normalized: 0.056577086280056574
+number of num normalized: 0.019094766619519095
+number of intj normalized: 0.0014144271570014145
+Ratios ------------------------------------------------
+ratio noun to verb: 0.7128953771289538
+ratio pronoun to verb: 0.2846715328467153
+ratio pronoun to noun: 0.3993174061433447

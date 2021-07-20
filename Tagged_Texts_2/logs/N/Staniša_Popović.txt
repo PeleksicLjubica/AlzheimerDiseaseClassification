@@ -1,0 +1,46 @@
+Staniša_Popović
+------------------------------------------------
+number_of_words: 2633
+average_words_length: 4.571591340676035
+vocabulary: 696
+vocabulary spoken once: 420
+------------------------------------------------
+Type token ratio: 0.2643372578807444
+Brunet's Index: 14.507410828200598
+Honore's Statistic: 1986.091266307765
+------------------------------------------------
+number of nouns: 593
+number of verbs: 391
+number of adjectives: 163
+number of adverbs: 243
+number of punct: 376
+number of aux: 294
+number of det: 134
+number of part: 130
+number of cconj: 184
+number of sconj: 146
+number of propn: 58
+number of pronn: 134
+number of x: 3
+number of adp: 208
+number of num: 69
+number of intj: 2
+Normalized ------------------------------------------------
+number of nouns normalized: 0.22521838207368022
+number of verbs normalized:: 0.26015951386251424
+number of adjectives normalized: 0.061906570451955946
+number of adverbs normalized: 0.09229016331181163
+number of aux normalized: 0.11165970375996961
+number of det normalized: 0.05089251804025826
+number of part normalized: 0.04937333839726547
+number of cconj normalized: 0.06988226357766807
+number of sconj normalized: 0.05545005696923661
+number of propn normalized: 0.022028104823395366
+number of pronn normalized: 0.05089251804025826
+number of adp normalized: 0.07899734143562476
+number of num normalized: 0.026205848841625523
+number of intj normalized: 0.0007595898214963919
+Ratios ------------------------------------------------
+ratio noun to verb: 0.8656934306569343
+ratio pronoun to verb: 0.19562043795620437
+ratio pronoun to noun: 0.22596964586846544

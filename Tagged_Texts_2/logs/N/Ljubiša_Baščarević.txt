@@ -1,0 +1,46 @@
+Ljubiša_Baščarević
+------------------------------------------------
+number_of_words: 1797
+average_words_length: 4.490818030050083
+vocabulary: 545
+vocabulary spoken once: 334
+------------------------------------------------
+Type token ratio: 0.30328324986087923
+Brunet's Index: 14.150160112418734
+Honore's Statistic: 1935.6214541692134
+------------------------------------------------
+number of nouns: 400
+number of verbs: 184
+number of adjectives: 144
+number of adverbs: 125
+number of punct: 239
+number of aux: 258
+number of det: 118
+number of part: 62
+number of cconj: 157
+number of sconj: 89
+number of propn: 50
+number of pronn: 84
+number of x: 0
+number of adp: 184
+number of num: 42
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.22259321090706732
+number of verbs normalized:: 0.2459654980523094
+number of adjectives normalized: 0.08013355592654424
+number of adverbs normalized: 0.06956037840845854
+number of aux normalized: 0.14357262103505844
+number of det normalized: 0.06566499721758487
+number of part normalized: 0.03450194769059544
+number of cconj normalized: 0.08736783528102393
+number of sconj normalized: 0.04952698942682248
+number of propn normalized: 0.027824151363383415
+number of pronn normalized: 0.04674457429048414
+number of adp normalized: 0.10239287701725097
+number of num normalized: 0.02337228714524207
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 0.9049773755656109
+ratio pronoun to verb: 0.19004524886877827
+ratio pronoun to noun: 0.21

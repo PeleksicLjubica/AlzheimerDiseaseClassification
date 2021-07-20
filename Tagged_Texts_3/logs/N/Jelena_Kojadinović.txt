@@ -1,0 +1,46 @@
+Jelena_Kojadinović
+------------------------------------------------
+number_of_words: 430
+average_words_length: 4.109302325581395
+vocabulary: 199
+vocabulary spoken once: 129
+------------------------------------------------
+Type token ratio: 0.4627906976744186
+Brunet's Index: 12.576390853328155
+Honore's Statistic: 1723.8475093269058
+------------------------------------------------
+number of nouns: 87
+number of verbs: 75
+number of adjectives: 13
+number of adverbs: 48
+number of punct: 74
+number of aux: 42
+number of det: 25
+number of part: 41
+number of cconj: 22
+number of sconj: 26
+number of propn: 14
+number of pronn: 22
+number of x: 2
+number of adp: 32
+number of num: 10
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.20232558139534884
+number of verbs normalized:: 0.27209302325581397
+number of adjectives normalized: 0.030232558139534883
+number of adverbs normalized: 0.11162790697674418
+number of aux normalized: 0.09767441860465116
+number of det normalized: 0.05813953488372093
+number of part normalized: 0.09534883720930233
+number of cconj normalized: 0.05116279069767442
+number of sconj normalized: 0.06046511627906977
+number of propn normalized: 0.03255813953488372
+number of pronn normalized: 0.05116279069767442
+number of adp normalized: 0.07441860465116279
+number of num normalized: 0.023255813953488372
+number of intj normalized: 0.002325581395348837
+Ratios ------------------------------------------------
+ratio noun to verb: 0.7435897435897436
+ratio pronoun to verb: 0.18803418803418803
+ratio pronoun to noun: 0.25287356321839083

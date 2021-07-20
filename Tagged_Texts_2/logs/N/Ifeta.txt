@@ -1,0 +1,46 @@
+Ifeta
+------------------------------------------------
+number_of_words: 1113
+average_words_length: 4.2398921832884096
+vocabulary: 343
+vocabulary spoken once: 184
+------------------------------------------------
+Type token ratio: 0.3081761006289308
+Brunet's Index: 14.545373372282993
+Honore's Statistic: 1513.2586933883724
+------------------------------------------------
+number of nouns: 251
+number of verbs: 198
+number of adjectives: 51
+number of adverbs: 66
+number of punct: 206
+number of aux: 139
+number of det: 46
+number of part: 64
+number of cconj: 68
+number of sconj: 72
+number of propn: 53
+number of pronn: 93
+number of x: 2
+number of adp: 105
+number of num: 12
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.22551662174303683
+number of verbs normalized:: 0.302785265049416
+number of adjectives normalized: 0.04582210242587601
+number of adverbs normalized: 0.05929919137466307
+number of aux normalized: 0.12488769092542677
+number of det normalized: 0.04132973944294699
+number of part normalized: 0.05750224618149147
+number of cconj normalized: 0.061096136567834684
+number of sconj normalized: 0.0646900269541779
+number of propn normalized: 0.047619047619047616
+number of pronn normalized: 0.08355795148247978
+number of adp normalized: 0.09433962264150944
+number of num normalized: 0.01078167115902965
+number of intj normalized: 0.0008984725965858042
+Ratios ------------------------------------------------
+ratio noun to verb: 0.744807121661721
+ratio pronoun to verb: 0.27596439169139464
+ratio pronoun to noun: 0.3705179282868526

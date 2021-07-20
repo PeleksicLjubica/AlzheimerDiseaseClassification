@@ -1,0 +1,46 @@
+Radomir_Ugrnić
+------------------------------------------------
+number_of_words: 1601
+average_words_length: 5.098063710181137
+vocabulary: 533
+vocabulary spoken once: 308
+------------------------------------------------
+Type token ratio: 0.3329169269206746
+Brunet's Index: 13.715025401220696
+Honore's Statistic: 1747.857119567666
+------------------------------------------------
+number of nouns: 529
+number of verbs: 148
+number of adjectives: 158
+number of adverbs: 127
+number of punct: 163
+number of aux: 107
+number of det: 78
+number of part: 87
+number of cconj: 179
+number of sconj: 26
+number of propn: 85
+number of pronn: 32
+number of x: 1
+number of adp: 189
+number of num: 25
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.33041848844472205
+number of verbs normalized:: 0.15927545284197375
+number of adjectives normalized: 0.09868831980012492
+number of adverbs normalized: 0.07932542161149282
+number of aux normalized: 0.06683322923173017
+number of det normalized: 0.04871955028107433
+number of part normalized: 0.05434103685196752
+number of cconj normalized: 0.11180512179887571
+number of sconj normalized: 0.016239850093691444
+number of propn normalized: 0.05309181761399125
+number of pronn normalized: 0.019987507807620236
+number of adp normalized: 0.11805121798875702
+number of num normalized: 0.01561524047470331
+number of intj normalized: 0.0006246096189881324
+Ratios ------------------------------------------------
+ratio noun to verb: 2.074509803921569
+ratio pronoun to verb: 0.12549019607843137
+ratio pronoun to noun: 0.06049149338374291

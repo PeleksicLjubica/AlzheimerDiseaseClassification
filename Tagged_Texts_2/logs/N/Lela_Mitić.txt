@@ -1,0 +1,46 @@
+Lela_Mitić
+------------------------------------------------
+number_of_words: 797
+average_words_length: 4.577164366373903
+vocabulary: 309
+vocabulary spoken once: 204
+------------------------------------------------
+Type token ratio: 0.3877038895859473
+Brunet's Index: 13.384708731581604
+Honore's Statistic: 1966.080091186835
+------------------------------------------------
+number of nouns: 165
+number of verbs: 127
+number of adjectives: 47
+number of adverbs: 55
+number of punct: 216
+number of aux: 84
+number of det: 54
+number of part: 48
+number of cconj: 63
+number of sconj: 55
+number of propn: 21
+number of pronn: 47
+number of x: 3
+number of adp: 60
+number of num: 12
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.20702634880803011
+number of verbs normalized:: 0.26474278544542035
+number of adjectives normalized: 0.05897114178168131
+number of adverbs normalized: 0.06900878293601004
+number of aux normalized: 0.1053952321204517
+number of det normalized: 0.06775407779171895
+number of part normalized: 0.060225846925972396
+number of cconj normalized: 0.07904642409033877
+number of sconj normalized: 0.06900878293601004
+number of propn normalized: 0.026348808030112924
+number of pronn normalized: 0.05897114178168131
+number of adp normalized: 0.07528230865746549
+number of num normalized: 0.015056461731493099
+number of intj normalized: 0.0012547051442910915
+Ratios ------------------------------------------------
+ratio noun to verb: 0.7819905213270142
+ratio pronoun to verb: 0.22274881516587677
+ratio pronoun to noun: 0.28484848484848485

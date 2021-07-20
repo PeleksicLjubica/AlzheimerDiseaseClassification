@@ -1,0 +1,46 @@
+Steva
+------------------------------------------------
+number_of_words: 377
+average_words_length: 4.2838196286472146
+vocabulary: 166
+vocabulary spoken once: 102
+------------------------------------------------
+Type token ratio: 0.4403183023872679
+Brunet's Index: 12.834296254926873
+Honore's Statistic: 1538.676095494328
+------------------------------------------------
+number of nouns: 92
+number of verbs: 47
+number of adjectives: 20
+number of adverbs: 24
+number of punct: 166
+number of aux: 52
+number of det: 31
+number of part: 16
+number of cconj: 28
+number of sconj: 23
+number of propn: 17
+number of pronn: 26
+number of x: 8
+number of adp: 28
+number of num: 3
+number of intj: 4
+Normalized ------------------------------------------------
+number of nouns normalized: 0.2440318302387268
+number of verbs normalized:: 0.2625994694960212
+number of adjectives normalized: 0.05305039787798409
+number of adverbs normalized: 0.0636604774535809
+number of aux normalized: 0.13793103448275862
+number of det normalized: 0.08222811671087533
+number of part normalized: 0.042440318302387266
+number of cconj normalized: 0.07427055702917772
+number of sconj normalized: 0.0610079575596817
+number of propn normalized: 0.04509283819628647
+number of pronn normalized: 0.06896551724137931
+number of adp normalized: 0.07427055702917772
+number of num normalized: 0.007957559681697613
+number of intj normalized: 0.010610079575596816
+Ratios ------------------------------------------------
+ratio noun to verb: 0.9292929292929293
+ratio pronoun to verb: 0.26262626262626265
+ratio pronoun to noun: 0.2826086956521739

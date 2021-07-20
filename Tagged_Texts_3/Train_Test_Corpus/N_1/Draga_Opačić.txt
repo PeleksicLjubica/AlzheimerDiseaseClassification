@@ -1,0 +1,46 @@
+Draga_Opačić
+------------------------------------------------
+number_of_words: 1828
+average_words_length: 3.99781181619256
+vocabulary: 465
+vocabulary spoken once: 258
+------------------------------------------------
+Type token ratio: 0.25437636761487964
+Brunet's Index: 15.275597990053134
+Honore's Statistic: 1687.2486254524415
+------------------------------------------------
+number of nouns: 258
+number of verbs: 326
+number of adjectives: 45
+number of adverbs: 211
+number of punct: 409
+number of aux: 172
+number of det: 174
+number of part: 91
+number of cconj: 158
+number of sconj: 125
+number of propn: 30
+number of pronn: 179
+number of x: 23
+number of adp: 88
+number of num: 15
+number of intj: 16
+Normalized ------------------------------------------------
+number of nouns normalized: 0.14113785557986872
+number of verbs normalized:: 0.2724288840262582
+number of adjectives normalized: 0.02461706783369803
+number of adverbs normalized: 0.11542669584245077
+number of aux normalized: 0.09409190371991247
+number of det normalized: 0.09518599562363239
+number of part normalized: 0.049781181619256015
+number of cconj normalized: 0.08643326039387308
+number of sconj normalized: 0.06838074398249452
+number of propn normalized: 0.016411378555798686
+number of pronn normalized: 0.09792122538293217
+number of adp normalized: 0.04814004376367615
+number of num normalized: 0.008205689277899343
+number of intj normalized: 0.0087527352297593
+Ratios ------------------------------------------------
+ratio noun to verb: 0.5180722891566265
+ratio pronoun to verb: 0.35943775100401604
+ratio pronoun to noun: 0.6937984496124031

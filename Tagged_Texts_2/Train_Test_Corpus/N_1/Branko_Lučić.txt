@@ -1,0 +1,46 @@
+Branko_Lučić
+------------------------------------------------
+number_of_words: 598
+average_words_length: 4.70066889632107
+vocabulary: 251
+vocabulary spoken once: 158
+------------------------------------------------
+Type token ratio: 0.4197324414715719
+Brunet's Index: 13.0554344092776
+Honore's Statistic: 1725.5820206899014
+------------------------------------------------
+number of nouns: 131
+number of verbs: 76
+number of adjectives: 39
+number of adverbs: 58
+number of punct: 169
+number of aux: 64
+number of det: 44
+number of part: 30
+number of cconj: 47
+number of sconj: 31
+number of propn: 16
+number of pronn: 33
+number of x: 1
+number of adp: 46
+number of num: 15
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.21906354515050167
+number of verbs normalized:: 0.23411371237458195
+number of adjectives normalized: 0.06521739130434782
+number of adverbs normalized: 0.09698996655518395
+number of aux normalized: 0.10702341137123746
+number of det normalized: 0.07357859531772576
+number of part normalized: 0.05016722408026756
+number of cconj normalized: 0.07859531772575251
+number of sconj normalized: 0.051839464882943144
+number of propn normalized: 0.026755852842809364
+number of pronn normalized: 0.05518394648829431
+number of adp normalized: 0.07692307692307693
+number of num normalized: 0.02508361204013378
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 0.9357142857142857
+ratio pronoun to verb: 0.2357142857142857
+ratio pronoun to noun: 0.25190839694656486

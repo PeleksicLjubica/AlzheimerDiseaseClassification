@@ -1,0 +1,46 @@
+Mirjana_Običan
+------------------------------------------------
+number_of_words: 9926
+average_words_length: 4.37175095708241
+vocabulary: 1616
+vocabulary spoken once: 864
+------------------------------------------------
+Type token ratio: 0.16280475518839413
+Brunet's Index: 15.17686033013499
+Honore's Statistic: 1977.647230789119
+------------------------------------------------
+number of nouns: 2280
+number of verbs: 1304
+number of adjectives: 489
+number of adverbs: 908
+number of punct: 1994
+number of aux: 1258
+number of det: 886
+number of part: 370
+number of cconj: 649
+number of sconj: 655
+number of propn: 421
+number of pronn: 580
+number of x: 48
+number of adp: 787
+number of num: 163
+number of intj: 18
+Normalized ------------------------------------------------
+number of nouns normalized: 0.229699778359863
+number of verbs normalized:: 0.25811001410437234
+number of adjectives normalized: 0.04926455772718114
+number of adverbs normalized: 0.09147692927664719
+number of aux normalized: 0.12673786016522265
+number of det normalized: 0.08926052790650817
+number of part normalized: 0.037275841225065484
+number of cconj normalized: 0.06538384041910135
+number of sconj normalized: 0.06598831352004836
+number of propn normalized: 0.04241386258311505
+number of pronn normalized: 0.05843239975821076
+number of adp normalized: 0.07928672174088253
+number of num normalized: 0.016421519242393712
+number of intj normalized: 0.0018134193028410237
+Ratios ------------------------------------------------
+ratio noun to verb: 0.8899297423887588
+ratio pronoun to verb: 0.2263856362217018
+ratio pronoun to noun: 0.2543859649122807

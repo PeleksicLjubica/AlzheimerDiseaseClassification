@@ -1,0 +1,46 @@
+Nadežda_Stanić
+------------------------------------------------
+number_of_words: 4081
+average_words_length: 4.356530262190639
+vocabulary: 752
+vocabulary spoken once: 364
+------------------------------------------------
+Type token ratio: 0.18426856162705219
+Brunet's Index: 16.242899762505076
+Honore's Statistic: 1611.3920608827748
+------------------------------------------------
+number of nouns: 766
+number of verbs: 649
+number of adjectives: 194
+number of adverbs: 456
+number of punct: 1153
+number of aux: 435
+number of det: 414
+number of part: 171
+number of cconj: 323
+number of sconj: 233
+number of propn: 137
+number of pronn: 285
+number of x: 26
+number of adp: 207
+number of num: 68
+number of intj: 17
+Normalized ------------------------------------------------
+number of nouns normalized: 0.18769909335947071
+number of verbs normalized:: 0.26562117128154866
+number of adjectives normalized: 0.047537368292085276
+number of adverbs normalized: 0.1117373192844891
+number of aux normalized: 0.1065915216858613
+number of det normalized: 0.10144572408723353
+number of part normalized: 0.04190149473168341
+number of cconj normalized: 0.07914726782651312
+number of sconj normalized: 0.05709384954667974
+number of propn normalized: 0.03357020338152414
+number of pronn normalized: 0.06983582455280568
+number of adp normalized: 0.050722862043616763
+number of num normalized: 0.01666258270031855
+number of intj normalized: 0.004165645675079637
+Ratios ------------------------------------------------
+ratio noun to verb: 0.7066420664206642
+ratio pronoun to verb: 0.2629151291512915
+ratio pronoun to noun: 0.3720626631853786

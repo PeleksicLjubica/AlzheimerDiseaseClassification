@@ -1,0 +1,46 @@
+Jovanka
+------------------------------------------------
+number_of_words: 195
+average_words_length: 4.866666666666666
+vocabulary: 87
+vocabulary spoken once: 50
+------------------------------------------------
+Type token ratio: 0.4461538461538462
+Brunet's Index: 12.474619123074476
+Honore's Statistic: 1239.8674637703946
+------------------------------------------------
+number of nouns: 60
+number of verbs: 31
+number of adjectives: 11
+number of adverbs: 12
+number of punct: 99
+number of aux: 33
+number of det: 9
+number of part: 4
+number of cconj: 8
+number of sconj: 3
+number of propn: 12
+number of pronn: 15
+number of x: 1
+number of adp: 9
+number of num: 8
+number of intj: 4
+Normalized ------------------------------------------------
+number of nouns normalized: 0.3076923076923077
+number of verbs normalized:: 0.3282051282051282
+number of adjectives normalized: 0.05641025641025641
+number of adverbs normalized: 0.06153846153846154
+number of aux normalized: 0.16923076923076924
+number of det normalized: 0.046153846153846156
+number of part normalized: 0.020512820512820513
+number of cconj normalized: 0.041025641025641026
+number of sconj normalized: 0.015384615384615385
+number of propn normalized: 0.06153846153846154
+number of pronn normalized: 0.07692307692307693
+number of adp normalized: 0.046153846153846156
+number of num normalized: 0.041025641025641026
+number of intj normalized: 0.020512820512820513
+Ratios ------------------------------------------------
+ratio noun to verb: 0.9375
+ratio pronoun to verb: 0.234375
+ratio pronoun to noun: 0.25

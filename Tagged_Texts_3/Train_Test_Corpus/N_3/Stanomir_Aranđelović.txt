@@ -1,0 +1,46 @@
+Stanomir_Aranđelović
+------------------------------------------------
+number_of_words: 944
+average_words_length: 4.72457627118644
+vocabulary: 382
+vocabulary spoken once: 249
+------------------------------------------------
+Type token ratio: 0.4046610169491525
+Brunet's Index: 13.044585156361205
+Honore's Statistic: 1967.4798462162266
+------------------------------------------------
+number of nouns: 267
+number of verbs: 140
+number of adjectives: 74
+number of adverbs: 95
+number of punct: 196
+number of aux: 89
+number of det: 45
+number of part: 27
+number of cconj: 79
+number of sconj: 39
+number of propn: 43
+number of pronn: 35
+number of x: 5
+number of adp: 75
+number of num: 21
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.2828389830508475
+number of verbs normalized:: 0.24258474576271186
+number of adjectives normalized: 0.07838983050847458
+number of adverbs normalized: 0.10063559322033898
+number of aux normalized: 0.09427966101694915
+number of det normalized: 0.04766949152542373
+number of part normalized: 0.028601694915254237
+number of cconj normalized: 0.0836864406779661
+number of sconj normalized: 0.0413135593220339
+number of propn normalized: 0.045550847457627115
+number of pronn normalized: 0.037076271186440676
+number of adp normalized: 0.07944915254237288
+number of num normalized: 0.022245762711864406
+number of intj normalized: 0.001059322033898305
+Ratios ------------------------------------------------
+ratio noun to verb: 1.165938864628821
+ratio pronoun to verb: 0.15283842794759825
+ratio pronoun to noun: 0.13108614232209737

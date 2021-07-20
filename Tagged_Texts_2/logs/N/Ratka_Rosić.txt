@@ -1,0 +1,46 @@
+Ratka_Rosić
+------------------------------------------------
+number_of_words: 910
+average_words_length: 4.492307692307692
+vocabulary: 321
+vocabulary spoken once: 195
+------------------------------------------------
+Type token ratio: 0.35274725274725277
+Brunet's Index: 13.860139044473486
+Honore's Statistic: 1735.806124161109
+------------------------------------------------
+number of nouns: 180
+number of verbs: 164
+number of adjectives: 49
+number of adverbs: 91
+number of punct: 183
+number of aux: 100
+number of det: 46
+number of part: 47
+number of cconj: 81
+number of sconj: 45
+number of propn: 25
+number of pronn: 65
+number of x: 2
+number of adp: 54
+number of num: 11
+number of intj: 2
+Normalized ------------------------------------------------
+number of nouns normalized: 0.1978021978021978
+number of verbs normalized:: 0.29010989010989013
+number of adjectives normalized: 0.05384615384615385
+number of adverbs normalized: 0.1
+number of aux normalized: 0.10989010989010989
+number of det normalized: 0.05054945054945055
+number of part normalized: 0.051648351648351645
+number of cconj normalized: 0.08901098901098901
+number of sconj normalized: 0.04945054945054945
+number of propn normalized: 0.027472527472527472
+number of pronn normalized: 0.07142857142857142
+number of adp normalized: 0.05934065934065934
+number of num normalized: 0.012087912087912088
+number of intj normalized: 0.002197802197802198
+Ratios ------------------------------------------------
+ratio noun to verb: 0.6818181818181818
+ratio pronoun to verb: 0.24621212121212122
+ratio pronoun to noun: 0.3611111111111111

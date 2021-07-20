@@ -1,0 +1,46 @@
+Jovan_Knezevic
+------------------------------------------------
+number_of_words: 947
+average_words_length: 4.824709609292503
+vocabulary: 420
+vocabulary spoken once: 288
+------------------------------------------------
+Type token ratio: 0.44350580781414994
+Brunet's Index: 12.54934095590415
+Honore's Statistic: 2180.5951660137525
+------------------------------------------------
+number of nouns: 308
+number of verbs: 113
+number of adjectives: 89
+number of adverbs: 62
+number of punct: 139
+number of aux: 100
+number of det: 65
+number of part: 24
+number of cconj: 54
+number of sconj: 49
+number of propn: 57
+number of pronn: 36
+number of x: 0
+number of adp: 69
+number of num: 35
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.3252375923970433
+number of verbs normalized:: 0.2249208025343189
+number of adjectives normalized: 0.09398099260823653
+number of adverbs normalized: 0.06546990496304118
+number of aux normalized: 0.10559662090813093
+number of det normalized: 0.06863780359028511
+number of part normalized: 0.025343189017951427
+number of cconj normalized: 0.057022175290390706
+number of sconj normalized: 0.05174234424498416
+number of propn normalized: 0.06019007391763464
+number of pronn normalized: 0.03801478352692714
+number of adp normalized: 0.07286166842661035
+number of num normalized: 0.03695881731784583
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 1.4460093896713615
+ratio pronoun to verb: 0.16901408450704225
+ratio pronoun to noun: 0.11688311688311688

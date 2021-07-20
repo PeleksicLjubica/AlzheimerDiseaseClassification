@@ -1,0 +1,19 @@
+Train folders: 
+../Tagged_Texts_2/Train_Test_Corpus/P_1
+../Tagged_Texts_2/Train_Test_Corpus/P_2
+../Tagged_Texts_2/Train_Test_Corpus/N_1
+../Tagged_Texts_2/Train_Test_Corpus/N_2
+Test folders: 
+../Tagged_Texts_2/Train_Test_Corpus/P_3
+../Tagged_Texts_2/Train_Test_Corpus/N_3
+
+TTR statistic: Precision: 0.6 Recall: 0.8571428571428571 F-measure: 0.7058823529411764
+Brunet's index statistic: Precision: 0.42857142857142855 Recall: 0.42857142857142855 F-measure: 0.42857142857142855
+Honore's Statistic statistic: Precision: 0.6 Recall: 0.8571428571428571 F-measure: 0.7058823529411764
+Noun measure statistic: Precision: 0.23076923076923078 Recall: 0.42857142857142855 F-measure: 0.3
+Verb measure statistic: Precision: 0.23076923076923078 Recall: 0.42857142857142855 F-measure: 0.3
+Adjective measure statistic: Precision: 0.0 Recall: 0.0 F-measure: 0
+Adverb measure statistic: Precision: 0.38461538461538464 Recall: 0.7142857142857143 F-measure: 0.5
+Noun/Verb Ratio statistic: Precision: 0.3333333333333333 Recall: 0.14285714285714285 F-measure: 0.2
+Pronoun/Verb Ratio statistic: Precision: 0.0 Recall: 0.0 F-measure: 0
+Pronoun/Noun statistic: Precision: 0.0 Recall: 0.0 F-measure: 0

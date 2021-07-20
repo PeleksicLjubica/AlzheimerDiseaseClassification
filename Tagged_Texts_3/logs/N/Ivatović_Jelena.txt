@@ -1,0 +1,46 @@
+Ivatović_Jelena
+------------------------------------------------
+number_of_words: 2718
+average_words_length: 4.152317880794702
+vocabulary: 563
+vocabulary spoken once: 303
+------------------------------------------------
+Type token ratio: 0.2071376011773363
+Brunet's Index: 16.136455360187536
+Honore's Statistic: 1712.3107107009012
+------------------------------------------------
+number of nouns: 477
+number of verbs: 449
+number of adjectives: 149
+number of adverbs: 197
+number of punct: 459
+number of aux: 450
+number of det: 197
+number of part: 137
+number of cconj: 104
+number of sconj: 190
+number of propn: 66
+number of pronn: 194
+number of x: 4
+number of adp: 155
+number of num: 84
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.17549668874172186
+number of verbs normalized:: 0.3307579102281089
+number of adjectives normalized: 0.05481972038263429
+number of adverbs normalized: 0.07247976453274467
+number of aux normalized: 0.16556291390728478
+number of det normalized: 0.07247976453274467
+number of part normalized: 0.0504047093451067
+number of cconj normalized: 0.03826342899190582
+number of sconj normalized: 0.06990434142752024
+number of propn normalized: 0.024282560706401765
+number of pronn normalized: 0.07137601177336277
+number of adp normalized: 0.05702722590139809
+number of num normalized: 0.03090507726269316
+number of intj normalized: 0.0003679175864606328
+Ratios ------------------------------------------------
+ratio noun to verb: 0.5305895439377085
+ratio pronoun to verb: 0.21579532814238042
+ratio pronoun to noun: 0.40670859538784065

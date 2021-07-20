@@ -1,0 +1,46 @@
+Nadežda_Stošić
+------------------------------------------------
+number_of_words: 961
+average_words_length: 4.686784599375651
+vocabulary: 351
+vocabulary spoken once: 214
+------------------------------------------------
+Type token ratio: 0.36524453694068676
+Brunet's Index: 13.616432068587233
+Honore's Statistic: 1759.6051222982283
+------------------------------------------------
+number of nouns: 268
+number of verbs: 120
+number of adjectives: 85
+number of adverbs: 70
+number of punct: 181
+number of aux: 122
+number of det: 60
+number of part: 37
+number of cconj: 66
+number of sconj: 47
+number of propn: 58
+number of pronn: 43
+number of x: 2
+number of adp: 83
+number of num: 16
+number of intj: 2
+Normalized ------------------------------------------------
+number of nouns normalized: 0.27887617065556713
+number of verbs normalized:: 0.2518210197710718
+number of adjectives normalized: 0.08844953173777315
+number of adverbs normalized: 0.07284079084287201
+number of aux normalized: 0.12695109261186263
+number of det normalized: 0.062434963579604576
+number of part normalized: 0.03850156087408949
+number of cconj normalized: 0.06867845993756504
+number of sconj normalized: 0.04890738813735692
+number of propn normalized: 0.060353798126951096
+number of pronn normalized: 0.044745057232049947
+number of adp normalized: 0.08636836628511967
+number of num normalized: 0.01664932362122789
+number of intj normalized: 0.002081165452653486
+Ratios ------------------------------------------------
+ratio noun to verb: 1.1074380165289257
+ratio pronoun to verb: 0.17768595041322313
+ratio pronoun to noun: 0.16044776119402984

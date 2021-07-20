@@ -1,0 +1,46 @@
+Franca_Mihajlović
+------------------------------------------------
+number_of_words: 841
+average_words_length: 4.430439952437574
+vocabulary: 300
+vocabulary spoken once: 189
+------------------------------------------------
+Type token ratio: 0.356718192627824
+Brunet's Index: 13.842774649921598
+Honore's Statistic: 1820.1599081007969
+------------------------------------------------
+number of nouns: 200
+number of verbs: 129
+number of adjectives: 47
+number of adverbs: 87
+number of punct: 267
+number of aux: 93
+number of det: 61
+number of part: 51
+number of cconj: 69
+number of sconj: 44
+number of propn: 55
+number of pronn: 45
+number of x: 1
+number of adp: 57
+number of num: 12
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.23781212841854935
+number of verbs normalized:: 0.26397146254458975
+number of adjectives normalized: 0.0558858501783591
+number of adverbs normalized: 0.10344827586206896
+number of aux normalized: 0.11058263971462545
+number of det normalized: 0.07253269916765755
+number of part normalized: 0.06064209274673008
+number of cconj normalized: 0.08204518430439953
+number of sconj normalized: 0.052318668252080855
+number of propn normalized: 0.06539833531510107
+number of pronn normalized: 0.0535077288941736
+number of adp normalized: 0.06777645659928656
+number of num normalized: 0.014268727705112961
+number of intj normalized: 0.0011890606420927466
+Ratios ------------------------------------------------
+ratio noun to verb: 0.9009009009009009
+ratio pronoun to verb: 0.20270270270270271
+ratio pronoun to noun: 0.225

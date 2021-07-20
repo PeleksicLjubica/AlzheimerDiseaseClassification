@@ -1,0 +1,46 @@
+Vladislav_Mitić
+------------------------------------------------
+number_of_words: 4576
+average_words_length: 4.695148601398602
+vocabulary: 1121
+vocabulary spoken once: 652
+------------------------------------------------
+Type token ratio: 0.24497377622377622
+Brunet's Index: 14.095789966885535
+Honore's Statistic: 2014.5924898848295
+------------------------------------------------
+number of nouns: 1190
+number of verbs: 657
+number of adjectives: 287
+number of adverbs: 393
+number of punct: 987
+number of aux: 502
+number of det: 342
+number of part: 159
+number of cconj: 252
+number of sconj: 250
+number of propn: 186
+number of pronn: 227
+number of x: 10
+number of adp: 389
+number of num: 105
+number of intj: 9
+Normalized ------------------------------------------------
+number of nouns normalized: 0.26005244755244755
+number of verbs normalized:: 0.25327797202797203
+number of adjectives normalized: 0.06271853146853147
+number of adverbs normalized: 0.08588286713286714
+number of aux normalized: 0.1097027972027972
+number of det normalized: 0.07473776223776224
+number of part normalized: 0.034746503496503496
+number of cconj normalized: 0.05506993006993007
+number of sconj normalized: 0.054632867132867136
+number of propn normalized: 0.040646853146853144
+number of pronn normalized: 0.04960664335664336
+number of adp normalized: 0.08500874125874126
+number of num normalized: 0.022945804195804196
+number of intj normalized: 0.001966783216783217
+Ratios ------------------------------------------------
+ratio noun to verb: 1.0267471958584986
+ratio pronoun to verb: 0.19585849870578084
+ratio pronoun to noun: 0.1907563025210084

@@ -1,0 +1,46 @@
+Dragica
+------------------------------------------------
+number_of_words: 62
+average_words_length: 4.370967741935484
+vocabulary: 43
+vocabulary spoken once: 30
+------------------------------------------------
+Type token ratio: 0.6935483870967742
+Brunet's Index: 9.19667199670051
+Honore's Statistic: 1365.1290658226073
+------------------------------------------------
+number of nouns: 18
+number of verbs: 12
+number of adjectives: 2
+number of adverbs: 8
+number of punct: 21
+number of aux: 3
+number of det: 2
+number of part: 7
+number of cconj: 6
+number of sconj: 4
+number of propn: 7
+number of pronn: 7
+number of x: 0
+number of adp: 0
+number of num: 0
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.2903225806451613
+number of verbs normalized:: 0.24193548387096775
+number of adjectives normalized: 0.03225806451612903
+number of adverbs normalized: 0.12903225806451613
+number of aux normalized: 0.04838709677419355
+number of det normalized: 0.03225806451612903
+number of part normalized: 0.11290322580645161
+number of cconj normalized: 0.0967741935483871
+number of sconj normalized: 0.06451612903225806
+number of propn normalized: 0.11290322580645161
+number of pronn normalized: 0.11290322580645161
+number of adp normalized: 0.0
+number of num normalized: 0.0
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 1.2
+ratio pronoun to verb: 0.4666666666666667
+ratio pronoun to noun: 0.3888888888888889

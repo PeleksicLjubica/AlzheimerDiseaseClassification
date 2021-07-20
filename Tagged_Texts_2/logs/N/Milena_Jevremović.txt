@@ -1,0 +1,46 @@
+Milena_Jevremović
+------------------------------------------------
+number_of_words: 691
+average_words_length: 4.596237337192474
+vocabulary: 258
+vocabulary spoken once: 161
+------------------------------------------------
+Type token ratio: 0.37337192474674386
+Brunet's Index: 13.672588286577385
+Honore's Statistic: 1739.0103861155249
+------------------------------------------------
+number of nouns: 236
+number of verbs: 98
+number of adjectives: 48
+number of adverbs: 67
+number of punct: 191
+number of aux: 58
+number of det: 32
+number of part: 46
+number of cconj: 47
+number of sconj: 40
+number of propn: 72
+number of pronn: 39
+number of x: 1
+number of adp: 45
+number of num: 7
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.341534008683068
+number of verbs normalized:: 0.22575976845151954
+number of adjectives normalized: 0.0694645441389291
+number of adverbs normalized: 0.09696092619392185
+number of aux normalized: 0.08393632416787265
+number of det normalized: 0.04630969609261939
+number of part normalized: 0.06657018813314038
+number of cconj normalized: 0.06801736613603473
+number of sconj normalized: 0.05788712011577424
+number of propn normalized: 0.10419681620839363
+number of pronn normalized: 0.056439942112879886
+number of adp normalized: 0.06512301013024602
+number of num normalized: 0.010130246020260492
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 1.5128205128205128
+ratio pronoun to verb: 0.25
+ratio pronoun to noun: 0.1652542372881356

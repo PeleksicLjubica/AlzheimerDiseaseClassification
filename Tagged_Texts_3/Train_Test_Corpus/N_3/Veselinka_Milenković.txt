@@ -1,0 +1,46 @@
+Veselinka_Milenković
+------------------------------------------------
+number_of_words: 336
+average_words_length: 4.3125
+vocabulary: 145
+vocabulary spoken once: 91
+------------------------------------------------
+Type token ratio: 0.43154761904761907
+Brunet's Index: 12.923752761856958
+Honore's Statistic: 1562.0020707308604
+------------------------------------------------
+number of nouns: 96
+number of verbs: 46
+number of adjectives: 14
+number of adverbs: 31
+number of punct: 70
+number of aux: 42
+number of det: 11
+number of part: 12
+number of cconj: 28
+number of sconj: 15
+number of propn: 19
+number of pronn: 13
+number of x: 0
+number of adp: 27
+number of num: 19
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.2857142857142857
+number of verbs normalized:: 0.2619047619047619
+number of adjectives normalized: 0.041666666666666664
+number of adverbs normalized: 0.09226190476190477
+number of aux normalized: 0.125
+number of det normalized: 0.03273809523809524
+number of part normalized: 0.03571428571428571
+number of cconj normalized: 0.08333333333333333
+number of sconj normalized: 0.044642857142857144
+number of propn normalized: 0.05654761904761905
+number of pronn normalized: 0.03869047619047619
+number of adp normalized: 0.08035714285714286
+number of num normalized: 0.05654761904761905
+number of intj normalized: 0.002976190476190476
+Ratios ------------------------------------------------
+ratio noun to verb: 1.0909090909090908
+ratio pronoun to verb: 0.14772727272727273
+ratio pronoun to noun: 0.13541666666666666

@@ -1,0 +1,46 @@
+Milanović_Vera
+------------------------------------------------
+number_of_words: 1004
+average_words_length: 4.102589641434263
+vocabulary: 289
+vocabulary spoken once: 160
+------------------------------------------------
+Type token ratio: 0.28784860557768926
+Brunet's Index: 15.082901353490048
+Honore's Statistic: 1548.4457130021194
+------------------------------------------------
+number of nouns: 194
+number of verbs: 160
+number of adjectives: 41
+number of adverbs: 89
+number of punct: 221
+number of aux: 123
+number of det: 46
+number of part: 75
+number of cconj: 89
+number of sconj: 52
+number of propn: 47
+number of pronn: 78
+number of x: 0
+number of adp: 69
+number of num: 31
+number of intj: 4
+Normalized ------------------------------------------------
+number of nouns normalized: 0.19322709163346613
+number of verbs normalized:: 0.2818725099601594
+number of adjectives normalized: 0.04083665338645418
+number of adverbs normalized: 0.08864541832669323
+number of aux normalized: 0.12250996015936255
+number of det normalized: 0.045816733067729085
+number of part normalized: 0.07470119521912351
+number of cconj normalized: 0.08864541832669323
+number of sconj normalized: 0.05179282868525897
+number of propn normalized: 0.046812749003984064
+number of pronn normalized: 0.07768924302788845
+number of adp normalized: 0.06872509960159362
+number of num normalized: 0.030876494023904383
+number of intj normalized: 0.00398406374501992
+Ratios ------------------------------------------------
+ratio noun to verb: 0.6855123674911661
+ratio pronoun to verb: 0.2756183745583039
+ratio pronoun to noun: 0.4020618556701031

@@ -1,0 +1,46 @@
+Milica_Adzić
+------------------------------------------------
+number_of_words: 429
+average_words_length: 4.508158508158508
+vocabulary: 197
+vocabulary spoken once: 125
+------------------------------------------------
+Type token ratio: 0.4592074592074592
+Brunet's Index: 12.617324313652537
+Honore's Statistic: 1658.4819625400269
+------------------------------------------------
+number of nouns: 93
+number of verbs: 70
+number of adjectives: 40
+number of adverbs: 49
+number of punct: 114
+number of aux: 35
+number of det: 17
+number of part: 22
+number of cconj: 31
+number of sconj: 27
+number of propn: 19
+number of pronn: 27
+number of x: 0
+number of adp: 30
+number of num: 6
+number of intj: 1
+Normalized ------------------------------------------------
+number of nouns normalized: 0.21678321678321677
+number of verbs normalized:: 0.24475524475524477
+number of adjectives normalized: 0.09324009324009325
+number of adverbs normalized: 0.11421911421911422
+number of aux normalized: 0.08158508158508158
+number of det normalized: 0.039627039627039624
+number of part normalized: 0.05128205128205128
+number of cconj normalized: 0.07226107226107226
+number of sconj normalized: 0.06293706293706294
+number of propn normalized: 0.04428904428904429
+number of pronn normalized: 0.06293706293706294
+number of adp normalized: 0.06993006993006994
+number of num normalized: 0.013986013986013986
+number of intj normalized: 0.002331002331002331
+Ratios ------------------------------------------------
+ratio noun to verb: 0.8857142857142857
+ratio pronoun to verb: 0.2571428571428571
+ratio pronoun to noun: 0.2903225806451613

@@ -1,0 +1,46 @@
+Milorad_Milićević
+------------------------------------------------
+number_of_words: 1475
+average_words_length: 4.507796610169492
+vocabulary: 525
+vocabulary spoken once: 346
+------------------------------------------------
+Type token ratio: 0.3559322033898305
+Brunet's Index: 13.408263491753068
+Honore's Statistic: 2140.00947827168
+------------------------------------------------
+number of nouns: 294
+number of verbs: 242
+number of adjectives: 87
+number of adverbs: 108
+number of punct: 218
+number of aux: 157
+number of det: 106
+number of part: 71
+number of cconj: 99
+number of sconj: 125
+number of propn: 27
+number of pronn: 70
+number of x: 4
+number of adp: 126
+number of num: 17
+number of intj: 0
+Normalized ------------------------------------------------
+number of nouns normalized: 0.19932203389830508
+number of verbs normalized:: 0.2705084745762712
+number of adjectives normalized: 0.05898305084745763
+number of adverbs normalized: 0.07322033898305084
+number of aux normalized: 0.1064406779661017
+number of det normalized: 0.07186440677966102
+number of part normalized: 0.04813559322033898
+number of cconj normalized: 0.0671186440677966
+number of sconj normalized: 0.0847457627118644
+number of propn normalized: 0.01830508474576271
+number of pronn normalized: 0.04745762711864407
+number of adp normalized: 0.08542372881355932
+number of num normalized: 0.01152542372881356
+number of intj normalized: 0.0
+Ratios ------------------------------------------------
+ratio noun to verb: 0.7368421052631579
+ratio pronoun to verb: 0.17543859649122806
+ratio pronoun to noun: 0.23809523809523808

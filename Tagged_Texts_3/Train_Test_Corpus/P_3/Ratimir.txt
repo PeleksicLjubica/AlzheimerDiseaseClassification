@@ -1,0 +1,46 @@
+Ratimir
+------------------------------------------------
+number_of_words: 384
+average_words_length: 4.442708333333333
+vocabulary: 167
+vocabulary spoken once: 101
+------------------------------------------------
+Type token ratio: 0.4348958333333333
+Brunet's Index: 12.903518422599927
+Honore's Statistic: 1505.6928883062885
+------------------------------------------------
+number of nouns: 103
+number of verbs: 63
+number of adjectives: 18
+number of adverbs: 32
+number of punct: 99
+number of aux: 22
+number of det: 19
+number of part: 22
+number of cconj: 35
+number of sconj: 20
+number of propn: 19
+number of pronn: 23
+number of x: 0
+number of adp: 36
+number of num: 8
+number of intj: 2
+Normalized ------------------------------------------------
+number of nouns normalized: 0.2682291666666667
+number of verbs normalized:: 0.22135416666666666
+number of adjectives normalized: 0.046875
+number of adverbs normalized: 0.08333333333333333
+number of aux normalized: 0.057291666666666664
+number of det normalized: 0.049479166666666664
+number of part normalized: 0.057291666666666664
+number of cconj normalized: 0.09114583333333333
+number of sconj normalized: 0.052083333333333336
+number of propn normalized: 0.049479166666666664
+number of pronn normalized: 0.059895833333333336
+number of adp normalized: 0.09375
+number of num normalized: 0.020833333333333332
+number of intj normalized: 0.005208333333333333
+Ratios ------------------------------------------------
+ratio noun to verb: 1.2117647058823529
+ratio pronoun to verb: 0.27058823529411763
+ratio pronoun to noun: 0.22330097087378642

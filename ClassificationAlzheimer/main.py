@@ -101,8 +101,8 @@ def read_tagged_files(path_log_file, path_to_tagged):
                 # Find patient name to make log file with data for that patient
                 head, tail = os.path.split(path)
                 patient_name = tail.split(".")[0]
-                patient_log_file = open(PATH_FOR_LOG_FILE + '/' + path_to_tagged + "/" + patient_name + '.txt',
-                                        mode="w",
+                patient_log_file = open(PATH_FOR_LOG_FILE + path_to_tagged + "/" + patient_name + '.txt',
+                                        mode="w+",
                                         encoding="utf8")
                 patient_log_file.write(patient_name + "\n")
                 patient_log_file.write("------------------------------------------------\n")
@@ -138,6 +138,7 @@ def read_tagged_files(path_log_file, path_to_tagged):
                 number_of_adp = 0
                 number_of_num = 0
                 number_of_intj = 0
+                number_of_sym = 0
 
                 # Variable containing number of words that appear in the transcript
                 number_of_words = 0
@@ -202,6 +203,8 @@ def read_tagged_files(path_log_file, path_to_tagged):
                             number_of_num += 1
                         elif str(match_obj.group(2)) == "INTJ":
                             number_of_intj += 1
+                        elif str(match_obj.group(2)) == "SYM":
+                            number_of_sym += 1
                         else:
                             print("Line{}: {}".format(count, line.strip()))
                             print(str(match_obj.group(2)))
@@ -309,123 +312,125 @@ def read_results(patient_class, path_log_file, path_to_tagged) -> None:
             # Open next file in the folder
             print(path)
             file = open(path, mode="r", encoding="utf8")
-            lines = file.readlines()
-            count = 0
-            # Explore every line
-            for line in lines:
+            if ".DS_Store" not in path.parts:
 
-                # Match regex against the line
-                match_obj = re.match(REGEX_READ_FILE, line, re.M | re.I)
-                if match_obj:
-                    # Store in global variable arrays for positive patients
-                    if patient_class == "P":
-                        if count == 2:
-                            GLOBAL_NUMBER_OF_WORDS_P.append(int(match_obj.group(1)))
-                        elif count == 3:
-                            GLOBAL_AVERAGE_WORDS_LEN_P.append(float(match_obj.group(1)))
-                        elif count == 4:
-                            GLOBAL_VOCABULARY_P.append(int(match_obj.group(1)))
-                        elif count == 5:
-                            GLOBAL_VOCABULARY_SO_P.append(int(match_obj.group(1)))
-                        elif count == 7:
-                            GLOBAL_TTR_P.append(float(match_obj.group(1)))
-                        elif count == 8:
-                            GLOBAL_W_P.append(float(match_obj.group(1)))
-                        elif count == 9:
-                            GLOBAL_R_P.append(float(match_obj.group(1)))
-                        elif count == 11:
-                            GLOBAL_NUMBER_OF_NOUNS_P.append(int(match_obj.group(1)))
-                        elif count == 12:
-                            GLOBAL_NUMBER_OF_VERBS_P.append(int(match_obj.group(1)))
-                        elif count == 13:
-                            GLOBAL_NUMBER_OF_ADJECTIVES_P.append(int(match_obj.group(1)))
-                        elif count == 14:
-                            GLOBAL_NUMBER_OF_ADVERBS_P.append(int(match_obj.group(1)))
-                        elif count == 18:
-                            GLOBAL_NUMBER_OF_PART_P.append(int(match_obj.group(1)))
-                        elif count == 19:
-                            GLOBAL_NUMBER_OF_CCONJ_P.append(int(match_obj.group(1)))
-                        elif count == 20:
-                            GLOBAL_NUMBER_OF_SCONJ_P.append(int(match_obj.group(1)))
-                        elif count == 22:
-                            GLOBAL_NUMBER_OF_PRONN_P.append(int(match_obj.group(1)))
-                        elif count == 28:
-                            GLOBAL_NUMBER_OF_NOUNS_NOR_P.append(float(match_obj.group(1)))
-                        elif count == 29:
-                            GLOBAL_NUMBER_OF_VERBS_NOR_P.append(float(match_obj.group(1)))
-                        elif count == 30:
-                            GLOBAL_NUMBER_OF_ADJECTIVES_NOR_P.append(float(match_obj.group(1)))
-                        elif count == 31:
-                            GLOBAL_NUMBER_OF_ADVERBS_NOR_P.append(float(match_obj.group(1)))
-                        elif count == 34:
-                            GLOBAL_NUMBER_OF_PART_NOR_P.append(float(match_obj.group(1)))
-                        elif count == 35:
-                            GLOBAL_NUMBER_OF_CCONJ_NOR_P.append(float(match_obj.group(1)))
-                        elif count == 36:
-                            GLOBAL_NUMBER_OF_SCONJ_NOR_P.append(float(match_obj.group(1)))
-                        elif count == 38:
-                            GLOBAL_NUMBER_OF_PRONN_NOR_P.append(float(match_obj.group(1)))
-                        elif count == 43:
-                            GLOBAL_NOUN_VERB_P.append(float(match_obj.group(1)))
-                        elif count == 44:
-                            GLOBAL_PRONOUN_VERB_P.append(float(match_obj.group(1)))
-                        elif count == 45:
-                            GLOBAL_PRONOUN_NOUN_P.append(float(match_obj.group(1)))
-                    # Store in global variable arrays for negative patients
-                    elif patient_class == "N":
-                        if count == 2:
-                            GLOBAL_NUMBER_OF_WORDS_N.append(int(match_obj.group(1)))
-                        elif count == 3:
-                            GLOBAL_AVERAGE_WORDS_LEN_N.append(float(match_obj.group(1)))
-                        elif count == 4:
-                            GLOBAL_VOCABULARY_N.append(int(match_obj.group(1)))
-                        elif count == 5:
-                            GLOBAL_VOCABULARY_SO_N.append(int(match_obj.group(1)))
-                        elif count == 7:
-                            GLOBAL_TTR_N.append(float(match_obj.group(1)))
-                        elif count == 8:
-                            GLOBAL_W_N.append(float(match_obj.group(1)))
-                        elif count == 9:
-                            GLOBAL_R_N.append(float(match_obj.group(1)))
-                        elif count == 11:
-                            GLOBAL_NUMBER_OF_NOUNS_N.append(int(match_obj.group(1)))
-                        elif count == 12:
-                            GLOBAL_NUMBER_OF_VERBS_N.append(int(match_obj.group(1)))
-                        elif count == 13:
-                            GLOBAL_NUMBER_OF_ADJECTIVES_N.append(int(match_obj.group(1)))
-                        elif count == 14:
-                            GLOBAL_NUMBER_OF_ADVERBS_N.append(int(match_obj.group(1)))
-                        elif count == 18:
-                            GLOBAL_NUMBER_OF_PART_N.append(int(match_obj.group(1)))
-                        elif count == 19:
-                            GLOBAL_NUMBER_OF_CCONJ_N.append(int(match_obj.group(1)))
-                        elif count == 20:
-                            GLOBAL_NUMBER_OF_SCONJ_N.append(int(match_obj.group(1)))
-                        elif count == 22:
-                            GLOBAL_NUMBER_OF_PRONN_N.append(int(match_obj.group(1)))
-                        elif count == 28:
-                            GLOBAL_NUMBER_OF_NOUNS_NOR_N.append(float(match_obj.group(1)))
-                        elif count == 29:
-                            GLOBAL_NUMBER_OF_VERBS_NOR_N.append(float(match_obj.group(1)))
-                        elif count == 30:
-                            GLOBAL_NUMBER_OF_ADJECTIVES_NOR_N.append(float(match_obj.group(1)))
-                        elif count == 31:
-                            GLOBAL_NUMBER_OF_ADVERBS_NOR_N.append(float(match_obj.group(1)))
-                        elif count == 34:
-                            GLOBAL_NUMBER_OF_PART_NOR_N.append(float(match_obj.group(1)))
-                        elif count == 35:
-                            GLOBAL_NUMBER_OF_CCONJ_NOR_N.append(float(match_obj.group(1)))
-                        elif count == 36:
-                            GLOBAL_NUMBER_OF_SCONJ_NOR_N.append(float(match_obj.group(1)))
-                        elif count == 38:
-                            GLOBAL_NUMBER_OF_PRONN_NOR_N.append(float(match_obj.group(1)))
-                        elif count == 43:
-                            GLOBAL_NOUN_VERB_N.append(float(match_obj.group(1)))
-                        elif count == 44:
-                            GLOBAL_PRONOUN_VERB_N.append(float(match_obj.group(1)))
-                        elif count == 45:
-                            GLOBAL_PRONOUN_NOUN_N.append(float(match_obj.group(1)))
-                count += 1
+                lines = file.readlines()
+                count = 0
+                # Explore every line
+                for line in lines:
+
+                    # Match regex against the line
+                    match_obj = re.match(REGEX_READ_FILE, line, re.M | re.I)
+                    if match_obj:
+                        # Store in global variable arrays for positive patients
+                        if patient_class == "P":
+                            if count == 2:
+                                GLOBAL_NUMBER_OF_WORDS_P.append(int(match_obj.group(1)))
+                            elif count == 3:
+                                GLOBAL_AVERAGE_WORDS_LEN_P.append(float(match_obj.group(1)))
+                            elif count == 4:
+                                GLOBAL_VOCABULARY_P.append(int(match_obj.group(1)))
+                            elif count == 5:
+                                GLOBAL_VOCABULARY_SO_P.append(int(match_obj.group(1)))
+                            elif count == 7:
+                                GLOBAL_TTR_P.append(float(match_obj.group(1)))
+                            elif count == 8:
+                                GLOBAL_W_P.append(float(match_obj.group(1)))
+                            elif count == 9:
+                                GLOBAL_R_P.append(float(match_obj.group(1)))
+                            elif count == 11:
+                                GLOBAL_NUMBER_OF_NOUNS_P.append(int(match_obj.group(1)))
+                            elif count == 12:
+                                GLOBAL_NUMBER_OF_VERBS_P.append(int(match_obj.group(1)))
+                            elif count == 13:
+                                GLOBAL_NUMBER_OF_ADJECTIVES_P.append(int(match_obj.group(1)))
+                            elif count == 14:
+                                GLOBAL_NUMBER_OF_ADVERBS_P.append(int(match_obj.group(1)))
+                            elif count == 18:
+                                GLOBAL_NUMBER_OF_PART_P.append(int(match_obj.group(1)))
+                            elif count == 19:
+                                GLOBAL_NUMBER_OF_CCONJ_P.append(int(match_obj.group(1)))
+                            elif count == 20:
+                                GLOBAL_NUMBER_OF_SCONJ_P.append(int(match_obj.group(1)))
+                            elif count == 22:
+                                GLOBAL_NUMBER_OF_PRONN_P.append(int(match_obj.group(1)))
+                            elif count == 28:
+                                GLOBAL_NUMBER_OF_NOUNS_NOR_P.append(float(match_obj.group(1)))
+                            elif count == 29:
+                                GLOBAL_NUMBER_OF_VERBS_NOR_P.append(float(match_obj.group(1)))
+                            elif count == 30:
+                                GLOBAL_NUMBER_OF_ADJECTIVES_NOR_P.append(float(match_obj.group(1)))
+                            elif count == 31:
+                                GLOBAL_NUMBER_OF_ADVERBS_NOR_P.append(float(match_obj.group(1)))
+                            elif count == 34:
+                                GLOBAL_NUMBER_OF_PART_NOR_P.append(float(match_obj.group(1)))
+                            elif count == 35:
+                                GLOBAL_NUMBER_OF_CCONJ_NOR_P.append(float(match_obj.group(1)))
+                            elif count == 36:
+                                GLOBAL_NUMBER_OF_SCONJ_NOR_P.append(float(match_obj.group(1)))
+                            elif count == 38:
+                                GLOBAL_NUMBER_OF_PRONN_NOR_P.append(float(match_obj.group(1)))
+                            elif count == 43:
+                                GLOBAL_NOUN_VERB_P.append(float(match_obj.group(1)))
+                            elif count == 44:
+                                GLOBAL_PRONOUN_VERB_P.append(float(match_obj.group(1)))
+                            elif count == 45:
+                                GLOBAL_PRONOUN_NOUN_P.append(float(match_obj.group(1)))
+                        # Store in global variable arrays for negative patients
+                        elif patient_class == "N":
+                            if count == 2:
+                                GLOBAL_NUMBER_OF_WORDS_N.append(int(match_obj.group(1)))
+                            elif count == 3:
+                                GLOBAL_AVERAGE_WORDS_LEN_N.append(float(match_obj.group(1)))
+                            elif count == 4:
+                                GLOBAL_VOCABULARY_N.append(int(match_obj.group(1)))
+                            elif count == 5:
+                                GLOBAL_VOCABULARY_SO_N.append(int(match_obj.group(1)))
+                            elif count == 7:
+                                GLOBAL_TTR_N.append(float(match_obj.group(1)))
+                            elif count == 8:
+                                GLOBAL_W_N.append(float(match_obj.group(1)))
+                            elif count == 9:
+                                GLOBAL_R_N.append(float(match_obj.group(1)))
+                            elif count == 11:
+                                GLOBAL_NUMBER_OF_NOUNS_N.append(int(match_obj.group(1)))
+                            elif count == 12:
+                                GLOBAL_NUMBER_OF_VERBS_N.append(int(match_obj.group(1)))
+                            elif count == 13:
+                                GLOBAL_NUMBER_OF_ADJECTIVES_N.append(int(match_obj.group(1)))
+                            elif count == 14:
+                                GLOBAL_NUMBER_OF_ADVERBS_N.append(int(match_obj.group(1)))
+                            elif count == 18:
+                                GLOBAL_NUMBER_OF_PART_N.append(int(match_obj.group(1)))
+                            elif count == 19:
+                                GLOBAL_NUMBER_OF_CCONJ_N.append(int(match_obj.group(1)))
+                            elif count == 20:
+                                GLOBAL_NUMBER_OF_SCONJ_N.append(int(match_obj.group(1)))
+                            elif count == 22:
+                                GLOBAL_NUMBER_OF_PRONN_N.append(int(match_obj.group(1)))
+                            elif count == 28:
+                                GLOBAL_NUMBER_OF_NOUNS_NOR_N.append(float(match_obj.group(1)))
+                            elif count == 29:
+                                GLOBAL_NUMBER_OF_VERBS_NOR_N.append(float(match_obj.group(1)))
+                            elif count == 30:
+                                GLOBAL_NUMBER_OF_ADJECTIVES_NOR_N.append(float(match_obj.group(1)))
+                            elif count == 31:
+                                GLOBAL_NUMBER_OF_ADVERBS_NOR_N.append(float(match_obj.group(1)))
+                            elif count == 34:
+                                GLOBAL_NUMBER_OF_PART_NOR_N.append(float(match_obj.group(1)))
+                            elif count == 35:
+                                GLOBAL_NUMBER_OF_CCONJ_NOR_N.append(float(match_obj.group(1)))
+                            elif count == 36:
+                                GLOBAL_NUMBER_OF_SCONJ_NOR_N.append(float(match_obj.group(1)))
+                            elif count == 38:
+                                GLOBAL_NUMBER_OF_PRONN_NOR_N.append(float(match_obj.group(1)))
+                            elif count == 43:
+                                GLOBAL_NOUN_VERB_N.append(float(match_obj.group(1)))
+                            elif count == 44:
+                                GLOBAL_PRONOUN_VERB_N.append(float(match_obj.group(1)))
+                            elif count == 45:
+                                GLOBAL_PRONOUN_NOUN_N.append(float(match_obj.group(1)))
+                    count += 1
 
 
 # Function for calling plotting module with needed data
@@ -501,7 +506,7 @@ def draw_graphs_for_lexical_statistics():
                                            "Honore's Statistic")
 
 
-def start_lexical_analysis(draw_graphs: bool, statistics: bool):
+def start_lexical_analysis(draw_graphs: bool, statistics: bool, should_read_tagged_files: bool):
     """
     Function to start lexical analysis. Reading of tagged files has to be done at least once.
     Results are stored in files, read in read_results functions and those results are
@@ -509,17 +514,18 @@ def start_lexical_analysis(draw_graphs: bool, statistics: bool):
     """
     print(" Starting Lexical Analysis ")
 
-    # read_tagged_files(PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
-    print(" Finished reading P files ")
+    if should_read_tagged_files:
+        read_tagged_files(PATH_FOR_LOG_FILE + 'log_P_UD.txt', 'P')
+        print(" Finished reading P files ")
 
-    # read_tagged_files(PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
-    print(" Finished reading N files ")
+        read_tagged_files(PATH_FOR_LOG_FILE + 'log_N_UD.txt', 'N')
+        print(" Finished reading N files ")
 
     if draw_graphs:
-        read_results("P", PATH_FOR_LOG_FILE + '/log_P_UD.txt', 'P_UD')
+        read_results("P", PATH_FOR_LOG_FILE + 'log_P_UD.txt', 'P')
         print(" Finished reading P results ")
 
-        read_results("N", PATH_FOR_LOG_FILE + '/log_N_UD.txt', 'N_UD')
+        read_results("N", PATH_FOR_LOG_FILE + 'log_N_UD.txt', 'N')
         print(" Finished reading N results")
 
         draw_graphs_for_lexical_statistics()
@@ -529,17 +535,17 @@ def start_lexical_analysis(draw_graphs: bool, statistics: bool):
         calculate_statistics(PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_2,
                              PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_2,
                              PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_3, PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_3,
-                             "train_1_2_test_3.txt")
+                             PATH_TO_STATISTIC_FOLDER + "train_1_2_test_3.txt")
 
         calculate_statistics(PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_3,
                              PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_3,
                              PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_2, PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_2,
-                             "train_1_3_test_2.txt")
+                             PATH_TO_STATISTIC_FOLDER + "train_1_3_test_2.txt")
 
         calculate_statistics(PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_3, PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_2,
                              PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_3, PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_2,
                              PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_1,
-                             "train_3_2_test_1.txt")
+                             PATH_TO_STATISTIC_FOLDER + "train_3_2_test_1.txt")
 
     print(" Ending Lexical Analysis ")
 
@@ -573,8 +579,14 @@ def start_machine_learning():
 if __name__ == '__main__':
     print(" Start Classification of Alzheimer Disease ")
 
-    start_machine_learning()
-    # start_lexical_analysis(False, True)
+    PATH_TO_TAGGED_FILES = "../Tagged_Texts_3/"
+    PATH_FOR_LOG_FILE = PATH_TO_TAGGED_FILES + "logs/"
+    PATH_TO_STATISTIC_FOLDER = PATH_TO_TAGGED_FILES + "Statistic/"
+    PATH_TO_TRAIN_TEST_CORPUS = PATH_TO_TAGGED_FILES + "Train_Test_Corpus/"
+    PATH_TO_TRAIN_TEST_CORPUS_ML = PATH_TO_TAGGED_FILES + "Train_Test_Corpus_ML/"
+
+    start_lexical_analysis(draw_graphs=False, statistics=True, should_read_tagged_files=False)
     # calculate_cosine_distance()
+    # start_machine_learning()
 
     print(" End Classification of Alzheimer Disease ")

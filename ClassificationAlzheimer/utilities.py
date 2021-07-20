@@ -6,9 +6,9 @@ File containing constants and functions that are used from different modules.
 
 from enum import Enum
 
-PATH_TO_TAGGED_FILES = "../TaggedTexts"
-PATH_FOR_LOG_FILE = "../TaggedTexts/logs"
-PATH_TO_TEXTS = "../"  # used for cosine distance counting
+PATH_TO_TAGGED_FILES = "../Tagged_Texts_1/"
+PATH_FOR_LOG_FILE = "../Tagged_Texts_1/logs/"
+PATH_TO_TEXTS = "../Texts/"  # used for cosine distance counting
 
 REGEX = r'([0-9a-zA-Z{_`’<–”“„\/\(\)\[\]\-\'":*!.?…},šđčćžŠĐÐČĆŽ]*)	([0-9a-zA-Z{_`<–’„”“\/\(\)\[\]\-\'":*!.?…},' \
         r'šđčćžŠÐĐČĆŽ]*)	([0-9a-zA-Z{_`<–’„”“\/\(\)\[\]\-\'":*!.?…},šđčćžŠĐÐČĆŽ]*)'
@@ -17,9 +17,9 @@ REGEX_READ_FILE = r'[a-zA-Z\'_ ]*:?: ([0-9.]+)'
 BOW_PREPROCESSING_LEMMA: bool = False
 BOW_PREPROCESSING_STOP_WORDS: bool = False
 
-PATH_TO_STATISTIC_FOLDER = "../Statistic"
-PATH_TO_TRAIN_TEST_CORPUS = "../Train_Test_Corpus/"
-PATH_TO_TRAIN_TEST_CORPUS_ML = "../Train_Test_Corpus_ML/"
+PATH_TO_STATISTIC_FOLDER = PATH_TO_TAGGED_FILES + "Statistic/"
+PATH_TO_TRAIN_TEST_CORPUS = PATH_TO_TAGGED_FILES + "Train_Test_Corpus/"
+PATH_TO_TRAIN_TEST_CORPUS_ML = PATH_TO_TAGGED_FILES + "Train_Test_Corpus_ML/"
 POSITIVE_FOLDER_1 = "P_1"
 POSITIVE_FOLDER_2 = "P_2"
 NEGATIVE_FOLDER_1 = "N_1"

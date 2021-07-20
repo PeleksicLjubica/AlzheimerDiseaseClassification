@@ -1,0 +1,46 @@
+Ruža_Vujošević
+------------------------------------------------
+number_of_words: 3763
+average_words_length: 3.993622110018602
+vocabulary: 725
+vocabulary spoken once: 394
+------------------------------------------------
+Type token ratio: 0.1926654265213925
+Brunet's Index: 16.07330323301232
+Honore's Statistic: 1803.2944254320973
+------------------------------------------------
+number of nouns: 581
+number of verbs: 700
+number of adjectives: 141
+number of adverbs: 343
+number of punct: 635
+number of aux: 442
+number of det: 213
+number of part: 221
+number of cconj: 380
+number of sconj: 237
+number of propn: 96
+number of pronn: 352
+number of x: 4
+number of adp: 218
+number of num: 23
+number of intj: 8
+Normalized ------------------------------------------------
+number of nouns normalized: 0.15439808663300558
+number of verbs normalized:: 0.3034812649481796
+number of adjectives normalized: 0.037470103640712196
+number of adverbs normalized: 0.09115067765081053
+number of aux normalized: 0.11745947382407654
+number of det normalized: 0.05660377358490566
+number of part normalized: 0.05872973691203827
+number of cconj normalized: 0.10098325803879883
+number of sconj normalized: 0.06298166356630348
+number of propn normalized: 0.025511559925591284
+number of pronn normalized: 0.0935423863938347
+number of adp normalized: 0.05793250066436354
+number of num normalized: 0.006112144565506245
+number of intj normalized: 0.002125963327132607
+Ratios ------------------------------------------------
+ratio noun to verb: 0.5087565674255692
+ratio pronoun to verb: 0.30823117338003503
+ratio pronoun to noun: 0.6058519793459552

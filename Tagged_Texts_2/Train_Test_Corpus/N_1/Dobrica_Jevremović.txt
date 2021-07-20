@@ -1,0 +1,46 @@
+Dobrica_Jevremović
+------------------------------------------------
+number_of_words: 3928
+average_words_length: 4.134928716904277
+vocabulary: 870
+vocabulary spoken once: 528
+------------------------------------------------
+Type token ratio: 0.2214867617107943
+Brunet's Index: 15.012830350978579
+Honore's Statistic: 2105.26916153295
+------------------------------------------------
+number of nouns: 717
+number of verbs: 602
+number of adjectives: 190
+number of adverbs: 314
+number of punct: 388
+number of aux: 484
+number of det: 379
+number of part: 185
+number of cconj: 271
+number of sconj: 217
+number of propn: 115
+number of pronn: 339
+number of x: 8
+number of adp: 226
+number of num: 112
+number of intj: 7
+Normalized ------------------------------------------------
+number of nouns normalized: 0.1825356415478615
+number of verbs normalized:: 0.27647657841140527
+number of adjectives normalized: 0.04837067209775967
+number of adverbs normalized: 0.079938900203666
+number of aux normalized: 0.12321792260692464
+number of det normalized: 0.0964867617107943
+number of part normalized: 0.04709775967413442
+number of cconj normalized: 0.0689918533604888
+number of sconj normalized: 0.05524439918533605
+number of propn normalized: 0.029276985743380855
+number of pronn normalized: 0.08630346232179226
+number of adp normalized: 0.057535641547861505
+number of num normalized: 0.028513238289205704
+number of intj normalized: 0.0017820773930753565
+Ratios ------------------------------------------------
+ratio noun to verb: 0.6602209944751382
+ratio pronoun to verb: 0.31215469613259667
+ratio pronoun to noun: 0.47280334728033474

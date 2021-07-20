@@ -1,0 +1,46 @@
+Miša
+------------------------------------------------
+number_of_words: 2330
+average_words_length: 4.163090128755365
+vocabulary: 612
+vocabulary spoken once: 371
+------------------------------------------------
+Type token ratio: 0.2626609442060086
+Brunet's Index: 14.726060814028038
+Honore's Statistic: 1968.969962860815
+------------------------------------------------
+number of nouns: 365
+number of verbs: 429
+number of adjectives: 92
+number of adverbs: 141
+number of punct: 456
+number of aux: 260
+number of det: 140
+number of part: 118
+number of cconj: 217
+number of sconj: 201
+number of propn: 20
+number of pronn: 203
+number of x: 1
+number of adp: 138
+number of num: 39
+number of intj: 7
+Normalized ------------------------------------------------
+number of nouns normalized: 0.15665236051502146
+number of verbs normalized:: 0.2957081545064378
+number of adjectives normalized: 0.039484978540772535
+number of adverbs normalized: 0.06051502145922747
+number of aux normalized: 0.11158798283261803
+number of det normalized: 0.060085836909871244
+number of part normalized: 0.050643776824034335
+number of cconj normalized: 0.09313304721030043
+number of sconj normalized: 0.08626609442060086
+number of propn normalized: 0.008583690987124463
+number of pronn normalized: 0.0871244635193133
+number of adp normalized: 0.0592274678111588
+number of num normalized: 0.016738197424892704
+number of intj normalized: 0.0030042918454935624
+Ratios ------------------------------------------------
+ratio noun to verb: 0.5297532656023222
+ratio pronoun to verb: 0.2946298984034833
+ratio pronoun to noun: 0.5561643835616439

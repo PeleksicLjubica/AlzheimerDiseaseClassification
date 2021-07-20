@@ -1,0 +1,46 @@
+Stevan_Grubor
+------------------------------------------------
+number_of_words: 2509
+average_words_length: 4.399362295735353
+vocabulary: 716
+vocabulary spoken once: 423
+------------------------------------------------
+Type token ratio: 0.28537265842965326
+Brunet's Index: 14.095846245538455
+Honore's Statistic: 1912.8293225932964
+------------------------------------------------
+number of nouns: 490
+number of verbs: 421
+number of adjectives: 140
+number of adverbs: 236
+number of punct: 453
+number of aux: 263
+number of det: 192
+number of part: 144
+number of cconj: 129
+number of sconj: 163
+number of propn: 68
+number of pronn: 219
+number of x: 0
+number of adp: 144
+number of num: 30
+number of intj: 6
+Normalized ------------------------------------------------
+number of nouns normalized: 0.19529693104822637
+number of verbs normalized:: 0.27261857313670784
+number of adjectives normalized: 0.05579912315663611
+number of adverbs normalized: 0.0940613790354723
+number of aux normalized: 0.10482263850139498
+number of det normalized: 0.07652451175767237
+number of part normalized: 0.05739338381825428
+number of cconj normalized: 0.05141490633718613
+number of sconj normalized: 0.06496612196094062
+number of propn normalized: 0.027102431247508968
+number of pronn normalized: 0.08728577122359506
+number of adp normalized: 0.05739338381825428
+number of num normalized: 0.011956954962136309
+number of intj normalized: 0.0023913909924272616
+Ratios ------------------------------------------------
+ratio noun to verb: 0.716374269005848
+ratio pronoun to verb: 0.3201754385964912
+ratio pronoun to noun: 0.44693877551020406
