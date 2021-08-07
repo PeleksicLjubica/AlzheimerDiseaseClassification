@@ -1,0 +1,28 @@
+\babel@toc {serbian}{}
+\contentsline {chapter}{Sadr\v zaj}{iv}{section*.1}%
+\contentsline {chapter}{\chapternumberline {1}Uvod}{1}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {2}Podaci}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Problem određivanja vrsta reči}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Lematizacija}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Skup podataka pre i nekon obrade}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Vektorska reprezentacija teksta}{11}{section.2.4}%
+\contentsline {subsection}{Vreća reči}{11}{section*.2}%
+\contentsline {subsection}{N-grami}{11}{section*.3}%
+\contentsline {subsection}{TF metrika}{11}{section*.4}%
+\contentsline {subsection}{TF-IDF metrika}{11}{section*.5}%
+\contentsline {subsection}{Naivni Bajesov algoritam}{11}{section*.6}%
+\contentsline {chapter}{\chapternumberline {3}Problem klasifikacije}{12}{chapter.3}%
+\contentsline {chapter}{\chapternumberline {4}Rešavanje problema metodama lingvističke analize}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Lingvističke mere}{14}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Mere bazirane na vrstama reči}{14}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Mere bazirane na bogatstvu vokabulara}{15}{section.4.3}%
+\contentsline {subsection}{Odnos tipa tokena}{15}{section*.7}%
+\contentsline {subsection}{Brunetov Indeks}{15}{section*.8}%
+\contentsline {subsection}{Honoreva Statistika}{15}{section*.9}%
+\contentsline {section}{\numberline {4.4}Klasifikacija bazirana na lingvističkim merama}{16}{section.4.4}%
+\contentsline {chapter}{\chapternumberline {5}Problem klasifikacije}{20}{chapter.5}%
+\contentsline {chapter}{\chapternumberline {6}Rešavanje problema Naivnim Bajesovim klasifikatorom}{21}{chapter.6}%
+\contentsline {chapter}{\chapternumberline {7}Rešavanje problema metodom podežavajućih vektora}{22}{chapter.7}%
+\contentsline {chapter}{\chapternumberline {8}Rezultati}{23}{chapter.8}%
+\contentsline {chapter}{\chapternumberline {9}Zaključak}{24}{chapter.9}%
+\contentsline {chapter}{Bibliografija}{25}{chapter*.10}%

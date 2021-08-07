@@ -2,14 +2,138 @@ import pathlib
 from utilities import *
 import re
 
+def average(lst):
+    return sum(lst) / len(lst)
+
+def find_av_statistic():
+
+    TTR_P = []
+    TTR_R = []
+    TTR_F = []
+    R_P = []
+    R_R = []
+    R_F = []
+    H_P = []
+    H_R = []
+    H_F = []
+    N_P = []
+    N_R = []
+    N_F = []
+    V_P = []
+    V_R = []
+    V_F = []
+    ADJ_P = []
+    ADJ_R = []
+    ADJ_F = []
+    ADV_P = []
+    ADV_R = []
+    ADV_F = []
+    NV_P = []
+    NV_R = []
+    NV_F = []
+    PV_P = []
+    PV_R = []
+    PV_F = []
+    PN_P = []
+    PN_R = []
+    PN_F = []
+
+    for path in pathlib.Path(PATH_TO_STATISTIC_FOLDER).iterdir():
+        if path.is_file():
+            # Open next file in the folder
+            file = open(path, encoding="utf8")
+            if ".DS_Store" not in path.parts:
+                lines = file.readlines()
+
+                line = lines[9]
+                match_obj = re.match(STATISTICS_REGEX, line, re.M | re.I)
+                if match_obj:
+                    TTR_P.append(float(match_obj.group(1)))
+                    TTR_R.append(float(match_obj.group(2)))
+                    TTR_F.append(float(match_obj.group(3)))
+
+                line = lines[10]
+                match_obj = re.match(STATISTICS_REGEX, line, re.M | re.I)
+                if match_obj:
+                    R_P.append(float(match_obj.group(1)))
+                    R_R.append(float(match_obj.group(2)))
+                    R_F.append(float(match_obj.group(3)))
+
+                line = lines[11]
+                match_obj = re.match(STATISTICS_REGEX, line, re.M | re.I)
+                if match_obj:
+                    H_P.append(float(match_obj.group(1)))
+                    H_R.append(float(match_obj.group(2)))
+                    H_F.append(float(match_obj.group(3)))
+
+                line = lines[12]
+                match_obj = re.match(STATISTICS_REGEX, line, re.M | re.I)
+                if match_obj:
+                    N_P.append(float(match_obj.group(1)))
+                    N_R.append(float(match_obj.group(2)))
+                    N_F.append(float(match_obj.group(3)))
+
+                line = lines[13]
+                match_obj = re.match(STATISTICS_REGEX, line, re.M | re.I)
+                if match_obj:
+                    V_P.append(float(match_obj.group(1)))
+                    V_R.append(float(match_obj.group(2)))
+                    V_F.append(float(match_obj.group(3)))
+
+                line = lines[14]
+                match_obj = re.match(STATISTICS_REGEX, line, re.M | re.I)
+                if match_obj:
+                    ADJ_P.append(float(match_obj.group(1)))
+                    ADJ_R.append(float(match_obj.group(2)))
+                    ADJ_F.append(float(match_obj.group(3)))
+
+                line = lines[15]
+                match_obj = re.match(STATISTICS_REGEX, line, re.M | re.I)
+                if match_obj:
+                    ADV_P.append(float(match_obj.group(1)))
+                    ADV_R.append(float(match_obj.group(2)))
+                    ADV_F.append(float(match_obj.group(3)))
+
+                line = lines[16]
+                match_obj = re.match(STATISTICS_REGEX, line, re.M | re.I)
+                if match_obj:
+                    NV_P.append(float(match_obj.group(1)))
+                    NV_R.append(float(match_obj.group(2)))
+                    NV_F.append(float(match_obj.group(3)))
+
+                line = lines[17]
+                match_obj = re.match(STATISTICS_REGEX, line, re.M | re.I)
+                if match_obj:
+                    PV_P.append(float(match_obj.group(1)))
+                    PV_R.append(float(match_obj.group(2)))
+                    PV_F.append(float(match_obj.group(3)))
+
+                line = lines[18]
+                match_obj = re.match(STATISTICS_REGEX, line, re.M | re.I)
+                if match_obj:
+                    PN_P.append(float(match_obj.group(1)))
+                    PN_R.append(float(match_obj.group(2)))
+                    PN_F.append(float(match_obj.group(3)))
+
+    print("TTR P: " + str(average(TTR_P))+ " TTR R: " + str(average(TTR_R))+ " TTR F: " + str(average(TTR_F)))
+    print("R P: " + str(average(R_P))+ " R R: " + str(average(R_R))+ " R F: " + str(average(R_F)))
+    print("H P: " + str(average(H_P))+ " H R: " + str(average(H_R))+ " H F: " + str(average(H_F)))
+    print("N P: " + str(average(N_P))+ " N R: " + str(average(N_R))+ " N F: " + str(average(N_F)))
+    print("V P: " + str(average(V_P))+ " V R: " + str(average(V_R))+ " V F: " + str(average(V_F)))
+    print("ADJ P: " + str(average(ADJ_P))+ " ADJ R: " + str(average(ADJ_R))+ " ADJ F: " + str(average(ADJ_F)))
+    print("ADV P: " + str(average(ADV_P))+ " ADV R: " + str(average(ADV_R))+ " ADV F: " + str(average(ADV_F)))
+    print("NV P: " + str(average(NV_P))+ " NV R: " + str(average(NV_R))+ " NV F: " + str(average(NV_F)))
+    print("PV P: " + str(average(PV_P))+ " PV R: " + str(average(PV_R))+ " PV F: " + str(average(PV_F)))
+    print("PN P: " + str(average(PN_P))+ " PN R: " + str(average(PN_R))+ " PN F: " + str(average(PN_F)))
+
 
 def find_all_train_statistics(measure: Measurement, train_data, path_to_folder):
     """
     Function to collect specific measurement for all train data in path_to_folder
-    :param measure:
-    :param train_data:
-    :param path_to_folder:
-    :return:
+    :param measure: Type of measurement that are collected data for
+    :param train_data: Array where data for measurement is stored
+    :param path_to_folder: Path to folder where data is located
+    :return: None
     """
 
     print(" Enter find_all_train_statistics")
@@ -24,7 +148,9 @@ def find_all_train_statistics(measure: Measurement, train_data, path_to_folder):
 
                 match_obj = re.match(REGEX_READ_FILE, line, re.M | re.I)
                 if match_obj:
+                    print("Path of file = " + str(path) + " value = " + str(float(match_obj.group(1))))
                     train_data.append(float(match_obj.group(1)))
+                    print("Train data after adding of new value: " + str(train_data))
 
     print(" Exit find_all_positive_train_statistics")
     return train_data
@@ -36,12 +162,12 @@ def find_all_test_statistics(measure: Measurement, class_clasif: ClassificationC
     """
     Function to collect specific measurement for all test data and calculate True Positives, True Negatives, False
     Positives and False Negatives for every document in test corpus
-    :param measure:
-    :param class_clasif:
-    :param path_to_folder:
-    :param positive_train_data:
-    :param negative_train_data:
-    :return:
+    :param measure: Type of measurement that are collected data for
+    :param class_clasif: Type of class, POSITIVE or NEGATIVE
+    :param path_to_folder: Path to folder where data is located
+    :param positive_train_data: Array of positive training data collected
+    :param negative_train_data: Array of negative training data collected
+    :return: Array containing two values depending on class
     """
 
     TruePositives = 0
@@ -66,31 +192,50 @@ def find_all_test_statistics(measure: Measurement, class_clasif: ClassificationC
 
                 match_obj = re.match(REGEX_READ_FILE, line, re.M | re.I)
                 if match_obj:
+                    print("Test document path: " + str(path) + " value = " + str(float(match_obj.group(1))))
                     test_document_value = float(match_obj.group(1))
 
                     for value in positive_train_data:
+                        print("Distance from document to P " + str(distance_from_document_to_p))
                         distance_from_document_to_p += abs(test_document_value - value)
+                        print("Value of current train document = " + str(value))
+                        print("Value of test document = " + str(test_document_value))
+                        print("Value of abs(test_document_value - value) " + str(abs(test_document_value - value)))
 
                     for value in negative_train_data:
+                        print("Distance from document to N " + str(distance_from_document_to_n))
                         distance_from_document_to_n += abs(test_document_value - value)
+                        print("Value of current train document = " + str(value))
+                        print("Value of test document = " + str(test_document_value))
+                        print("Value of abs(test_document_value - value) " + str(abs(test_document_value - value)))
+
+                    print("Distance from document to P before normalization " + str(distance_from_document_to_p))
+                    print("Distance from document to N before normalization" + str(distance_from_document_to_n))
 
                     distance_from_document_to_n = distance_from_document_to_n / len(negative_train_data)
                     distance_from_document_to_p = distance_from_document_to_p / len(positive_train_data)
 
+                    print("Distance from document to P after normalization" + str(distance_from_document_to_p))
+                    print("Distance from document to N after normalization" + str(distance_from_document_to_n))
+
                     print("Test document " + str(path) + "Test document value: " + str(test_document_value) +
-                          " Distance from docuent to P: " + str(distance_from_document_to_p) + " Distance from docuent to N: " +
-                          str(distance_from_document_to_n))
+                          " Distance from document to P: " + str(distance_from_document_to_p) +
+                          " Distance from docuent to N: " + str(distance_from_document_to_n))
 
                     if class_clasif == ClassificationClass.POSITIVE:
                         if distance_from_document_to_p < distance_from_document_to_n:
                             TruePositives += 1
+                            print("It is True Positive " + str(TruePositives))
                         else:
                             FalseNegatives += 1
+                            print("It is False Negative " + str(FalseNegatives))
                     else:
                         if distance_from_document_to_p < distance_from_document_to_n:
                             FalsePositives += 1
+                            print("It is False Positive " + str(FalsePositives))
                         else:
                             TrueNegatives += 1
+                            print("It is True Negative " + str(TrueNegatives))
 
     if class_clasif == ClassificationClass.POSITIVE:
         print("TruePositives: " + str(TruePositives) + " FalseNegatives: " + str(FalseNegatives))
@@ -104,25 +249,33 @@ def calculate_statistics_for_measure(measure: Measurement, path_to_train_1, path
                                      path_to_train_4, path_to_test_1, path_to_test_2):
     """
     Function to collect train statistics and
-    :param measure:
-    :param path_to_train_1:
-    :param path_to_train_2:
-    :param path_to_train_3:
-    :param path_to_train_4:
-    :param path_to_test_1:
-    :param path_to_test_2:
-    :return:
+    :param measure: Type of measurement that are collected data for
+    :param path_to_train_1: Path to training folder
+    :param path_to_train_2: Path to training folder
+    :param path_to_train_3: Path to training folder
+    :param path_to_train_4: Path to training folder
+    :param path_to_test_1: Path to test folder
+    :param path_to_test_2: Path to test folder
+    :return: values for precision, recall and f-measure
     """
     print(" Enter calculate_statistics_for_measure")
 
     # Collect data for specific measure for training corpus
     positive_train_data = []
-    negative_train_data =[]
-    positive_train_data = find_all_train_statistics(measure, positive_train_data, path_to_train_1)
-    positive_train_data = find_all_train_statistics(measure, positive_train_data, path_to_train_2)
+    negative_train_data = []
 
+    print("Positive train data before collection of data: " + str(positive_train_data))
+    positive_train_data = find_all_train_statistics(measure, positive_train_data, path_to_train_1)
+
+    print("Positive train data after train data 1: " + str(positive_train_data))
+    positive_train_data = find_all_train_statistics(measure, positive_train_data, path_to_train_2)
+    print("Positive train data after train data 2: " + str(positive_train_data))
+
+    print("Negative train data before collection of data: " + str(negative_train_data))
     negative_train_data = find_all_train_statistics(measure, negative_train_data, path_to_train_3)
+    print("Negative train data after train data 3 collection of data: " + str(negative_train_data))
     negative_train_data = find_all_train_statistics(measure, negative_train_data, path_to_train_4)
+    print("Negative train data after train data 4 collection of data: " + str(negative_train_data))
 
     [TruePositives, FalseNegatives] = find_all_test_statistics(measure, ClassificationClass.POSITIVE,
                                                                path_to_test_1, positive_train_data, negative_train_data)
@@ -130,20 +283,26 @@ def calculate_statistics_for_measure(measure: Measurement, path_to_train_1, path
     [_, FalsePositives] = find_all_test_statistics(measure, ClassificationClass.NEGATIVE,
                                                    path_to_test_2, positive_train_data, negative_train_data)
 
-    print("True Positives: " + str(TruePositives) + "FalsePositives: " + str(FalsePositives) + "FalseNegatives: " + str(FalseNegatives))
+    print("True Positives: " + str(TruePositives) + "FalsePositives: " + str(FalsePositives) + "FalseNegatives: " +
+          str(FalseNegatives))
 
     P = 0
     R = 0
     F = 0
     if TruePositives + FalsePositives != 0:
         P = TruePositives / (TruePositives + FalsePositives)
+    else:
+        x = 0
     if TruePositives + FalseNegatives != 0:
         R = TruePositives / (TruePositives + FalseNegatives)
-
+    else:
+        x = 0
     print("P: " + str(P) + "R: " + str(R))
 
     if P+R != 0:
         F = (2 * P * R) / (P + R)
+    else:
+        x = 0
 
     print("P: " + str(P) + " R: " + str(R) + " F: " + str(F))
 
@@ -152,19 +311,18 @@ def calculate_statistics_for_measure(measure: Measurement, path_to_train_1, path
 
 
 def calculate_statistics(path_to_train_1, path_to_train_2, path_to_train_3, path_to_train_4, path_to_test_1,
-                         path_to_test_2, path_to_statistic_folder):
+                         path_to_test_2, path_to_statistic_folder, should_calculate_avg_statistics):
     """
     Function to call statistic calculation for all measures and save calculations to log files
-    :param path_to_train_1:
-    :param path_to_train_2:
-    :param path_to_train_3:
-    :param path_to_train_4:
-    :param path_to_test_1:
-    :param path_to_test_2:
+    :param path_to_train_1: Path to training folder
+    :param path_to_train_2: Path to training folder
+    :param path_to_train_3: Path to training folder
+    :param path_to_train_4: Path to training folder
+    :param path_to_test_1: Path to test folder
+    :param path_to_test_2: Path to test folder
     :param log_file_name: Path with file name for log file
-    :return:
+    :return: None
     """
-
 
     print(" Enter calculate_statistics")
 
@@ -235,4 +393,8 @@ def calculate_statistics(path_to_train_1, path_to_train_2, path_to_train_3, path
                    + " F-measure: " + str(F_pronoun_noun) + "\n")
 
     log_file.close()
+
+    if should_calculate_avg_statistics:
+       find_av_statistic()
+
     print(" Exit calculate_statistics")

@@ -10,6 +10,7 @@ import math  # needed for logarithm
 
 import numpy as np
 
+import utilities
 from utilities import *
 from cosine_distance import calculate_cosine_distance
 from plotting import plot_lexical_analysis_results_one_plot, plot_lexical_analysis_results_two_plots
@@ -535,42 +536,83 @@ def start_lexical_analysis(draw_graphs: bool, statistics: bool, should_read_tagg
         calculate_statistics(PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_2,
                              PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_2,
                              PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_3, PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_3,
-                             PATH_TO_STATISTIC_FOLDER + "train_1_2_test_3.txt")
+                             PATH_TO_STATISTIC_FOLDER + "train_1_2_test_3.txt", False)
 
         calculate_statistics(PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_3,
                              PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_3,
                              PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_2, PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_2,
-                             PATH_TO_STATISTIC_FOLDER + "train_1_3_test_2.txt")
+                             PATH_TO_STATISTIC_FOLDER + "train_1_3_test_2.txt", False)
 
         calculate_statistics(PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_3, PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_2,
                              PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_3, PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_2,
                              PATH_TO_TRAIN_TEST_CORPUS + POSITIVE_FOLDER_1, PATH_TO_TRAIN_TEST_CORPUS + NEGATIVE_FOLDER_1,
-                             PATH_TO_STATISTIC_FOLDER + "train_3_2_test_1.txt")
+                             PATH_TO_STATISTIC_FOLDER + "train_3_2_test_1.txt", True)
 
     print(" Ending Lexical Analysis ")
 
 
 # Function that starts Machine Learning algorithms
-def start_machine_learning():
+def start_machine_learning(n, use_lemma, delete_stop_words, delete_punct):
     print(" Starting Machine Learning Algorithms ")
 
-    do_machine_learning(POSITIVE_FOLDER_1, POSITIVE_FOLDER_3, NEGATIVE_FOLDER_1, NEGATIVE_FOLDER_3, POSITIVE_FOLDER_2,
-                        NEGATIVE_FOLDER_2, (1, 1), MLAlgorithm.SVM)
+    print("Test module START")
+    print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
+    do_machine_learning(NEGATIVE_FOLDER_1, ClassificationClass.NEGATIVE,
+                        POSITIVE_FOLDER_1, ClassificationClass.POSITIVE,
+                        NEGATIVE_FOLDER_3, ClassificationClass.NEGATIVE,
+                        POSITIVE_FOLDER_3, ClassificationClass.POSITIVE,
+                        POSITIVE_FOLDER_2, ClassificationClass.POSITIVE,
+                        NEGATIVE_FOLDER_2, ClassificationClass.NEGATIVE,
+                        n, MLAlgorithm.SVM, use_lemma, delete_stop_words, delete_punct)
 
-    do_machine_learning(POSITIVE_FOLDER_1, POSITIVE_FOLDER_2, NEGATIVE_FOLDER_1, NEGATIVE_FOLDER_2, POSITIVE_FOLDER_3,
-                        NEGATIVE_FOLDER_3, (1, 1), MLAlgorithm.SVM)
+    do_machine_learning(POSITIVE_FOLDER_1, ClassificationClass.POSITIVE,
+                        NEGATIVE_FOLDER_1, ClassificationClass.NEGATIVE,
+                        NEGATIVE_FOLDER_3, ClassificationClass.NEGATIVE,
+                        POSITIVE_FOLDER_3, ClassificationClass.POSITIVE,
+                        POSITIVE_FOLDER_2, ClassificationClass.POSITIVE,
+                        NEGATIVE_FOLDER_2, ClassificationClass.NEGATIVE,
+                        n, MLAlgorithm.SVM, use_lemma, delete_stop_words, delete_punct)
 
-    do_machine_learning(POSITIVE_FOLDER_2, POSITIVE_FOLDER_3, NEGATIVE_FOLDER_2, NEGATIVE_FOLDER_3, POSITIVE_FOLDER_1,
-                        NEGATIVE_FOLDER_1, (1, 1), MLAlgorithm.SVM)
+    do_machine_learning(POSITIVE_FOLDER_1, ClassificationClass.POSITIVE,
+                        NEGATIVE_FOLDER_3, ClassificationClass.NEGATIVE,
+                        NEGATIVE_FOLDER_1, ClassificationClass.NEGATIVE,
+                        POSITIVE_FOLDER_3, ClassificationClass.POSITIVE,
+                        NEGATIVE_FOLDER_2, ClassificationClass.NEGATIVE,
+                        POSITIVE_FOLDER_2, ClassificationClass.POSITIVE,
+                        n, MLAlgorithm.SVM, use_lemma, delete_stop_words, delete_punct)
+    print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
+    print("Test module END")
 
-    do_machine_learning(POSITIVE_FOLDER_1, POSITIVE_FOLDER_2, NEGATIVE_FOLDER_1, NEGATIVE_FOLDER_2, POSITIVE_FOLDER_3,
-                        NEGATIVE_FOLDER_3, (1, 1), MLAlgorithm.NaiveBayes)
+    # SVM bag-of-words no preprocessing
+    do_machine_learning(POSITIVE_FOLDER_1, ClassificationClass.POSITIVE, POSITIVE_FOLDER_3, ClassificationClass.POSITIVE,
+                        NEGATIVE_FOLDER_1, ClassificationClass.NEGATIVE, NEGATIVE_FOLDER_3, ClassificationClass.NEGATIVE,
+                        POSITIVE_FOLDER_2, ClassificationClass.POSITIVE, NEGATIVE_FOLDER_2, ClassificationClass.NEGATIVE,
+                        n, MLAlgorithm.SVM, use_lemma, delete_stop_words, delete_punct)
 
-    do_machine_learning(POSITIVE_FOLDER_1, POSITIVE_FOLDER_3, NEGATIVE_FOLDER_1, NEGATIVE_FOLDER_3, POSITIVE_FOLDER_2,
-                        NEGATIVE_FOLDER_2, (1, 1), MLAlgorithm.NaiveBayes)
+    do_machine_learning(POSITIVE_FOLDER_1, ClassificationClass.POSITIVE, POSITIVE_FOLDER_2, ClassificationClass.POSITIVE,
+                        NEGATIVE_FOLDER_1, ClassificationClass.NEGATIVE, NEGATIVE_FOLDER_2, ClassificationClass.NEGATIVE,
+                        POSITIVE_FOLDER_3, ClassificationClass.POSITIVE, NEGATIVE_FOLDER_3, ClassificationClass.NEGATIVE,
+                        n, MLAlgorithm.SVM, use_lemma, delete_stop_words, delete_punct)
 
-    do_machine_learning(POSITIVE_FOLDER_2, POSITIVE_FOLDER_3, NEGATIVE_FOLDER_2, NEGATIVE_FOLDER_3, POSITIVE_FOLDER_1,
-                        NEGATIVE_FOLDER_1, (1, 1), MLAlgorithm.NaiveBayes)
+    do_machine_learning(POSITIVE_FOLDER_2, ClassificationClass.POSITIVE, POSITIVE_FOLDER_3, ClassificationClass.POSITIVE,
+                        NEGATIVE_FOLDER_2, ClassificationClass.NEGATIVE, NEGATIVE_FOLDER_3, ClassificationClass.NEGATIVE,
+                        POSITIVE_FOLDER_1, ClassificationClass.POSITIVE, NEGATIVE_FOLDER_1, ClassificationClass.NEGATIVE,
+                        n, MLAlgorithm.SVM, use_lemma, delete_stop_words, delete_punct)
+
+    do_machine_learning(POSITIVE_FOLDER_1, ClassificationClass.POSITIVE, POSITIVE_FOLDER_2, ClassificationClass.POSITIVE,
+                        NEGATIVE_FOLDER_1, ClassificationClass.NEGATIVE, NEGATIVE_FOLDER_2, ClassificationClass.NEGATIVE,
+                        POSITIVE_FOLDER_3, ClassificationClass.POSITIVE, NEGATIVE_FOLDER_3, ClassificationClass.NEGATIVE,
+                        n, MLAlgorithm.NaiveBayes, use_lemma, delete_stop_words, delete_punct)
+
+    do_machine_learning(POSITIVE_FOLDER_1, ClassificationClass.POSITIVE, POSITIVE_FOLDER_3, ClassificationClass.POSITIVE,
+                        NEGATIVE_FOLDER_1, ClassificationClass.NEGATIVE, NEGATIVE_FOLDER_3, ClassificationClass.NEGATIVE,
+                        POSITIVE_FOLDER_2, ClassificationClass.POSITIVE, NEGATIVE_FOLDER_2, ClassificationClass.NEGATIVE,
+                        n, MLAlgorithm.NaiveBayes, use_lemma, delete_stop_words, delete_punct)
+
+    do_machine_learning(POSITIVE_FOLDER_2, ClassificationClass.POSITIVE, POSITIVE_FOLDER_3, ClassificationClass.POSITIVE,
+                        NEGATIVE_FOLDER_2, ClassificationClass.NEGATIVE, NEGATIVE_FOLDER_3, ClassificationClass.NEGATIVE,
+                        POSITIVE_FOLDER_1,  ClassificationClass.POSITIVE, NEGATIVE_FOLDER_1, ClassificationClass.NEGATIVE,
+                        n, MLAlgorithm.NaiveBayes, use_lemma, delete_stop_words, delete_punct)
 
     print(" Ending Machine Learning Algorithms ")
 
@@ -579,14 +621,8 @@ def start_machine_learning():
 if __name__ == '__main__':
     print(" Start Classification of Alzheimer Disease ")
 
-    PATH_TO_TAGGED_FILES = "../Tagged_Texts_3/"
-    PATH_FOR_LOG_FILE = PATH_TO_TAGGED_FILES + "logs/"
-    PATH_TO_STATISTIC_FOLDER = PATH_TO_TAGGED_FILES + "Statistic/"
-    PATH_TO_TRAIN_TEST_CORPUS = PATH_TO_TAGGED_FILES + "Train_Test_Corpus/"
-    PATH_TO_TRAIN_TEST_CORPUS_ML = PATH_TO_TAGGED_FILES + "Train_Test_Corpus_ML/"
-
-    start_lexical_analysis(draw_graphs=False, statistics=True, should_read_tagged_files=False)
+    #start_lexical_analysis(draw_graphs=False, statistics=True, should_read_tagged_files=False)
     # calculate_cosine_distance()
-    # start_machine_learning()
+    start_machine_learning(n=(1, 1), use_lemma=False, delete_stop_words=False, delete_punct=False)
 
     print(" End Classification of Alzheimer Disease ")

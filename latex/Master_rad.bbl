@@ -1,0 +1,57 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{10}
+
+\bibitem{medicor}
+\emph{Alchajmerova bolest}, \url{https://medicor.rs/alchajmerova-bolest/}.
+
+\bibitem{seracell}
+\emph{Alchajmerova bolest – simptomi, testiranje i lečenje},
+  \url{https://www.seracell.rs/alchajmerova-bolest-lecenje/}.
+
+\bibitem{Alzheimerfactsfigures}
+Alzheimer's Association, \emph{Alzheimer disease facts and figures},  (2021)
+  (english).
+
+\bibitem{automaticdetandrat}
+Vlado~Kešelj Calvin~Thomas and Elissa~Asp Nick~Cercone, Kenneth~Rockwood,
+  \emph{Automatic detection and rating of demetia of alzheimer type through
+  lexical analysis of spontaneous speech} (english).
+
+\bibitem{actavis}
+Doc dr~Branimir Radmanović Klinika za psihijatriju Klinički~centar
+  Kragujevac, \emph{Upozoravajući ili znaci prepoznavanja (alchajmerove)
+  demencije},  (2020) (serbian).
+
+\bibitem{Languageimpairment}
+Alzheimer's~Disease International, \emph{Dementia statistics},  (2020)
+  (english).
+
+\bibitem{postagging}
+Daniel Jurafsky and James~H. Martin, \emph{Sequence labeling for parts of
+  speech and named entities},  (2020) (english).
+
+\bibitem{linguisticfeatures}
+Jed A.~Meltzer Kathleen C.~Fraser and Frank Rudzicz, \emph{Linguistic feature
+  identify alzheimer's disease in narrative speech} (english).
+
+\bibitem{MarijaMR}
+Marija Radovic, \emph{Klasifikacija teksta prema sentimentu primenom metoda
+  mašinskog učenja}, Master's thesis.
+
+\bibitem{tagger}
+Cvetana Krstev Miloš Utvić Mihailo~Škorić Ranka~Stanković,
+  Branislava~Šandrih, \emph{Machine learning and deep neural network-based
+  lemmatization and morphosyntactic tagging for serbian} (english).
+
+\bibitem{Evaloftechfolexicalperformance}
+J.~M.~Cuerden R.S.~Bucks, S.~Singh and G.K. Wilcock, \emph{Analysis of
+  spontaneous, conversational speech in dementia of alzheimer type: Evaluation
+  of an objective technique for analysing lexical performance} (english).
+
+\end{thebibliography}

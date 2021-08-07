@@ -6,13 +6,14 @@ File containing constants and functions that are used from different modules.
 
 from enum import Enum
 
-PATH_TO_TAGGED_FILES = "../Tagged_Texts_1/"
-PATH_FOR_LOG_FILE = "../Tagged_Texts_1/logs/"
+PATH_TO_TAGGED_FILES = "../Tagged_Texts_3/"
+PATH_FOR_LOG_FILE = "../Tagged_Texts_3/logs/"
 PATH_TO_TEXTS = "../Texts/"  # used for cosine distance counting
 
 REGEX = r'([0-9a-zA-Z{_`’<–”“„\/\(\)\[\]\-\'":*!.?…},šđčćžŠĐÐČĆŽ]*)	([0-9a-zA-Z{_`<–’„”“\/\(\)\[\]\-\'":*!.?…},' \
         r'šđčćžŠÐĐČĆŽ]*)	([0-9a-zA-Z{_`<–’„”“\/\(\)\[\]\-\'":*!.?…},šđčćžŠĐÐČĆŽ]*)'
 REGEX_READ_FILE = r'[a-zA-Z\'_ ]*:?: ([0-9.]+)'
+STATISTICS_REGEX = r"[a-zA-Z '/]*: Precision: ([0-9.]*) Recall: ([0-9.]*) F-measure: ([0-9.]*)"
 
 BOW_PREPROCESSING_LEMMA: bool = False
 BOW_PREPROCESSING_STOP_WORDS: bool = False
@@ -27,6 +28,8 @@ NEGATIVE_FOLDER_2 = "N_2"
 POSITIVE_FOLDER_3 = "P_3"
 NEGATIVE_FOLDER_3 = "N_3"
 
+STOP_WORDS_1 = "../StopWords/stopwordsSRB1.txt"
+STOP_WORDS_2 = "../StopWords/stopwordsSRB2.txt"
 
 class ClassificationClass(Enum):
     NONE = 0
