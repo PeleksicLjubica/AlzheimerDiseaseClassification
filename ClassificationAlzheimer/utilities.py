@@ -6,8 +6,8 @@ File containing constants and functions that are used from different modules.
 
 from enum import Enum
 
-PATH_TO_TAGGED_FILES = "../Tagged_Texts_3/"
-PATH_FOR_LOG_FILE = "../Tagged_Texts_3/logs/"
+PATH_TO_TAGGED_FILES = "../Tagged_Texts_2/"
+PATH_FOR_LOG_FILE = "../Tagged_Texts_2/logs/"
 PATH_TO_TEXTS = "../Texts/"  # used for cosine distance counting
 
 REGEX = r'([0-9a-zA-Z{_`’<–”“„\/\(\)\[\]\-\'":*!.?…},šđčćžŠĐÐČĆŽ]*)	([0-9a-zA-Z{_`<–’„”“\/\(\)\[\]\-\'":*!.?…},' \
@@ -47,7 +47,7 @@ class Measurement(Enum):
     TTR = 7
     W = 8
     R = 9
-    nouns = 29
+    nouns = 28
     verbs = 29
     adj = 30
     adv = 31
@@ -59,3 +59,6 @@ class Measurement(Enum):
 class MLAlgorithm(Enum):
     SVM = 1,
     NaiveBayes = 2
+
+def average(lst):
+    return sum(lst) / len(lst)

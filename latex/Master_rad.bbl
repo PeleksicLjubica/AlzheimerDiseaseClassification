@@ -8,50 +8,112 @@
 \begin{thebibliography}{10}
 
 \bibitem{medicor}
-\emph{Alchajmerova bolest}, \url{https://medicor.rs/alchajmerova-bolest/}.
+\emph{{Alchajmerova bolest}}, \url{https://medicor.rs/alchajmerova-bolest/},
+  Poslednji pristup 08. Septembar 2021.
 
-\bibitem{seracell}
-\emph{Alchajmerova bolest – simptomi, testiranje i lečenje},
-  \url{https://www.seracell.rs/alchajmerova-bolest-lecenje/}.
+\bibitem{wordembedding}
+Khaled Al-Ansari, \emph{{Survey on Word Embedding Techniques in Natural
+  Language Processing}},
+  \url{https:www.researchgate.netpublication343686323_Survey_on_Word_Embedding_Techniques_in_Natural_Language_Processing},
+  2020, Poslednji pristup 18. Septembar 2021.
 
 \bibitem{Alzheimerfactsfigures}
-Alzheimer's Association, \emph{Alzheimer disease facts and figures},  (2021)
-  (english).
+Alzheimer's Association, \emph{{2021 Alzheimer Disease Facts and Figures}},
+  \url{https://www.alz.org/media/documents/alzheimers-facts-and-figures.pdf},
+  2021, Poslednji pristup 08. Septembar 2021.
+
+\bibitem{Evaloftechfolexicalperformance}
+R.~S. Bucks, S.~Singh, J.~M. Cuerden, and G.~K. Wilcock, \emph{{Analysis of
+  spontaneous, conversational speech in dementia of Alzheimer type: Evaluation
+  of an objective technique for analysing lexical performance}}, Aphasiology
+  \textbf{14} (2000), no.~1, 71--91, DOI:10.1080/026870300401603 URL:
+  https://doi.org/10.1080/026870300401603.
 
 \bibitem{automaticdetandrat}
 Vlado~Kešelj Calvin~Thomas and Elissa~Asp Nick~Cercone, Kenneth~Rockwood,
-  \emph{Automatic detection and rating of demetia of alzheimer type through
-  lexical analysis of spontaneous speech} (english).
+  \emph{{Automatic Detection and Rating of Demetia of Alzheimer Type through
+  Lexical Analysis of Spontaneous Speech}}, Proceedings of the IEEE
+  International Conference on Mechatronics \& Automation, Institute of
+  Electrical and Electronics Engineers(IEEE), 2005,
+  DOI:10.1109/ICMA.2005.1626789 URL:
+  https://ieeexplore.ieee.org/abstract/document/1626789/citations\#citations,
+  p.~1569–1574 (english).
 
-\bibitem{actavis}
-Doc dr~Branimir Radmanović Klinika za psihijatriju Klinički~centar
-  Kragujevac, \emph{Upozoravajući ili znaci prepoznavanja (alchajmerove)
-  demencije},  (2020) (serbian).
+\bibitem{srpskifrecnik}
+Duško~Vitas Cvetana~Krstev, \emph{{Processing of Serbian. Automata, texts and
+  electronic dictionaries}}, 2008, Faculty of Philology of the University of
+  Belgrade.
+
+\bibitem{cross}
+Dimitris Effrosynidis, \emph{{10+1 Corss-Validation Techniques Visualized}},
+  \url{https://towardsdatascience.com/10-1-cross-validation-techniques-visualized-9013095fb68e},
+  2021, Poslednji pristup 08. Septembar 2021.
+
+\bibitem{linmark}
+Santamaria M Cecchi G Naylor~M. Eyigoz~E, Mathur~S, \emph{{Linguistic markers
+  predict onset of Alzheimer's disease}}, EClinicalMedicine (2020) (english),
+  DOI:10.1016/j.eclinm.2020.100583.
+
+\bibitem{JelenaPHD}
+Jelena Graovac, \emph{{Prilog Metodama Klasifikacije Teksta: Matematički
+  modeli i primene}}, Ph.D. thesis, {Matemati\v{c}ki fakultet, Beograd}, 2014.
+
+\bibitem{ngram}
+\bysame, \emph{{Text categorization using n-gram based language independent
+  technique}}, 2014, Nau\v{c}ni rad. Matemati\v{c}ki fakultet, Beograd, 2014.
+
+\bibitem{seracell}
+Seracell~VOTA34 group, \emph{{Alchajmerova bolest – simptomi, testiranje i
+  lečenje}}, \url{https://www.seracell.rs/alchajmerova-bolest-lecenje/},
+  Poslednji pristup 08. Septembar 2021.
 
 \bibitem{Languageimpairment}
-Alzheimer's~Disease International, \emph{Dementia statistics},  (2020)
-  (english).
+Alzheimer's~Disease International, \emph{{Dementia Statistics}},
+  \url{https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/},
+  2020, Poslednji pristup 08. Septembar 2021.
 
 \bibitem{postagging}
-Daniel Jurafsky and James~H. Martin, \emph{Sequence labeling for parts of
-  speech and named entities},  (2020) (english).
+Daniel Jurafsky and James~H. Martin, \emph{{Sequence Labeling for Parts of
+  Speech and Named Entities", booktitle = "Speech and Language Processing}},
+  \url{https://web.stanford.edu/~jurafsky/slp3/8.pdf/}, 2020, Poslednji pristup
+  18. Septembar 2021.
 
 \bibitem{linguisticfeatures}
-Jed A.~Meltzer Kathleen C.~Fraser and Frank Rudzicz, \emph{Linguistic feature
-  identify alzheimer's disease in narrative speech} (english).
+Jed A.~Meltzer Kathleen C.~Fraser and Frank Rudzicz, \emph{{Linguistic feature
+  Identify Alzheimer's Disease in Narrative Speech}}, Journal of Alzheimer's
+  disease \textbf{49} (2015), no.~2, 407--422 (english),
+  DOI:10.3233/JAD-150520.
 
-\bibitem{MarijaMR}
-Marija Radovic, \emph{Klasifikacija teksta prema sentimentu primenom metoda
-  mašinskog učenja}, Master's thesis.
+\bibitem{github}
+Ljubica Peleksić, \emph{{Github stranica sa praktičnim delom rada}},
+  \url{https://github.com/PeleksicLjubica/AlzheimerDiseaseClassification/},
+  2021, Poslednji pristup 08. Septembar 2021.
 
 \bibitem{tagger}
 Cvetana Krstev Miloš Utvić Mihailo~Škorić Ranka~Stanković,
-  Branislava~Šandrih, \emph{Machine learning and deep neural network-based
-  lemmatization and morphosyntactic tagging for serbian} (english).
+  Branislava~Šandrih, \emph{{Machine Learning and Deep Neural Network-Based
+  Lemmatization and Morphosyntactic Tagging for Serbian}}, Proceedings of the
+  12th Conference on Language Resources and Evaluation (LREC 2020) At:
+  Marseille, 2020, p.~3954–3962 (english).
 
-\bibitem{Evaloftechfolexicalperformance}
-J.~M.~Cuerden R.S.~Bucks, S.~Singh and G.K. Wilcock, \emph{Analysis of
-  spontaneous, conversational speech in dementia of alzheimer type: Evaluation
-  of an objective technique for analysing lexical performance} (english).
+\bibitem{introductiontodm}
+Pang-Ning Tan, Michael Steinbach, Anuj Karpatne, and Vipin Kumar,
+  \emph{{Introduction to Data Mining (2nd Edition)}}, 2nd ed., Pearson, 2018,
+  DOI:10.5555/3208440.
+
+\bibitem{kernel}
+Ajay Yadev, \emph{{SUPPORT VECTOR MACHINES(SVM)}},
+  \url{https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589},
+  2018, Poslednji pristup 18. Septembar 2021.
+
+\bibitem{actavis}
+Dr~Branimir Radmanović~Klinika za~psihijatriju Klinički~centar Kragujevac,
+  \emph{{Upozoravajući ili znaci prepoznavanja (alchajmerove) demencije}},
+  \url{https://www.actavis.rs/terapeutske-oblasti/neurologija/article-pages/upozoravajui-ili-znaci-ranog-prepoznavanja-alchajmerove-demencije/},
+  2020, Poslednji pristup 08. Septembar 2021.
+
+\bibitem{MladenAndjelka}
+Mladen Nikolić~Anđelka Zečević, \emph{{Mašinsko učenje}}, 2020,
+  {Matemati\v{c}ki fakultet, Beograd. Skripta}.
 
 \end{thebibliography}

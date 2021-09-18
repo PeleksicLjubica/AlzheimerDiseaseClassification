@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Master_rad.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: amsplain.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: Master_rad.bib
+Warning--to sort, need author or key in medicor
+Too many commas in name 1 of "Eyigoz E, Mathur S, Santamaria M, Cecchi G, Naylor M." for entry linmark
+while executing---line 1139 of file amsplain.bst
+Too many commas in name 1 of "Eyigoz E, Mathur S, Santamaria M, Cecchi G, Naylor M." for entry linmark
+while executing---line 1139 of file amsplain.bst
+Too many commas in name 1 of "Ranka Stanković, Branislava Šandrih, Cvetana Krstev, Miloš Utvić, Mihailo Škorić" for entry tagger
+while executing---line 1139 of file amsplain.bst
+Too many commas in name 1 of "Ranka Stanković, Branislava Šandrih, Cvetana Krstev, Miloš Utvić, Mihailo Škorić" for entry tagger
+while executing---line 1139 of file amsplain.bst
+Too many commas in name 1 of "Eyigoz E, Mathur S, Santamaria M, Cecchi G, Naylor M." for entry linmark
+while executing---line 1223 of file amsplain.bst
+Too many commas in name 1 of "Eyigoz E, Mathur S, Santamaria M, Cecchi G, Naylor M." for entry linmark
+while executing---line 1223 of file amsplain.bst
+Warning--missing pages in linmark
+Too many commas in name 1 of "Ranka Stanković, Branislava Šandrih, Cvetana Krstev, Miloš Utvić, Mihailo Škorić" for entry tagger
+while executing---line 1223 of file amsplain.bst
+Too many commas in name 1 of "Ranka Stanković, Branislava Šandrih, Cvetana Krstev, Miloš Utvić, Mihailo Škorić" for entry tagger
+while executing---line 1223 of file amsplain.bst
+You've used 20 entries,
+            2213 wiz_defined-function locations,
+            609 strings with 7962 characters,
+and the built_in function-call counts, 5165 in all, are:
+= -- 456
+> -- 181
+< -- 0
++ -- 75
+- -- 55
+* -- 307
+:= -- 785
+add.period$ -- 20
+call.type$ -- 20
+change.case$ -- 89
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 272
+empty$ -- 510
+format.name$ -- 55
+if$ -- 1147
+int.to.chr$ -- 0
+int.to.str$ -- 20
+missing$ -- 27
+newline$ -- 70
+num.names$ -- 37
+pop$ -- 183
+preamble$ -- 1
+purify$ -- 68
+quote$ -- 0
+skip$ -- 190
+stack$ -- 0
+substring$ -- 180
+swap$ -- 65
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 78
+warning$ -- 2
+while$ -- 41
+width$ -- 22
+write$ -- 187
+(There were 8 error messages)

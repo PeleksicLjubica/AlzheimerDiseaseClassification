@@ -1,6 +1,6 @@
 """
 
-Module for word embedding and SVM learning
+Module for collecting data, diving into test and training data, word vectorization, starting SVM algorithm
 
 """
 import numpy
@@ -13,7 +13,7 @@ from utilities import *
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import LabelEncoder
 from sklearn import naive_bayes, svm
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 
 X_train = []
 X_test = []
@@ -26,8 +26,11 @@ X_train_dict = []
 X_test_dict = []
 
 corpus = []
-
 stop_words = []
+
+P_all = 0
+R_all = 0
+F_all = 0
 
 
 def start_naive_bayes_algorithm():
@@ -45,22 +48,74 @@ def start_naive_bayes_algorithm():
     # Print accuracy for Naive Bayes Algorithm
     print("Naive Bayes Accuracy Score -> ", accuracy_score(predictions, Y_test) * 100)
 
+    precision, recall, fscore, support = precision_recall_fscore_support(Y_test, predictions, labels=[0, 1])
+    print('precision:  {0}'.format(precision))
+    print('recall:  {0}'.format(recall))
+    print('fscore:  {0}'.format(fscore))
+
+    tn, fp, fn, tp = confusion_matrix(Y_test, predictions, labels=[0, 1]).ravel()
+
+    print("TN " + str(tn) + " FP " + str(fp) + " FN " + str(fn) + " TP " + str(tp))
+
+    P = 0
+    R = 0
+    F = 0
+    if tp + fp != 0:
+        P = tp / (tp + fp)
+
+    if tp + fn != 0:
+        R = tp / (tp + fn)
+
+    if P + R != 0:
+        F = (2 * P * R) / (P + R)
+
+    print("P: " + str(P) + " R: " + str(R) + " F: " + str(F))
+
+    P_all = P
+    R_all = R
+    F_all = F
+
 
 def start_svm_algorithm(c: float, kernel: str, degree: int, gamma=str):
+    global P_all, R_all, F_all
+
     # Fit the training set on SVM Classifier
-    svm_classifier = svm.SVC(C=c, kernel=kernel, degree=degree, gamma=gamma)
+    svm_classifier = svm.SVC(C=c, kernel=kernel)
     svm_classifier.fit(X_train_tfidf, Y_train)
 
     # Predict on the test set
     predictions = svm_classifier.predict(X_test_tfidf)
 
     # Print accuracy for SVM
-    print("SVM Accuracy Score -> ", accuracy_score(predictions, Y_test) * 100)
+    print("SVM Accuracy Score -> ", accuracy_score(Y_test, predictions) * 100)
+
+    tn, fp, fn, tp = confusion_matrix(Y_test, predictions, labels=[0, 1]).ravel()
+
+    print("TN " + str(tn) + " FP " + str(fp) + " FN " + str(fn) + " TP " + str(tp))
+
+    P = 0
+    R = 0
+    F = 0
+    if tp + fp != 0:
+        P = tp / (tp + fp)
+
+    if tp + fn != 0:
+        R = tp / (tp + fn)
+
+    if P + R != 0:
+        F = (2 * P * R) / (P + R)
+
+    print("P: " + str(P) + " R: " + str(R) + " F: " + str(F))
+
+    P_all = P
+    R_all = R
+    F_all = F
 
 
-def word_vectorization(n):
+def word_vectorization(n, n_gram_type):
     """
     Function for feature extraction with tf-idf vectorizer.
+    :param n_gram_type: word or character depending if n-gram chars or words should be used
     :param n: Number of n-grams
     n = (1,2) unigram model - bag of words
     n = (2,2) bigram model
@@ -70,8 +125,15 @@ def word_vectorization(n):
 
     global X_train_tfidf, X_test_tfidf
 
-    tf_idf_vec = TfidfVectorizer(use_idf=True, smooth_idf=False, ngram_range=n)
-    # Mozda je ovo problem
+    if n_gram_type == "word":
+        #tf_idf_vec = TfidfVectorizer(analyzer='word', use_idf=True, smooth_idf=False, ngram_range=n)
+        tf_idf_vec = TfidfVectorizer(analyzer='word', ngram_range=n)
+    elif n_gram_type == "character":
+        tf_idf_vec = TfidfVectorizer(analyzer='char', use_idf=True, smooth_idf=False, ngram_range=n)
+    else:
+        print("N-gram type unknown")
+        exit()
+
     tf_idf_vec.fit(X_train)
 
     X_train_tfidf = tf_idf_vec.transform(X_train)
@@ -178,6 +240,7 @@ def prepare_train_and_test_datasets(train_folder1, train_folder_1_class, train_f
     :param delete_punct: True if PUNCT words should not be used
     :return: None
     """
+    # Extract data from
     extract_data(PATH_TO_TRAIN_TEST_CORPUS_ML + train_folder1, CorpusType.TRAIN, train_folder_1_class,
                  use_lemma, delete_stop_words, delete_punct)
     extract_data(PATH_TO_TRAIN_TEST_CORPUS_ML + train_folder2, CorpusType.TRAIN, train_folder_2_class,
@@ -211,8 +274,9 @@ def clear_variables():
     """
 
     global X_train, X_test, X_test_tfidf, X_train_tfidf, Y_train, Y_test, X_train_dict, X_test_tfidf, stop_words, \
-        X_test_dict
+        X_test_dict, corpus
 
+    # Convert np arrays to lists
     if type(Y_train) is numpy.ndarray:
         Y_train = Y_train.tolist()
     if type(Y_test) is numpy.ndarray:
@@ -227,6 +291,7 @@ def clear_variables():
     X_test_dict = []
     X_train_dict = []
 
+    # Set paths for the execution
     utilities.PATH_TO_TAGGED_FILES = "../Tagged_Texts_2/"
     utilities.PATH_FOR_LOG_FILE = PATH_TO_TAGGED_FILES + "logs/"
     utilities.PATH_TO_STATISTIC_FOLDER = PATH_TO_TAGGED_FILES + "Statistic/"
@@ -234,6 +299,7 @@ def clear_variables():
     utilities.PATH_TO_TRAIN_TEST_CORPUS_ML = PATH_TO_TAGGED_FILES + "Train_Test_Corpus_ML/"
 
     stop_words = []
+    corpus = []
 
 
 def collect_stop_words():
@@ -256,10 +322,11 @@ def collect_stop_words():
 
 def do_machine_learning(train_folder1, train_folder_1_class, train_folder2, train_folder_2_class, train_folder3,
                         train_folder_3_class, train_folder4, train_folder_4_class, test_folder1, test_folder_1_class,
-                        test_folder2, test_folder_2_class, n, algorithm: MLAlgorithm, use_lemma, delete_stop_words,
-                        delete_punct):
+                        test_folder2, test_folder_2_class, n, n_gram_type: str, algorithm: MLAlgorithm, use_lemma,
+                        delete_stop_words, delete_punct):
     """
     Function that starts machine learning algorithm.
+    :param n_gram_type: words or characters
     :param test_folder_2_class: class of test folder2: POSITIVE or NEGATIVE
     :param test_folder_1_class: class of test folder1: POSITIVE or NEGATIVE
     :param train_folder_4_class: class of train folder4: POSITIVE or NEGATIVE
@@ -272,18 +339,20 @@ def do_machine_learning(train_folder1, train_folder_1_class, train_folder2, trai
     :param train_folder4: Path to fourth train folder
     :param test_folder1: Path to first test folder
     :param test_folder2: Path to second test folder
-    :param n: number for n-grams
+    :param n: typle representing number for n-grams
     :param algorithm: type MLAlgorithm - can be SVM or NaiveBayes
     :param use_lemma: True if lemma of the word should be used
     :param delete_stop_words: True if stop words should not be used
     :param delete_punct: True if PUNCT words should not be used
-    :return: None
+    :return: average values for precision, recall and f-measure
     """
     print("Start Machine Leaning Module")
     global Y_train, Y_test
 
+    # Clear data from previous execution that are remaining in the variables
     clear_variables()
 
+    # Collect stop words in case they need to be deleted
     if delete_stop_words:
         collect_stop_words()
 
@@ -293,10 +362,13 @@ def do_machine_learning(train_folder1, train_folder_1_class, train_folder2, trai
                                     test_folder1, test_folder_1_class, test_folder2, test_folder_2_class,
                                     use_lemma, delete_stop_words, delete_punct)
 
+    # Encode y part of datasets - from words to 0 and 1
     encode_y_data()
 
-    word_vectorization(n)
+    # Perform TF-IFD on x part of datasets
+    word_vectorization(n, n_gram_type)
 
+    # Start algorithm
     if algorithm == MLAlgorithm.SVM:
         start_svm_algorithm(c=1.0, kernel='linear', degree=3, gamma='auto')
     elif algorithm == MLAlgorithm.NaiveBayes:
@@ -305,4 +377,5 @@ def do_machine_learning(train_folder1, train_folder_1_class, train_folder2, trai
         print("No algorithm specified")
         exit()
 
-    print("End Machine Leaning Module")
+    # Return average values for precision, recall and f-measure
+    return (P_all, R_all, F_all)

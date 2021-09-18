@@ -7,13 +7,13 @@ Test folders:
 ../Tagged_Texts_1/Train_Test_Corpus/P_2
 ../Tagged_Texts_1/Train_Test_Corpus/N_2
 
-TTR statistic: Precision: 0.8 Recall: 0.5714285714285714 F-measure: 0.6666666666666666
-Brunet's index statistic: Precision: 0 Recall: 0.0 F-measure: 0
-Honore's Statistic statistic: Precision: 0.8 Recall: 0.5714285714285714 F-measure: 0.6666666666666666
-Noun measure statistic: Precision: 0.75 Recall: 0.42857142857142855 F-measure: 0.5454545454545454
-Verb measure statistic: Precision: 0.75 Recall: 0.42857142857142855 F-measure: 0.5454545454545454
-Adjective measure statistic: Precision: 1.0 Recall: 0.14285714285714285 F-measure: 0.25
-Adverb measure statistic: Precision: 1.0 Recall: 0.42857142857142855 F-measure: 0.6
-Noun/Verb Ratio statistic: Precision: 1.0 Recall: 0.8571428571428571 F-measure: 0.923076923076923
-Pronoun/Verb Ratio statistic: Precision: 0.2857142857142857 Recall: 0.2857142857142857 F-measure: 0.4444444444444445
-Pronoun/Noun statistic: Precision: 0.4117647058823529 Recall: 1.0 F-measure: 0.5833333333333334
+TTR statistic: Precision: 0.4117647058823529 Recall: 0.875 F-measure: 0.56
+Brunet's index statistic: Precision: 0.5 Recall: 0.25 F-measure: 0.3333333333333333
+Honore's Statistic statistic: Precision: 0.4375 Recall: 0.875 F-measure: 0.5833333333333334
+Noun measure statistic: Precision: 1.0 Recall: 0.5 F-measure: 0.6666666666666666
+Verb measure statistic: Precision: 0.45454545454545453 Recall: 0.625 F-measure: 0.5263157894736842
+Adjective measure statistic: Precision: 0 Recall: 0.0 F-measure: 0
+Adverb measure statistic: Precision: 0.375 Recall: 0.375 F-measure: 0.375
+Noun/Verb Ratio statistic: Precision: 0.6666666666666666 Recall: 0.5 F-measure: 0.5714285714285715
+Pronoun/Verb Ratio statistic: Precision: 0.125 Recall: 0.125 F-measure: 0.2222222222222222
+Pronoun/Noun statistic: Precision: 0.36363636363636365 Recall: 0.5 F-measure: 0.4210526315789474

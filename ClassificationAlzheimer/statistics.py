@@ -2,8 +2,10 @@ import pathlib
 from utilities import *
 import re
 
+
 def average(lst):
     return sum(lst) / len(lst)
+
 
 def find_av_statistic():
 
@@ -136,8 +138,6 @@ def find_all_train_statistics(measure: Measurement, train_data, path_to_folder):
     :return: None
     """
 
-    print(" Enter find_all_train_statistics")
-
     for path in pathlib.Path(path_to_folder).iterdir():
         if path.is_file():
             # Open next file in the folder
@@ -148,11 +148,8 @@ def find_all_train_statistics(measure: Measurement, train_data, path_to_folder):
 
                 match_obj = re.match(REGEX_READ_FILE, line, re.M | re.I)
                 if match_obj:
-                    print("Path of file = " + str(path) + " value = " + str(float(match_obj.group(1))))
                     train_data.append(float(match_obj.group(1)))
-                    print("Train data after adding of new value: " + str(train_data))
 
-    print(" Exit find_all_positive_train_statistics")
     return train_data
 
 
@@ -175,8 +172,6 @@ def find_all_test_statistics(measure: Measurement, class_clasif: ClassificationC
     TrueNegatives = 0
     FalseNegatives = 0
 
-    print("Enter Find all test statistics")
-
     # Iterate over positive training data
     for path in pathlib.Path(path_to_folder).iterdir():
 
@@ -192,50 +187,27 @@ def find_all_test_statistics(measure: Measurement, class_clasif: ClassificationC
 
                 match_obj = re.match(REGEX_READ_FILE, line, re.M | re.I)
                 if match_obj:
-                    print("Test document path: " + str(path) + " value = " + str(float(match_obj.group(1))))
                     test_document_value = float(match_obj.group(1))
 
                     for value in positive_train_data:
-                        print("Distance from document to P " + str(distance_from_document_to_p))
                         distance_from_document_to_p += abs(test_document_value - value)
-                        print("Value of current train document = " + str(value))
-                        print("Value of test document = " + str(test_document_value))
-                        print("Value of abs(test_document_value - value) " + str(abs(test_document_value - value)))
 
                     for value in negative_train_data:
-                        print("Distance from document to N " + str(distance_from_document_to_n))
                         distance_from_document_to_n += abs(test_document_value - value)
-                        print("Value of current train document = " + str(value))
-                        print("Value of test document = " + str(test_document_value))
-                        print("Value of abs(test_document_value - value) " + str(abs(test_document_value - value)))
-
-                    print("Distance from document to P before normalization " + str(distance_from_document_to_p))
-                    print("Distance from document to N before normalization" + str(distance_from_document_to_n))
 
                     distance_from_document_to_n = distance_from_document_to_n / len(negative_train_data)
                     distance_from_document_to_p = distance_from_document_to_p / len(positive_train_data)
 
-                    print("Distance from document to P after normalization" + str(distance_from_document_to_p))
-                    print("Distance from document to N after normalization" + str(distance_from_document_to_n))
-
-                    print("Test document " + str(path) + "Test document value: " + str(test_document_value) +
-                          " Distance from document to P: " + str(distance_from_document_to_p) +
-                          " Distance from docuent to N: " + str(distance_from_document_to_n))
-
                     if class_clasif == ClassificationClass.POSITIVE:
                         if distance_from_document_to_p < distance_from_document_to_n:
                             TruePositives += 1
-                            print("It is True Positive " + str(TruePositives))
                         else:
                             FalseNegatives += 1
-                            print("It is False Negative " + str(FalseNegatives))
                     else:
                         if distance_from_document_to_p < distance_from_document_to_n:
                             FalsePositives += 1
-                            print("It is False Positive " + str(FalsePositives))
                         else:
                             TrueNegatives += 1
-                            print("It is True Negative " + str(TrueNegatives))
 
     if class_clasif == ClassificationClass.POSITIVE:
         print("TruePositives: " + str(TruePositives) + " FalseNegatives: " + str(FalseNegatives))
@@ -264,27 +236,21 @@ def calculate_statistics_for_measure(measure: Measurement, path_to_train_1, path
     positive_train_data = []
     negative_train_data = []
 
-    print("Positive train data before collection of data: " + str(positive_train_data))
     positive_train_data = find_all_train_statistics(measure, positive_train_data, path_to_train_1)
-
-    print("Positive train data after train data 1: " + str(positive_train_data))
     positive_train_data = find_all_train_statistics(measure, positive_train_data, path_to_train_2)
-    print("Positive train data after train data 2: " + str(positive_train_data))
-
-    print("Negative train data before collection of data: " + str(negative_train_data))
     negative_train_data = find_all_train_statistics(measure, negative_train_data, path_to_train_3)
-    print("Negative train data after train data 3 collection of data: " + str(negative_train_data))
     negative_train_data = find_all_train_statistics(measure, negative_train_data, path_to_train_4)
-    print("Negative train data after train data 4 collection of data: " + str(negative_train_data))
 
     [TruePositives, FalseNegatives] = find_all_test_statistics(measure, ClassificationClass.POSITIVE,
                                                                path_to_test_1, positive_train_data, negative_train_data)
 
-    [_, FalsePositives] = find_all_test_statistics(measure, ClassificationClass.NEGATIVE,
+    [TrueNegatives, FalsePositives] = find_all_test_statistics(measure, ClassificationClass.NEGATIVE,
                                                    path_to_test_2, positive_train_data, negative_train_data)
 
-    print("True Positives: " + str(TruePositives) + "FalsePositives: " + str(FalsePositives) + "FalseNegatives: " +
-          str(FalseNegatives))
+    print(str(measure) + " True Positives: " + str(TruePositives) + " FalsePositives: " + str(FalsePositives) + " FalseNegatives: " +
+          str(FalseNegatives) + "True Negatives: " + str(TrueNegatives))
+
+    print("True: " + str(TruePositives + TrueNegatives) + " False: " + str(FalsePositives + FalseNegatives) )
 
     P = 0
     R = 0
@@ -297,7 +263,6 @@ def calculate_statistics_for_measure(measure: Measurement, path_to_train_1, path
         R = TruePositives / (TruePositives + FalseNegatives)
     else:
         x = 0
-    print("P: " + str(P) + "R: " + str(R))
 
     if P+R != 0:
         F = (2 * P * R) / (P + R)
@@ -314,6 +279,8 @@ def calculate_statistics(path_to_train_1, path_to_train_2, path_to_train_3, path
                          path_to_test_2, path_to_statistic_folder, should_calculate_avg_statistics):
     """
     Function to call statistic calculation for all measures and save calculations to log files
+    :param path_to_statistic_folder:
+    :param should_calculate_avg_statistics:
     :param path_to_train_1: Path to training folder
     :param path_to_train_2: Path to training folder
     :param path_to_train_3: Path to training folder

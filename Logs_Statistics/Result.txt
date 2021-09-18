@@ -1,4 +1,0 @@
-True Positives: 6 FalsePositives: 2 FalseNegatives: 2
-P: 0.75 R: 0.75
-P: 0.75 R: 0.75 F: 0.75
-Exit calculate_statistics_for_measure

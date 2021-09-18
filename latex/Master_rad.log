@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.16)  7 AUG 2021 00:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.16)  18 SEP 2021 17:56
 entering extended mode
 **./Master_rad.tex
 (Master_rad.tex
@@ -1014,17 +1014,22 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \xmathstrut@box=\box59
 \xmathstrut@dim=\dimen269
 )
-(/Users/ljubica/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
-e/fixltx2e.sty
-Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
-Applying: [2015/01/01] Old fixltx2e package on input line 46.
-
-
-Package fixltx2e Warning: fixltx2e is not required with releases after 2015
-(fixltx2e)                All fixes are now in the LaTeX kernel.
-(fixltx2e)                See the latexrelease package for details.
-
-Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+(/Users/ljubica/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
+cls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks35
+\thm@bodyfont=\toks36
+\thm@headfont=\toks37
+\thm@notefont=\toks38
+\thm@headpunct=\toks39
+\thm@preskip=\skip257
+\thm@postskip=\skip258
+\thm@headsep=\skip259
+\dth@everypar=\toks40
+)
+(/Users/ljubica/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pla
+ceins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1036,43 +1041,36 @@ ackend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-07-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count347
 \l__pdf_internal_box=\box60
-) (Master_rad.aux
-
-LaTeX Warning: Label `Slika' multiply defined.
-
-
-LaTeX Warning: Label `Slika' multiply defined.
-
-)
+) (Master_rad.aux)
 \openout1 = `Master_rad.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 38.
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 3
-4.
+8.
 
 (/Users/ljubica/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyr
 illic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 (/Users/ljubica/Library/Application Support/MiKTeX/texmfs/install/tex/context/b
 ase/mkii/supp-pdf.mkii
@@ -1082,12 +1080,12 @@ ase/mkii/supp-pdf.mkii
 \scratchbox=\box61
 \nofMPsegments=\count349
 \nofMParguments=\count350
-\everyMPshowfont=\toks35
+\everyMPshowfont=\toks41
 \MPscratchCnt=\count351
 \MPscratchDim=\dimen271
 \MPnumerator=\count352
 \makeMPintoPDFobject=\count353
-\everyMPtoPDFconversion=\toks36
+\everyMPtoPDFconversion=\toks42
 )
 (/Users/ljubica/Library/Application Support/MiKTeX/texmfs/install/tex/latex/eps
 topdf-pkg/epstopdf-base.sty
@@ -1109,8 +1107,8 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package csquotes Info: Redefining character " on input line 34.
-Package hyperref Info: Link coloring OFF on input line 34.
+Package csquotes Info: Redefining character " on input line 38.
+Package hyperref Info: Link coloring OFF on input line 38.
 
 (/Users/ljubica/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyp
 erref/nameref.sty
@@ -1128,38 +1126,38 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 34.
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \nameref on input line 38.
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
 (Master_rad.out) (Master_rad.out)
 \@outlinefile=\write4
 \openout4 = `Master_rad.out'.
 
-LaTeX Font Info:    Trying to load font information for T1+fos on input line 41
+LaTeX Font Info:    Trying to load font information for T1+fos on input line 46
 .
-LaTeX Font Info:    No file T1fos.fd. on input line 41.
+LaTeX Font Info:    No file T1fos.fd. on input line 46.
 
 
 LaTeX Font Warning: Font shape `T1/fos/m/n' undefined
-(Font)              using `T1/cmr/m/n' instead on input line 41.
+(Font)              using `T1/cmr/m/n' instead on input line 46.
 
 
 LaTeX Font Warning: Font shape `T1/fos/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 41.
+(Font)              size <17.28> substituted on input line 46.
 
-<matf.png, id=79, 346.29375pt x 409.53pt>
+<matf.png, id=103, 346.29375pt x 409.53pt>
 File: matf.png Graphic file (type png)
 <use matf.png>
-Package pdftex.def Info: matf.png  used on input line 41.
+Package pdftex.def Info: matf.png  used on input line 46.
 (pdftex.def)             Requested size: 85.35826pt x 100.94499pt.
 
 LaTeX Font Warning: Font shape `T1/fos/m/n' in size <22> not available
-(Font)              size <20.74> substituted on input line 41.
+(Font)              size <20.74> substituted on input line 46.
 
 
 LaTeX Font Warning: Font shape `T1/fos/b/n' undefined
-(Font)              using `T1/fos/m/n' instead on input line 41.
+(Font)              using `T1/fos/m/n' instead on input line 46.
 
 [1
 
@@ -1172,121 +1170,473 @@ ftex.map} <./matf.png>] [2
 ] [3
 
 
-] (Master_rad.toc) [4
+] [4
 
-] [1
+
+] (Master_rad.toc [5
+
+]) [6] [1
 
 
 ] [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 93--95
-
- []
-
 [4
 
-] [5] [6]
-
-LaTeX Warning: Citation `pos_tagging' on page 7 undefined on input line 141.
-
-[7] [8]
-<images/pos_tagger.png, id=212, 571.13374pt x 361.35pt>
+] [5] [6] [7] [8]
+<images/pos_tagger.png, id=260, 571.13374pt x 361.35pt>
 File: images/pos_tagger.png Graphic file (type png)
 <use images/pos_tagger.png>
-Package pdftex.def Info: images/pos_tagger.png  used on input line 167.
+Package pdftex.def Info: images/pos_tagger.png  used on input line 175.
 (pdftex.def)             Requested size: 298.1987pt x 188.66397pt.
  [9 <./images/pos_tagger.png>]
-<images/lemmatization.png, id=223, 571.13374pt x 361.35pt>
+<images/lemmatization.png, id=271, 571.13374pt x 361.35pt>
 File: images/lemmatization.png Graphic file (type png)
 <use images/lemmatization.png>
-Package pdftex.def Info: images/lemmatization.png  used on input line 184.
+Package pdftex.def Info: images/lemmatization.png  used on input line 195.
 (pdftex.def)             Requested size: 298.1987pt x 188.66397pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
-
- []
-
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 194--202
+ [10 <./images/lemmatization.png>]
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 204--228
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--202
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--202
-
- []
-
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 203--211
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 204--228
 [] 
  []
 
-[10 <./images/lemmatization.png>] [11] [12
+[11] [12
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 230--233
+<images/workflow.png, id=290, 745.78625pt x 663.47874pt>
+File: images/workflow.png Graphic file (type png)
+<use images/workflow.png>
+Package pdftex.def Info: images/workflow.png  used on input line 262.
+(pdftex.def)             Requested size: 298.1987pt x 265.28555pt.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13] [14 <./images/workflow.png>]
+<images/corss1.png, id=315, 719.68875pt x 353.32pt>
+File: images/corss1.png Graphic file (type png)
+<use images/corss1.png>
+Package pdftex.def Info: images/corss1.png  used on input line 281.
+(pdftex.def)             Requested size: 298.1987pt x 146.39864pt.
+<images/corss2.png, id=316, 709.65125pt x 413.545pt>
+File: images/corss2.png Graphic file (type png)
+<use images/corss2.png>
+Package pdftex.def Info: images/corss2.png  used on input line 288.
+(pdftex.def)             Requested size: 298.1987pt x 173.77605pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <./images/corss1.png>] [16 <./images/corss2.png>] [17]
+Overfull \hbox (0.37119pt too wide) in paragraph at lines 346--350
+[]\T1/cmr/m/n/12 Vre¢a re-£i (eng. bag-of-words) je jed-no-stav-na teh-ni-ka re
+-pre-zen-ta-ci-je tek-sta. Ovom
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--233
-
+Overfull \hbox (44.0061pt too wide) in paragraph at lines 352--366
+[] 
  []
 
-[13
+[18]
+Overfull \hbox (44.0061pt too wide) in paragraph at lines 366--380
+[] 
+ []
+
+
+Overfull \hbox (44.0061pt too wide) in paragraph at lines 380--392
+[] 
+ []
+
+
+Overfull \hbox (44.0061pt too wide) in paragraph at lines 392--408
+[] 
+ []
+
+[19]
+\c@mydef=\count355
+
+Overfull \hbox (44.0061pt too wide) in paragraph at lines 427--441
+[] 
+ []
+
+
+Overfull \hbox (44.0061pt too wide) in paragraph at lines 441--456
+[] 
+ []
+
+[20]
+Overfull \hbox (44.0061pt too wide) in paragraph at lines 460--472
+[] 
+ []
+
+
+Overfull \hbox (44.0061pt too wide) in paragraph at lines 472--486
+[] 
+ []
+
+[21] [22] [23]
+<images/confusionMatrix.png, id=408, 683.55376pt x 272.01625pt>
+File: images/confusionMatrix.png Graphic file (type png)
+<use images/confusionMatrix.png>
+Package pdftex.def Info: images/confusionMatrix.png  used on input line 551.
+(pdftex.def)             Requested size: 298.1987pt x 118.66646pt.
+ [24 <./images/confusionMatrix.png>] [25]
+<images/K_cross_validation.png, id=433, 402.50375pt x 322.20375pt>
+File: images/K_cross_validation.png Graphic file (type png)
+<use images/K_cross_validation.png>
+Package pdftex.def Info: images/K_cross_validation.png  used on input line 604.
+
+(pdftex.def)             Requested size: 298.1987pt x 238.70728pt.
+ [26 <./images/K_cross_validation.png>] [27
 
 ]
 
 Class memoir Warning: The material used in the headers is too large
 (29.54742pt) for the given head height (15.95009pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 242.
+(in both cases you will find help in the memoir manual). on input line 634.
 
 
 Overfull \vbox (13.59734pt too high) has occurred while \output is active []
 
 
-[14]
+[28]
 Overfull \vbox (13.59734pt too high) has occurred while \output is active []
 
 
-[15]
+[29]
 Overfull \vbox (13.59734pt too high) has occurred while \output is active []
 
 
-[16]
+[30]
 Overfull \vbox (13.59734pt too high) has occurred while \output is active []
 
 
-[17]
-<images/confusionMatrix.png, id=303, 673.51625pt x 272.01625pt>
-File: images/confusionMatrix.png Graphic file (type png)
-<use images/confusionMatrix.png>
-Package pdftex.def Info: images/confusionMatrix.png  used on input line 325.
-(pdftex.def)             Requested size: 298.1987pt x 120.43463pt.
-
-Overfull \vbox (13.59734pt too high) has occurred while \output is active []
+[31]
+<images/svm.png, id=483, 689.57625pt x 236.885pt>
+File: images/svm.png Graphic file (type png)
+<use images/svm.png>
+Package pdftex.def Info: images/svm.png  used on input line 728.
+(pdftex.def)             Requested size: 298.1987pt x 102.43689pt.
 
 
-[18 <./images/confusionMatrix.png>]
-Overfull \vbox (13.59734pt too high) has occurred while \output is active []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<images/svm1.png, id=486, 359.3425pt x 292.09125pt>
+File: images/svm1.png Graphic file (type png)
+<use images/svm1.png>
+Package pdftex.def Info: images/svm1.png  used on input line 737.
+(pdftex.def)             Requested size: 298.1987pt x 242.40892pt.
 
-[19] [20
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-] [21
+[32
 
-] [22
+] [33 <./images/svm.png> <./images/svm1.png>] [34] [35pdfTeX warning (ext4): de
+stination with the same identifier (name{equation.5.0.11}) has been already use
+d, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.840 
+      pdfTeX warning (ext4): destination with the same identifier (name{equatio
+n.5.0.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.840 
+      ]
+<images/kernels.png, id=527, 554.07pt x 246.9225pt>
+File: images/kernels.png Graphic file (type png)
+<use images/kernels.png>
+Package pdftex.def Info: images/kernels.png  used on input line 843.
+(pdftex.def)             Requested size: 298.1987pt x 132.89156pt.
+ [36 <./images/kernels.png>] [37] [38
 
-] [23
-
-] (Master_rad.bbl [24
+] [39] [40] [41
 
 ]
+<images/reci.png, id=576, 1445.4pt x 865.2325pt>
+File: images/reci.png Graphic file (type png)
+<use images/reci.png>
+Package pdftex.def Info: images/reci.png  used on input line 953.
+(pdftex.def)             Requested size: 383.3974pt x 229.49675pt.
+<images/duzinareci.png, id=577, 1444.39626pt x 864.22874pt>
+File: images/duzinareci.png Graphic file (type png)
+<use images/duzinareci.png>
+Package pdftex.def Info: images/duzinareci.png  used on input line 960.
+(pdftex.def)             Requested size: 383.3974pt x 229.38876pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[42 <./images/reci.png>]
+<images/ttr.png, id=590, 1445.4pt x 866.23625pt>
+File: images/ttr.png Graphic file (type png)
+<use images/ttr.png>
+Package pdftex.def Info: images/ttr.png  used on input line 975.
+(pdftex.def)             Requested size: 383.3974pt x 229.763pt.
+ [43 <./images/duzinareci.png>]
+<images/r.png, id=601, 1445.4pt x 865.2325pt>
+File: images/r.png Graphic file (type png)
+<use images/r.png>
+Package pdftex.def Info: images/r.png  used on input line 988.
+(pdftex.def)             Requested size: 383.3974pt x 229.49675pt.
+ [44 <./images/ttr.png> <./images/r.png>]
+<images/w.png, id=611, 1445.4pt x 863.225pt>
+File: images/w.png Graphic file (type png)
+<use images/w.png>
+Package pdftex.def Info: images/w.png  used on input line 1001.
+(pdftex.def)             Requested size: 383.3974pt x 228.96428pt.
+<images/imenice.png, id=613, 1444.39626pt x 863.225pt>
+File: images/imenice.png Graphic file (type png)
+<use images/imenice.png>
+Package pdftex.def Info: images/imenice.png  used on input line 1014.
+(pdftex.def)             Requested size: 383.3974pt x 229.12234pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[45 <./images/w.png>]
+<images/zamenice.png, id=624, 1445.4pt x 867.24pt>
+File: images/zamenice.png Graphic file (type png)
+<use images/zamenice.png>
+Package pdftex.def Info: images/zamenice.png  used on input line 1027.
+(pdftex.def)             Requested size: 383.3974pt x 230.02924pt.
+ [46 <./images/imenice.png> <./images/zamenice.png>]
+<images/glagoli.png, id=634, 1445.4pt x 864.22874pt>
+File: images/glagoli.png Graphic file (type png)
+<use images/glagoli.png>
+Package pdftex.def Info: images/glagoli.png  used on input line 1040.
+(pdftex.def)             Requested size: 383.3974pt x 229.23051pt.
+<images/pridevi.png, id=636, 1445.4pt x 858.20625pt>
+File: images/pridevi.png Graphic file (type png)
+<use images/pridevi.png>
+Package pdftex.def Info: images/pridevi.png  used on input line 1053.
+(pdftex.def)             Requested size: 383.3974pt x 227.63309pt.
+
+[47 <./images/glagoli.png>]
+<images/imenicaglagol.png, id=647, 1445.4pt x 867.24pt>
+File: images/imenicaglagol.png Graphic file (type png)
+<use images/imenicaglagol.png>
+Package pdftex.def Info: images/imenicaglagol.png  used on input line 1066.
+(pdftex.def)             Requested size: 383.3974pt x 230.02924pt.
+ [48 <./images/pridevi.png> <./images/imenicaglagol.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1109 }
+        
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1109 }
+        
+? 
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1087--1110
+[] 
+ []
+
+[49]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1133 }
+        
+? 
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1112--1136
+[] 
+ []
+
+[50]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1159 }
+        
+? 
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1138--1162
+[] 
+ []
+
+[51] [52]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1195 }
+        
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1222 }
+        
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1250 }
+        
+? 
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1171--1254
+[] 
+ []
+
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1171--1254
+[] 
+ []
+
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1171--1254
+[] 
+ []
+
+[53] [54] [55]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1285 }
+        
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1309 }
+        
+? 
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1260--1314
+[] 
+ []
+
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1260--1314
+[] 
+ []
+
+[56] [57]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1341 }
+        
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1369 }
+        
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1396 }
+        
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1423 }
+        
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1450 }
+        
+? 
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1316--1454
+[] 
+ []
+
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1316--1454
+[] 
+ []
+
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1316--1454
+[] 
+ []
+
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1316--1454
+[] 
+ []
+
+
+Overfull \hbox (14.63141pt too wide) in paragraph at lines 1316--1454
+[] 
+ []
+
+[58] [59] [60] [61] [62
+
+] (Master_rad.bbl [63]
 bibitemlist
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 1.
@@ -1294,9 +1644,15 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 (/Users/ljubica/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
 e/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)) [25
+) [64
 
-] [26
+] [65]
+Overfull \hbox (11.8618pt too wide) in paragraph at lines 110--114
+\T1/cmtt/m/n/12 upozoravajui-[]ili-[]znaci-[]ranog-[]prepoznavanja-[]alchajmero
+ve-[]demencije/$[]\T1/cmr/m/n/12 ,
+ []
+
+) [66] [67
 
 
 
@@ -1305,7 +1661,7 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 Class memoir Warning: The material used in the headers is too large
 (29.54742pt) for the given head height (15.95009pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 427.
+(in both cases you will find help in the memoir manual). on input line 1499.
 
 \tf@toc=\write5
 \openout5 = `Master_rad.toc'.
@@ -1318,69 +1674,51 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-
-Package rerunfilecheck Warning: File `Master_rad.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Master_rad.out':
-(rerunfilecheck)             Before: 53464E001AF7851DC682D9713444D531;3423
-(rerunfilecheck)             After:  F4C20D4D5F2BEE9E567FDCA83E8D0226;3423.
+Package rerunfilecheck Info: File `Master_rad.out' has not changed.
+(rerunfilecheck)             Checksum: D377719B631AA484FABDFEEC6DA9C7E9;4419.
  ) 
 Here is how much of TeX's memory you used:
- 16672 strings out of 478873
- 247316 string characters out of 2839439
- 632684 words of memory out of 3000000
- 34214 multiletter control sequences out of 15000+600000
- 418121 words of font info for 55 fonts, out of 8000000 for 9000
+ 17059 strings out of 478873
+ 253060 string characters out of 2839439
+ 644068 words of memory out of 3000000
+ 34427 multiletter control sequences out of 15000+600000
+ 417300 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,12n,89p,1572b,627s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section.3.3} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.3.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.3.1} has been referenced but does not exist
-, replaced by a fixed one
-
- </Users/ljubica/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour
-/jknappen/ec/dpi600/ectt1200.pk> </Users/ljubica/Library/Application Support/Mi
-KTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </Users/ljubic
-a/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dp
-i600/ecrm0800.pk> </Users/ljubica/Library/Application Support/MiKTeX/texmfs/dat
-a/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </Users/ljubica/Library/Appli
-cation Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecsl1200.p
-k> </Users/ljubica/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfo
-ur/jknappen/ec/dpi600/ecrm1200.pk> </Users/ljubica/Library/Application Support/
-MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/ljub
+ 77i,12n,89p,1550b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </Users/ljubica/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfo
+ur/jknappen/ec/dpi600/ectt1200.pk> </Users/ljubica/Library/Application Support/
+MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk> </Users/ljub
 ica/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/
-dpi600/ecbx2488.pk> </Users/ljubica/Library/Application Support/MiKTeX/texmfs/d
-ata/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1728.pk> </Users/ljubica/Library/App
-lication Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440
+dpi600/ecbx1728.pk> </Users/ljubica/Library/Application Support/MiKTeX/texmfs/d
+ata/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </Users/ljubica/Library/App
+lication Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488
 .pk> </Users/ljubica/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/lj
-four/jknappen/ec/dpi600/ecrm1440.pk> </Users/ljubica/Library/Application Suppor
-t/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm2074.pk> </Users/lj
+four/jknappen/ec/dpi600/ecrm1200.pk> </Users/ljubica/Library/Application Suppor
+t/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/lj
 ubica/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/e
-c/dpi600/ecrm1728.pk></Users/ljubica/Library/Application Support/MiKTeX/texmfs/
-install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Users/ljubica/Library/Appli
-cation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
-/Users/ljubica/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb></Users/ljubica/Library/Application Support/MiKTeX/t
-exmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Users/ljubica/Library/A
-pplication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pf
+c/dpi600/ecti1728.pk> </Users/ljubica/Library/Application Support/MiKTeX/texmfs
+/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </Users/ljubica/Library/A
+pplication Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm14
+40.pk> </Users/ljubica/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/
+ljfour/jknappen/ec/dpi600/ecrm2074.pk> </Users/ljubica/Library/Application Supp
+ort/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk></Users/l
+jubica/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/ams
+fonts/cm/cmex10.pfb></Users/ljubica/Library/Application Support/MiKTeX/texmfs/i
+nstall/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Users/ljubica/Library/Applic
+ation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb></
+Users/ljubica/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pub
+lic/amsfonts/cm/cmmi8.pfb></Users/ljubica/Library/Application Support/MiKTeX/te
+xmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Users/ljubica/Library/A
+pplication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pf
 b></Users/ljubica/Library/Application Support/MiKTeX/texmfs/install/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb></Users/ljubica/Library/Application Support/MiKT
-eX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on Master_rad.pdf (30 pages, 530918 bytes).
+/public/amsfonts/cm/cmr8.pfb></Users/ljubica/Library/Application Support/MiKTeX
+/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/ljubica/Libra
+ry/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cms
+y6.pfb></Users/ljubica/Library/Application Support/MiKTeX/texmfs/install/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Master_rad.pdf (73 pages, 1097807 bytes).
 PDF statistics:
- 900 PDF objects out of 1000 (max. 8388607)
- 126 named destinations out of 1000 (max. 500000)
- 173 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1453 PDF objects out of 1728 (max. 8388607)
+ 279 named destinations out of 1000 (max. 500000)
+ 306 words of extra memory for PDF output out of 10000 (max. 10000000)
 

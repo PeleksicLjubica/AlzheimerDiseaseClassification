@@ -1,28 +1,53 @@
 \babel@toc {serbian}{}
-\contentsline {chapter}{Sadr\v zaj}{iv}{section*.1}%
+\contentsline {chapter}{Sadr\v zaj}{v}{section*.1}%
 \contentsline {chapter}{\chapternumberline {1}Uvod}{1}{chapter.1}%
 \contentsline {chapter}{\chapternumberline {2}Podaci}{4}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Problem određivanja vrsta reči}{6}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Lematizacija}{9}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Skup podataka pre i nekon obrade}{10}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Vektorska reprezentacija teksta}{11}{section.2.4}%
-\contentsline {subsection}{Vreća reči}{11}{section*.2}%
-\contentsline {subsection}{N-grami}{11}{section*.3}%
-\contentsline {subsection}{TF metrika}{11}{section*.4}%
-\contentsline {subsection}{TF-IDF metrika}{11}{section*.5}%
-\contentsline {subsection}{Naivni Bajesov algoritam}{11}{section*.6}%
+\contentsline {section}{\numberline {2.3}Skup podataka pre i nakon obrade}{10}{section.2.3}%
 \contentsline {chapter}{\chapternumberline {3}Problem klasifikacije}{12}{chapter.3}%
-\contentsline {chapter}{\chapternumberline {4}Rešavanje problema metodama lingvističke analize}{13}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Lingvističke mere}{14}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Mere bazirane na vrstama reči}{14}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Mere bazirane na bogatstvu vokabulara}{15}{section.4.3}%
-\contentsline {subsection}{Odnos tipa tokena}{15}{section*.7}%
-\contentsline {subsection}{Brunetov Indeks}{15}{section*.8}%
-\contentsline {subsection}{Honoreva Statistika}{15}{section*.9}%
-\contentsline {section}{\numberline {4.4}Klasifikacija bazirana na lingvističkim merama}{16}{section.4.4}%
-\contentsline {chapter}{\chapternumberline {5}Problem klasifikacije}{20}{chapter.5}%
-\contentsline {chapter}{\chapternumberline {6}Rešavanje problema Naivnim Bajesovim klasifikatorom}{21}{chapter.6}%
-\contentsline {chapter}{\chapternumberline {7}Rešavanje problema metodom podežavajućih vektora}{22}{chapter.7}%
-\contentsline {chapter}{\chapternumberline {8}Rezultati}{23}{chapter.8}%
-\contentsline {chapter}{\chapternumberline {9}Zaključak}{24}{chapter.9}%
-\contentsline {chapter}{Bibliografija}{25}{chapter*.10}%
+\contentsline {section}{\numberline {3.1}Podela korpusa}{14}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Pretprocesiranje}{15}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Vektorska reprezentacija teksta}{17}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Vreća reči}{18}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}N-grami}{20}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Frekvencija atributa - FA}{22}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Inverzna frekvencija dokumenta - IFD}{22}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}FA-IFD metrika}{23}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}Kreiranje i treniranje modela}{23}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Evaluacija modela}{23}{section.3.5}%
+\contentsline {chapter}{\chapternumberline {4}Rešavanje problema metodama lingvističke analize}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Lingvističke mere}{28}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Mere bazirane na vrstama reči}{28}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Mere bazirane na bogatstvu vokabulara}{29}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Odnos tipa tokena}{29}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Bruneov Indeks}{29}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Onoreova Statistika}{30}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Klasifikacija bazirana na lingvističkim merama}{30}{section.4.4}%
+\contentsline {chapter}{\chapternumberline {5}Rešavanje problema metodom potpornih vektora}{32}{chapter.5}%
+\contentsline {subsection}{\numberline {5.0.1}Metod sa mekom marginom}{35}{subsection.5.0.1}%
+\contentsline {subsection}{\numberline {5.0.2}Kerneli (funkcije jezgra)}{35}{subsection.5.0.2}%
+\contentsline {chapter}{\chapternumberline {6}Implementacija}{38}{chapter.6}%
+\contentsline {chapter}{\chapternumberline {7}Rezultati}{41}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Rezultati lingvističke analize}{42}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Pregled mera na celom skupu}{42}{subsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.1.1}Broj reči u dokumentu i prosečna dužina izgovorenih reči}{42}{subsubsection.7.1.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.1.2}Odnos tipa tokena}{43}{subsubsection.7.1.1.2}%
+\contentsline {subsubsection}{\numberline {7.1.1.3}Bruneov indeks}{44}{subsubsection.7.1.1.3}%
+\contentsline {subsubsection}{\numberline {7.1.1.4}Onoreova statistika}{45}{subsubsection.7.1.1.4}%
+\contentsline {subsubsection}{\numberline {7.1.1.5}Broj imenica}{45}{subsubsection.7.1.1.5}%
+\contentsline {subsubsection}{\numberline {7.1.1.6}Broj zamenica}{46}{subsubsection.7.1.1.6}%
+\contentsline {subsubsection}{\numberline {7.1.1.7}Broj glagola}{47}{subsubsection.7.1.1.7}%
+\contentsline {subsubsection}{\numberline {7.1.1.8}Broj prideva}{47}{subsubsection.7.1.1.8}%
+\contentsline {subsubsection}{\numberline {7.1.1.9}Odnos imenica i glagola}{48}{subsubsection.7.1.1.9}%
+\contentsline {subsection}{\numberline {7.1.2}Klasifikacija metodama leksičke analize}{49}{subsection.7.1.2}%
+\contentsline {subsubsection}{\numberline {7.1.2.1}Odnos tipa tokena}{49}{subsubsection.7.1.2.1}%
+\contentsline {subsubsection}{\numberline {7.1.2.2}Onoreova statistika}{50}{subsubsection.7.1.2.2}%
+\contentsline {subsubsection}{\numberline {7.1.2.3}Ostale mere}{51}{subsubsection.7.1.2.3}%
+\contentsline {subsection}{\numberline {7.1.3}Zaključak klasifikacije metodama lingvističke analize}{52}{subsection.7.1.3}%
+\contentsline {section}{\numberline {7.2}Rezultati hibridnog pristupa }{52}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Rezultati za već poznate algoritme mašinskog učenja}{56}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Vreća reči}{56}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}N-grami karaktera}{58}{subsection.7.3.2}%
+\contentsline {chapter}{\chapternumberline {8}Zaključak}{62}{chapter.8}%
+\contentsline {chapter}{Bibliografija}{64}{chapter*.2}%
